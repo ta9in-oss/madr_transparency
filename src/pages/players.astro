@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from '../components/shared/SiteHeader.astro';
+import SiteFooter from '../components/shared/SiteFooter.astro';
+import { SectionHeader } from '../components/shared/SectionHeader';
+import { HorizontalBarChart } from '../components/charts/HorizontalBarChart';
+import { DataExplorer } from '../components/explorer/DataExplorer';
+import { t, getTranslations } from '../lib/i18n';
+import {
+  loadAgrochemicals,
+  loadPlantProducts,
+  loadSeedlings,
+  loadSeeds,
+  loadPotatoSeeds,
+  loadVetAuthorizations,
+  loadVetDistributors,
+  loadVetMedicineImporters,
+} from '../lib/data';
+import type { Lang } from '../lib/types';
+
+const lang: Lang = 'ar';
+
+const allByCompany: { nameAr: string; nameFr: string; dataset: string }[] = [
+  ...loadAgrochemicals().map(r        => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'مبيدات' })),
+  ...loadPlantProducts().map(r        => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'نباتات' })),
+  ...loadSeedlings().map(r            => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'شتلات' })),
+  ...loadSeeds().map(r                => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'بذور' })),
+  ...loadPotatoSeeds().map(r          => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'بطاطا' })),
+  ...loadVetAuthorizations().map(r    => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'تراخيص بيطرية' })),
+  ...loadVetDistributors().map(r      => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'موزعون بيطريون' })),
+  ...loadVetMedicineImporters().map(r => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'مستوردو أدوية' })),
+];
+
+const companyCounts: Record<string, number> = {};
+for (const r of allByCompany) {
+  if (r.nameAr) companyCounts[r.nameAr] = (companyCounts[r.nameAr] ?? 0) + 1;
+}
+
+const companyChartData = Object.entries(companyCounts)
+  .map(([label, count]) => ({ label, count }))
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 20);
+
+const uniqueCompanies = Object.keys(companyCounts).length;
+
+const explorerRows = allByCompany.map(r => ({
+  company:    r.nameAr,
+  company_fr: r.nameFr,
+  dataset:    r.dataset,
+  licenses:   String(companyCounts[r.nameAr] ?? 1),
+}));
+
+const explorerColumns = [
+  { key: 'company',    label: 'الشركة' },
+  { key: 'company_fr', label: 'الاسم الفرنسي', mono: true },
+  { key: 'dataset',    label: 'القطاع',        mono: true },
+  { key: 'licenses',   label: 'الرخص',         mono: true },
+];
+
+const tr = getTranslations(lang);
+const explorerI18n = {
+  search_placeholder: tr.explorer.search_placeholder,
+  filter_country:     tr.explorer.filter_country,
+  filter_category:    tr.explorer.filter_category,
+  filter_all:         tr.explorer.filter_all,
+  no_results:         tr.explorer.no_results,
+  showing:            tr.explorer.showing,
+  of:                 tr.explorer.of,
+  records:            tr.explorer.records,
+  prev:               tr.explorer.prev,
+  next:               tr.explorer.next,
+};
+---
+
+<BaseLayout title={t(lang, 'chapters.ch3_title')} lang={lang}>
+  <SiteHeader lang={lang} />
+
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
+
+    <SectionHeader
+      chapterNum={t(lang, 'chapters.ch3_num')}
+      title={t(lang, 'chapters.ch3_title')}
+      lead={t(lang, 'chapters.ch3_lead')}
+      client:visible
+    />
+
+    <div class="mb-10 p-5 bg-surface border border-line rounded-lg max-w-2xl">
+      <p class="text-sm text-muted font-body leading-relaxed">
+        <span class="font-mono text-forest font-bold text-2xl">{uniqueCompanies.toLocaleString('ar-DZ')}</span>
+        {' '}شركة حاملة لرخص الاستيراد
+      </p>
+    </div>
+
+    <section class="mb-14">
+      <HorizontalBarChart
+        data={companyChartData}
+        maxBars={20}
+        width={720}
+        title="أكبر 20 شركة حسب عدد الرخص"
+        client:visible
+      />
+    </section>
+
+    <h2 class="font-display font-bold text-display-sm text-ink mb-6">
+      {t(lang, 'chapters.explore')}
+    </h2>
+
+    <DataExplorer
+      rows={explorerRows}
+      columns={explorerColumns}
+      searchKeys={['company', 'company_fr', 'dataset']}
+      filterKey="dataset"
+      i18n={explorerI18n}
+      client:visible
+    />
+
+  </main>
+
+  <SiteFooter lang={lang} />
+</BaseLayout>
