@@ -1,0 +1,45 @@
+---
+import { t } from '../../lib/i18n';
+import type { Lang } from '../../lib/types';
+
+interface Props {
+  lang: Lang;
+  lastUpdated?: string;
+}
+
+const { lang, lastUpdated } = Astro.props;
+---
+
+<footer class="border-t border-line mt-auto">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-sm text-muted">
+
+    <div class="flex flex-col gap-1">
+      <span>{t(lang, 'footer.source')}</span>
+      <a
+        href="https://madr.gov.dz/transparency"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-forest hover:text-forest-dark transition-colors"
+      >
+        {t(lang, 'footer.source_url')}
+      </a>
+      {lastUpdated && (
+        <span class="font-mono text-data">{t(lang, 'footer.updated')} {lastUpdated}</span>
+      )}
+    </div>
+
+    <div class="flex items-center gap-4">
+      <a
+        href="https://github.com/ta9in-oss/madr_transparency"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="hover:text-forest transition-colors"
+      >
+        {t(lang, 'footer.repo')}
+      </a>
+      <span aria-hidden="true" class="text-line">|</span>
+      <span>{t(lang, 'footer.open_data')}</span>
+    </div>
+
+  </div>
+</footer>
