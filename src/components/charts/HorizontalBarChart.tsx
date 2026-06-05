@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect, useRef } from 'react';
 import { scaleBand, scaleLinear } from '@visx/scale';
 import { Group } from '@visx/group';
 import { AxisBottom } from '@visx/axis';
@@ -21,17 +21,32 @@ interface Props {
 }
 
 const MARGIN_LTR = { top: 8, right: 48, bottom: 36, left: 160 };
-const MARGIN_RTL = { top: 8, right: 160, bottom: 36, left: 16 };
+const MARGIN_RTL = { top: 8, right: 200, bottom: 36, left: 16 };
 
 export function HorizontalBarChart({
   data,
-  width = 600,
+  width: widthProp,
   maxBars = 15,
   colorByLabel = false,
   title,
   isRtl = false,
 }: Props) {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [containerWidth, setContainerWidth] = useState(widthProp ?? 600);
+
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+    const ro = new ResizeObserver((entries) => {
+      const w = entries[0]?.contentRect.width;
+      if (w && w > 100) setContainerWidth(w);
+    });
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
+
+  const width = containerWidth;
 
   const MARGIN = isRtl ? MARGIN_RTL : MARGIN_LTR;
 
@@ -66,11 +81,11 @@ export function HorizontalBarChart({
   );
 
   return (
-    <div className="w-full overflow-x-auto" style={{ direction: 'ltr' }}>
+    <div ref={containerRef} className="w-full" style={{ direction: 'ltr' }}>
       {title && (
         <p className="text-sm font-medium text-ink mb-2" style={{ direction: 'inherit' }}>{title}</p>
       )}
-      <svg width={width} height={height} style={{ direction: 'ltr' }} overflow="visible">
+      <svg width={width} height={height} style={{ direction: 'ltr', overflow: 'visible' }}>
         <Group left={MARGIN.left} top={MARGIN.top}>
           {sorted.map((d, i) => {
             const barY = yScale(d.label) ?? 0;
