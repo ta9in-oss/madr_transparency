@@ -41,15 +41,19 @@ def run() -> None:
 
     soup = BeautifulSoup(response.text, "lxml")
     writer = JsonWriter()
+    total_records = 0
 
     for extractor, filename in EXTRACTORS:
         log.info("Extracting %s", filename)
         records = extractor.extract(soup)
+        if not records:
+            log.warning("  No records extracted for %s — check TABLE_ID", filename)
         output = writer.write(records, filename)
         log.info("  wrote %d records → %s", len(records), output.name)
+        total_records += len(records)
         time.sleep(REQUEST_DELAY_SECONDS)
 
-    log.info("Done.")
+    log.info("Done. %d total records across %d datasets.", total_records, len(EXTRACTORS))
 
 
 if __name__ == "__main__":
