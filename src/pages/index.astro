@@ -1,12 +1,131 @@
 ---
-import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from '../components/shared/SiteHeader.astro';
+import SiteFooter from '../components/shared/SiteFooter.astro';
+import { StatCard } from '../components/shared/StatCard';
+import { t } from '../lib/i18n';
+import {
+  loadAgrochemicals,
+  loadPlantProducts,
+  loadSeedlings,
+  loadSeeds,
+  loadPotatoSeeds,
+  loadVetAuthorizations,
+  loadVetDistributors,
+  loadVetMedicineImporters,
+} from '../lib/data';
+import type { Lang } from '../lib/types';
+
+const lang: Lang = 'fr';
+
+const agrochemicals   = loadAgrochemicals();
+const plantProducts   = loadPlantProducts();
+const seedlings       = loadSeedlings();
+const seeds           = loadSeeds();
+const potatoSeeds     = loadPotatoSeeds();
+const vetAuths        = loadVetAuthorizations();
+const vetDistributors = loadVetDistributors();
+const vetImporters    = loadVetMedicineImporters();
+
+const totalRecords =
+  agrochemicals.length + plantProducts.length + seedlings.length +
+  seeds.length + potatoSeeds.length + vetAuths.length +
+  vetDistributors.length + vetImporters.length;
+
+const chapters = [
+  {
+    num:   t(lang, 'chapters.ch1_num'),
+    title: t(lang, 'chapters.ch1_title'),
+    lead:  t(lang, 'chapters.ch1_lead'),
+    href:  '/dependency',
+    count: plantProducts.length + seedlings.length + seeds.length + potatoSeeds.length,
+  },
+  {
+    num:   t(lang, 'chapters.ch2_num'),
+    title: t(lang, 'chapters.ch2_title'),
+    lead:  t(lang, 'chapters.ch2_lead'),
+    href:  '/chemicals',
+    count: agrochemicals.length,
+  },
+  {
+    num:   t(lang, 'chapters.ch3_num'),
+    title: t(lang, 'chapters.ch3_title'),
+    lead:  t(lang, 'chapters.ch3_lead'),
+    href:  '/players',
+    count: totalRecords,
+  },
+  {
+    num:   t(lang, 'chapters.ch4_num'),
+    title: t(lang, 'chapters.ch4_title'),
+    lead:  t(lang, 'chapters.ch4_lead'),
+    href:  '/veterinary',
+    count: vetAuths.length + vetDistributors.length + vetImporters.length,
+  },
+];
 ---
-<html lang="fr">
-  <head>
-    <title>MADR Transparency</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500&family=DM+Mono:wght@400&family=Noto+Sans+Arabic:wght@400;600&display=swap" rel="stylesheet" />
-  </head>
-  <body><p>Coming soon</p></body>
-</html>
+
+<BaseLayout title={t(lang, 'home.title')} lang={lang}>
+  <SiteHeader lang={lang} />
+
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
+
+    <!-- Hero -->
+    <section class="mb-16 max-w-3xl">
+      <h1 class="font-display font-bold text-display-lg text-ink leading-tight mb-4">
+        {t(lang, 'home.title')}
+      </h1>
+      <p class="text-base text-muted leading-relaxed mb-8 font-body">
+        {t(lang, 'home.subtitle')}
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <a
+          href="/chemicals"
+          class="inline-flex items-center px-5 py-2.5 bg-forest text-paper font-body text-sm rounded hover:bg-forest-dark transition-colors"
+        >
+          {t(lang, 'home.cta_explore')}
+        </a>
+        <a
+          href="/dependency"
+          class="inline-flex items-center px-5 py-2.5 border border-line text-ink font-body text-sm rounded hover:bg-surface transition-colors"
+        >
+          {t(lang, 'home.cta_story')}
+        </a>
+      </div>
+    </section>
+
+    <!-- Stats row -->
+    <section class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-16">
+      <StatCard value={agrochemicals.length}   label={t(lang, 'stats.agrochemicals')} accent />
+      <StatCard value={seeds.length}            label={t(lang, 'stats.seeds')} />
+      <StatCard value={plantProducts.length}    label={t(lang, 'stats.fruit_imports')} />
+      <StatCard value={vetAuths.length + vetDistributors.length + vetImporters.length} label={t(lang, 'stats.vet_records')} />
+    </section>
+
+    <!-- Chapter cards -->
+    <section>
+      <div class="grid sm:grid-cols-2 gap-5">
+        {chapters.map(({ num, title, lead, href, count }) => (
+          <a
+            href={href}
+            class="group flex flex-col gap-3 p-6 bg-surface border border-line rounded-lg hover:border-forest transition-colors"
+          >
+            <div class="flex items-baseline justify-between">
+              <span class="font-mono text-data text-forest tracking-widest">{num}</span>
+              <span class="font-mono text-data text-muted tabular-nums">{count.toLocaleString('fr-DZ')}</span>
+            </div>
+            <h2 class="font-display font-bold text-display-sm text-ink group-hover:text-forest transition-colors">
+              {title}
+            </h2>
+            <p class="text-sm text-muted leading-relaxed font-body">{lead}</p>
+            <span class="text-sm text-forest font-body mt-auto">
+              {t(lang, 'chapters.explore')} →
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+  </main>
+
+  <SiteFooter lang={lang} />
+</BaseLayout>
