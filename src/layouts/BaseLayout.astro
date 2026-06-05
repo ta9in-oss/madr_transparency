@@ -1,0 +1,36 @@
+---
+import '../styles/global.css';
+import type { Lang } from '../lib/types';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: Lang;
+}
+
+const {
+  title,
+  description = "Données publiques du ministère de l'Agriculture rendues accessibles.",
+  lang = 'fr',
+} = Astro.props;
+
+const dir = lang === 'ar' ? 'rtl' : 'ltr';
+---
+
+<!doctype html>
+<html lang={lang} dir={dir} class="bg-paper text-ink">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500&family=DM+Mono:wght@400&family=Noto+Sans+Arabic:wght@400;600&display=swap" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen flex flex-col font-body antialiased">
+    <slot />
+  </body>
+</html>
