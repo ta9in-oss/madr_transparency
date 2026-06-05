@@ -10,9 +10,10 @@ interface Props {
   rows: Record<string, string>[];
   columns: Column[];
   categoryKey?: string;
+  noResults?: string;
 }
 
-export function DataTable({ rows, columns, categoryKey }: Props) {
+export function DataTable({ rows, columns, categoryKey, noResults = '—' }: Props) {
   return (
     <div className="overflow-x-auto rounded border border-line">
       <table className="w-full text-sm border-collapse">
@@ -35,7 +36,7 @@ export function DataTable({ rows, columns, categoryKey }: Props) {
                 colSpan={columns.length}
                 className="px-4 py-6 text-center text-muted"
               >
-                لا نتائج لهذا البحث.
+                {noResults}
               </td>
             </tr>
           ) : (

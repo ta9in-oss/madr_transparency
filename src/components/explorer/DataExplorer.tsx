@@ -107,7 +107,7 @@ export function DataExplorer({
         </span>
       </div>
 
-      <DataTable rows={pageRows} columns={columns} categoryKey={categoryKey} />
+      <DataTable rows={pageRows} columns={columns} categoryKey={categoryKey} noResults={i18n.no_results} />
 
       {totalPages > 1 && (
         <div className="flex items-center justify-center gap-2">

@@ -1,6 +1,5 @@
 import { useMemo, useState } from 'react';
 import { scaleBand, scaleLinear } from '@visx/scale';
-import { Bar } from '@visx/shape';
 import { Group } from '@visx/group';
 import { AxisBottom } from '@visx/axis';
 import { Text } from '@visx/text';
