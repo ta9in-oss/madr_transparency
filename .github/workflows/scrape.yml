@@ -33,5 +33,4 @@ jobs:
           git config user.name "madr-bot"
           git config user.email "bot@ta9in-oss.dz"
           git add data/
-          git diff --staged --quiet || git commit -m "🗃️ data: monthly refresh $(date +%Y-%m)"
-          git push
+          git diff --staged --quiet || (git commit -m "🗃️ data: monthly refresh $(date +%Y-%m)" && git push)
