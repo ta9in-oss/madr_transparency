@@ -8,7 +8,8 @@ interface Props {
 
 export function LanguageSwitcher({ current, labels }: Props) {
   const [open, setOpen] = useState(false);
-  const langs: Lang[] = ['fr', 'ar', 'en'];
+  const langs: Lang[] = ['ar', 'fr', 'en'];
+  const DEFAULT_LANG: Lang = 'ar';
 
   function selectLang(lang: Lang) {
     setOpen(false);
@@ -16,12 +17,12 @@ export function LanguageSwitcher({ current, labels }: Props) {
     const segments = url.pathname.split('/').filter(Boolean);
     const isLangSegment = (s: string): s is Lang => ['fr', 'ar', 'en'].includes(s);
     if (segments.length > 0 && isLangSegment(segments[0])) {
-      if (lang === 'fr') {
+      if (lang === DEFAULT_LANG) {
         segments.shift();
       } else {
         segments[0] = lang;
       }
-    } else if (lang !== 'fr') {
+    } else if (lang !== DEFAULT_LANG) {
       segments.unshift(lang);
     }
     url.pathname = '/' + segments.join('/');

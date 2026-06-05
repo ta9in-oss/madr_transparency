@@ -10,8 +10,8 @@ export default defineConfig({
     tailwind({ applyBaseStyles: false }),
   ],
   i18n: {
-    defaultLocale: 'fr',
-    locales: ['fr', 'ar', 'en'],
+    defaultLocale: 'ar',
+    locales: ['ar', 'fr', 'en'],
     routing: {
       prefixDefaultLocale: false,
     },
