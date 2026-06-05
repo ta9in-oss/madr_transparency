@@ -4,11 +4,13 @@ import SiteHeader from '../components/shared/SiteHeader.astro';
 import SiteFooter from '../components/shared/SiteFooter.astro';
 import { SectionHeader } from '../components/shared/SectionHeader.tsx';
 import { HorizontalBarChart } from '../components/charts/HorizontalBarChart';
+import { WorldBubbleMap } from '../components/charts/WorldBubbleMap';
 import { DataExplorer } from '../components/explorer/DataExplorer';
 import { t, getTranslations } from '../lib/i18n';
 import ChapterNav from '../components/shared/ChapterNav.astro';
 import InsightCallout from '../components/shared/InsightCallout.astro';
 import { loadAgrochemicals } from '../lib/data';
+import { countryToIso, countryName, COUNTRY_INFO } from '../lib/countries';
 import type { Lang } from '../lib/types';
 
 const lang: Lang = 'ar';
@@ -28,21 +30,6 @@ function normalizeCategory(raw: string): string {
     .trim();
 }
 
-function normalizeCountry(raw: string): string {
-  const upper = (raw || 'INCONNU').trim().toUpperCase();
-  const synonyms: Record<string, string> = {
-    'ARABIE SAOUDITE': 'ARABIE SAOUDITE',
-    'REPUBLIQUE DE TURQUIE': 'TURQUIE',
-    'INDIA': 'INDE',
-    'UK': 'ROYAUME-UNI',
-    'USA': 'ÉTATS-UNIS',
-    'HOLLANDE': 'PAYS-BAS',
-    'THAÏLANDE': 'THAÏLANDE',
-    'THAI': 'THAÏLANDE',
-  };
-  return synonyms[upper] ?? upper;
-}
-
 const catCounts: Record<string, number> = {};
 for (const r of records) {
   const cat = normalizeCategory(r.category);
@@ -53,15 +40,22 @@ const categoryChartData = Object.entries(catCounts)
   .sort((a, b) => b.count - a.count)
   .slice(0, 20);
 
-const countryCounts: Record<string, number> = {};
+// ISO-normalized country grouping
+const isoCounts: Record<string, number> = {};
 for (const r of records) {
-  const c = normalizeCountry(r.countryOfOrigin);
-  countryCounts[c] = (countryCounts[c] ?? 0) + 1;
+  const iso = countryToIso(r.countryOfOrigin || 'INCONNU');
+  isoCounts[iso] = (isoCounts[iso] ?? 0) + 1;
 }
-const countryChartData = Object.entries(countryCounts)
-  .map(([label, count]) => ({ label, count }))
+const countryChartData = Object.entries(isoCounts)
+  .map(([iso, count]) => ({ label: countryName(iso, lang), count }))
   .sort((a, b) => b.count - a.count)
   .slice(0, 12);
+
+// World bubble map data
+const worldMapData = Object.entries(isoCounts)
+  .filter(([iso]) => COUNTRY_INFO[iso])
+  .map(([iso, count]) => ({ iso, count, label: countryName(iso, lang) }))
+  .sort((a, b) => b.count - a.count);
 
 const explorerRows = records.map(r => ({
   company:   r.companyNameAr || r.company,
@@ -119,6 +113,14 @@ const explorerI18n = {
         {' '}{t(lang, 'stats.agrochemicals')}
       </p>
     </div>
+
+    <section class="mb-10">
+      <WorldBubbleMap
+        data={worldMapData}
+        title="خريطة مصادر الاستيراد — من أين تأتي المواد الكيميائية الزراعية؟"
+        client:visible
+      />
+    </section>
 
     <div class="grid md:grid-cols-2 gap-8 mb-14">
       <HorizontalBarChart

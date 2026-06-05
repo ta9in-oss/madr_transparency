@@ -4,6 +4,7 @@ import SiteHeader from '../components/shared/SiteHeader.astro';
 import SiteFooter from '../components/shared/SiteFooter.astro';
 import { SectionHeader } from '../components/shared/SectionHeader.tsx';
 import { HorizontalBarChart } from '../components/charts/HorizontalBarChart';
+import { WilayaGrid } from '../components/charts/WilayaGrid';
 import { DataExplorer } from '../components/explorer/DataExplorer';
 import { t, getTranslations } from '../lib/i18n';
 import ChapterNav from '../components/shared/ChapterNav.astro';
@@ -111,6 +112,14 @@ const explorerI18n = {
         <div class="text-xs text-muted font-body mt-1">مستورد</div>
       </div>
     </div>
+
+    <section class="mb-10">
+      <WilayaGrid
+        counts={wilayaCounts}
+        title="توزيع الموزعين البيطريين حسب الولاية — 58 ولاية جزائرية"
+        client:visible
+      />
+    </section>
 
     <div class="grid md:grid-cols-2 gap-8 mb-14">
       <HorizontalBarChart

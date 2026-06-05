@@ -52,12 +52,18 @@
     "prev": "Précédent",
     "next": "Suivant"
   },
+  "newsletter": {
+    "title": "📬 Restez informé",
+    "desc": "Abonnez-vous à notre newsletter pour recevoir les futures analyses et projets de données de ta9in."
+  },
   "footer": {
     "source": "Source : Ministère de l'Agriculture et du Développement Rural",
     "source_url": "madr.gov.dz/transparence",
     "updated": "Données mises à jour le",
     "repo": "Code source",
-    "open_data": "Données ouvertes"
+    "open_data": "Données ouvertes",
+    "credit_pre": "ta9in avec",
+    "credit_post": "d'Algérie 2026"
   },
   "lang": {
     "fr": "Français",

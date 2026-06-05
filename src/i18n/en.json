@@ -52,12 +52,18 @@
     "prev": "Previous",
     "next": "Next"
   },
+  "newsletter": {
+    "title": "📬 Stay in the Loop",
+    "desc": "Subscribe to our newsletter for future data analysis projects and insights from ta9in."
+  },
   "footer": {
     "source": "Source: Ministry of Agriculture and Rural Development",
     "source_url": "madr.gov.dz/transparence",
     "updated": "Data last updated",
     "repo": "Source code",
-    "open_data": "Open data"
+    "open_data": "Open data",
+    "credit_pre": "ta9in with",
+    "credit_post": "from Algeria 2026"
   },
   "lang": {
     "fr": "Français",

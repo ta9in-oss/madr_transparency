@@ -52,12 +52,18 @@
     "prev": "السابق",
     "next": "التالي"
   },
+  "newsletter": {
+    "title": "📬 ابقَ على اطلاع",
+    "desc": "اشترك في نشرتنا البريدية لتلقي تحليلات ومشاريع بيانات مستقبلية من ta9in."
+  },
   "footer": {
     "source": "المصدر: وزارة الفلاحة والتنمية الريفية",
     "source_url": "madr.gov.dz/transparence",
     "updated": "آخر تحديث",
     "repo": "المصدر البرمجي",
-    "open_data": "بيانات مفتوحة"
+    "open_data": "بيانات مفتوحة",
+    "credit_pre": "ta9in بـ",
+    "credit_post": "من الجزائر 2026"
   },
   "lang": {
     "fr": "Français",

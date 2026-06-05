@@ -10,35 +10,95 @@ interface Props {
 const { lang, lastUpdated } = Astro.props;
 ---
 
-<footer class="border-t border-line mt-auto">
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-sm text-muted">
+<!-- Newsletter section -->
+<section class="border-t border-line bg-surface">
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 py-12 text-center">
+    <h2 class="font-display font-bold text-xl text-ink mb-2">
+      {t(lang, 'newsletter.title')}
+    </h2>
+    <p class="text-sm text-muted font-body leading-relaxed mb-6">
+      {t(lang, 'newsletter.desc')}
+    </p>
+    <div class="flex justify-center">
+      <iframe
+        src="https://ta9in.substack.com/embed?transparent=1"
+        width="480"
+        height="150"
+        style="border:0;background:transparent;max-width:100%"
+        frameborder="0"
+        scrolling="no"
+        loading="lazy"
+      />
+    </div>
+  </div>
+</section>
 
-    <div class="flex flex-col gap-1">
-      <span>{t(lang, 'footer.source')}</span>
-      <a
-        href="https://madr.gov.dz/transparency"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="text-forest hover:text-forest-dark transition-colors"
-      >
-        {t(lang, 'footer.source_url')}
-      </a>
-      {lastUpdated && (
-        <span class="font-mono text-data">{t(lang, 'footer.updated')} {lastUpdated}</span>
-      )}
+<!-- Footer -->
+<footer class="border-t border-line mt-auto">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+
+    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-sm text-muted mb-6">
+
+      <div class="flex flex-col gap-1">
+        <span>{t(lang, 'footer.source')}</span>
+        <a
+          href="https://madr.gov.dz/transparency"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-forest hover:text-forest-dark transition-colors"
+        >
+          {t(lang, 'footer.source_url')}
+        </a>
+        {lastUpdated && (
+          <span class="font-mono text-data">{t(lang, 'footer.updated')} {lastUpdated}</span>
+        )}
+      </div>
+
+      <div class="flex items-center gap-4">
+        <a
+          href="https://github.com/ta9in-oss/madr_transparency"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:text-forest transition-colors"
+        >
+          {t(lang, 'footer.repo')}
+        </a>
+        <span aria-hidden="true" class="text-line">|</span>
+        <span>{t(lang, 'footer.open_data')}</span>
+      </div>
+
     </div>
 
-    <div class="flex items-center gap-4">
-      <a
-        href="https://github.com/ta9in-oss/madr_transparency"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="hover:text-forest transition-colors"
-      >
-        {t(lang, 'footer.repo')}
-      </a>
-      <span aria-hidden="true" class="text-line">|</span>
-      <span>{t(lang, 'footer.open_data')}</span>
+    <!-- ta9in credit — same pattern as adhahi.dz -->
+    <div class="border-t border-line pt-6 flex justify-center">
+      <div class="inline-flex items-center gap-1.5 flex-wrap justify-center text-base font-body">
+        <a
+          href="https://ta9in.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-bold text-ink hover:text-forest transition-colors"
+        >
+          {t(lang, 'footer.credit_pre')}
+        </a>
+        <!-- Hand-drawn heart from ta9in design system -->
+        <svg
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 62 58"
+          width="28"
+          height="26"
+          style="vertical-align:middle;display:inline-block;position:relative;top:-2px"
+          aria-hidden="true"
+        >
+          <g stroke-linecap="round">
+            <g transform="translate(30.67 20.16) rotate(0 0.31 8.80)" fill-rule="evenodd">
+              <path d="M-1.25-1.91C-0.67-2.51,3.09-2.14,4.98-1.85C6.87-1.57,8.9-0.55,10.09-0.23C11.28,0.1,11.12-1.19,12.12,0.09C13.12,1.37,16.75,5.08,16.12,7.47C15.48,9.86,10.95,11.94,8.32,14.45C5.68,16.95,2.6,21.77,0.3,22.49C-2,23.21,-2.78,20.96,-5.49,18.78C-8.2,16.59,-15.33,12.9,-15.95,9.4C-16.56,5.9,-11.51-0.34,-9.16-2.25C-6.82-4.16,-3.27-2.83,-1.87-2.08Z" stroke="none" fill="#e8590c"></path>
+              <path d="M-0.93,0.83C0.08,0.55,4.05-1.7,5.99-1.92C7.93-2.13,9.25-0.95,10.69-0.44C12.12,0.07,14.2-0.51,14.59,1.13C14.98,2.77,13.78,7.44,13.02,9.4C12.25,11.36,12.28,11.14,10.01,12.88C7.74,14.61,2.23,18.89,-0.59,19.81C-3.41,20.73,-4.83,20.21,-6.9,18.41C-8.97,16.61,-12.68,12.56,-13.02,9C-13.37,5.44,-10.97-1.57,-8.97-2.93C-6.97-4.29,-2.4,0.41,-1.03,0.83Z" stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+            </g>
+          </g>
+        </svg>
+        <span class="text-ink">{t(lang, 'footer.credit_post')}</span>
+      </div>
     </div>
 
   </div>
