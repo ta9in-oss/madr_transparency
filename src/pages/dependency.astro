@@ -29,7 +29,7 @@ const allRecords = [...plantProducts, ...seedlings, ...seeds, ...potatoSeeds];
 
 const countryCounts: Record<string, number> = {};
 for (const r of allRecords) {
-  const parts = r.countryOfOrigin.split(/[,\-\/]/).map((s) => s.trim().toLowerCase()).filter(Boolean);
+  const parts = r.countryOfOrigin.split(/[,\-\/]/).map((s) => s.trim().toUpperCase()).filter(Boolean);
   for (const p of parts) {
     countryCounts[p] = (countryCounts[p] ?? 0) + 1;
   }

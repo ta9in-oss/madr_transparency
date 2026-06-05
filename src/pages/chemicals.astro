@@ -15,18 +15,47 @@ const lang: Lang = 'ar';
 
 const records = loadAgrochemicals();
 
+function normalizeCategory(raw: string): string {
+  return (raw || 'AUTRE')
+    .trim()
+    .toUpperCase()
+    .replace('CARENCES', 'CARENCE')
+    .replace('RÉGULATEUR', 'REGULATEUR')
+    .replace('BIOSTIMULANTS', 'BIOSTIMULANT')
+    .replace('BIOSTIMULANT AGRICOLE', 'BIOSTIMULANT')
+    .replace('STIMULATEUR DE DEFENSE NATURELLE', 'BIOSTIMULANT')
+    .replace('BIOSTIMULANT / REGULATEUR DE CROISSANCE', 'BIOSTIMULANT')
+    .trim();
+}
+
+function normalizeCountry(raw: string): string {
+  const upper = (raw || 'INCONNU').trim().toUpperCase();
+  const synonyms: Record<string, string> = {
+    'ARABIE SAOUDITE': 'ARABIE SAOUDITE',
+    'REPUBLIQUE DE TURQUIE': 'TURQUIE',
+    'INDIA': 'INDE',
+    'UK': 'ROYAUME-UNI',
+    'USA': 'ÉTATS-UNIS',
+    'HOLLANDE': 'PAYS-BAS',
+    'THAÏLANDE': 'THAÏLANDE',
+    'THAI': 'THAÏLANDE',
+  };
+  return synonyms[upper] ?? upper;
+}
+
 const catCounts: Record<string, number> = {};
 for (const r of records) {
-  const cat = r.category || 'Autre';
+  const cat = normalizeCategory(r.category);
   catCounts[cat] = (catCounts[cat] ?? 0) + 1;
 }
 const categoryChartData = Object.entries(catCounts)
   .map(([label, count]) => ({ label, count }))
-  .sort((a, b) => b.count - a.count);
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 20);
 
 const countryCounts: Record<string, number> = {};
 for (const r of records) {
-  const c = r.countryOfOrigin || 'Inconnu';
+  const c = normalizeCountry(r.countryOfOrigin);
   countryCounts[c] = (countryCounts[c] ?? 0) + 1;
 }
 const countryChartData = Object.entries(countryCounts)

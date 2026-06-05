@@ -70,7 +70,7 @@ export function HorizontalBarChart({
       {title && (
         <p className="text-sm font-medium text-ink mb-2" style={{ direction: 'inherit' }}>{title}</p>
       )}
-      <svg width={width} height={height} style={{ direction: 'ltr' }}>
+      <svg width={width} height={height} style={{ direction: 'ltr' }} overflow="visible">
         <Group left={MARGIN.left} top={MARGIN.top}>
           {sorted.map((d, i) => {
             const barY = yScale(d.label) ?? 0;
