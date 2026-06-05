@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-ink:          #111318;
+    --color-forest:       #2d6a4f;
+    --color-forest-dark:  #1a3d2e;
+    --color-forest-tint:  rgba(45, 106, 79, 0.09);
+    --color-paper:        #fafaf8;
+    --color-surface:      #f3f2ef;
+    --color-line:         #e5e4e0;
+    --color-muted:        #6b7280;
+  }
+
+  html {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: theme('fontFamily.body');
+    font-size: theme('fontSize.body[0]');
+    -webkit-font-smoothing: antialiased;
+  }
+
+  html[lang="ar"],
+  html[lang="ar"] * {
+    font-family: theme('fontFamily.arabic');
+    direction: rtl;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: theme('fontFamily.display');
+    font-weight: 700;
+    color: var(--color-ink);
+  }
+
+  a {
+    color: var(--color-forest);
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: var(--color-forest-dark);
+  }
+
+  code, pre, [data-mono] {
+    font-family: theme('fontFamily.mono');
+    font-size: theme('fontSize.data[0]');
+  }
+}
