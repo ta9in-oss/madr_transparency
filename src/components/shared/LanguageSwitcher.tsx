@@ -16,7 +16,11 @@ export function LanguageSwitcher({ current, labels }: Props) {
     const segments = url.pathname.split('/').filter(Boolean);
     const isLangSegment = (s: string): s is Lang => ['fr', 'ar', 'en'].includes(s);
     if (segments.length > 0 && isLangSegment(segments[0])) {
-      segments[0] = lang;
+      if (lang === 'fr') {
+        segments.shift();
+      } else {
+        segments[0] = lang;
+      }
     } else if (lang !== 'fr') {
       segments.unshift(lang);
     }

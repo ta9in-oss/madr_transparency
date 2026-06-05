@@ -1,5 +1,6 @@
 {
   "nav": {
+    "label": "Main navigation",
     "home": "Home",
     "dependency": "Agricultural Dependency",
     "chemicals": "Chemicals",

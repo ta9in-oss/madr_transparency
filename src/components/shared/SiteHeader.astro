@@ -30,7 +30,7 @@ const navLinks = [
       MADR <span class="text-forest">Transparence</span>
     </a>
 
-    <nav aria-label="Navigation principale" class="hidden md:flex items-center gap-1">
+    <nav aria-label={t(lang, 'nav.label')} class="hidden md:flex items-center gap-1">
       {navLinks.map(({ href, label }) => (
         <a
           href={href}
