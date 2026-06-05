@@ -16,9 +16,24 @@ const auths        = loadVetAuthorizations();
 const distributors = loadVetDistributors();
 const importers    = loadVetMedicineImporters();
 
+function normalizeWilaya(raw: string): string {
+  return raw.trim()
+    .replace(/'/g, "'")
+    .replace(/\s+/g, ' ')
+    .replace(/\b([A-Z]{2,})\b/g, (m) => m.charAt(0) + m.slice(1).toLowerCase())
+    .replace('Bba', 'Bordj Bou Arréridj')
+    .replace("M'sila", "M'Sila")
+    .replace('Boumerdes', 'Boumerdès')
+    .replace('Ain Defla', 'Aïn Defla')
+    .replace('Ain Temouchent', 'Aïn Témouchent');
+}
+
 const wilayaCounts: Record<string, number> = {};
 for (const r of distributors) {
-  if (r.wilaya) wilayaCounts[r.wilaya] = (wilayaCounts[r.wilaya] ?? 0) + 1;
+  if (r.wilaya) {
+    const w = normalizeWilaya(r.wilaya);
+    wilayaCounts[w] = (wilayaCounts[w] ?? 0) + 1;
+  }
 }
 const wilayaChartData = Object.entries(wilayaCounts)
   .map(([label, count]) => ({ label, count }))
