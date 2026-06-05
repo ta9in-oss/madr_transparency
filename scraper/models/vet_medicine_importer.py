@@ -5,4 +5,5 @@ from dataclasses import dataclass
 class VetMedicineImporter:
     number: int
     company: str
+    company_name_ar: str
     location: str
