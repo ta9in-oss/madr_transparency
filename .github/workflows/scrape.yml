@@ -26,7 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scraper/run.py
+        run: python -m scraper.run
 
       - name: Commit updated data
         run: |
