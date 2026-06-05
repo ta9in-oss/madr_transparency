@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "dependency": "Dépendance agricole",
+    "chemicals": "Produits chimiques",
+    "players": "Acteurs clés",
+    "veterinary": "Filière vétérinaire",
+    "source_code": "Code source"
+  },
+  "home": {
+    "title": "Qui nourrit l'Algérie — et d'où ?",
+    "subtitle": "Plus de 9 900 autorisations d'importation délivrées par le ministère de l'Agriculture. Nous les avons extraites, structurées et visualisées pour que vous puissiez comprendre les chaînes de dépendance derrière votre alimentation.",
+    "cta_explore": "Explorer les données",
+    "cta_story": "Lire l'enquête",
+    "total_records": "autorisations au total",
+    "datasets": "jeux de données"
+  },
+  "stats": {
+    "agrochemicals": "produits phytosanitaires",
+    "seeds": "variétés de semences",
+    "fruit_imports": "importations de végétaux",
+    "vet_records": "dossiers vétérinaires"
+  },
+  "chapters": {
+    "ch1_num": "01",
+    "ch1_title": "La dépendance agricole",
+    "ch1_lead": "Semences, plants et origines des fruits cartographiés par pays fournisseur.",
+    "ch2_num": "02",
+    "ch2_title": "5 000 produits chimiques",
+    "ch2_lead": "Qui importe les pesticides, quelles substances actives sont homologuées, et d'où viennent-elles.",
+    "ch3_num": "03",
+    "ch3_title": "Les acteurs clés",
+    "ch3_lead": "Concentration du marché : quelles entreprises détiennent le plus grand nombre d'autorisations.",
+    "ch4_num": "04",
+    "ch4_title": "La filière vétérinaire",
+    "ch4_lead": "Distribution des médicaments vétérinaires et couverture géographique par wilaya.",
+    "explore": "Explorer"
+  },
+  "explorer": {
+    "search_placeholder": "Rechercher une entreprise, un produit, un pays...",
+    "filter_country": "Pays d'origine",
+    "filter_category": "Catégorie",
+    "filter_all": "Tous",
+    "no_results": "Aucun résultat pour cette recherche.",
+    "showing": "Affichage de",
+    "of": "sur",
+    "records": "enregistrements",
+    "prev": "Précédent",
+    "next": "Suivant"
+  },
+  "footer": {
+    "source": "Source : Ministère de l'Agriculture et du Développement Rural",
+    "source_url": "madr.gov.dz/transparence",
+    "updated": "Données mises à jour le",
+    "repo": "Code source",
+    "open_data": "Données ouvertes"
+  },
+  "lang": {
+    "fr": "Français",
+    "ar": "العربية",
+    "en": "English"
+  }
+}

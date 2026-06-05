@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Home",
+    "dependency": "Agricultural Dependency",
+    "chemicals": "Chemicals",
+    "players": "Key Players",
+    "veterinary": "Veterinary Chain",
+    "source_code": "Source code"
+  },
+  "home": {
+    "title": "Who feeds Algeria — and from where?",
+    "subtitle": "Over 9,900 import permits issued by the Ministry of Agriculture. We extracted them, structured them, and visualised them so you can understand the dependency chains behind your food.",
+    "cta_explore": "Explore the data",
+    "cta_story": "Read the investigation",
+    "total_records": "permits in total",
+    "datasets": "datasets"
+  },
+  "stats": {
+    "agrochemicals": "agrochemical products",
+    "seeds": "seed varieties",
+    "fruit_imports": "plant imports",
+    "vet_records": "veterinary records"
+  },
+  "chapters": {
+    "ch1_num": "01",
+    "ch1_title": "Agricultural Dependency",
+    "ch1_lead": "Seeds, seedlings, and fruit origins mapped by supplier country.",
+    "ch2_num": "02",
+    "ch2_title": "5,000 Chemicals",
+    "ch2_lead": "Who imports pesticides, what active substances are approved, and where they come from.",
+    "ch3_num": "03",
+    "ch3_title": "The Key Players",
+    "ch3_lead": "Market concentration: which companies hold the most licenses across all sectors.",
+    "ch4_num": "04",
+    "ch4_title": "The Veterinary Chain",
+    "ch4_lead": "Veterinary medicine distribution and geographic coverage by wilaya.",
+    "explore": "Explore"
+  },
+  "explorer": {
+    "search_placeholder": "Search company, product, country...",
+    "filter_country": "Country of origin",
+    "filter_category": "Category",
+    "filter_all": "All",
+    "no_results": "No results for this search.",
+    "showing": "Showing",
+    "of": "of",
+    "records": "records",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "footer": {
+    "source": "Source: Ministry of Agriculture and Rural Development",
+    "source_url": "madr.gov.dz/transparence",
+    "updated": "Data last updated",
+    "repo": "Source code",
+    "open_data": "Open data"
+  },
+  "lang": {
+    "fr": "Français",
+    "ar": "العربية",
+    "en": "English"
+  }
+}
