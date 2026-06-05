@@ -6,6 +6,8 @@ import { SectionHeader } from '../components/shared/SectionHeader.tsx';
 import { HorizontalBarChart } from '../components/charts/HorizontalBarChart';
 import { DataExplorer } from '../components/explorer/DataExplorer';
 import { t, getTranslations } from '../lib/i18n';
+import ChapterNav from '../components/shared/ChapterNav.astro';
+import InsightCallout from '../components/shared/InsightCallout.astro';
 import { loadAgrochemicals } from '../lib/data';
 import type { Lang } from '../lib/types';
 
@@ -68,6 +70,13 @@ const explorerI18n = {
 
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
+    <InsightCallout
+      stat="5,058"
+      label="مادة كيميائية مرخصة للدخول"
+      context="إسبانيا وحدها مصدر أكثر من 900 منتج. والصين في المرتبة الثالثة. كل هذا يُرش على الأراضي الزراعية الجزائرية."
+      accent={true}
+    />
+
     <SectionHeader
       chapterNum={t(lang, 'chapters.ch2_num')}
       title={t(lang, 'chapters.ch2_title')}
@@ -87,6 +96,7 @@ const explorerI18n = {
         data={categoryChartData}
         colorByLabel={true}
         title={tr.explorer.filter_category}
+        isRtl={true}
         client:visible
       />
       <HorizontalBarChart
@@ -94,6 +104,7 @@ const explorerI18n = {
         colorByLabel={false}
         maxBars={12}
         title={tr.explorer.filter_country}
+        isRtl={true}
         client:visible
       />
     </div>
@@ -108,6 +119,12 @@ const explorerI18n = {
       filterKey="category"
       i18n={explorerI18n}
       client:visible
+    />
+
+    <ChapterNav
+      lang={lang}
+      prev={{ href: '/dependency', num: '01', title: t(lang, 'chapters.ch1_title') }}
+      next={{ href: '/players', num: '03', title: t(lang, 'chapters.ch3_title') }}
     />
 
   </main>

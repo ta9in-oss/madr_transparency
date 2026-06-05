@@ -13,20 +13,20 @@ export function LanguageSwitcher({ current, labels }: Props) {
 
   function selectLang(lang: Lang) {
     setOpen(false);
-    const url = new URL(window.location.href);
-    const segments = url.pathname.split('/').filter(Boolean);
-    const isLangSegment = (s: string): s is Lang => ['fr', 'ar', 'en'].includes(s);
-    if (segments.length > 0 && isLangSegment(segments[0])) {
-      if (lang === DEFAULT_LANG) {
+    if (lang === DEFAULT_LANG) {
+      // Navigate to Arabic version of current page (remove prefix)
+      const url = new URL(window.location.href);
+      const segments = url.pathname.split('/').filter(Boolean);
+      const isLangSegment = (s: string): s is Lang => (['fr', 'ar', 'en'] as string[]).includes(s);
+      if (segments.length > 0 && isLangSegment(segments[0])) {
         segments.shift();
-      } else {
-        segments[0] = lang;
       }
-    } else if (lang !== DEFAULT_LANG) {
-      segments.unshift(lang);
+      url.pathname = '/' + segments.join('/');
+      window.location.href = url.toString();
+    } else {
+      // Non-default: navigate to locale root (full page translation coming soon)
+      window.location.href = `/${lang}`;
     }
-    url.pathname = '/' + segments.join('/');
-    window.location.href = url.toString();
   }
 
   return (
@@ -56,9 +56,9 @@ export function LanguageSwitcher({ current, labels }: Props) {
               onClick={() => selectLang(lang)}
               className={`px-3 py-1.5 text-sm cursor-pointer hover:bg-forest-tint transition-colors ${
                 lang === current ? 'text-forest font-medium' : 'text-ink'
-              }`}
+              } ${lang !== DEFAULT_LANG ? 'opacity-60' : ''}`}
             >
-              {labels[lang]}
+              {lang !== DEFAULT_LANG ? `${labels[lang]} — قريباً` : labels[lang]}
             </li>
           ))}
         </ul>

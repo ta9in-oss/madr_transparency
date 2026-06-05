@@ -17,9 +17,11 @@ interface Props {
   maxBars?: number;
   colorByLabel?: boolean;
   title?: string;
+  isRtl?: boolean;
 }
 
-const MARGIN = { top: 8, right: 16, bottom: 36, left: 160 };
+const MARGIN_LTR = { top: 8, right: 48, bottom: 36, left: 160 };
+const MARGIN_RTL = { top: 8, right: 160, bottom: 36, left: 16 };
 
 export function HorizontalBarChart({
   data,
@@ -27,8 +29,11 @@ export function HorizontalBarChart({
   maxBars = 15,
   colorByLabel = false,
   title,
+  isRtl = false,
 }: Props) {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
+
+  const MARGIN = isRtl ? MARGIN_RTL : MARGIN_LTR;
 
   const sorted = useMemo(
     () => [...data].sort((a, b) => b.count - a.count).slice(0, maxBars),
@@ -74,6 +79,14 @@ export function HorizontalBarChart({
             const isHovered = hoveredIndex === i;
             const fill = colorByLabel ? getCategoryColor(d.label) : '#2d6a4f';
 
+            const barX = isRtl ? innerWidth - xScale(d.count) : 0;
+
+            const labelX = isRtl ? innerWidth + 8 : -8;
+            const labelAnchor = isRtl ? 'start' : 'end';
+
+            const countX = isRtl ? innerWidth - xScale(d.count) - 4 : barWidth + 6;
+            const countAnchor = isRtl ? 'end' : undefined;
+
             return (
               <g
                 key={d.label}
@@ -81,20 +94,20 @@ export function HorizontalBarChart({
                 onMouseLeave={() => setHoveredIndex(null)}
               >
                 <motion.rect
-                  x={0}
+                  x={isRtl ? undefined : 0}
                   y={barY}
                   height={bandHeight}
                   fill={fill}
                   opacity={isHovered ? 1.0 : 0.82}
                   rx={2}
-                  initial={{ width: 0 }}
-                  animate={{ width: barWidth }}
+                  initial={isRtl ? { width: 0, x: innerWidth } : { width: 0 }}
+                  animate={isRtl ? { width: barWidth, x: barX } : { width: barWidth }}
                   transition={{ delay: i * 0.03, duration: 0.4, ease: 'easeOut' }}
                 />
                 <Text
-                  x={-8}
+                  x={labelX}
                   y={barY + bandHeight / 2}
-                  textAnchor="end"
+                  textAnchor={labelAnchor}
                   verticalAnchor="middle"
                   fontSize={12}
                   fill={isHovered ? '#111318' : '#6b7280'}
@@ -103,9 +116,10 @@ export function HorizontalBarChart({
                   {d.label}
                 </Text>
                 <motion.text
-                  x={barWidth + 6}
+                  x={countX}
                   y={barY + bandHeight / 2}
                   dominantBaseline="middle"
+                  textAnchor={countAnchor}
                   fontSize={11}
                   fill="#6b7280"
                   fontFamily="ui-monospace, monospace"

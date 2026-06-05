@@ -6,6 +6,8 @@ import { SectionHeader } from '../components/shared/SectionHeader';
 import { HorizontalBarChart } from '../components/charts/HorizontalBarChart';
 import { DataExplorer } from '../components/explorer/DataExplorer';
 import { t, getTranslations } from '../lib/i18n';
+import ChapterNav from '../components/shared/ChapterNav.astro';
+import InsightCallout from '../components/shared/InsightCallout.astro';
 import {
   loadPlantProducts,
   loadSeedlings,
@@ -74,6 +76,13 @@ const explorerI18n = {
 
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
+    <InsightCallout
+      stat="90%"
+      label="من بذور الجزائر مستوردة"
+      context="البذور والشتلات والنباتات التي تُزرع في الأرض الجزائرية: معظمها قادم من الصين والولايات المتحدة والهند. ليس من دول الجوار."
+      accent={true}
+    />
+
     <SectionHeader
       chapterNum={t(lang, 'chapters.ch1_num')}
       title={t(lang, 'chapters.ch1_title')}
@@ -93,6 +102,7 @@ const explorerI18n = {
         data={countryData}
         maxBars={15}
         title={t(lang, 'explorer.filter_country')}
+        isRtl={true}
         client:visible
       />
     </section>
@@ -108,6 +118,11 @@ const explorerI18n = {
       filterKey="category"
       i18n={explorerI18n}
       client:visible
+    />
+
+    <ChapterNav
+      lang={lang}
+      next={{ href: '/chemicals', num: '02', title: t(lang, 'chapters.ch2_title') }}
     />
 
   </main>
