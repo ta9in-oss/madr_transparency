@@ -68,6 +68,13 @@ const explorerI18n = {
 
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
+    <InsightCallout
+      stat="19"
+      label="ولاية بدون موزّع بيطري"
+      context="من أصل 58 ولاية جزائرية، 19 ولاية لا يوجد فيها أي موزع مرخص للأدوية البيطرية. الغرب والجنوب الكبير الأكثر تضرراً."
+      accent={true}
+    />
+
     <SectionHeader
       chapterNum={t(lang, 'chapters.ch4_num')}
       title={t(lang, 'chapters.ch4_title')}
@@ -118,6 +125,11 @@ const explorerI18n = {
       filterKey="wilaya"
       i18n={explorerI18n}
       client:visible
+    />
+
+    <ChapterNav
+      lang={lang}
+      prev={{ href: '/players', num: '03', title: t(lang, 'chapters.ch3_title') }}
     />
 
   </main>

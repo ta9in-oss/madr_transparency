@@ -35,7 +35,10 @@
     "ch4_num": "04",
     "ch4_title": "La filière vétérinaire",
     "ch4_lead": "Distribution des médicaments vétérinaires et couverture géographique par wilaya.",
-    "explore": "Explorer"
+    "explore": "Explorer",
+    "ch_prev": "Chapitre précédent",
+    "ch_next": "Chapitre suivant",
+    "ch_back_home": "Retour à l'accueil"
   },
   "explorer": {
     "search_placeholder": "Rechercher une entreprise, un produit, un pays...",

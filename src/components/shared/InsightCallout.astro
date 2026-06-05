@@ -1,0 +1,19 @@
+---
+interface Props {
+  stat: string;
+  label: string;
+  context: string;
+  accent?: boolean;
+}
+const { stat, label, context, accent = false } = Astro.props;
+---
+
+<div class:list={['relative p-6 rounded-lg border-2 mb-10 max-w-2xl', accent ? 'border-forest bg-forest/5' : 'border-line bg-surface']}>
+  <div class="flex flex-col gap-2">
+    <div class="flex items-baseline gap-3">
+      <span class:list={['font-mono font-bold leading-none', accent ? 'text-forest text-5xl' : 'text-ink text-4xl']}>{stat}</span>
+      <span class="font-body text-muted text-sm">{label}</span>
+    </div>
+    <p class="text-sm text-muted font-body leading-relaxed">{context}</p>
+  </div>
+</div>

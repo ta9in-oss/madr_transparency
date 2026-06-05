@@ -35,7 +35,10 @@
     "ch4_num": "04",
     "ch4_title": "The Veterinary Chain",
     "ch4_lead": "Veterinary medicine distribution and geographic coverage by wilaya.",
-    "explore": "Explore"
+    "explore": "Explore",
+    "ch_prev": "Previous chapter",
+    "ch_next": "Next chapter",
+    "ch_back_home": "Back to home"
   },
   "explorer": {
     "search_placeholder": "Search company, product, country...",
