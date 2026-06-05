@@ -1,0 +1,638 @@
+[
+  {
+    "company": "SARL  BIOLAB VETERINAIRE",
+    "company_name_ar": "",
+    "location": "DAR EL BEIDA/ALGER",
+    "number": 1
+  },
+  {
+    "company": "SARL UNILAB",
+    "company_name_ar": "",
+    "location": "MAHELMA/ALGER",
+    "number": 2
+  },
+  {
+    "company": "SARL GAMMA PHARM",
+    "company_name_ar": "",
+    "location": "BATNA/BATNA",
+    "number": 3
+  },
+  {
+    "company": "SARL CYCLOVET",
+    "company_name_ar": "",
+    "location": "CONSTANTINE/CONSTANTINE",
+    "number": 4
+  },
+  {
+    "company": "SARL  MATVET SANTE ANIMALE",
+    "company_name_ar": "",
+    "location": "BOUZAREAH/ALGER",
+    "number": 5
+  },
+  {
+    "company": "SARL VETO AHRAME PHARMA CONSULT",
+    "company_name_ar": "",
+    "location": "ANNABA/ANNABA",
+    "number": 6
+  },
+  {
+    "company": "VITAL VETERINAIRE",
+    "company_name_ar": "",
+    "location": "ZERALDA/ALGER",
+    "number": 7
+  },
+  {
+    "company": "A.T PHARMA SPA",
+    "company_name_ar": "",
+    "location": "BENI MESSOUS/ALGER",
+    "number": 8
+  },
+  {
+    "company": "cyclopharm",
+    "company_name_ar": "",
+    "location": "CONSTANTINE",
+    "number": 9
+  },
+  {
+    "company": "EURL MACHANE PHARMA VET ENTREPRISE",
+    "company_name_ar": "",
+    "location": "EL EULMA/SETIF",
+    "number": 10
+  },
+  {
+    "company": "MOF VET IMPORT EXPORT",
+    "company_name_ar": "",
+    "location": "MEZLOUG/SETIF",
+    "number": 11
+  },
+  {
+    "company": "SARL  PHARMALEAD",
+    "company_name_ar": "",
+    "location": "BLIDA/BLIDA",
+    "number": 12
+  },
+  {
+    "company": "EURL DISMEVET",
+    "company_name_ar": "",
+    "location": "SAOULA/ALGER",
+    "number": 13
+  },
+  {
+    "company": "PROVAST",
+    "company_name_ar": "",
+    "location": "DRARIA/ALGER",
+    "number": 14
+  },
+  {
+    "company": "SARL ALL FOR VET",
+    "company_name_ar": "",
+    "location": "ORAN/ORAN",
+    "number": 15
+  },
+  {
+    "company": "SARL BELOPHARM",
+    "company_name_ar": "",
+    "location": "ORAN/ORAN",
+    "number": 16
+  },
+  {
+    "company": "VETAGRIAL",
+    "company_name_ar": "",
+    "location": "Zone d’activité Oued El Kerma    Route de Baba Ali,  Saoula Alger",
+    "number": 17
+  },
+  {
+    "company": "EURL KAWETHAR VET",
+    "company_name_ar": "",
+    "location": "SOUK AHRAS/SOUK AHRAS",
+    "number": 18
+  },
+  {
+    "company": "SARL  NUTRI MEDIC VET N.M.V",
+    "company_name_ar": "",
+    "location": "BOU SAADA/M’SILA",
+    "number": 19
+  },
+  {
+    "company": "EURL EDIVEX",
+    "company_name_ar": "",
+    "location": "chlef",
+    "number": 20
+  },
+  {
+    "company": "EURL MEDITERANNIENE AT TRADING GLOBAL",
+    "company_name_ar": "",
+    "location": "TIZI RACHED/TIZI OUZOU",
+    "number": 21
+  },
+  {
+    "company": "SARL GROUPE PHARMACEUTIQUE MADANI G P M",
+    "company_name_ar": "",
+    "location": "EL KHROUB/CONSTANTINE",
+    "number": 22
+  },
+  {
+    "company": "SARL SBH ANIMAL VET",
+    "company_name_ar": "",
+    "location": "AIN SMARA/CONSTANTINE",
+    "number": 23
+  },
+  {
+    "company": "SARL PLANTAXION",
+    "company_name_ar": "",
+    "location": "SOUMAA/BLIDA",
+    "number": 24
+  },
+  {
+    "company": "AQUAVET IMPORT EXPORT",
+    "company_name_ar": "",
+    "location": "KHRAICIA/ALGER",
+    "number": 25
+  },
+  {
+    "company": "SARL SOVIDAL PHARM",
+    "company_name_ar": "",
+    "location": "MOHAMMADIA/MASCARA",
+    "number": 26
+  },
+  {
+    "company": "AMCOVET ALGERIA COMPANY",
+    "company_name_ar": "",
+    "location": "ZERALDA/ALGER",
+    "number": 27
+  },
+  {
+    "company": "SARL  VETOLYS",
+    "company_name_ar": "",
+    "location": "CONSTANTINE/CONSTANTINE",
+    "number": 28
+  },
+  {
+    "company": "GBB ANIMAL HEALTH",
+    "company_name_ar": "",
+    "location": "EL EULMA/SETIF",
+    "number": 29
+  },
+  {
+    "company": "SARL AURES PHARMA",
+    "company_name_ar": "",
+    "location": "FESDIS W. BATNA",
+    "number": 30
+  },
+  {
+    "company": "EURL HODNA PROVET",
+    "company_name_ar": "",
+    "location": "OULED MANSOUR/M’SILA",
+    "number": 31
+  },
+  {
+    "company": "SARL NOVANUTRITION",
+    "company_name_ar": "",
+    "location": "SIDI MOUSSA/ALGER",
+    "number": 32
+  },
+  {
+    "company": "SARL  ALPHA NUTRI PHARMA",
+    "company_name_ar": "",
+    "location": "BOU SAADA/M’SILA",
+    "number": 33
+  },
+  {
+    "company": "SARL CEVAVET",
+    "company_name_ar": "",
+    "location": "RAHMANIA/ALGER",
+    "number": 34
+  },
+  {
+    "company": "SARL DIAGNOVET",
+    "company_name_ar": "",
+    "location": "SAOULA/ALGER",
+    "number": 35
+  },
+  {
+    "company": "SARL THREE B PHARMA",
+    "company_name_ar": "",
+    "location": "BEN KHELLIL/BLIDA",
+    "number": 36
+  },
+  {
+    "company": "SARL S D S A VET",
+    "company_name_ar": "",
+    "location": "HYDRA/ALGER",
+    "number": 37
+  },
+  {
+    "company": "SARL MB VET",
+    "company_name_ar": "",
+    "location": "BORDJ BOU ARRERIDJ/BORDJ BOU ARRERIDJ",
+    "number": 38
+  },
+  {
+    "company": "SARL BIG VET",
+    "company_name_ar": "",
+    "location": "BOUFARIK/BLIDA",
+    "number": 39
+  },
+  {
+    "company": "BIO WAT ANIMAL HEALTH",
+    "company_name_ar": "",
+    "location": "KHRAICIA/ALGER",
+    "number": 40
+  },
+  {
+    "company": "SARL PROVET SANTE ANIMALE",
+    "company_name_ar": "",
+    "location": "zone de dépôt hamouch hamoudi lot N° :28 B 128 A1 hammadi krouma skikda",
+    "number": 41
+  },
+  {
+    "company": "SARL VET AGRI PHARMA",
+    "company_name_ar": "",
+    "location": "BOU SAADA/M’SILA",
+    "number": 42
+  },
+  {
+    "company": "EURL  ORANOMIC",
+    "company_name_ar": "",
+    "location": "MESSERGHIN/ORAN",
+    "number": 43
+  },
+  {
+    "company": "SARL BAYTAR SANTE ANIMALE",
+    "company_name_ar": "",
+    "location": "BOUZAREAH/ALGER",
+    "number": 44
+  },
+  {
+    "company": "SARL MFD VET",
+    "company_name_ar": "",
+    "location": "SETIF/SETIF",
+    "number": 45
+  },
+  {
+    "company": "SARL GOLD VET",
+    "company_name_ar": "",
+    "location": "BATNA/BATNA",
+    "number": 46
+  },
+  {
+    "company": "SARL VET FEED",
+    "company_name_ar": "",
+    "location": "Le grand arrêt route de Tazoult BatnaTAZOULT/BATNA",
+    "number": 47
+  },
+  {
+    "company": "SARL ASTRA VET",
+    "company_name_ar": "",
+    "location": "SOUGUEUR/TIARET",
+    "number": 48
+  },
+  {
+    "company": "SARL M.P.P PHARMA",
+    "company_name_ar": "",
+    "location": "M’SILA 28000",
+    "number": 49
+  },
+  {
+    "company": "EURL DOUDAH VET",
+    "company_name_ar": "",
+    "location": "BOUDOUAOU/BOUMERDES",
+    "number": 50
+  },
+  {
+    "company": "SARL NUSCIENCE VET",
+    "company_name_ar": "",
+    "location": "OULED MOUSSA/BOUMERDES",
+    "number": 51
+  },
+  {
+    "company": "SARL PHARMETHIC SANTE ANIMALE",
+    "company_name_ar": "",
+    "location": "BENI TAMOU/BLIDA",
+    "number": 52
+  },
+  {
+    "company": "SARL AGRIVIL VET",
+    "company_name_ar": "",
+    "location": "MOHAMED BELOUIZDAD/ALGER",
+    "number": 53
+  },
+  {
+    "company": "GOLDEN VALLY",
+    "company_name_ar": "",
+    "location": "EL ACHOUR/ALGER",
+    "number": 54
+  },
+  {
+    "company": "EAGLE VET",
+    "company_name_ar": "",
+    "location": "Birkhadem Alger",
+    "number": 55
+  },
+  {
+    "company": "SARL VECO SANTE ANIMALE",
+    "company_name_ar": "",
+    "location": "ZERALDA/ALGER",
+    "number": 56
+  },
+  {
+    "company": "SARL MOF PHARMA",
+    "company_name_ar": "",
+    "location": "MEZLOUG/SETIF",
+    "number": 57
+  },
+  {
+    "company": "EURL L M VETA",
+    "company_name_ar": "",
+    "location": "EL KHROUB/CONSTANTINE",
+    "number": 58
+  },
+  {
+    "company": "M BIO VET",
+    "company_name_ar": "",
+    "location": "SETIF/SETIF",
+    "number": 59
+  },
+  {
+    "company": "SARL N S A NUTRITION ET SANTE ANIMALE",
+    "company_name_ar": "",
+    "location": "KHEMISTI/TIPAZA",
+    "number": 60
+  },
+  {
+    "company": "SARL UP PHARM",
+    "company_name_ar": "",
+    "location": "BOUFARIK/BLIDA",
+    "number": 61
+  },
+  {
+    "company": "PROVET PHARM",
+    "company_name_ar": "",
+    "location": "CHERAGA/ALGER",
+    "number": 62
+  },
+  {
+    "company": "AL SAKHA VETERINARY PHARMACEUTICAL",
+    "company_name_ar": "",
+    "location": "DOUERA/ALGER",
+    "number": 63
+  },
+  {
+    "company": "ABVET PHARM",
+    "company_name_ar": "",
+    "location": "DOUERA/ALGER",
+    "number": 64
+  },
+  {
+    "company": "SARL AGIVET",
+    "company_name_ar": "",
+    "location": "EL EULMA/SETIF",
+    "number": 65
+  },
+  {
+    "company": "SARL VETO AGRI",
+    "company_name_ar": "",
+    "location": "MESSERGHIN/ORAN",
+    "number": 66
+  },
+  {
+    "company": "SARL ALGERIAN VET MARKET",
+    "company_name_ar": "",
+    "location": "BATNA/BATNA",
+    "number": 67
+  },
+  {
+    "company": "SARL SUPER NOVA VET",
+    "company_name_ar": "",
+    "location": "BOU SAADA/M’SILA",
+    "number": 68
+  },
+  {
+    "company": "SARL PHARM BMB",
+    "company_name_ar": "",
+    "location": "EL EULMA/SETIF",
+    "number": 69
+  },
+  {
+    "company": "EURL NVE IMPORT DES PRODUITS VETERINAIRE",
+    "company_name_ar": "",
+    "location": "OULED CHEBEL/ALGER",
+    "number": 70
+  },
+  {
+    "company": "SARL HSM FARM.VET",
+    "company_name_ar": "",
+    "location": "DJASR KASENTINA/ALGER",
+    "number": 71
+  },
+  {
+    "company": "SARL NOVA VET",
+    "company_name_ar": "",
+    "location": "SIDI MOUSSA/ALGER",
+    "number": 72
+  },
+  {
+    "company": "SAREL CLIQUE VET",
+    "company_name_ar": "",
+    "location": "SETIF/SETIF",
+    "number": 73
+  },
+  {
+    "company": "GUEZZOUT PHARMA",
+    "company_name_ar": "",
+    "location": "SETIF/SETIF",
+    "number": 74
+  },
+  {
+    "company": "EURL CHAZAVET HEALTH IMPORT EXPORT",
+    "company_name_ar": "",
+    "location": "SETIF/SETIF",
+    "number": 75
+  },
+  {
+    "company": "SARL IMAPHARM",
+    "company_name_ar": "",
+    "location": "KHRAICIA/ALGER",
+    "number": 76
+  },
+  {
+    "company": "ORIZON VET PHARM",
+    "company_name_ar": "",
+    "location": "BIR EL ARCH/SETIF",
+    "number": 77
+  },
+  {
+    "company": "EURL  AGRIVET CONSULTING",
+    "company_name_ar": "",
+    "location": "KOUBA/ALGER",
+    "number": 78
+  },
+  {
+    "company": "SARL VETRAL",
+    "company_name_ar": "",
+    "location": "STAOUELI/ALGER",
+    "number": 79
+  },
+  {
+    "company": "SARL VETO-PHARME",
+    "company_name_ar": "",
+    "location": "CONSTANTINE/CONSTANTINE",
+    "number": 80
+  },
+  {
+    "company": "SARL SOPROVET",
+    "company_name_ar": "",
+    "location": "EL KHROUB/CONSTANTINE",
+    "number": 81
+  },
+  {
+    "company": "EURL  MILAVETA",
+    "company_name_ar": "",
+    "location": "CHELGHOUM LAID/MILA",
+    "number": 82
+  },
+  {
+    "company": "GAE ORAVIE UAB EST",
+    "company_name_ar": "",
+    "location": "OUM EL BOUAGHI/OUM EL BOUAGHI",
+    "number": 83
+  },
+  {
+    "company": "EURL  BOVEC PHARM",
+    "company_name_ar": "",
+    "location": "TIARET/TIARET",
+    "number": 84
+  },
+  {
+    "company": "EURL SANVAX",
+    "company_name_ar": "",
+    "location": "BABA HASSEN/ ALEGR",
+    "number": 85
+  },
+  {
+    "company": "SARL NUTRIPHARMA VET",
+    "company_name_ar": "",
+    "location": "OULED HEDDADJ/ BOUMERDES",
+    "number": 86
+  },
+  {
+    "company": "SARL AGRIMONDO",
+    "company_name_ar": "",
+    "location": "Draria Alger",
+    "number": 87
+  },
+  {
+    "company": "EURL STARVET",
+    "company_name_ar": "",
+    "location": "TLEMCEN",
+    "number": 88
+  },
+  {
+    "company": "SARL UNION VET",
+    "company_name_ar": "",
+    "location": "JIJEL",
+    "number": 89
+  },
+  {
+    "company": "SARL ELIZDIHAR VET",
+    "company_name_ar": "",
+    "location": "BOUSAADA / MSILA",
+    "number": 90
+  },
+  {
+    "company": "EURL EL MANEL VET AGRO",
+    "company_name_ar": "",
+    "location": "AIN OULMENE SETIF",
+    "number": 91
+  },
+  {
+    "company": "SARL VET MED HORIZON",
+    "company_name_ar": "",
+    "location": "ALGER",
+    "number": 92
+  },
+  {
+    "company": "MEDITERRANEAN ANIMAL CARE",
+    "company_name_ar": "",
+    "location": "BLIDA",
+    "number": 93
+  },
+  {
+    "company": "EPE Groupe Avicole Centre “ORAC” SPA",
+    "company_name_ar": "",
+    "location": "CHERAGA/ALGER",
+    "number": 94
+  },
+  {
+    "company": "EAGLE VETO PHARM",
+    "company_name_ar": "",
+    "location": "BATNA",
+    "number": 95
+  },
+  {
+    "company": "SARL ALCHARIKA ALDJAZAIRIA LIL ADWIYA WA AL MOSTALZAMAT ALTIBIYA",
+    "company_name_ar": "",
+    "location": "BOUGARA/BLIDA",
+    "number": 96
+  },
+  {
+    "company": "Vetopharm sarl",
+    "company_name_ar": "",
+    "location": "CONSTANTINE",
+    "number": 97
+  },
+  {
+    "company": "سي أم أم فارم",
+    "company_name_ar": "",
+    "location": "JIJEL",
+    "number": 98
+  },
+  {
+    "company": "sarl ab pharm product animal",
+    "company_name_ar": "",
+    "location": "",
+    "number": 99
+  },
+  {
+    "company": "SARL VETBIO",
+    "company_name_ar": "",
+    "location": "MOSTAGANEM",
+    "number": 100
+  },
+  {
+    "company": "SARL A D BAYTARA",
+    "company_name_ar": "",
+    "location": "MILA",
+    "number": 101
+  },
+  {
+    "company": "eurl curavet",
+    "company_name_ar": "",
+    "location": "BBA",
+    "number": 102
+  },
+  {
+    "company": "EURL RECONFORT BUSINESS",
+    "company_name_ar": "",
+    "location": "JIJEL",
+    "number": 103
+  },
+  {
+    "company": "EURL AGRO KHIDER",
+    "company_name_ar": "",
+    "location": "DJELFA",
+    "number": 104
+  },
+  {
+    "company": "SARL ECLAIRVET",
+    "company_name_ar": "",
+    "location": "MASCARA",
+    "number": 105
+  },
+  {
+    "company": "SARL VET CONTINENTAL",
+    "company_name_ar": "",
+    "location": "ALGER",
+    "number": 106
+  }
+]

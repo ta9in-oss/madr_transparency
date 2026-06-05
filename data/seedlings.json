@@ -1,0 +1,3842 @@
+[
+  {
+    "company": "SARL VITE PLANTE AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pistachier",
+    "material_type": "porte-greffes",
+    "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
+    "production_zone": "Emilia-Rogne",
+    "variety": "Pistacia vera in jiffy/ in nespack"
+  },
+  {
+    "company": "EURL FRUT ALGERIE",
+    "company_name_ar": "",
+    "country_of_origin": "BOSNIE HERZEGOVINE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTS POMMIER",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W.DJELFA",
+    "production_zone": "OLJOAGRO 0.0.0 JASENIK 1/8 SAMAC BOSNIA AND HEZEGOVINA",
+    "variety": "GARA ROYAL+GRANNY SMITH+GOLDEN DELICIOUS (VOIR ANNEXE)"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "PAYS BAS",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES POMMIER",
+    "planting_zone": "BLIDA",
+    "production_zone": "PAYS BAS",
+    "variety": "MM 106"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne",
+    "material_type": "Plants de vigne greffés soudés",
+    "planting_zone": "Territoire national",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne",
+    "material_type": "Plants de vigne greffés soudés",
+    "planting_zone": "Territoire national",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne"
+  },
+  {
+    "company": "SARL green House",
+    "company_name_ar": "",
+    "country_of_origin": "Espagne",
+    "known_name": "fortuna",
+    "material_type": "plantes congelés",
+    "planting_zone": "Tipaza Hamre El ain",
+    "production_zone": "Segovia",
+    "variety": "florida fortuna"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "Bosnia and Herzegovina",
+    "known_name": "pommier poirier",
+    "material_type": "plantes",
+    "planting_zone": "constantine sidi bel abbes saida chlef",
+    "production_zone": "samac",
+    "variety": "KNIP Idared KNIP Gala Royal KNIP Golden Delicious KNIP Granny Smith Gala Royal Williams"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "vitis vinifera",
+    "material_type": "plantes",
+    "planting_zone": "tipaza oran",
+    "production_zone": "cesena",
+    "variety": "vitis vinifera"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "vitis vinifera",
+    "material_type": "plantes",
+    "planting_zone": "tipaza oran",
+    "production_zone": "cesena",
+    "variety": "vitis vinifera"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "MANGUE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA,  MNIAA ,",
+    "production_zone": "EGYPTE",
+    "variety": "KEITT"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PORTE GREFFE GF677",
+    "material_type": "PLANTS PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W-DJELFA",
+    "production_zone": "CESENA",
+    "variety": "GF677"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "MANGUE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA,  MNIAA ,",
+    "production_zone": "EGYPTE",
+    "variety": "KEITT"
+  },
+  {
+    "company": "Eurl elavisa",
+    "company_name_ar": "",
+    "country_of_origin": "Turquie",
+    "known_name": "Poirer prunier",
+    "material_type": "Plants",
+    "planting_zone": "Sersou bznhar djelfa",
+    "production_zone": "Odemis izmir",
+    "variety": "Conference santa rosa"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "MANGUE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA , ALGER, BATNA, BBA, MASCARA, SBA, AIN TIMOUCHENT, SETIF",
+    "production_zone": "EGYPTE",
+    "variety": "KEITT"
+  },
+  {
+    "company": "SARL MAGIC SEEDS",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "plantes",
+    "material_type": "plantes",
+    "planting_zone": "territoire national",
+    "production_zone": "italie",
+    "variety": "story inored em9"
+  },
+  {
+    "company": "SARL ACI SEEDS",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "MANGUIER",
+    "material_type": "plantes arboricoles",
+    "planting_zone": "NATIONAL",
+    "production_zone": "TURQUIE",
+    "variety": "RA17"
+  },
+  {
+    "company": "SARL VITE PLANTE AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "Turquie",
+    "known_name": "Amandier",
+    "material_type": "porte-greffes GF 677",
+    "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
+    "production_zone": "İZMİR",
+    "variety": "FERRAGNES"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PORTE GREFFE GF677",
+    "material_type": "PLANTS PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W DJELFA",
+    "production_zone": "CESENA",
+    "variety": "GF677"
+  },
+  {
+    "company": "SARL VITE PLANTE AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "Turquie",
+    "known_name": "Amandier",
+    "material_type": "porte-greffes GF 677",
+    "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
+    "production_zone": "İZMİR",
+    "variety": "FERRAGNES"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "GF677",
+    "material_type": "PLANTS PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
+    "production_zone": "CESENA",
+    "variety": "GF677"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "GF677",
+    "material_type": "PLANTS PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
+    "production_zone": "CESENA",
+    "variety": "GF677"
+  },
+  {
+    "company": "SARL VITE PLANTE AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "Turquie",
+    "known_name": "Pommier",
+    "material_type": "Plantes",
+    "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
+    "production_zone": "Bandırma",
+    "variety": "Golden delicious"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "sint truiden",
+    "variety": "ROYAL GALA GOLDEN DELICIOUS"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "97996",
+    "production_zone": "sint truiden",
+    "variety": "GOLDEN DELICIOUS"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "POMMIER",
+    "material_type": "PLANTS POMMIER",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
+    "production_zone": "CESENA",
+    "variety": "GOLDEN REINDERSM9+GOLDEN DELICIOUSM9  (VOIR ANNEXE)"
+  },
+  {
+    "company": "eurl planete plante fruit",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier",
+    "material_type": "porte greffes M9",
+    "planting_zone": "tiaret",
+    "production_zone": "bandirma/balikesir",
+    "variety": "golden delicieuse M9"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BELAABAS",
+    "production_zone": "BELGIQUE",
+    "variety": "GOLDEN DELICIEUS . ROYAL GALA"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "PORTE GREFFE POMMIER",
+    "material_type": "PLANTS PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
+    "production_zone": "LICHTENBERGLAAN 2050-3800 SINT-TRUIDEN-BELGIUM",
+    "variety": "POMMIER M9+POMMIER MM.106 (VOIR ANNEXE)"
+  },
+  {
+    "company": "SARL MAGIC SEEDS",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "plantes pommier",
+    "material_type": "plantes",
+    "planting_zone": "TERRITOIRE NATIONEL",
+    "production_zone": "italie",
+    "variety": "story inored"
+  },
+  {
+    "company": "EURL ZAKZOUKA FERUIT",
+    "company_name_ar": "",
+    "country_of_origin": "COSTA RICA",
+    "known_name": "BANANE",
+    "material_type": "AUTRE",
+    "planting_zone": "BLIDA",
+    "production_zone": "COSTA RICA",
+    "variety": "cavendish"
+  },
+  {
+    "company": "SARL MAGIC SEEDS",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "plantes pommier",
+    "material_type": "plantes",
+    "planting_zone": "TERRITOIRE NATIONEL",
+    "production_zone": "italie",
+    "variety": "story inored"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POIRIER+PRUNIER",
+    "material_type": "PLANTE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
+    "production_zone": "ODEMIS-IZMIR-TURQUIE",
+    "variety": "POIRIER CONFERENCE+PRUNIER SANTA ROSA (VOIR ANEXE)"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POIRIER+PRUNIER",
+    "material_type": "PLANTE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
+    "production_zone": "ODEMIS-IZMIR-TURQUIE",
+    "variety": "POIRIER CONFERENCE+PRUNIER SANTA ROSA (VOIR ANEXE)"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "GRECE",
+    "known_name": "GF677",
+    "material_type": "PLANTS PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
+    "production_zone": "FILOTHEI ARTA GRECE",
+    "variety": "GF677"
+  },
+  {
+    "company": "EL NABTA EL KHADRA",
+    "company_name_ar": "",
+    "country_of_origin": "PAYS-BAS",
+    "known_name": "PORTE GREFFE POMMIER",
+    "material_type": "PLANT FRUITIER PORTE GREFFE",
+    "planting_zone": "BLIDA",
+    "production_zone": "PAYS-BAS",
+    "variety": "d M9 0+1 5/7 mm – d M9 0+1 6/8 mm – d MM 106 9a 0+1 6/8mm"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "peche prune",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "emilia romagna",
+    "variety": "MAYCREST FORTUNE"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Cerisier/Abricotier/porte-greffe",
+    "material_type": "Plantes/Porte greffes",
+    "planting_zone": "KHENCHELA",
+    "production_zone": "CESENA",
+    "variety": "Bigarreau burlat on brokforest/Bergeron on miranolan/ Pistacia/ GF 677 nespack"
+  },
+  {
+    "company": "COOPERATIVE  AGRICOLE REGIONALE D’ACTIVITE  POLYVALENTE  *EZZIBANE*  BISKRA   —   (CARAP -EZZIBANE)",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PLANTS  DE VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "Algeria",
+    "production_zone": "ITALIE",
+    "variety": "– Muscat D’Hambourg 202 (1103P)  – Muscat Alexandrie 308 (1103P)  – Sultanina 919 (1103P)  – Red Globe VCR 1 (140RU)  – Muscat D’Hambourg 202 (1103P) – Cardinal  ISV-VCR26 (1103P) – Muscat D’italie VCR10 (1103P)   – Dattier de Beyrouth 966(1103P)   – Alphonse Lavallée  319 (1103P)  – Victoria CRSA 40 (1103P)  – Dattier de Beyrouth 966(1103P)"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTE+PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA",
+    "production_zone": "LICHTENBERGLAAN 2050-3800 SINT-TRUIDEN-BELGIUM",
+    "variety": "VOIR ANEXE"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POMMIER-ABRICOTIER- PECHE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA, SETIF , MNIAA ,",
+    "production_zone": "TURKY",
+    "variety": "GOLDEN DELICIEUS . LUIZET . CARDINAL"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POMMIER-ABRICOTIER- PECHE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA, SETIF , MNIAA ,",
+    "production_zone": "TURKY",
+    "variety": "GOLDEN DELICIEUS . LUIZET . CARDINAL"
+  },
+  {
+    "company": "ELFLICI ABDERRAHMANE",
+    "company_name_ar": "",
+    "country_of_origin": "turkiye",
+    "known_name": "bango – alata azmane",
+    "material_type": "plants",
+    "planting_zone": "CORSO BOUMERDES",
+    "production_zone": "ANTALIA",
+    "variety": "bango"
+  },
+  {
+    "company": "SARL AGRO ATHRER",
+    "company_name_ar": "",
+    "country_of_origin": "إيطاليا",
+    "known_name": "POMMIER",
+    "material_type": "Plant greffé",
+    "planting_zone": "خنشلة – باتنة",
+    "production_zone": "تشيزينا",
+    "variety": "Golden delicious M9"
+  },
+  {
+    "company": "EURL AURES DRILL",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES (POMMIER)",
+    "planting_zone": "Khenchela, El Hamma,",
+    "production_zone": "SILANDRO, SUD TYROL39028",
+    "variety": "Golden Reinders, Golden Delicious"
+  },
+  {
+    "company": "EURL JIRINE PLANTE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "Blida – AIN OUASSARA",
+    "production_zone": "REGION DE NORD VENETO ITALIE",
+    "variety": "GOLDEN DELICIOUS M9 – GOLDEN REINDERS M9"
+  },
+  {
+    "company": "BENBELLAT AHMED",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "Plants",
+    "planting_zone": "Batna-TAZOULT-",
+    "production_zone": "Cesena FC",
+    "variety": "Golden Reinders M9 7+/Golden Delicious M9 5-7/Golden Reinders M9 3-5/GoldenDelicious M9 3-5"
+  },
+  {
+    "company": "BENBELLAT AHMED",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "Plants",
+    "planting_zone": "Batna-TAZOULT-",
+    "production_zone": "Cesena FC",
+    "variety": "Golden Reinders M9 7+/Golden Delicious M9 5-7/Golden Reinders M9 3-5/GoldenDelicious M9 3-5"
+  },
+  {
+    "company": "SARL VITE PLANTE AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "Plantes",
+    "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
+    "production_zone": "Veneto",
+    "variety": "Golden Reinders M9 / Golden Delicious M9"
+  },
+  {
+    "company": "EURL JIRINE PLANTE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "Blida",
+    "production_zone": "REGION DE NORD VENETO ITALIE",
+    "variety": "GOLDEN DELICIOUS M9 – GOLDEN REINDERS M9"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Cerisier/Abricotier/porte-greffe",
+    "material_type": "Plantes/Porte greffe",
+    "planting_zone": "KHENCHELA",
+    "production_zone": "CESENA",
+    "variety": "Bigarreau on maxma 14/Bergeron on miranolan/ Pistacia/ GF 677 nespack"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA",
+    "production_zone": "CESENA",
+    "variety": "Golden delicious M9/ Golden reinders  M9/ Granny smith M9"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "peche cerise",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "emilia romagna",
+    "variety": "MAYCREST NABLARA REGINA"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POMMIER -ABRICOTIER- PECHE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA, ALGER , setif, mostaganem,BBA, SBA, BATNA, BISKRA",
+    "production_zone": "TURKY",
+    "variety": "GOLDEN DELICIEUS . LUIZET . CARDINAL"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POMMIER-POIRIER-ABRICOTIER-",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA, ALGER , setif, mostaganem,BBA, SBA, BATNA, BISKRA",
+    "production_zone": "TURKY",
+    "variety": "GOLDEN DELICIEUS . LUIZET . CONFERENCE"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POMMIER-ABRICOTIER- PECHE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA, SETIF , MNIAA ,",
+    "production_zone": "TURKY",
+    "variety": "GOLDEN DELICIEUS . LUIZET . CARDINAL"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL AMF GROUPE",
+    "company_name_ar": "",
+    "country_of_origin": "ETATS UNIS D’AMERIQUE USA",
+    "known_name": "PISTACHE",
+    "material_type": "semence",
+    "planting_zone": "ALGER ROUIBA",
+    "production_zone": "CALIFORNIA",
+    "variety": "UCB 1"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "VIGNE",
+    "material_type": "PLANTES+PORTES GREFFES",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W-DJELFA",
+    "production_zone": "CESENA",
+    "variety": "VOIR ANEXE"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne – Racinés de porte greffe",
+    "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
+    "planting_zone": "DIVERS",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne – Racinés de porte greffe"
+  },
+  {
+    "company": "COOPERATIVE AGRICOLE EMIR ABDELKADER",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "PLANTES DE POIRRIERS",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "conference/Doyenne du comice"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PISTACHIER",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "13000 PLANTS POT PISTACHIER PISTACIA VERA"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PECHER – ABRICOTIER – POMMIER",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "500 PRIME PEARL – 1800 MAYCREST – 3000 EARLY BLUSH®RUTBHART –  1000 ROBADA – 2000 SOLEDANE – 3000 BERGERON – 1000 VERTIGE – 12000 GALA STAR®GALFAB – 8000 DELICIA –  14000 GOLDEN REINDERS – 4000 CHERRY GALA®BURKITT GALA – 5000 JEROMINE – 2500 GALA STAR®GALAFAB – 550 GRANNY SMITH – 1062 GOLDEN DELICIOUS – 350 PERPETU®EVEREST"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PECHER – ABRICOTIER – POMMIER",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "500 PRIME PEARL – 1800 MAYCREST – 3000 EARLY BLUSH®RUTBHART –  1000 ROBADA – 2000 SOLEDANE – 3000 BERGERON – 1000 VERTIGE – 12000 GALA STAR®GALFAB – 8000 DELICIA –  14000 GOLDEN REINDERS – 4000 CHERRY GALA®BURKITT GALA – 5000 JEROMINE – 2500 GALA STAR®GALAFAB – 550 GRANNY SMITH – 1062 GOLDEN DELICIOUS – 350 PERPETU®EVEREST"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PISTACHIER",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "PISTACHIER"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PECHER",
+    "material_type": "PORTE GREFFES",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "GF677"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PRUNIE R/PECHER / POIRIER /KIWI / AMANDIER / CERISIER",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "18000 2 OD TC SUN/MIR 29C  –   10000 2 OD TC SUN/MIR.29C  –    10000 STANLEY/MIR.29C  – 5000 ORIAN/GF677   –     5000 ROMESTAR/GF677   –     11000 CONFERENCE/   –    1000 TOMURI  P1  –     20000 FERRAGNES /GF677   –    9000 LAPINS/ –    5000 BIGARREAU BURLATI)"
+  },
+  {
+    "company": "SERSAR BELARBI",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "poirier",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "conference/Doyenne du comice"
+  },
+  {
+    "company": "EURL NATURE GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "BOSNIA AND HERZEGOVINA",
+    "known_name": "FRUITS PLANTS",
+    "material_type": "PLANTS",
+    "planting_zone": "baghlia boumerdes",
+    "production_zone": "BOSNIA AND HERZEGOVINA",
+    "variety": "FRUITS PLANTS"
+  },
+  {
+    "company": "EL NABTA EL KHADRA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "pecher – pommier – cerisier",
+    "material_type": "PLANTS FRUITIERS GREFFE",
+    "planting_zone": "BLIDA",
+    "production_zone": "CESENA VIA UBERTI",
+    "variety": "mycrest – nablara – regina"
+  },
+  {
+    "company": "ELFLICI ABDERRAHMANE",
+    "company_name_ar": "",
+    "country_of_origin": "turkiye",
+    "known_name": "bango – alata azmane",
+    "material_type": "plants",
+    "planting_zone": "CORSO BOUMERDES",
+    "production_zone": "ANTALIA",
+    "variety": "bango"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PECHER",
+    "material_type": "PORTE GREFFES",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "GF677"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PRUNIE R/PECHER / POIRIER /KIWI / AMANDIER / CERISIER",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "18000 2 OD TC SUN/MIR 29C  –   10000 2 OD TC SUN/MIR.29C  –    10000 STANLEY/MIR.29C  – 5000 ORIAN/GF677   –     5000 ROMESTAR/GF677   –     11000 CONFERENCE/   –    1000 TOMURI  P1  –     20000 FERRAGNES /GF677   –    9000 LAPINS/ –    5000 BIGARREAU BURLATI)"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "Bosnia and Herzegovina",
+    "known_name": "malus domesticca",
+    "material_type": "plantes",
+    "planting_zone": "constantine sidi bel abbes",
+    "production_zone": "samac",
+    "variety": "gala goldendelicious granny smith williams"
+  },
+  {
+    "company": "ELFLICI ABDERRAHMANE",
+    "company_name_ar": "",
+    "country_of_origin": "turkiye",
+    "known_name": "bango – alata azmane",
+    "material_type": "plants",
+    "planting_zone": "CORSO",
+    "production_zone": "ANTALIA",
+    "variety": "bango"
+  },
+  {
+    "company": "EURL BOUHMAMA APPLE PRODUCT",
+    "company_name_ar": "",
+    "country_of_origin": "Pologne",
+    "known_name": "Pommier et poirier",
+    "material_type": "M9",
+    "planting_zone": "Khenchela et batna",
+    "production_zone": "Lisów",
+    "variety": "Golden d reinders et red delicious pour les pommier et conférence pour les poirier"
+  },
+  {
+    "company": "BOUSSOUALIM KARIM",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PLANTES DE PECHIER",
+    "material_type": "PLANTES",
+    "planting_zone": "commune de tixter wilaya de bordj bou arreridj",
+    "production_zone": "CESENA",
+    "variety": "NABYR/TOURMALINE/MONITIME/MONSAT"
+  },
+  {
+    "company": "BOUSSOUALIM RIADH",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POIRIER",
+    "material_type": "PLANTES",
+    "planting_zone": "COMMUNE DE TIXTER WILAYA DE BORDJ BOU ARRERIDJ",
+    "production_zone": "CESENA",
+    "variety": "CONFERENCE /  DOYENNE DU COMICE"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "Bosnia and Herzegovina",
+    "known_name": "malus domesticca",
+    "material_type": "plantes",
+    "planting_zone": "constantine sidi bel abbes",
+    "production_zone": "samac",
+    "variety": "gala goldendelicious granny smith santa maria"
+  },
+  {
+    "company": "Agricole",
+    "company_name_ar": "",
+    "country_of_origin": "Afrique du Sud",
+    "known_name": "Banane",
+    "material_type": "Plantes",
+    "planting_zone": "Chekfa, Jijel",
+    "production_zone": "Limpopo province",
+    "variety": "Williams, grand nain"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "vitis vinifera",
+    "material_type": "vitis vinifera",
+    "planting_zone": "tipaza",
+    "production_zone": "cesena",
+    "variety": "vitis vinifera"
+  },
+  {
+    "company": "EURL PLANETE PLANTE FRUITS",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER CERISIER PÊCHER",
+    "material_type": "PLANTES",
+    "planting_zone": "SAIDA TIARET",
+    "production_zone": "BANDIRMA/BALIKESIR",
+    "variety": "GOLDEN DELICIOUS-REGINA-NECTARED4-ROYAL GALA"
+  },
+  {
+    "company": "EURL PLANETE PLANTE FRUITS",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER ABRICOTIER",
+    "material_type": "PLANTES",
+    "planting_zone": "TAREF KHENCHELA",
+    "production_zone": "BANDIRMA/BALIKESIR",
+    "variety": "GOLDEN DELICIOUS LUIZET"
+  },
+  {
+    "company": "EURL PLANETE PLANTE FRUITS",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER PRUNIER  ABRICOTIER POIRIER",
+    "material_type": "PLANTES",
+    "planting_zone": "CONSTANTINE ORAN",
+    "production_zone": "BANDIRMA/BALIKESIR",
+    "variety": "GOLDEN DELICIOUS STANLEY LUIZET CONFERENCE"
+  },
+  {
+    "company": "EURL PLANETE PLANTE FRUITS",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER – POIRIER",
+    "material_type": "PLANTES",
+    "planting_zone": "BATNA SIDI BELABAS DJELFA",
+    "production_zone": "BANDIRMA/BALIKESIR",
+    "variety": "GOLDEN DELICIOUS-CONFERENCE-ROYAL GALA"
+  },
+  {
+    "company": "SARL BASAGRI COMPANY",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIER , VIGNE DE TABLE",
+    "material_type": "PLANTES",
+    "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
+    "production_zone": "LAZAREVAC",
+    "variety": "IDARED, MUSCAT DE HAMBOURG, DATTIER DE BEIRUT"
+  },
+  {
+    "company": "SARL BASAGRI COMPANY",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
+    "production_zone": "LAZAREVAC",
+    "variety": "IDARED, GOLDEN DELICIOUS , GRANNY SMITH"
+  },
+  {
+    "company": "BOUSSOUALIM RIADH",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POIRIER",
+    "material_type": "PLANTES",
+    "planting_zone": "COMMUNE TIXTER WILAYA BORDJ BOU ARRERIDJ",
+    "production_zone": "CESENA",
+    "variety": "CONFERENCE        DOYENNE DU COMICE"
+  },
+  {
+    "company": "SARL VITE PLANTE AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pistachier",
+    "material_type": "Plantes",
+    "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
+    "production_zone": "Emilia-Rogne",
+    "variety": "PITACIA VIRA"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "vitis vinifera",
+    "material_type": "vitis vinifera",
+    "planting_zone": "tipaza boumerdes constantine sidi belabbes",
+    "production_zone": "cesena",
+    "variety": "vitis vinifera"
+  },
+  {
+    "company": "SARL VITE PLANTE AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "Turquie",
+    "known_name": "amandier",
+    "material_type": "porte-greffes GF 677",
+    "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
+    "production_zone": "İZMİR",
+    "variety": "FERRAGNES"
+  },
+  {
+    "company": "SARL BASAGRI COMPANY",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "VIGNE DE TABLE ET POIRIER",
+    "material_type": "PLANTES",
+    "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
+    "production_zone": "LAZAREVAC",
+    "variety": ": MUSCAT DE HAMBOURG, DATTIER DE BEIRUT, SANTA MARIA"
+  },
+  {
+    "company": "SARL BASAGRI COMPANY",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
+    "production_zone": "LAZAREVAC",
+    "variety": "GOLDEN DELICIOUS ET GRANNY SMITH"
+  },
+  {
+    "company": "SARL BASAGRI COMPANY",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POIRIER ET POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
+    "production_zone": "LAZAREVAC",
+    "variety": "SANTA MARIA ;GOLDEN DELICIOUS ;GRANNY SMITH"
+  },
+  {
+    "company": "EURL STAR PLANT",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PECHE  ABRICOT POIRE PORTE GREFFE",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA",
+    "production_zone": "cesina",
+    "variety": "HAROVIN SUNDOWN HARROW DELICIOUS HARROW GOLDNABLARA SANDINE MONRUNMAYCRESTDIAMOND PRINCESSROME STARMONSATMONVALMAJESTIC PEARLSOLEDANEFAROLD 87 DAYTOR"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PECHE MALUS ABRICOT poir",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "cesina",
+    "variety": "MAYCREST   DOYENNE COMICE EARLY RED GALA GRANNY SMITH BERGERON"
+  },
+  {
+    "company": "SARL VITROPLANT ALGERIE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PISTACHIER",
+    "material_type": "PLANTES",
+    "planting_zone": "Ain Oussara/Tebessa",
+    "production_zone": "EMILIE-ROMAGNE",
+    "variety": "VOIR PIECE JOINTE"
+  },
+  {
+    "company": "AGRICULTEUR",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PRUNE ET PECHE",
+    "material_type": "GREFFES",
+    "planting_zone": "TIZI- MASCARA",
+    "production_zone": "CESENA",
+    "variety": "PRUNE FORTUNE ET PECHE MAYCREST"
+  },
+  {
+    "company": "ELFLICI ABDERRAHMANE",
+    "company_name_ar": "",
+    "country_of_origin": "turkiye",
+    "known_name": "bango – alata azmane",
+    "material_type": "plants",
+    "planting_zone": "CORSO BOUMERDES",
+    "production_zone": "ANTALIA",
+    "variety": "bango"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PECHER",
+    "material_type": "PORTE GREFFES",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "GF677"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PRUNIE R/PECHER / POIRIER /KIWI / AMANDIER / CERISIER",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
+    "production_zone": "CESENA",
+    "variety": "18000 2 OD TC SUN/MIR 29C  –   10000 2 OD TC SUN/MIR.29C  –    10000 STANLEY/MIR.29C  – 5000 ORIAN/GF677   –     5000 ROMESTAR/GF677   –     11000 CONFERENCE/   –    1000 TOMURI  P1  –     20000 FERRAGNES /GF677   –    9000 LAPINS/ –    5000 BIGARREAU BURLATI)"
+  },
+  {
+    "company": "EURL FRUT ALGERIE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "VIGNE + PORTE GREFFE VIGNE",
+    "material_type": "PLANTES+PORTE GREFFE",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA",
+    "production_zone": "CESENA",
+    "variety": "VOIR ANEXE"
+  },
+  {
+    "company": "EL NABTA EL KHADRA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "porte greffe pecher – porte greffe myrobolan – porte greffe poirier – porte greffe pommier – porte greffe cerisier",
+    "material_type": "PLANT FRUITIER PORTE GREFFE",
+    "planting_zone": "BLIDA",
+    "production_zone": "CESENA VIA LORETO",
+    "variety": "gf 677- 29 c – farold – m9 – mm 106 – maxma 60 broksec"
+  },
+  {
+    "company": "SERSAR BELARBI",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "PLANTES DE POIRRIERS",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "conference/Doyenne du comice"
+  },
+  {
+    "company": "SERSAR BELARBI",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "PLANTES DE POIRRIERS",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "conference/Doyenne du comice"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "pêche , nectarine",
+    "material_type": "Porte-greffes",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "CESENA",
+    "variety": "GF 677"
+  },
+  {
+    "company": "Agro Consulting International",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PALMIER DATTIER IN VITRO",
+    "material_type": "PLANTS IN VITRO",
+    "planting_zone": "commune",
+    "production_zone": "ITALIE",
+    "variety": "MEDJOOL"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "Grece",
+    "known_name": "PECHE MALUS ABRICOT CERISE PRUNE",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "MONOSPITA NAOUSSA",
+    "variety": "ROUGE DU ROUSSILLON BERGERON GRANNY SMITH TOP RED KORDIAENTE707REDHAVEN"
+  },
+  {
+    "company": "Sarl PGP",
+    "company_name_ar": "",
+    "country_of_origin": "Serbie",
+    "known_name": "Malus domestica",
+    "material_type": "plants certifiés",
+    "planting_zone": "Sidi Bel Abbes",
+    "production_zone": "Milutovac",
+    "variety": "Granny Smith"
+  },
+  {
+    "company": "ELFLICI ABDERRAHMANE",
+    "company_name_ar": "",
+    "country_of_origin": "turkiye",
+    "known_name": "bango – alata azmane",
+    "material_type": "plants",
+    "planting_zone": "المستثمرة الفلاحية رقم 08 قدواري قورصو بومرداس",
+    "production_zone": "ANTALIA",
+    "variety": "bango"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "MALUS porte greffe",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "NURSERY",
+    "variety": "golden delicious porte greffe M9"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA ALGER BATNA SIDI BELABBAS",
+    "production_zone": "BELGIQUE",
+    "variety": "GOLDEN DELICIEUS/m9"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "BLIDA ALGER BATNA SIDI BELABBAS",
+    "production_zone": "BELGIQUE",
+    "variety": "GOLDEN DELICIEUS . ROYAL GALA"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "Grece",
+    "known_name": "porte greffe",
+    "material_type": "porte greffes",
+    "planting_zone": "TIARET",
+    "production_zone": "ARTA",
+    "variety": "GF677 Prunus persica x Prunus amygdalus"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "AFRIQUE DU SUD",
+    "known_name": "VIGNE",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "KINGSWAY",
+    "variety": "25900 ARRA 30 – 3500 ARRA 15"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "COOPERATIVE  AGRICOLE  REGIONALE   D’ACTIVITES  POLYVALENTE *EZZIBANE*  BISKRA (CARAP EZZIBANE )",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PLANTS  DE VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "BISKRA",
+    "production_zone": "ITALIE",
+    "variety": "CARDINAL ISV-VCR26- ALPHONSE LAVALLEE 319 – MUSCAT D’ITALIE VCR10 – VICTORIA  CRSA40 – RED GLOBE VCR1 – DATTIER DE BEYROUTH 966 – DATTIER DE BEYROUTH 966 -MUSCAT D’HAMBOURG 202 -MUSCAT D’HAMBOURG 202 -SULTANINE 919 – MUSCAT D’ALEXANDRIE 308"
+  },
+  {
+    "company": "EL NABTA EL KHADRA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PECHE – POMMIER- PRUNIER – CERISIER -POIRIER – KIWI",
+    "material_type": "PLANTS FRUITIERS GREFFE",
+    "planting_zone": "الجزائر و ضواحيها",
+    "production_zone": "CESENA VIA LORETO",
+    "variety": "ORION – ROMESTAR- REINDERS-GRANNY SMITH – STANLEY – FOTUNE – TC SUN – HAYWARD – TOMURI- CONFERENCE"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "pêche , nectarine",
+    "material_type": "Porte-greffes",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "CESENA",
+    "variety": "GF 677"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Poirier-Prunier-Cerisier",
+    "material_type": "Plants de fruitières greffés soudés",
+    "planting_zone": "Territoire national",
+    "production_zone": "Région de Vénétie",
+    "variety": "CONFERENCE-STANLEY-KORDIA"
+  },
+  {
+    "company": "NEHAR LINA FRUITS",
+    "company_name_ar": "",
+    "country_of_origin": "COSTA RICA",
+    "known_name": "BANANE",
+    "material_type": "AUTRE",
+    "planting_zone": "BLIDA",
+    "production_zone": "COSTA RICA",
+    "variety": "BANANE"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "NURSERY",
+    "variety": "ROYAL GALA GOLDEN DELICIOUS GRANNY SMITH"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PECHE NECTARINE POIR MALUS ABRICOT CERISE PRUNE",
+    "material_type": "PLANTES",
+    "planting_zone": "TIARET",
+    "production_zone": "emilia romagna",
+    "variety": "MAYCREST NECTAROSS CONFERRENCE DOYENNE COMICE EARLY RED GALA GRANNY SMITH BERGERON REGINA FORTUNE"
+  },
+  {
+    "company": "MAKA FAWAKIH",
+    "company_name_ar": "",
+    "country_of_origin": "COSTA RICA",
+    "known_name": "BANANE",
+    "material_type": "AUTRE",
+    "planting_zone": "BLIDA",
+    "production_zone": "COSTA RICA",
+    "variety": "BANANE"
+  },
+  {
+    "company": "eurl sidou fruit",
+    "company_name_ar": "",
+    "country_of_origin": "COSTA RICA",
+    "known_name": "BANANE",
+    "material_type": "AUTRE",
+    "planting_zone": "BLIDA",
+    "production_zone": "COSTA RICA",
+    "variety": "CAVENDISH"
+  },
+  {
+    "company": "HAYAT KHOUDAR WA FAWAKIH",
+    "company_name_ar": "",
+    "country_of_origin": "COSTA RICA",
+    "known_name": "BANANE",
+    "material_type": "AUTRE",
+    "planting_zone": "BLIDA",
+    "production_zone": "COSTA RICA",
+    "variety": "BANANE"
+  },
+  {
+    "company": "انيا فروماجري",
+    "company_name_ar": "",
+    "country_of_origin": "COSTA RICA",
+    "known_name": "BANANE",
+    "material_type": "AUTRE",
+    "planting_zone": "BLIDA",
+    "production_zone": "COSTA RICA",
+    "variety": "BANANE"
+  },
+  {
+    "company": "SARL green House",
+    "company_name_ar": "",
+    "country_of_origin": "Espagne",
+    "known_name": "fraise",
+    "material_type": "plantes en motte",
+    "planting_zone": "Tipaza BOURKIKA",
+    "production_zone": "Geria, Valladolid",
+    "variety": "florida fortuna"
+  },
+  {
+    "company": "SARL GREEN HOUSE",
+    "company_name_ar": "",
+    "country_of_origin": "egypte",
+    "known_name": "fraise",
+    "material_type": "plantes congelées",
+    "planting_zone": "tipaza hamr el ain",
+    "production_zone": "el behaira menoufia",
+    "variety": "florida fortuna"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "ESPAGNE-Union européenne",
+    "known_name": "FRAISIER",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL, BLIDA ET TIPAZA",
+    "production_zone": "ESPAGNE",
+    "variety": "PLANTS DE FRAISES EN POTS VARIETE PLARED 00955"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "ESPAGNE-Union européenne",
+    "known_name": "FRAISIER",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL, BLIDA ET TIPAZA",
+    "production_zone": "ESPAGNE",
+    "variety": "PLANTS DE FRAISES EN POTS VARIETE PLARED 00955"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "ESPAGNE-Union européenne",
+    "known_name": "FRAISIER",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL, BLIDA ET TIPAZA",
+    "production_zone": "ESPAGNE",
+    "variety": "PLANTS DE FRAISES EN POTS VARIETE PLARED 00955"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "ESPAGNE-Union européenne",
+    "known_name": "FRAISIER",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL, BLIDA ET TIPAZA",
+    "production_zone": "ESPAGNE",
+    "variety": "PLANTS DE FRAISES EN POTS VARIETE PLARED 00955"
+  },
+  {
+    "company": "SARL Right Green",
+    "company_name_ar": "",
+    "country_of_origin": "Egypt",
+    "known_name": "Fraise",
+    "material_type": "plantes",
+    "planting_zone": "wilaya: Jijel, Commune: Jijel et Tahir",
+    "production_zone": "Ismailia Egypt",
+    "variety": "Florida Fortuna, Camarosa"
+  },
+  {
+    "company": "SARL AGRI HOUSE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PLANT FRAISIER FRIGO",
+    "material_type": "PLANTES",
+    "planting_zone": "TERRITOIRE NATIONAL",
+    "production_zone": "ITALIE",
+    "variety": "NABILA A X 500  NABILA B X 800  KAMILA A X 500  KAMILA A X 600 KAMILA A – X 800 FLAMINIA A X 500 PARTHENOPE (r) CIVS115 A X 500"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "SARL green House",
+    "company_name_ar": "",
+    "country_of_origin": "Espagne",
+    "known_name": "fraise",
+    "material_type": "plantes en motte",
+    "planting_zone": "Tipaza BOURKIKA",
+    "production_zone": "Segovia, GyL, Espafta",
+    "variety": "primavera"
+  },
+  {
+    "company": "SARL green House",
+    "company_name_ar": "",
+    "country_of_origin": "Espagne",
+    "known_name": "fraise",
+    "material_type": "plantes en motte",
+    "planting_zone": "Tipaza BOURKIKA",
+    "production_zone": "Geria, Valladolid",
+    "variety": "florida fortuna"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "fraisier",
+    "material_type": "plantes",
+    "planting_zone": "alger",
+    "production_zone": "emilia romagna",
+    "variety": "Camarosa"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "Poland",
+    "known_name": "FRAISIER CULTIVE",
+    "material_type": "PLANTS DE FRAISES FRIGO PLARED 00955",
+    "planting_zone": "JIJEL, BLIDA ET TIPAZA",
+    "production_zone": "Polska, Poland",
+    "variety": "PL"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "Poland",
+    "known_name": "FRAISIER CULTIVE",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL, BLIDA ET TIPAZA",
+    "production_zone": "Polska, Poland",
+    "variety": "PLANTS DE FRAISES FRIGO PLARED 00955"
+  },
+  {
+    "company": "SARL AGRI HOUSE",
+    "company_name_ar": "",
+    "country_of_origin": "egypte",
+    "known_name": "PLANT DE  FRAISIER FRIGO",
+    "material_type": "PLANTES",
+    "planting_zone": "TERRITOIRE NATIONAL",
+    "production_zone": "egypte",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "MAZOUZI Mostefa, Concessionnaire Agricole, EAC N°29 EX DAS AKKOUCHE LARBI",
+    "company_name_ar": "",
+    "country_of_origin": "COTE D’IVOIRE",
+    "known_name": "BANANIER",
+    "material_type": "Plant in-vitro",
+    "planting_zone": "Sidi Fredj",
+    "production_zone": "Abidjan Plateau indénie 30 toussaint louverture",
+    "variety": "Grande Naine"
+  },
+  {
+    "company": "Nadhir hadid",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "Plantes",
+    "planting_zone": "El mahmel khenchela",
+    "production_zone": "Cesena",
+    "variety": "Red delicious m9 golden reminders m9"
+  },
+  {
+    "company": "SARL AGRI HOUSE",
+    "company_name_ar": "",
+    "country_of_origin": "ESPAGNE",
+    "known_name": "PLANT DE  FRAISIER FRIGO",
+    "material_type": "PLANTES",
+    "planting_zone": "TERRITOIRE NATIONAL",
+    "production_zone": "ESPAGNE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "SARL AGRI HOUSE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PLANT DE  FRAISIER FRIGO",
+    "material_type": "PLANTES",
+    "planting_zone": "TERRITOIRE NATIONAL",
+    "production_zone": "ITALIE",
+    "variety": "NABILA *A X500 -NABILA *BX800 -KAMILA *AX500- KAMILA*A X 600-KAMILA*A-X800- FLAMINIA *A X 500 -PARTHENOPE (r) CIVS115*AX500"
+  },
+  {
+    "company": "SARL CDAB",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "fraisier",
+    "material_type": "plantes",
+    "planting_zone": "alger",
+    "production_zone": "emilia romagna",
+    "variety": "Camarosa"
+  },
+  {
+    "company": "SARL green House",
+    "company_name_ar": "",
+    "country_of_origin": "Espagne",
+    "known_name": "fraise",
+    "material_type": "plantes congelés",
+    "planting_zone": "Tipaza BOURKIKA",
+    "production_zone": "Geria, Valladolid",
+    "variety": "fronteras /  fortuna / florida beauty/melissa"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL, BLIDA ET TIPAZA",
+    "production_zone": "FERRARA, ITALIE",
+    "variety": "PARTHENOPE (R) CIVS115* A X 500, PARTHENOPE (R) CIVS115* B X 800, , FLAMINIA* A X 500 , FLAMINIA* B X 800"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "PAYS BAS",
+    "known_name": "POMMIER",
+    "material_type": "PORTE-GREFFES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "GILDENWEG",
+    "variety": "MM106"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "PAYS BAS",
+    "known_name": "POMMIER",
+    "material_type": "PORTE-GREFFES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "GILDENWEG",
+    "variety": "MM106"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "VIGNE- KIWI",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "CESENA",
+    "variety": "ITALIA/140 REFFERI – HAYWARD"
+  },
+  {
+    "company": "Hadid nadhir",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "Plantes",
+    "planting_zone": "El mahmel khenchela",
+    "production_zone": "Cesena",
+    "variety": "Golden reinders Red delicious"
+  },
+  {
+    "company": "Eurl Agrivil",
+    "company_name_ar": "",
+    "country_of_origin": "THAILANDE",
+    "known_name": "PIMENT FORT",
+    "material_type": "Semences hybrides",
+    "planting_zone": "Alger",
+    "production_zone": "THAILANDE",
+    "variety": "FURNAS RZ F1"
+  },
+  {
+    "company": "Eurl Agrivil",
+    "company_name_ar": "",
+    "country_of_origin": "THAILANDE",
+    "known_name": "PIMENT FORT",
+    "material_type": "Semences hybrides",
+    "planting_zone": "Alger Alger",
+    "production_zone": "THAILANDE",
+    "variety": "ELMAKAM RZ F1"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne – Racinés de porte greffe",
+    "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
+    "planting_zone": "Territoire national",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne – Racinés de porte greffe"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER-POIRIER",
+    "material_type": "PLANTES;PORTE-GREFFES",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "BELGIQUE",
+    "variety": "GOLDEN REINDERS – PORTE GREFFE M9 – CONFERENCE"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "Pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "CESENA",
+    "variety": "Golden delicious"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "PECHER – ABRICOTIER",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "CESENA",
+    "variety": "MAYCREST – BERGERON"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "pommier",
+    "material_type": "PLANTES",
+    "planting_zone": "djelfa ain ouassara",
+    "production_zone": "BELGIQUE",
+    "variety": "GOLDEN DELICIEUS/m9"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POIRIER",
+    "material_type": "PLANTES",
+    "planting_zone": "DJELFA",
+    "production_zone": "TURKY",
+    "variety": "CONFERENCE"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "apple plants malus domestica",
+    "material_type": "plantes",
+    "planting_zone": "khemis meliana ain defla",
+    "production_zone": "cesena",
+    "variety": "apple plants malus domestica"
+  },
+  {
+    "company": "Agro Consulting International",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PALMIER DATTIER IN VITRO",
+    "material_type": "PLANTS IN VITRO",
+    "planting_zone": "Alger/cheraga",
+    "production_zone": "Cesena, Italie",
+    "variety": "MEDJOOL"
+  },
+  {
+    "company": "El nabta el khadra",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "Plant fruitier greffe",
+    "planting_zone": "الجزائر وضواحيها",
+    "production_zone": "Via Dell pesche",
+    "variety": "Golden delicious"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "vitis vinifera",
+    "material_type": "vitis vinifera",
+    "planting_zone": "tipaza boumerdes",
+    "production_zone": "cesena",
+    "variety": "vitis vinifera"
+  },
+  {
+    "company": "SARL CATM",
+    "company_name_ar": "",
+    "country_of_origin": "PAYS-BAS",
+    "known_name": "POMMIER",
+    "material_type": "PORTE-GREFFES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "FLEVOLAND",
+    "variety": "MM106"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "apple plants malus domestica",
+    "material_type": "plantes",
+    "planting_zone": "khemis meliana ain defla",
+    "production_zone": "forli cesena",
+    "variety": "apple plants malus domestica"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "Pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "CESENA",
+    "variety": "Golden delicious"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "Pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "CESENA",
+    "variety": "Golden delicious"
+  },
+  {
+    "company": "eurl nature green",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "vitis vinifera",
+    "material_type": "plantes",
+    "planting_zone": "tipaza boumerdes ain defla",
+    "production_zone": "cesena",
+    "variety": "vitis vinifera"
+  },
+  {
+    "company": "benamina djamel",
+    "company_name_ar": "",
+    "country_of_origin": "ITALY",
+    "known_name": "pommier",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "ITALY",
+    "variety": "pommier golden delicious"
+  },
+  {
+    "company": "BOUTINE BELLAHOUEL",
+    "company_name_ar": "",
+    "country_of_origin": "ITALY",
+    "known_name": "pommier",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "ITALY",
+    "variety": "pommier golden delicious"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "M09",
+    "material_type": "PORTE GREFFE",
+    "planting_zone": "DJELFA",
+    "production_zone": "LINDESTRAAT 22 -B-3570 BELGIQUE",
+    "variety": "M09"
+  },
+  {
+    "company": "SERSAR BELARBI",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "plantes de péchiers/plantes nectarine/plantes de poirriers/plantes de pommiers",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "Maycrest / Nectaross/ Conference/ Doyenne du comice /Early Red Gala / Granny Smith"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER M9+POMMIER GOLDEN REINDERS+COGNASSIER",
+    "material_type": "PORTE GREFFE+PLANTS",
+    "planting_zone": "SERSSOU BENHAR-AIN OUSSERA",
+    "production_zone": "LINDESTRAAT 22 -B-3570 BELGIQUE",
+    "variety": "M9+POMMIER GOLDEN REINDERS+COGNASSIER"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "Pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "CESENA",
+    "variety": "Golden delicious"
+  },
+  {
+    "company": "SARL CATM",
+    "company_name_ar": "",
+    "country_of_origin": "PAYS-BAS",
+    "known_name": "POMMIER",
+    "material_type": "PORTE-GREFFES",
+    "planting_zone": "SIDI BEL ABBES TABIA",
+    "production_zone": "FLEVOLAND",
+    "variety": "MM106"
+  },
+  {
+    "company": "benamina djamel",
+    "company_name_ar": "",
+    "country_of_origin": "ITALY",
+    "known_name": "serisier",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "ITALY",
+    "variety": "serisier GRAFTED CHERRY KORDIA /GRAFTED CHERRY GRACE STAR"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POIRIER. POMMIER. ABRICOTIER",
+    "material_type": "PLANTES;PORTE-GREFFES",
+    "planting_zone": "ALGER BLIDA BATNA",
+    "production_zone": "TURKY",
+    "variety": "GOLDEN DELICIEUS . LUIZET .HARROW GOLD"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "nectarine / cerisier / pommier / abricotier",
+    "material_type": "PLANTES;PORTE-GREFFES",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "TURKY",
+    "variety": "nectarine red 4 / kordia / marobolan b / port greffe pommier"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POIRIER. POMMIER. ABRICOTIER",
+    "material_type": "PLANTES;PORTE-GREFFES",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "TURKY",
+    "variety": "GOLDEN DELICIEUS . LUIZET .HARROW GOLD"
+  },
+  {
+    "company": "BOUAMRA OUAHID",
+    "company_name_ar": "",
+    "country_of_origin": "ITALY",
+    "known_name": "MALUS",
+    "material_type": "PLANTES",
+    "planting_zone": "WILAYA D’EL BAYADH",
+    "production_zone": "CESENA ITALY",
+    "variety": "Gala Schniqa schnico RED/M9 – Golden Reinders/M9 – Starking Delicious/M9 – Granny Smith/M9"
+  },
+  {
+    "company": "BOUAMRA OUAHID",
+    "company_name_ar": "",
+    "country_of_origin": "ITALY",
+    "known_name": "MALUS",
+    "material_type": "PLANTES",
+    "planting_zone": "WILAYA D’EL BAYADH",
+    "production_zone": "CESENA ITALY",
+    "variety": "Gala Schniqa schnico RED/M9 – Golden Reinders/M9 – Starking Delicious/M9 – Granny Smith/M9"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "POMMIER",
+    "material_type": "PLANTE",
+    "planting_zone": "DJELFA",
+    "production_zone": "FORLI- CESENA",
+    "variety": "GOLDEN DELICIEUS + GOLDEN B"
+  },
+  {
+    "company": "BOUTINE BELLAHOUEL",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "poirier",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "plants fruitiers certifés greffés"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA",
+    "production_zone": "CESENA",
+    "variety": "Gala shnico red M9/Royal red delicious M9/ Golden reinders  M9"
+  },
+  {
+    "company": "EURL",
+    "company_name_ar": "",
+    "country_of_origin": "USA",
+    "known_name": "MELON",
+    "material_type": "SEMENCES POTAGERES",
+    "planting_zone": "TOUTES REGIONS",
+    "production_zone": "USA",
+    "variety": "ECHANTILLON MARINEER.TADEUS.WMXPA1911.HMC632518"
+  },
+  {
+    "company": "SARL LES MOULINS ACHOUAK ET FRERES",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "plantes de péchiers/plantes nectarine/plantes de poirriers/plantes de pommiers",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "Maycrest / Nectaross/ Conference/  Doyenne du comice /Early Red Gala / Granny Smith"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "Pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "MILUTOVAC",
+    "variety": "GOLDEN DELICIEUS"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "Pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "MILUTOVAC",
+    "variety": "GOLDEN DELICIEUS"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "porte greffe",
+    "material_type": "PORTE GREFFE",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "GF677 PRUNUS PERSICA X PRUNUS AMYGDALUS"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "GF677+ ABRICOT",
+    "material_type": "PLANTE",
+    "planting_zone": "DJELFA",
+    "production_zone": "CESENA",
+    "variety": "GF677+ BERGERON"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pechier abricotier poirier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "liste jointe"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "POMMIER – PECHER",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "CESENA",
+    "variety": "2000 NABLARA – 2250 NABYRH – 1700 MAJESTIC PEARL – 2050 MONITIME – 20000 DELICIA – 10000 GALA STAR – 5000 GALA STAR – 16000 EARLY RED GALA – 500 EVEREST – 1000 GRANNY SMITH – 2000 GOLDEN REINDERS"
+  },
+  {
+    "company": "EURL",
+    "company_name_ar": "",
+    "country_of_origin": "USA",
+    "known_name": "MELON",
+    "material_type": "SEMENCES",
+    "planting_zone": "SEMENCES POTAGERES",
+    "production_zone": "USA",
+    "variety": "ECHANTILLON MARINEER.TADEUS.WMXPA1911.HMC632518"
+  },
+  {
+    "company": "SARL CDAB",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "porte greffe",
+    "material_type": "PORTE GREFFE",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "GF677 PRUNUS PERSICA X PRUNUS AMYGDALUS"
+  },
+  {
+    "company": "SARL AS FİLAHA",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier",
+    "material_type": "plants",
+    "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
+    "production_zone": "konya",
+    "variety": "royal gala (M9)"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIERS",
+    "material_type": "PLANTES",
+    "planting_zone": "BATNA- AIN DEFLA -SIDI BEL ABBES",
+    "production_zone": "KRUSEVAC SERBIE",
+    "variety": "GRANNY SMITH-GOLDEN DELICIUS -JONAGOLD -TOP RED"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIERS",
+    "material_type": "PLANTES",
+    "planting_zone": "BATNA- AIN DEFLA -SIDI BEL ABBES",
+    "production_zone": "KRUSEVAC SERBIE",
+    "variety": "GOLDEN-DELICIEUSE, GRANNY -SMITH"
+  },
+  {
+    "company": "BOUTINE BELLAHOUEL",
+    "company_name_ar": "",
+    "country_of_origin": "plants fruitiers certifiés greffés",
+    "known_name": "poirier",
+    "material_type": "plantes",
+    "planting_zone": "mascara",
+    "production_zone": "italie",
+    "variety": "POIRIER HAROVIN SUNDOWN\tFAROLD 87 CERTIFIÉ POIRIER CONFERENCE\tFAROLD 87 CERTIFIÉ POIRIER HARROW BOUNTY\tFAROLD 87 CERTIFIÉ POIRIER HARROW DELICIOUS\tFAROLD 87 CERTIFIÉ POIRIER WILLIAM\tFAROLD 87 CERTIFIÉ"
+  },
+  {
+    "company": "SARL AS FİLAHA",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier",
+    "material_type": "plants",
+    "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
+    "production_zone": "konya",
+    "variety": "royal gala (M9)"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "POMMIER – PECHER",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "CESENA",
+    "variety": "2000 NABLARA – 2250 NABYRH – 1700 MAJESTIC PEARL – 2050 MONITIME – 20000 DELICIA – 10000 GALA STAR – 5000 GALA STAR – 16000 EARLY RED GALA – 500 EVEREST – 1000 GRANNY SMITH – 2000 GOLDEN REINDERS"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIERS",
+    "material_type": "PLANTES",
+    "planting_zone": "BANTA- AIN DEFLA -SIDI BEL ABBES",
+    "production_zone": "KRUSEVAC SERBIE",
+    "variety": "GRANNY SMITH-GOLDEN DELICIUS -JONAGOLD -TOP RED"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIERS",
+    "material_type": "PLANTES",
+    "planting_zone": "BATNA- AIN DEFLA -SIDI BEL ABBES",
+    "production_zone": "KRUSEVAC SERBIE",
+    "variety": "GOLDEN-DELICIEUSE, GRANNY -SMITH"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pechier abricotier poirier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "liste jointe"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "CESENA",
+    "variety": "gala schinga schinco"
+  },
+  {
+    "company": "Sarl El Masa import/ export",
+    "company_name_ar": "",
+    "country_of_origin": "turkey",
+    "known_name": "gala",
+    "material_type": "plantes",
+    "planting_zone": "Blida ( al afroun )",
+    "production_zone": "inegol",
+    "variety": "gala"
+  },
+  {
+    "company": "BOUAMRA OUAHID",
+    "company_name_ar": "",
+    "country_of_origin": "ILALIE",
+    "known_name": "MALUS",
+    "material_type": "PLANTES",
+    "planting_zone": "WILAYA D’EL BAYADH",
+    "production_zone": "REGIONS VENETO ET EMILIA ROMAGNA",
+    "variety": "EARLY RED GALA, GRANNY SMITH EM9"
+  },
+  {
+    "company": "BOUAMRA OUAHID",
+    "company_name_ar": "",
+    "country_of_origin": "ILALIE",
+    "known_name": "MALUS",
+    "material_type": "PLANTES",
+    "planting_zone": "WILAYA D’EL BAYADH",
+    "production_zone": "REGIONS VENETO ET EMILIA ROMAGNA",
+    "variety": "EARLY RED GALA, GRANNY SMITH EM9"
+  },
+  {
+    "company": "BOUAMRA OUAHID",
+    "company_name_ar": "",
+    "country_of_origin": "ILALIE",
+    "known_name": "MALUS",
+    "material_type": "PLANTES",
+    "planting_zone": "WILAYA D’EL BAYADH",
+    "production_zone": "REGIONS VENETO ET EMILIA ROMAGNA",
+    "variety": "EARLY RED GALA, GRANNY SMITH EM9"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA",
+    "production_zone": "CESENA",
+    "variety": "Gala shnico red M9/Royal red delicious M9/ Golden reinders  M9"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "belgique",
+    "known_name": "pommier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "lichtenberglaan",
+    "variety": "royal gala golden delicious granny smith"
+  },
+  {
+    "company": "SARL AS FİLAHA",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier",
+    "material_type": "plants",
+    "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
+    "production_zone": "konya",
+    "variety": "royal gala (M9)"
+  },
+  {
+    "company": "copirative agrucol multie service elhidab",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "arboricole",
+    "material_type": "arboricol",
+    "planting_zone": "oum el bouaghi",
+    "production_zone": "SICILIA",
+    "variety": "vitis cardinal-vitis victoria-vitis mosca italia"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "belgique",
+    "known_name": "pommier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "lichtenberglaan",
+    "variety": "jonagold royal gala"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pechier abricotier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "maycrest   bergeron"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "porte greffe gf677+porte greffe abricotier+porte greffe prunier",
+    "material_type": "PLANTS PORTE GREFFE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "REGION EMILIA-ROMAGNA SEDE DI CESENA",
+    "variety": "GF677+MARIANA+MYROBOLAN"
+  },
+  {
+    "company": "Sarl PGP",
+    "company_name_ar": "",
+    "country_of_origin": "Serbie",
+    "known_name": "Pommier poirier",
+    "material_type": "Plante",
+    "planting_zone": "Mascara- khenchla",
+    "production_zone": "Milutovac",
+    "variety": "Golden delicious/M9 NAKB : conference/Ba29"
+  },
+  {
+    "company": "KARIM BOUSSOUALIM",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "pommier",
+    "material_type": "plantes",
+    "planting_zone": "wilaya Bordj Bou Arreridj commune de tixter",
+    "production_zone": "VENETO",
+    "variety": "gala schnico red m9/golden reinders m9/ starking delicious m9"
+  },
+  {
+    "company": "SARL COMPTOIR VERT",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POMMIER-POIRIER-ABRICOTIER-",
+    "material_type": "PLANTES;PORTE-GREFFES",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "TURKY",
+    "variety": "GALA SCHNIKO RED- HARROW GOLD- BULLIDA-ROOTSTOCK MYROBOLAN."
+  },
+  {
+    "company": "SARL COMPTOIR VERT",
+    "company_name_ar": "",
+    "country_of_origin": "TURKY",
+    "known_name": "POMMIER-POIRIER-ABRICOTIER-",
+    "material_type": "PLANTES;PORTE-GREFFES",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "TURKY",
+    "variety": "GALA SCHNIKO RED- HARROW CRISP- TEXAS- LUIZET-ROOTSTOCK M9-PORTE GREFFE  M9-PORTE GREFFE MM106"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIERS",
+    "material_type": "PLANTES",
+    "planting_zone": "BANTA- AIN DEFLA -SIDI BEL ABBES",
+    "production_zone": "KRUSEVAC SERBIE",
+    "variety": "FUJI-GOLDEN DELICIUS -JONAGOLD -TOP RED"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIERS",
+    "material_type": "PLANTES",
+    "planting_zone": "BANTA- AIN DEFLA -SIDI BEL ABBES",
+    "production_zone": "KRUSEVAC SERBIE",
+    "variety": "GOLDEN-DELICIEUSE, GRANNY -SMITH"
+  },
+  {
+    "company": "Yahiaoui Smail",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "pommier",
+    "material_type": "M09",
+    "planting_zone": "Zana el beida, Batna",
+    "production_zone": "Cesena",
+    "variety": "Gala Schnico red, golden reinders, starking delicious, granny smith"
+  },
+  {
+    "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "ARBORICOLE",
+    "material_type": "ARBORICOLE",
+    "planting_zone": "OUM EL BOUAGHI",
+    "production_zone": "Mačkovac",
+    "variety": "GOLDEN DELICIOUS – IDARED – GALA – GRANNY SMITH – WILLIAMS"
+  },
+  {
+    "company": "copirative agrucol multie service elhidab",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIA",
+    "known_name": "arboricole",
+    "material_type": "arboricol",
+    "planting_zone": "oum el bouaghi",
+    "production_zone": "SERBIA",
+    "variety": "GOLDEN DELICIOUS -IDRED-GALA-GRANNY SMITH-SANTA MARIA"
+  },
+  {
+    "company": "copirative agrucol multie service elhidab",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "arboricole",
+    "material_type": "arboricol",
+    "planting_zone": "oum el bouaghi",
+    "production_zone": "ITALIA",
+    "variety": "vitis cardinal-vitis victoria-vitis mosca italia"
+  },
+  {
+    "company": "SARL AGRO CONSULTING INTERNATIONAL",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "VOIR LISTE",
+    "material_type": "PLANTES ARBORICOLES",
+    "planting_zone": "NATIONAL",
+    "production_zone": "CESENA ITALIE",
+    "variety": "VOIR LISTE"
+  },
+  {
+    "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "VIGNE",
+    "material_type": "ARBORICOLE",
+    "planting_zone": "OUM EL BOUAGHI",
+    "production_zone": "CATANIA",
+    "variety": "VITIS CARDINAL- VITIS VICTORIA- VITIS MOSCA ITALIA"
+  },
+  {
+    "company": "SARL AS FİLAHA",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier",
+    "material_type": "plants",
+    "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
+    "production_zone": "konya",
+    "variety": "royal gala (M9)"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pommier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "early red gala granny smith"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne – Racinés de porte greffe",
+    "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
+    "planting_zone": "Territoire national",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne – Racinés de porte greffe"
+  },
+  {
+    "company": "EAC 97 Ex DAS Nezali Cherif ALLAM MOHAMED",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "VOIR LISTE",
+    "material_type": "plantes arboricoles",
+    "planting_zone": "Alger/cheraga",
+    "production_zone": "Cesena, Italie",
+    "variety": "VOIR LISTE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "BOUAMRA OUAHID",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "MALUS",
+    "material_type": "PLANTES",
+    "planting_zone": "WILAYA D’EL BAYADH",
+    "production_zone": "REGIONS VENETO ET EMILIA ROMAGNA",
+    "variety": "EARLY RED GALA, GRANNY SMITH EM9"
+  },
+  {
+    "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "ARBORICOLE",
+    "material_type": "ARBORICOLE",
+    "planting_zone": "OUM EL BOUAGHI",
+    "production_zone": "Mačkovac",
+    "variety": "GOLDEN DELICIOUS – IDARED – GALA – GRANNY SMITH – SANTA MARIA"
+  },
+  {
+    "company": "SADOUNI HAMZA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA COMMUNE M’SARA",
+    "production_zone": "CESENA",
+    "variety": "royal red delicious  M9 / golden reinders  M9"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "VIGNE",
+    "material_type": "PLANTE+PORTE GREFFE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "CESENA",
+    "variety": "VIGNE"
+  },
+  {
+    "company": "TALEB MOHAMED",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "ASTONI SUS CV STANLEY MIR  29C SCIONS AMANDIER PRUNIER STANLEY +ASTONI PES CV ORION GF677 CER SCIONS PECHER ORION",
+    "material_type": "PLANTES",
+    "planting_zone": "DJELFA AIN OUASSARA",
+    "production_zone": "ITALIE",
+    "variety": "STANLEY +ASTONI"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA-BOUHMAMA",
+    "production_zone": "CESENA",
+    "variety": "GALA SCHNICO RED/ROYAL RED DELICIOUS/GOLDEN REINDERS"
+  },
+  {
+    "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "VIGNE",
+    "material_type": "Végétale",
+    "planting_zone": "OUM EL BOUAGHI",
+    "production_zone": "MAIMONE 4 95011 CALATABIANO – ITALIE",
+    "variety": "Cardinal – Victoria – Mosca Italie"
+  },
+  {
+    "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "Pommier – Poirier",
+    "material_type": "Végétale",
+    "planting_zone": "OUM EL BOUAGHI",
+    "production_zone": "Mačkovac, 37000 Kruševac",
+    "variety": "Golden Délicieuse – Idared – Gala – Granny Smith – Santa Maria"
+  },
+  {
+    "company": "Nadhir hadid",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "Plantes",
+    "planting_zone": "El mahmel khenchela",
+    "production_zone": "Cesena",
+    "variety": "Malus domestica Royal RED delicious malus domestica golden reinders m9"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMME",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA-BOUHMAMA",
+    "production_zone": "CESENA",
+    "variety": "GALA SCHNICO RED/ROYAL RED DELICIOUS/GOLDEN REINDERS"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "pommier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "CESENA",
+    "variety": "gala schinga schinco"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "grece",
+    "known_name": "porte greffe",
+    "material_type": "PORTE GREFFE",
+    "planting_zone": "tiaret",
+    "production_zone": "ARTA",
+    "variety": "GF677 PRUNUS PERSICA X PRUNUS AMYGDALUS"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "grece",
+    "known_name": "abricotier pommier peche",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "MONOSPITA NAOUSSA",
+    "variety": "rouge du roussillon granny smith red haven"
+  },
+  {
+    "company": "SARL MAMMOUTH AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMME",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA-BOUHMAMA",
+    "production_zone": "CESENA",
+    "variety": "GALA SCHNICO RED/ROYAL RED DELICIOUS/GOLDEN REINDERS"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "CERISIER-PRUNIER-VIGNE-KIWI-PECHER-FIGUIER",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "CESENA",
+    "variety": "4000 HAYWARD – 1000 TOMURI P1 – 10000 ARRA 15/140 RUGGER – 10000 REGINA -10000 ORION/GF677 – 1000 FIGUIER – 10000 STANLY/MIR.29C – 5000 ITALIA/140 REGGERI)"
+  },
+  {
+    "company": "LAOUABDIA SELLAMI MOHAMED EL AZIZ",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pommier",
+    "material_type": "plante",
+    "planting_zone": "besbes al tarf",
+    "production_zone": "cesena",
+    "variety": "early red gala granny smith"
+  },
+  {
+    "company": "Yahiaoui Smail",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "pommier",
+    "material_type": "M09",
+    "planting_zone": "Boumia, Boulhilet et Zana el beida",
+    "production_zone": "Cesena",
+    "variety": "gala Schnico red, golden reinders, starking delicious, granny smith"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "Amandier Ferragnes",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "odemis izmir",
+    "variety": "FERRAGNES"
+  },
+  {
+    "company": "MENNAD ALI",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER, PECHIERS , POIRIERS",
+    "material_type": "PLANTS",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "ODEMIS/IZMIR",
+    "variety": "POMMIER GOLDEN DELICIOUS , POMMIER GRANNY SMITH , PECHIER DIXIRED, POIRIER CONFERENCE"
+  },
+  {
+    "company": "EL NABTA EL KHADRA",
+    "company_name_ar": "",
+    "country_of_origin": "PAYS-BAS",
+    "known_name": "PORTE GREFFE POMMIER",
+    "material_type": "PLANT FRUITIER PORTE GREFFE",
+    "planting_zone": "الجزائر و ضواحيها",
+    "production_zone": "PAYS-BAS",
+    "variety": "M9"
+  },
+  {
+    "company": "SARL BANE BALI AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "nectarine",
+    "material_type": "plantes",
+    "planting_zone": "oamri w.medea",
+    "production_zone": "cesena",
+    "variety": "nectaross"
+  },
+  {
+    "company": "SARL CATM AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "CERISIER-PRUNIER-VIGNE-KIWI-PECHER-FIGUIER",
+    "material_type": "PLANTES",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "CESENA",
+    "variety": "4000 HAYWARD – 1000 TOMURI P1 – 10000 ARRA 15/140 RUGGER – 10000 REGINA -10000 ORION/GF677 – 1000 FIGUIER – 10000 STANLY/MIR.29C – 5000 ITALIA/140 REGGERI)"
+  },
+  {
+    "company": "Comptoir vert",
+    "company_name_ar": "",
+    "country_of_origin": "Turquie",
+    "known_name": "Pommier poirier",
+    "material_type": "Plantes",
+    "planting_zone": "Alger Batna Skikda Djelfa",
+    "production_zone": "Turquie",
+    "variety": "Golden delicious M9 royal gala M9 harrow gold"
+  },
+  {
+    "company": "Comptoir vert",
+    "company_name_ar": "",
+    "country_of_origin": "Turquie",
+    "known_name": "Poirier abricot amandier nectarine",
+    "material_type": "Plants",
+    "planting_zone": "Blida Alger Batna Skikda Djelfa",
+    "production_zone": "Turquie",
+    "variety": "Harrow gold luziet Texas nectaire 4"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "nectarine abricot prune",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "nectaross bergeron fortune"
+  },
+  {
+    "company": "Agro Consulting International",
+    "company_name_ar": "",
+    "country_of_origin": "ESPAGNE",
+    "known_name": "PALMIER DATTIER IN VITRO",
+    "material_type": "PLANTS IN VITRO",
+    "planting_zone": "commune",
+    "production_zone": "ESPAGNE",
+    "variety": "MEDJOOL"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "PORTE GREFFE GF677",
+    "material_type": "Porte grefe",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "Cezena",
+    "variety": "PORTE GREFFE GF 677"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "nectarine peche malus poire abricot prune",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "nectaross maycrest early red gala granny smith doyenne de comice bergeron fortune"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne – Racinés de porte greffe",
+    "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
+    "planting_zone": "DIVERS",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne – Racinés de porte greffe"
+  },
+  {
+    "company": "PRODUCTION ARBRE POMMIER",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "REINDERS/M9 NAKB T337",
+    "material_type": "M9 NAKB T337",
+    "planting_zone": "SIDI DOUMA YOUB WILAYA DE SAIDA",
+    "production_zone": "CESENA",
+    "variety": "REINDERS"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pommier pecher poirier abricotier prunier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "maycrest conference early red gala granny smith bergeron fourtune"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pommier pecher poirier abricotier prunier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "crest conference early red gala granny smith bergeron fortune"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pommier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "early red gala"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pommier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "early red gala granny smith"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "belgique",
+    "known_name": "pommier",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "lichtenberglaan",
+    "variety": "royal gala golden delicious granny smith"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "abricot",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "bergeron"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "malus peche poirier abricot prune",
+    "material_type": "plante",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "maycrest conference early red gala granny smith bergeron fourtune"
+  },
+  {
+    "company": "EL NABTA EL KHADRA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PORTE GREFFE",
+    "material_type": "PLANT FRUITIER PORTE GREFFE",
+    "planting_zone": "BLIDA",
+    "production_zone": "CESENA VIA LORETO",
+    "variety": "GF677"
+  },
+  {
+    "company": "EL NABTA EL KHADRA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PECHER – POMMIER – PRUNIER – CERISIER – KIWI –  AMANDIER",
+    "material_type": "PLANT FRUITIER",
+    "planting_zone": "BLIDA",
+    "production_zone": "CESENA VIA LORETO",
+    "variety": "ORION – ROMESTAR – STANLEY – HAYWORD – FERRAGNES – LAPINS – GOLDEN DELICIOUS"
+  },
+  {
+    "company": "EURL STAR VEGETAL",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "POMMIER",
+    "material_type": "plantes",
+    "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
+    "production_zone": "SERBIE",
+    "variety": "GOLDEN DELICIOUS"
+  },
+  {
+    "company": "EXPLOITATION AGRICOLE BOUDJELLAL KAMEL",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "EXPLOITATION AGRICOLE BOUDJELLAL KAMEL – BAGGAGA -EL HAMMA -KHENCHELA",
+    "production_zone": "SILANDRO,SUD TYROL39028",
+    "variety": "GALA SHNICO RED, GOLDEN REINDERS,STARKING DELICIOUS,GRANNY SMITH"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "Belgique",
+    "known_name": "Pommier",
+    "material_type": "plantes",
+    "planting_zone": "tiaret",
+    "production_zone": "LICHTENBERGLAAN",
+    "variety": "ROYAL GALA GOLDEN DELICIOUS GRANNY SMITH   JONAGOLD"
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "Belgique",
+    "known_name": "Pommier",
+    "material_type": "plantes",
+    "planting_zone": "tiaret",
+    "production_zone": "LICHTENBERGLAAN",
+    "variety": "ROYAL GALA GOLDEN DELICIOUS GRANNY SMITH"
+  },
+  {
+    "company": "El Yourh TADMIT DJELFA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALY",
+    "known_name": "POMME",
+    "material_type": "M9",
+    "planting_zone": "TADMIT DJELFA",
+    "production_zone": "CORSO C.B CAVOUR N157 CESENA 47521",
+    "variety": "STAR KING DELICIOUS GALA SCHNICO RED GOLDEN REINDERS"
+  },
+  {
+    "company": "Ladj Ahmed.Arboriculteur",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Prunier ,pechers",
+    "material_type": "Plants greffes",
+    "planting_zone": "Djelida. Ain Defla",
+    "production_zone": "Cesena",
+    "variety": "Stanley, Orion , Romestar"
+  },
+  {
+    "company": "AMF GROUP",
+    "company_name_ar": "",
+    "country_of_origin": "TUNISIE",
+    "known_name": "PISTACHE VERA/PISTACHE ATLANTICA",
+    "material_type": "PLANTE BOTANIQUE VEGETAL",
+    "planting_zone": "wilaya de mesila commune mcif",
+    "production_zone": "TUNIS",
+    "variety": "VERA/ATLANTIC"
+  },
+  {
+    "company": "التعاونية الفلاحية حسب الفرع للتفاح تاموقادي",
+    "company_name_ar": "",
+    "country_of_origin": "ايطاليا",
+    "known_name": "التفاح",
+    "material_type": "شجيرة",
+    "planting_zone": "باتنة بلدية فم الطوب",
+    "production_zone": "Via cadelsette58/A_37041albaredo dadige(VR)",
+    "variety": "Galaschnico red. Golden rinders. Granny smith. Starking delicious"
+  },
+  {
+    "company": "التعاونية الفلاحية حسب الفرع للتفاح تاموقادي",
+    "company_name_ar": "",
+    "country_of_origin": "ايطاليا",
+    "known_name": "التفاح",
+    "material_type": "شجيرة",
+    "planting_zone": "باتنة بلدية فم الطوب",
+    "production_zone": "Via cadelsette58/A_37041albaredo dadige(VR)",
+    "variety": "Galaschnico red. Golden rinders. Granny smith. Starking delicious"
+  },
+  {
+    "company": "ghouini mohamed bilal",
+    "company_name_ar": "",
+    "country_of_origin": "italy",
+    "known_name": "pommier",
+    "material_type": "plantes",
+    "planting_zone": "wilaya de djelfa commune de benhar",
+    "production_zone": "Via del Mare, 4,  44039 Tresigallo (Ferrara), Italy",
+    "variety": "majesty/golden/sweet life"
+  },
+  {
+    "company": "AS filaha",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier",
+    "material_type": "plantes",
+    "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
+    "production_zone": "konya",
+    "variety": "royal gala (M9)"
+  },
+  {
+    "company": "AS filaha",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier",
+    "material_type": "plantes",
+    "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
+    "production_zone": "konya",
+    "variety": "royal gala (M9)"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne",
+    "material_type": "Plants de vigne greffés soudés",
+    "planting_zone": "Territoire national",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "MUSCAT ITALIA VCR10"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "SARL AGRO AVENIR",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "FORTUNA",
+    "material_type": "PLANTS",
+    "planting_zone": "TIPAZA",
+    "production_zone": "TANTA",
+    "variety": "FORTUNA FRIGO"
+  },
+  {
+    "company": "Eurl golden agri",
+    "company_name_ar": "",
+    "country_of_origin": "New zelande",
+    "known_name": "Petite poid",
+    "material_type": "Semence",
+    "planting_zone": "Relizane yellel",
+    "production_zone": "New zelande",
+    "variety": "Petite poid merveille de kalfidon -onward-utrillo"
+  },
+  {
+    "company": "SARL AGRO SIECLE",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Fraisier Cultivé",
+    "material_type": "Plants",
+    "planting_zone": "TIPAZA (CHAIBA ET BOURKIKA) JIJEL (SIDI ABD EL AZZIZ)",
+    "production_zone": "Regione Emilia Romagna",
+    "variety": "Plants Fraisiers Frigo Nabila (PBR)A Certificato QVI x500 .Plants Fraisiers Frigo Flamina (PBR)A Certificato QVI x500. Plants Fraisiers Frigo PARTHENOPE® CIVS 115 (PBR)A Certificato QVI x500. Plants Fraisiers Frigo PARTHENOPE® CIVS 115 (PBR)A- Certificato QVI x700. Plants Fraisiers Frigo PARTHENOPE® CIVS 115 (PBR)A- Certificato QVI x800."
+  },
+  {
+    "company": "SARL green House",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "fraise",
+    "material_type": "plantes congelés",
+    "planting_zone": "tipaza BOURKIKA",
+    "production_zone": "EL BAIHIRA  MANOUFIA",
+    "variety": "florida fortuna"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "SARL AGRO SIECLE",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Fraisier Cultivé",
+    "material_type": "Plants",
+    "planting_zone": "TIPAZA (CHAIBA ET BOURKIKA) JIJEL (SIDI ABD EL AZZIZ)",
+    "production_zone": "Regione Emilia Romagna",
+    "variety": "PLANTS DE FRAISIERS FRIGO :MELISSA SELECTION A (CAISSES 580 X 500 PLANTS) /MELISSA SELECTION A+(CAISSES 9 X 300 PLANTS)/MELISSA SELECTION A- (CAISSES 8 X 1000 PLANTS)/MARIMBELLA SELECTION A (CAISSES 325 X 600 PLANTS)/MARIMBELLA SELECTION A (CAISSES 110 X 500 PLANTS)/ROSSETA SELECTION A (CAISSES 100 X 500 PLANTS)"
+  },
+  {
+    "company": "SARL AGROSEMILLAS",
+    "company_name_ar": "",
+    "country_of_origin": "POLOGNE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTS",
+    "planting_zone": "MOSTAGANEM, ALGER, BOUMERDES, BISKRA",
+    "production_zone": "POLOGNE",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL AGROSEMILLAS",
+    "company_name_ar": "",
+    "country_of_origin": "POLOGNE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTS",
+    "planting_zone": "MOSTAGANEM, ALGER, BOUMERDES, BISKRA",
+    "production_zone": "POLOGNE",
+    "variety": "SABRINA"
+  },
+  {
+    "company": "SARL AGROSEMILLAS",
+    "company_name_ar": "",
+    "country_of_origin": "POLOGNE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTS",
+    "planting_zone": "MOSTAGANEM, ALGER, BOUMERDES, BISKRA",
+    "production_zone": "POLOGNE",
+    "variety": "PLARED 0955"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Fraise",
+    "material_type": "Acetamipride+Deltamethrine+Difeconazole+Ciflufenamide",
+    "planting_zone": "Jijel, Blida et Tipaza",
+    "production_zone": "FERRARA, Italie",
+    "variety": "PARTHENOPE (R) CIVS115* A X 500, PARTHENOPE (R) CIVS115* B X 800, NABILA* A X 500, NABILA* B X 800, FLAMINIA* A X 500 et FLAMINIA* B X 800"
+  },
+  {
+    "company": "SARL AGRI HOUSE",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "PLANT FRAISIER FRIGO",
+    "material_type": "PLANTES",
+    "planting_zone": "TERRITOIRE NATIONAL",
+    "production_zone": "ITALIE",
+    "variety": "Parthenope civs R 115 A , PERTHENOPE R civs115 B, Nabila A+, NABILA A, Nabila B ,Flaminia A, FLAMINIA B, KAMILA A ."
+  },
+  {
+    "company": "Sarl agri house",
+    "company_name_ar": "",
+    "country_of_origin": "Egypte",
+    "known_name": "Plant frasier frigo",
+    "material_type": "Plantes",
+    "planting_zone": "Territoire national",
+    "production_zone": "Egypte",
+    "variety": "Fortuna"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "SWEET SENSATION"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FRAISIER"
+  },
+  {
+    "company": "EURL AGRISMART",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "PLANT FRAISIER",
+    "material_type": "PLANT",
+    "planting_zone": "TERRITOIR NATIONAL",
+    "production_zone": "EGYPTE",
+    "variety": "FLORIDA FORTUNA"
+  },
+  {
+    "company": "SARL AGRO AVENIR",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "FORTUNA",
+    "material_type": "PLANTS",
+    "planting_zone": "TIPAZA",
+    "production_zone": "FERRARA",
+    "variety": "FORTUNA FRIGO"
+  },
+  {
+    "company": "SARL GREEN OASIS",
+    "company_name_ar": "",
+    "country_of_origin": "POLOGNE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL BLIDA TIPAZA",
+    "production_zone": "POLOGNE",
+    "variety": "PLARED 0955 ET SABRINA"
+  },
+  {
+    "company": "SARL GREEN OASIS",
+    "company_name_ar": "",
+    "country_of_origin": "POLOGNE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTS",
+    "planting_zone": "JIJEL BLIDA TIPAZA",
+    "production_zone": "POLOGNE",
+    "variety": "SABRINA"
+  },
+  {
+    "company": "SARL GREEN OASIS",
+    "company_name_ar": "",
+    "country_of_origin": "POLOGNE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTS",
+    "planting_zone": "BLIDA JIJEL TIPAZA SKIKDA",
+    "production_zone": "POLOGNE",
+    "variety": "PLARED 0955"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "Pologne",
+    "known_name": "Fraise",
+    "material_type": "Abamectin 1.88%+Deltamethrin 4.48%",
+    "planting_zone": "Jijel, Blida et Tipaza",
+    "production_zone": "Gniezno, Pologne",
+    "variety": "SABRINA & PLARED 0955"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "Pologne",
+    "known_name": "Fraise",
+    "material_type": "Abamectin 1.88%+Deltamethrin 4.48%",
+    "planting_zone": "Jijel, Blida et Tipaza",
+    "production_zone": "Gniezno, Pologne",
+    "variety": "SABRINA"
+  },
+  {
+    "company": "SARL TECNO GREEN SERVICE",
+    "company_name_ar": "",
+    "country_of_origin": "Pologne",
+    "known_name": "Fraise",
+    "material_type": "Abamectin 1.88%+Deltamethrin 4.48%",
+    "planting_zone": "Jijel, Blida et Tipaza",
+    "production_zone": "Gniezno, Pologne",
+    "variety": "SABRINA & PLARED 0955"
+  },
+  {
+    "company": "SARL GFK AGROIND",
+    "company_name_ar": "",
+    "country_of_origin": "Tunisie",
+    "known_name": "Koroneiki",
+    "material_type": "plant d’olivier",
+    "planting_zone": "Mostaganem – El Hessiane",
+    "production_zone": "Naassen Ben Arous",
+    "variety": "Koroneiki"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPTE",
+    "known_name": "FRAISE",
+    "material_type": "PLANTES",
+    "planting_zone": "TIPAZA COMMUNE BOURKIKA",
+    "production_zone": "ISMAILIA",
+    "variety": "FORTUNA"
+  },
+  {
+    "company": "SARL RIGHT GREEN",
+    "company_name_ar": "",
+    "country_of_origin": "EGYPT",
+    "known_name": "FRAISE",
+    "material_type": "PLANTES",
+    "planting_zone": "WILAYA DE TIPAZA COMMUNE BOURKIKA",
+    "production_zone": "ISMAILIA",
+    "variety": "FORTUNA"
+  },
+  {
+    "company": "SARL BANE BALI AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "nectarine",
+    "material_type": "plante",
+    "planting_zone": "Blida, commune de bougara",
+    "production_zone": "cesena",
+    "variety": "nectaross"
+  },
+  {
+    "company": "SARL BANE BALI AGRO",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "nectarine",
+    "material_type": "plante",
+    "planting_zone": "Bougara wilaya de blida",
+    "production_zone": "cesena",
+    "variety": "nectaross"
+  },
+  {
+    "company": "BENMOUNA MOHAMMED",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "VIGNE",
+    "material_type": "PLANTES",
+    "planting_zone": "Zone MHAGUEN.Commune de Maghnia. TLEMCEN",
+    "production_zone": "FRIULI VENEZIA GIULIA",
+    "variety": "ITALIA VCR10"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER+M9 CLONE",
+    "material_type": "PLANTS",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "CESENA",
+    "variety": "M9 CLONE+GOLDEN REINDERS/M9"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMMIER+M9 CLONE",
+    "material_type": "PLANTS",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "FERRARA",
+    "variety": "M9 CLONE+GOLDEN REINDERS/M9"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "TUNISIE",
+    "known_name": "GF677+MYROBOLAN",
+    "material_type": "PORTE GREFFE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "BEN AROUS",
+    "variety": "GF677+MYROBOLAN"
+  },
+  {
+    "company": "SARL COMPTOIRE VERT",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER-POIRIER",
+    "material_type": "plantes",
+    "planting_zone": "BLIDA – ALGER – BOUMERDES – SKIKDA-BATNA-SIDI BELABAS1502",
+    "production_zone": "ISPARTA",
+    "variety": "GOLDEN DELICIOUS-HARROW GOLD"
+  },
+  {
+    "company": "SARL COMPTOIR VERT",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER-POIRIER",
+    "material_type": "plantes",
+    "planting_zone": "BLIDA – ALGER – BOUMERDES – SKIKDA-BATNA-SIDI BELABAS1502",
+    "production_zone": "ISPARTA",
+    "variety": "GOLDEN DELICIOUS-HARROW GOLD"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "grenadier / pistachier",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "almond rootstock GF 677",
+    "material_type": "Porte grefe",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "ADANA",
+    "variety": "almond rootstock GF 677"
+  },
+  {
+    "company": "SARL COMPTOIR VERT",
+    "company_name_ar": "",
+    "country_of_origin": "BELGIQUE",
+    "known_name": "POMMIER",
+    "material_type": "PLANTES",
+    "planting_zone": "DJELFA",
+    "production_zone": "LIMBURG BELGIQUE",
+    "variety": "ROYAL GALA,REDDELICIOUS,GOLDEN DELICIOUS,GRANNY SMITH"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "SPILIMBERGO",
+    "variety": "victoria crsa"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "SPILIMBERGO",
+    "variety": "MUSCAT ITALIA"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "SPILIMBERGO",
+    "variety": "MUSCAT ITALIA"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "SPILIMBERGO",
+    "variety": "victoria crsa"
+  },
+  {
+    "company": "SARL agricole consulting nord africain”ACNA”",
+    "company_name_ar": "",
+    "country_of_origin": "Egypt",
+    "known_name": "persil-coriandre",
+    "material_type": "petit semences",
+    "planting_zone": "Est-Ouest-Centre-Sud",
+    "production_zone": "Giza-Egypt",
+    "variety": "Persil-coriandre."
+  },
+  {
+    "company": "sarl nsda",
+    "company_name_ar": "",
+    "country_of_origin": "Belgique",
+    "known_name": "Pommier",
+    "material_type": "plantes",
+    "planting_zone": "tiaret",
+    "production_zone": "LICHTENBERGLAAN",
+    "variety": "Golden delicious granny smith"
+  },
+  {
+    "company": "SARL COMTOIR VERT",
+    "company_name_ar": "",
+    "country_of_origin": "turquie",
+    "known_name": "pommier , POIRIER",
+    "material_type": "plantes",
+    "planting_zone": "djela , Tebessa",
+    "production_zone": "Isparta",
+    "variety": "Golden Delicious , Harrow Gold"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL agricole consulting nord africain”ACNA”",
+    "company_name_ar": "",
+    "country_of_origin": "Egypt",
+    "known_name": "persil-coriandre",
+    "material_type": "petit semences",
+    "planting_zone": "Est-Ouest-Centre-Sud",
+    "production_zone": "Giza-Egypt",
+    "variety": "Persil-coriandre."
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIA",
+    "known_name": "POMMIER",
+    "material_type": "PLANTE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "CESENA",
+    "variety": "GRANNY SMITH + GOLDEN"
+  },
+  {
+    "company": "Fellah",
+    "company_name_ar": "",
+    "country_of_origin": "Italie",
+    "known_name": "Pommier",
+    "material_type": "M9",
+    "planting_zone": "Boumia et Boulhilet",
+    "production_zone": "CESENA",
+    "variety": "Granny Smith et Golden delicious"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "itali",
+    "known_name": "VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "SPILIMBERGO",
+    "variety": "victoria crsa"
+  },
+  {
+    "company": "SARL agricole consulting nord africain”ACNA”",
+    "company_name_ar": "",
+    "country_of_origin": "Egypt",
+    "known_name": "persil-coriandre",
+    "material_type": "semence",
+    "planting_zone": "Est-Ouest-Centre-Sud",
+    "production_zone": "Giza-Egypt",
+    "variety": "Persil-coriandre."
+  },
+  {
+    "company": "SARL agricole consulting nord africain”ACNA”",
+    "company_name_ar": "",
+    "country_of_origin": "Egypt",
+    "known_name": "maïs",
+    "material_type": "semence",
+    "planting_zone": "Est-Ouest-Centre-Sud",
+    "production_zone": "Giza-Egypt",
+    "variety": "maïs blanc hybride trio 321 -maïs blanc hybride trio 324- maïs jaune hybride trio 352."
+  },
+  {
+    "company": "SARL agricole consulting nord africain”ACNA”",
+    "company_name_ar": "",
+    "country_of_origin": "Egypt",
+    "known_name": "maïs-persil-coriandre",
+    "material_type": "semence",
+    "planting_zone": "Est-Ouest-Centre-Sud",
+    "production_zone": "Giza-Egypt",
+    "variety": "maïs blanc hybride trio 321 -maïs blanc hybride trio 324- maïs jaune hybride trio 352-Persil-coriandre."
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "avocatier/pistachier",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "/"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "pommier/poirier",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "GRECE",
+    "known_name": "VIGNE",
+    "material_type": "PLANTE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "LEONTION CORINTHIA",
+    "variety": "VIGNE"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne – Racinés de porte greffe",
+    "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
+    "planting_zone": "Territoire national",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne – Racinés de porte greffe"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "SERBIE",
+    "known_name": "VIGNE",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "MILUTOVAC",
+    "variety": "MUSCAT ITALIA"
+  },
+  {
+    "company": "SARL SRID GENETICS",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "Vigne – Racinés de porte greffe",
+    "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
+    "planting_zone": "DIVERS",
+    "production_zone": "RAUSCEDO, site dans la région FRIULI NENEZIA GIULIA",
+    "variety": "Vigne – Racinés de porte greffe"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "GRECE",
+    "known_name": "VIGNE",
+    "material_type": "PLANTE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "LEONTION CORINTHIA",
+    "variety": "VIGNE"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "GRECE",
+    "known_name": "VIGNE",
+    "material_type": "PLANTE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "LEONTION CORINTHIA",
+    "variety": "VIGNE"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "GRECE",
+    "known_name": "VIGNE",
+    "material_type": "PLANTE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "LEONTION CORINTHIA",
+    "variety": "VIGNE"
+  },
+  {
+    "company": "SARL NSDA",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "Pommier",
+    "material_type": "plantes",
+    "planting_zone": "tiaret",
+    "production_zone": "cesena",
+    "variety": "voir piece jointe"
+  },
+  {
+    "company": "SARL COMPTOIR VERT",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "Pommier ; Abricotier",
+    "material_type": "plantes",
+    "planting_zone": "BLIDA ; SIDIBELABBES ; CONSTANTINE ; BATNA ; TEBESSA ; SETIF ;",
+    "production_zone": "ISPARTA",
+    "variety": "pommier golden delicious ; Abricotier Luizet"
+  },
+  {
+    "company": "SARL COMPTOIR VERT",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "Pommier ; Pecher",
+    "material_type": "plantes",
+    "planting_zone": "BLIDA ; SIDIBELABBES ; CONSTANTINE ; BATNA ; TEBESSA ; SETIF ;",
+    "production_zone": "ISPARTA",
+    "variety": "pommier cardinal ; pecher cardinal"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "ABRICOTIER",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "APRICOT CV BERGERON"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "POMMIER",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "italie",
+    "variety": "PAJAM 20 CEPLAND 5/7 mm ET 7/9mm"
+  },
+  {
+    "company": "SARL agricole consulting nord africain",
+    "company_name_ar": "",
+    "country_of_origin": "Egypt",
+    "known_name": "maïs-persil-coriandre",
+    "material_type": "semence",
+    "planting_zone": "Est-Ouest-Centre-Sud",
+    "production_zone": "Giza-Egypt",
+    "variety": "maïs blanc hybride trio 321 -maïs blanc hybride trio 324- maïs jaune hybride trio 352-Persil-coriandre."
+  },
+  {
+    "company": "SADOUNI HAMZA",
+    "company_name_ar": "",
+    "country_of_origin": "ITALIE",
+    "known_name": "POMME",
+    "material_type": "PLANTES",
+    "planting_zone": "KHENCHELA COMMUNE M’SARA",
+    "production_zone": "CESENA",
+    "variety": "GRANNY SMITH M9 / ROYAL RED DELICIOUS M9"
+  },
+  {
+    "company": "EURL LAHCENE FERAH TRADING",
+    "company_name_ar": "",
+    "country_of_origin": "EQUATEUR",
+    "known_name": "BANANE",
+    "material_type": "FRUIT",
+    "planting_zone": "Oued Athmenia, Mila",
+    "production_zone": "GUAYAS",
+    "variety": "CAVENDISH"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "Amandier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "odemis izmir",
+    "variety": "FERRAGANES"
+  },
+  {
+    "company": "SARL PEPINIERE SAULA",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "Amandier",
+    "material_type": "PLANTS",
+    "planting_zone": "ZERALDA- ALGER",
+    "production_zone": "odemis izmir",
+    "variety": "FERRAGANES"
+  },
+  {
+    "company": "Mennad ali",
+    "company_name_ar": "",
+    "country_of_origin": "TURQUIE",
+    "known_name": "POMMIER-PÊCHERS-POIRIERS",
+    "material_type": "Plants",
+    "planting_zone": "SIDI BEL ABBES",
+    "production_zone": "ODEMIS/IZMIR",
+    "variety": "Pommier Golden Delicious -Pêchers Dixired-Poiriers Farold"
+  },
+  {
+    "company": "SARL BPI ENH DOUDAH",
+    "company_name_ar": "",
+    "country_of_origin": "italie",
+    "known_name": "VOIR ANNEXE",
+    "material_type": "PLANTS",
+    "planting_zone": "BOUMERDES",
+    "production_zone": "CCESINA",
+    "variety": "VOIR ANNEXE"
+  },
+  {
+    "company": "EURL ELAVISA",
+    "company_name_ar": "",
+    "country_of_origin": "GRECE",
+    "known_name": "PECHE, ABRICOT",
+    "material_type": "PLANTE",
+    "planting_zone": "BENHAR W.DJLFA",
+    "production_zone": "MONOSPITA NAOUSSA IMATHIAS",
+    "variety": "ABRICOTIER BERGERON, PECHIER RED HAVEN"
+  }
+]
