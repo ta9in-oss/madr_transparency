@@ -28,6 +28,14 @@
     direction: rtl;
   }
 
+  /* SVG uses its own coordinate system — keep LTR so text renders correctly.
+     The chart component handles RTL layout via coordinate math, not CSS direction. */
+  html[lang="ar"] svg,
+  html[lang="ar"] svg * {
+    direction: ltr;
+    font-family: ui-monospace, monospace;
+  }
+
   h1, h2, h3, h4, h5, h6 {
     font-family: theme('fontFamily.display');
     font-weight: 700;
