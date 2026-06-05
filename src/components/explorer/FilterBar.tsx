@@ -10,9 +10,10 @@ export function FilterBar({ options, selected, onChange, placeholder }: Props) {
 
   return (
     <select
+      dir="rtl"
       value={selected}
       onChange={(e) => onChange(e.target.value)}
-      className="py-2 px-3 text-sm bg-surface border border-line rounded text-ink focus:border-forest focus:outline-none min-w-[140px]"
+      className="py-2 px-3 text-sm bg-surface border border-line rounded text-ink focus:border-forest focus:outline-none min-w-[140px] cursor-pointer"
     >
       <option value="">{placeholder}</option>
       {options.map((opt) => (

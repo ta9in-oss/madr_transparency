@@ -2,7 +2,6 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/shared/SiteHeader.astro';
 import SiteFooter from '../components/shared/SiteFooter.astro';
-import { StatCard } from '../components/shared/StatCard';
 import { t } from '../lib/i18n';
 import {
   loadAgrochemicals,
@@ -39,6 +38,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch1_lead'),
     href:  '/dependency',
     count: plantProducts.length + seedlings.length + seeds.length + potatoSeeds.length,
+    hook:  'الصين أولاً. أمريكا ثانياً. الجزائر لا تزرع بذورها.',
   },
   {
     num:   t(lang, 'chapters.ch2_num'),
@@ -46,6 +46,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch2_lead'),
     href:  '/chemicals',
     count: agrochemicals.length,
+    hook:  '900 منتج من إسبانيا وحدها. ما الذي يُرش على طماطمك؟',
   },
   {
     num:   t(lang, 'chapters.ch3_num'),
@@ -53,6 +54,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch3_lead'),
     href:  '/players',
     count: totalRecords,
+    hook:  'شركة واحدة = 448 رخصة. من يتحكم في سلسلة غذائنا؟',
   },
   {
     num:   t(lang, 'chapters.ch4_num'),
@@ -60,6 +62,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch4_lead'),
     href:  '/veterinary',
     count: vetAuths.length + vetDistributors.length + vetImporters.length,
+    hook:  '19 ولاية بلا دواء بيطري. المواشي في الهامش.',
   },
 ];
 ---
@@ -67,61 +70,93 @@ const chapters = [
 <BaseLayout title={t(lang, 'home.title')} lang={lang}>
   <SiteHeader lang={lang} />
 
-  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
+  <main class="flex-1">
 
     <!-- Hero -->
-    <section class="mb-16 max-w-3xl">
-      <h1 class="font-display font-bold text-display-lg text-ink leading-tight mb-4">
-        {t(lang, 'home.title')}
-      </h1>
-      <p class="text-base text-muted leading-relaxed mb-8 font-body">
-        {t(lang, 'home.subtitle')}
-      </p>
-      <div class="flex flex-wrap gap-3">
-        <a
-          href="/chemicals"
-          class="inline-flex items-center px-5 py-2.5 bg-forest text-paper font-body text-sm rounded hover:bg-forest-dark transition-colors"
-        >
-          {t(lang, 'home.cta_explore')}
-        </a>
-        <a
-          href="/dependency"
-          class="inline-flex items-center px-5 py-2.5 border border-line text-ink font-body text-sm rounded hover:bg-surface transition-colors"
-        >
-          {t(lang, 'home.cta_story')}
-        </a>
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 pt-16 pb-12">
+      <div class="max-w-3xl">
+        <p class="font-mono text-sm text-forest tracking-widest uppercase mb-4">تحقيق بيانات · وزارة الفلاحة الجزائرية</p>
+        <h1 class="font-display font-bold text-display-lg text-ink leading-tight mb-6">
+          {t(lang, 'home.title')}
+        </h1>
+        <p class="text-lg text-muted leading-relaxed mb-8 font-body max-w-2xl">
+          {t(lang, 'home.subtitle')}
+        </p>
+        <div class="flex flex-wrap gap-3">
+          <a
+            href="/chemicals"
+            class="inline-flex items-center px-5 py-2.5 bg-forest text-paper font-body text-sm rounded hover:bg-forest-dark transition-colors"
+          >
+            {t(lang, 'home.cta_explore')} →
+          </a>
+          <a
+            href="/dependency"
+            class="inline-flex items-center px-5 py-2.5 border border-line text-ink font-body text-sm rounded hover:bg-surface transition-colors"
+          >
+            {t(lang, 'home.cta_story')}
+          </a>
+        </div>
       </div>
     </section>
 
-    <!-- Stats row -->
-    <section class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-16">
-      <StatCard value={agrochemicals.length}   label={t(lang, 'stats.agrochemicals')} accent />
-      <StatCard value={seeds.length}            label={t(lang, 'stats.seeds')} />
-      <StatCard value={plantProducts.length}    label={t(lang, 'stats.fruit_imports')} />
-      <StatCard value={vetAuths.length + vetDistributors.length + vetImporters.length} label={t(lang, 'stats.vet_records')} />
+    <!-- Shock stats bar -->
+    <section class="border-y border-line bg-surface">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 grid grid-cols-2 sm:grid-cols-4 gap-0 divide-x divide-line rtl:divide-x-reverse">
+        <div class="px-6 first:ps-0 last:pe-0">
+          <div class="font-mono font-bold text-forest text-3xl sm:text-4xl tabular-nums">{totalRecords.toLocaleString('ar-DZ')}</div>
+          <div class="text-xs text-muted font-body mt-1">{t(lang, 'home.total_records')}</div>
+        </div>
+        <div class="px-6">
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">{agrochemicals.length.toLocaleString('ar-DZ')}</div>
+          <div class="text-xs text-muted font-body mt-1">{t(lang, 'stats.agrochemicals')}</div>
+        </div>
+        <div class="px-6">
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">39</div>
+          <div class="text-xs text-muted font-body mt-1">ولاية من 58 لديها توزيع بيطري</div>
+        </div>
+        <div class="px-6">
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">448</div>
+          <div class="text-xs text-muted font-body mt-1">رخصة لشركة واحدة (PROFERT)</div>
+        </div>
+      </div>
     </section>
 
     <!-- Chapter cards -->
-    <section>
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-14">
       <div class="grid sm:grid-cols-2 gap-5">
-        {chapters.map(({ num, title, lead, href, count }) => (
+        {chapters.map(({ num, title, lead, href, count, hook }) => (
           <a
             href={href}
-            class="group flex flex-col gap-3 p-6 bg-surface border border-line rounded-lg hover:border-forest transition-colors"
+            class="group flex flex-col gap-4 p-6 bg-surface border border-line rounded-lg hover:border-forest hover:bg-white transition-all"
           >
             <div class="flex items-baseline justify-between">
-              <span class="font-mono text-data text-forest tracking-widest">{num}</span>
-              <span class="font-mono text-data text-muted tabular-nums">{count.toLocaleString('ar-DZ')}</span>
+              <span class="font-mono text-xs text-forest tracking-widest uppercase">{num}</span>
+              <span class="font-mono text-xs text-muted tabular-nums">{count.toLocaleString('ar-DZ')} سجل</span>
             </div>
-            <h2 class="font-display font-bold text-display-sm text-ink group-hover:text-forest transition-colors">
-              {title}
-            </h2>
-            <p class="text-sm text-muted leading-relaxed font-body">{lead}</p>
-            <span class="text-sm text-forest font-body mt-auto">
-              {t(lang, 'chapters.explore')} →
+            <div>
+              <h2 class="font-display font-bold text-xl text-ink group-hover:text-forest transition-colors mb-2">
+                {title}
+              </h2>
+              <p class="text-sm text-forest font-mono font-medium mb-3">{hook}</p>
+              <p class="text-sm text-muted leading-relaxed font-body">{lead}</p>
+            </div>
+            <span class="text-sm text-forest font-body mt-auto flex items-center gap-1">
+              {t(lang, 'chapters.explore')} <span class="group-hover:translate-x-1 rtl:group-hover:-translate-x-1 transition-transform inline-block">←</span>
             </span>
           </a>
         ))}
+      </div>
+    </section>
+
+    <!-- Methodology note -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-14">
+      <div class="border border-line rounded-lg p-6 bg-surface max-w-2xl">
+        <p class="font-mono text-xs text-forest tracking-widest uppercase mb-3">المنهجية</p>
+        <p class="text-sm text-muted font-body leading-relaxed">
+          البيانات مستخرجة من صفحة الشفافية على موقع وزارة الفلاحة والتنمية الريفية الجزائرية.
+          تمت معالجتها وهيكلتها برمجياً. آخر تحديث يوليو 2025.
+          <a href="https://github.com/ta9in-oss/madr_transparency" target="_blank" rel="noopener noreferrer" class="text-forest hover:text-forest-dark ms-1">← المصدر البرمجي مفتوح</a>
+        </p>
       </div>
     </section>
 
