@@ -54,7 +54,7 @@ export function DataTable({ rows, columns, categoryKey, noResults = '—' }: Pro
                   {columns.map((col) => (
                     <td
                       key={col.key}
-                      className={`px-4 py-2.5 ${col.mono ? 'font-mono text-data' : 'text-ink'}`}
+                      className={`px-4 py-2.5 text-start ${col.mono ? 'font-mono text-data' : 'text-ink'}`}
                     >
                       {row[col.key] ?? ''}
                     </td>

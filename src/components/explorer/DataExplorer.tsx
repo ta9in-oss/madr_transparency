@@ -118,7 +118,7 @@ export function DataExplorer({
           >
             {i18n.prev}
           </button>
-          <span className="text-sm text-muted font-mono">
+          <span className="text-sm text-muted font-mono" dir="ltr">
             {page} / {totalPages}
           </span>
           <button

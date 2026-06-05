@@ -66,11 +66,11 @@ export function HorizontalBarChart({
   );
 
   return (
-    <div className="w-full overflow-x-auto">
+    <div className="w-full overflow-x-auto" style={{ direction: 'ltr' }}>
       {title && (
-        <p className="text-sm font-medium text-ink mb-2">{title}</p>
+        <p className="text-sm font-medium text-ink mb-2" style={{ direction: 'inherit' }}>{title}</p>
       )}
-      <svg width={width} height={height}>
+      <svg width={width} height={height} style={{ direction: 'ltr' }}>
         <Group left={MARGIN.left} top={MARGIN.top}>
           {sorted.map((d, i) => {
             const barY = yScale(d.label) ?? 0;
