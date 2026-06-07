@@ -46,7 +46,7 @@ const explorerRows = records.map(r => ({
   product:   r.productName,
   substance: r.activeSubstance,
   category:  r.category,
-  origin:    r.countryOfOrigin,
+  origin:    countryName(r.countryOfOrigin, lang),
 }));
 
 const explorerColumns = [

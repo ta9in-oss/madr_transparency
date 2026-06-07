@@ -8,7 +8,7 @@ import type {
   VetDistributor,
   VetMedicineImporter,
 } from './types';
-import { normalizeChemicalCategory, aggregateByCompany } from './normalize';
+import { normalizeChemicalCategory, normalizePlantCategory, aggregateByCompany } from './normalize';
 export type { CompanyStat } from './normalize';
 
 interface RawAgrochemical {
@@ -113,7 +113,7 @@ export function loadPlantProducts(): PlantProduct[] {
     variety: r.variety,
     countryOfOrigin: r.country_of_origin,
     productionZone: r.production_zone,
-    category: r.category,
+    category: normalizePlantCategory(r.category),
   }));
 }
 

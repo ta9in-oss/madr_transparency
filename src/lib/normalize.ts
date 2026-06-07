@@ -202,6 +202,46 @@ export function normalizeChemicalCategory(raw: string | undefined | null): strin
   return cleaned || 'Non classifié';
 }
 
+// ─── Plant product category normalization ────────────────────────────────────
+// 90+ raw variants (mostly banana chaos) → 6 canonical groups
+
+export function normalizePlantCategory(raw: string | undefined | null): string {
+  if (!raw) return 'Autre';
+  const u = raw.trim()
+    .toUpperCase()
+    .replace(/[''ʼʻ′`‘’]/g, "'")
+    .replace(/\s+/g, ' ');
+
+  if (!u) return 'Autre';
+
+  // Garbage / uncategorized entries
+  if (/^[.\/?…]$/.test(u) || ['NON', 'OUI', 'NC', 'NO', 'STANDARD', 'PRODUIT VEGETAL', 'PRODUITS PERISSABLE'].includes(u) ||
+      /^(CATEGORI|CATÉGORI|I-PREMIUM|PREMIUM|PRUMIUM|RALSTONIA)/.test(u)) return 'Autre';
+
+  // Fleurs — check before fruits (fraîche matches both otherwise)
+  if (/FLEUR/.test(u)) return 'Fleurs';
+
+  // Fruits — banana, Cavendish, Musa, fresh fruit
+  if (/BANAN|MUSA|CAVENDISH|FRESH GREEN|MUSACE/.test(u) ||
+      /^FRUIT/.test(u) || u === 'FRUIT' || u === 'FRUITS' || u === 'FRUIT FRAIS' ||
+      /FRAICHES?|FRAÎCHE|FRAIS[,\s–-]/.test(u) ||
+      /CONSOM/.test(u)) return 'Fruits';
+
+  // Céréales et protéagineux
+  if (/CEREAL|CÉRÉAL|MAIS|MAÏS|SOJA|GRAIN|TOURTEAUX|AMIDON/.test(u)) return 'Céréales';
+
+  // Plants et matériel végétatif
+  if (/PLANT|ARBORICOL|POMMIER|POIRIER|VITICOLE|IN.?VITRO|MICRO.BOUTURE|VIGNE|OLIVIER|ORNEMENT/.test(u)) return 'Plants';
+
+  // Semences
+  if (/SEMENCE|PETITS POIS/.test(u)) return 'Semences';
+
+  // Aliments bétail
+  if (/BETAIL|VOLAILLE|ALIMENT/.test(u)) return 'Aliments bétail';
+
+  return 'Autre';
+}
+
 // ─── Company aggregation ──────────────────────────────────────────────────────
 
 export interface CompanyStat {

@@ -47,7 +47,7 @@ const explorerRows = plantProducts.map((r) => ({
   product:  r.knownName,
   variety:  r.variety,
   category: r.category,
-  origin:   r.countryOfOrigin,
+  origin:   countryName(r.countryOfOrigin, lang),
 }));
 
 const explorerColumns = [

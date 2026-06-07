@@ -384,3 +384,61 @@ def normalize_chem_category(raw: str) -> str:
             return v
 
     return raw.strip() or "Non classifié"
+
+
+# ── Plant product category normalization ─────────────────────────────────────
+# Banana chaos (90+ variants) + maize/soya/plants → 6 canonical groups
+
+_GARBAGE_PLANT_CATS = {
+    "non", "oui", "nc", "no", ".", "/", "…", "standard",
+    "produit vegetal", "produits perissable", "i-premium", "premium", "prumium",
+}
+
+_PLANT_GARBAGE_PREFIXES = ("categori", "catégori", "ralstonia")
+
+
+def normalize_plant_category(raw: str) -> str:
+    """Normalize raw plant-product category to one of 6 canonical groups."""
+    if not raw:
+        return "Autre"
+
+    cleaned = re.sub(r"[''ʼʻ′`'']", "'", raw.strip())
+    u = re.sub(r"\s+", " ", cleaned.upper())
+
+    # Garbage / unclassified
+    u_norm = "".join(
+        c for c in unicodedata.normalize("NFD", u)
+        if unicodedata.category(c) != "Mn"
+    ).strip()
+    if u_norm in _GARBAGE_PLANT_CATS or any(u_norm.startswith(p.upper()) for p in _PLANT_GARBAGE_PREFIXES):
+        return "Autre"
+
+    # Fleurs — check before fruits (FRAÎCHE would match both)
+    if "FLEUR" in u:
+        return "Fleurs"
+
+    # Fruits — banana, Musa, Cavendish, fresh fruit
+    if any(kw in u for kw in ("BANAN", "MUSA", "CAVENDISH", "FRESH GREEN", "MUSACE")):
+        return "Fruits"
+    if re.search(r"^FRUIT", u) or u in ("FRUIT", "FRUITS", "FRUIT FRAIS"):
+        return "Fruits"
+    if re.search(r"FRAICHES?|FRAÎCHE|FRAIS[,\s\-–]", u) or "CONSOM" in u:
+        return "Fruits"
+
+    # Céréales et protéagineux
+    if any(kw in u for kw in ("CEREAL", "CÉRÉAL", "MAIS", "MAÏS", "SOJA", "GRAIN", "TOURTEAUX", "AMIDON")):
+        return "Céréales"
+
+    # Plants et matériel végétatif
+    if any(kw in u for kw in ("PLANT", "ARBORICOL", "POMMIER", "POIRIER", "VITICOLE", "VITRO", "MICRO-BOUTURE", "VIGNE", "OLIVIER", "ORNEMENT")):
+        return "Plants"
+
+    # Semences
+    if "SEMENCE" in u or "PETITS POIS" in u:
+        return "Semences"
+
+    # Aliments bétail
+    if any(kw in u for kw in ("BETAIL", "VOLAILLE", "ALIMENT")):
+        return "Aliments bétail"
+
+    return "Autre"

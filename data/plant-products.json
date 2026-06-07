@@ -1,6 +1,6 @@
 [
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "EURL IMAMOZ",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -9,7 +9,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "EURL HM FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -18,7 +18,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL CHAKER AFIR",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -27,7 +27,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL CHAKER AFIR",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -36,7 +36,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "Petits pois surgelés",
+    "category": "Semences",
     "company": "Sarl EL MANEAAWI EL DJAZAIRIA",
     "company_name_ar": "",
     "country_of_origin": "BE",
@@ -45,7 +45,7 @@
     "variety": "Variétés classiques"
   },
   {
-    "category": "NON",
+    "category": "Autre",
     "company": "SARL KHODJA MILK",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -54,7 +54,7 @@
     "variety": "fruits"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م جوردانا",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -63,7 +63,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م همام قولد",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -72,7 +72,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "ش ذ م م أقرو أطلنتيك",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -81,7 +81,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Maïs",
+    "category": "Céréales",
     "company": "EPE ONAB Nutrition Spa",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -90,7 +90,7 @@
     "variety": "Maïs"
   },
   {
-    "category": "Maïs",
+    "category": "Céréales",
     "company": "EPE ONAB Nutrition Spa",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -99,7 +99,7 @@
     "variety": "Maïs"
   },
   {
-    "category": "bananes fraiches vertes",
+    "category": "Fruits",
     "company": "SARL TROPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -108,7 +108,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT ( BANANE )",
+    "category": "Fruits",
     "company": "sarl fruimed",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -117,7 +117,7 @@
     "variety": "BANANES FRAICHE CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "ش ذ م م أقرو أطلنتيك",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -126,7 +126,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "eurl amiri trading",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -135,7 +135,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م إكسترا مريا",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -144,7 +144,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "bananes fraîches vertes",
+    "category": "Fruits",
     "company": "sarl primexo",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -153,7 +153,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL AGRICOL BEST",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -162,7 +162,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL NACIM PLUS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -171,7 +171,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL NACIM FOOD",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -180,7 +180,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "SARL CAPITAL AGRO INVESTMENT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -189,7 +189,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CAVENDISH BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL CHREA LILFAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -198,7 +198,7 @@
     "variety": "bananes fraiches"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL INVEST AGRO SOLUTION COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -207,7 +207,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL INVEST AGRO SOLUTION COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -216,7 +216,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL RADA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -225,7 +225,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL RADA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -234,7 +234,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL RADA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -243,7 +243,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "SARL AGRI TEDJ",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -252,7 +252,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banan cavendish boxes fresh",
+    "category": "Fruits",
     "company": "eurl linoxe",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -261,7 +261,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL MULTIBEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -270,7 +270,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banan cavendish boxes fresh",
+    "category": "Fruits",
     "company": "eurl agroal systme import export",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -279,7 +279,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banan cavendish boxes fresh",
+    "category": "Fruits",
     "company": "SARL AGRO DANIA BAN",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -288,7 +288,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "SARL NURISUP",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -297,7 +297,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "FRUIT (BANANE)",
+    "category": "Fruits",
     "company": "SARL Trading DouDou",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -306,7 +306,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL AGRO LOUDJINE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -315,7 +315,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "Fruits frais – Bananes (Musa spp.) destinées à la consommation",
+    "category": "Fruits",
     "company": "SARL GUSTELLA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -324,7 +324,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "GRAINES DE MAIS EN VRAC DESTINEES A L’ALIMENTATION ANIMALE",
+    "category": "Céréales",
     "company": "SNC FRERES LAZREG",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -333,7 +333,7 @@
     "variety": "MAIS EN VRAC DESTINE A L’ALIMENTATION ANIMAL"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL OUBI FRUITS LEGUMES",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -342,7 +342,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "PRUMIUM",
+    "category": "Autre",
     "company": "SARL SARFAR IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -351,7 +351,7 @@
     "variety": "CAVENDISH BANANAS"
   },
   {
-    "category": "PRUMIUM",
+    "category": "Autre",
     "company": "SARL DOHA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -360,7 +360,7 @@
     "variety": "CAVENDISH BANANAS"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL MBARKA PRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -369,7 +369,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL SYFAX FRUITS ET LEGUMES",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -378,7 +378,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL ADEL F IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -387,7 +387,7 @@
     "variety": "BANANAS FRESH GREEN CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL ANA FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -396,7 +396,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL AGRO GOUTER IMP/EXP",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -405,7 +405,7 @@
     "variety": "CAVENDICH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL MOUSSAOUI FRUITS IMP/EXP",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -414,7 +414,7 @@
     "variety": "CAVENDICH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL PACHA FEUITS  IMP/EXP",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -423,7 +423,7 @@
     "variety": "CAVENDICH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL MERVEILLE AGRO IMP/EXP",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -432,7 +432,7 @@
     "variety": "CAVENDICH"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL MICHAAL METIDJA LIL ISTIRAD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -441,7 +441,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL JINGO FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -450,7 +450,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL HIMOU FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -459,7 +459,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL NAHLA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -468,7 +468,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL MENSOUR FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -477,7 +477,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL BASSET FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -486,7 +486,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL BASSET FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -495,7 +495,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL FAHED FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -504,7 +504,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL RANIM FRUITS IMP/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -513,7 +513,7 @@
     "variety": "CAVENDICH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م فواكه الغزلان",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -522,7 +522,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م شركة فواكه الخليل",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -531,7 +531,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "NON",
+    "category": "Autre",
     "company": "SARL CADEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -540,7 +540,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "EURL Caprice des fruits",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -549,7 +549,7 @@
     "variety": "Fresh Green BANANAS OF Cavendish"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "eurl belle pomme",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -558,7 +558,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "Bananes destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "SARL GLOBAL PROCURMENT ALGERIA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -567,7 +567,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م فواكه زيزو",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -576,7 +576,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL AMT NEGOCE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -585,7 +585,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م ميليندا أنترناسيونال أمبور إكسبور",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -594,7 +594,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "ش ذ م م أقرو فروتي",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -603,7 +603,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL COMPLEXE DES VIANDES ET PRODUITS ALIMENTAIRES AGRICOLES",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -612,7 +612,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "PREMIUM",
+    "category": "Autre",
     "company": "EURL BIKA LILISTIRAD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -621,7 +621,7 @@
     "variety": "CAVENDISH BANANAS"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "ش ذ م م كوبرى مان",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -630,7 +630,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Maïs",
+    "category": "Céréales",
     "company": "EPE ONAB Nutrition Spa",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -639,7 +639,7 @@
     "variety": "Maïs"
   },
   {
-    "category": "cavendish bannane fraiche",
+    "category": "Fruits",
     "company": "eurl biban fruit",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -648,7 +648,7 @@
     "variety": "bannanes fraiches"
   },
   {
-    "category": "MUSACEAE",
+    "category": "Fruits",
     "company": "EURL USID AGRO",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -657,7 +657,7 @@
     "variety": "FRUITS"
   },
   {
-    "category": "MUSACEAE",
+    "category": "Fruits",
     "company": "SARL RACHID AGRO",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -666,7 +666,7 @@
     "variety": "FRUITS"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL NOMAD ALLIANCE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -675,7 +675,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "EURL BF INVEST",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -684,7 +684,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARLL3",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -693,7 +693,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "SEMENCE",
+    "category": "Semences",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "TR",
@@ -702,7 +702,7 @@
     "variety": "COLONIA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL AL NADA AIS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -711,7 +711,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL AL TAIBA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -720,7 +720,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "eurl dima fruits",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -729,7 +729,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "EURL ALAA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -738,7 +738,7 @@
     "variety": "Fresh Green Bananas of Cavendish Variété"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "SARL MEYARA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -747,7 +747,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "SARL LEGEND TRADING",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -756,7 +756,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL OUBI FRUITS LEGUMES",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -765,7 +765,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL FLORENE TRADING",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -774,7 +774,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "…",
+    "category": "Autre",
     "company": "EURL CAP FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -783,7 +783,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "Sarl EL Tabssir",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -792,7 +792,7 @@
     "variety": "Fresh Green Bananas OF CAVENDISH"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL SOCIETE SENDJASNI",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -801,7 +801,7 @@
     "variety": "MAIS EN VRAC"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL MELINA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -810,7 +810,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL OM AMINE LOGISTIQUE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -819,7 +819,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL OM AMINE LOGISTIQUE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -828,7 +828,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "Grain de Maïs (céréale)",
+    "category": "Céréales",
     "company": "EURL ENTREPRISE FAB",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -837,7 +837,7 @@
     "variety": "Maïs"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "SARL AL SAADA MED FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -846,7 +846,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL HAMDADOU IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -855,7 +855,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "BANANAS",
+    "category": "Fruits",
     "company": "eurl bagilar",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -864,7 +864,7 @@
     "variety": "BANANE"
   },
   {
-    "category": "BANANAS",
+    "category": "Fruits",
     "company": "EURL DIAFI FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -873,7 +873,7 @@
     "variety": "BANANE"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL GOLD STAR FRUITS Import",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -882,7 +882,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Fruits frais",
+    "category": "Fruits",
     "company": "SARL HORIZON TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -891,7 +891,7 @@
     "variety": "Cavendich Premium"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL FOODY FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -900,7 +900,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL EL AQSA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -909,7 +909,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL EL AQSA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -918,7 +918,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL EL AQSA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -927,7 +927,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS BANANE",
+    "category": "Fruits",
     "company": "EURL ISHAK FOOD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -936,7 +936,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL ISHAK FOOD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -945,7 +945,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL BMSK COMPAGNY",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -954,7 +954,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CAVENDISH BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL FOUDES IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -963,7 +963,7 @@
     "variety": "bananes fraiches"
   },
   {
-    "category": "Fruits frais",
+    "category": "Fruits",
     "company": "SARL KHIDER GLOBAL COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -972,7 +972,7 @@
     "variety": "Cavendich Premium"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL RABAH FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -981,7 +981,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "EURL KARAM FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -990,7 +990,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT (BANANES)",
+    "category": "Fruits",
     "company": "FRUIMED",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -999,7 +999,7 @@
     "variety": "BANANES FRAICHE"
   },
   {
-    "category": "CEREALE",
+    "category": "Céréales",
     "company": "SARL EL NIAAMA",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -1008,7 +1008,7 @@
     "variety": "MAIS EN VRAC"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "EURL VALDARNO",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1017,7 +1017,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "SEMENCE",
+    "category": "Semences",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "TR",
@@ -1026,7 +1026,7 @@
     "variety": "COLONIA"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL AMIGO TRADING",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1035,7 +1035,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "…",
+    "category": "Autre",
     "company": "EURL BOMAN IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1044,7 +1044,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "…",
+    "category": "Autre",
     "company": "EURL INVEST FRUITS COMPANY",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1053,7 +1053,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL SO FRESH FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1062,7 +1062,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "Eurl zaki bfk fruits",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1071,7 +1071,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CAVENDISH BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL GENERAL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1080,7 +1080,7 @@
     "variety": "bananes fraiches"
   },
   {
-    "category": "CAVENDISH BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL TCHICOT FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1089,7 +1089,7 @@
     "variety": "bananes fraiches"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "EURL ZAKI  BFK FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1098,7 +1098,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL MEDITERANEE FROUTE COMPANY",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1107,7 +1107,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL BMSK COMPAGNY",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1116,7 +1116,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL CRISTAL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1125,7 +1125,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CEREALES",
+    "category": "Céréales",
     "company": "SARL SCCO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -1134,7 +1134,7 @@
     "variety": "MAÏS EN VRAC"
   },
   {
-    "category": "Bananes destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "EURL EL AKSA TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1143,7 +1143,7 @@
     "variety": "Musa acuminata"
   },
   {
-    "category": "CATEGORIE FRUITS",
+    "category": "Autre",
     "company": "BZHA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1152,7 +1152,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL JONY FROID Import Export",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1161,7 +1161,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL KANDOUS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1170,7 +1170,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "EURL BEMALI    IMPORT    EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1179,7 +1179,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL GOLD STAR FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1188,7 +1188,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS FRAIS – BANANE",
+    "category": "Fruits",
     "company": "SARL GROUPE BOUDOUMA FRERES DEPOT FROID ET LOCATION. GBF-DFL",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1197,7 +1197,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "SARL SULTANA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1206,7 +1206,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL MIRA STYLE FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1215,7 +1215,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANAS",
+    "category": "Fruits",
     "company": "EURL YANIS FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1224,7 +1224,7 @@
     "variety": "BANANE"
   },
   {
-    "category": "MUSACEAE",
+    "category": "Fruits",
     "company": "EURL USID AGRO",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1233,7 +1233,7 @@
     "variety": "FRUITS"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL MAHDI FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1242,7 +1242,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL DRAI FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1251,7 +1251,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL SAVEUR FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1260,7 +1260,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL KM FRUIS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1269,7 +1269,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL NATURE FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1278,7 +1278,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL SARAH FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1287,7 +1287,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL AYA FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1296,7 +1296,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL KAIBRA",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1305,7 +1305,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANAS",
+    "category": "Fruits",
     "company": "EURL YANIS FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1314,7 +1314,7 @@
     "variety": "FRESH GREEN BANANAS OF CAVENDISH"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "EURL FRUITS SIDI BENYEKHLEF",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1323,7 +1323,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL KANDOUS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1332,7 +1332,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "EURL RIADH CHAMBRE FROID",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1341,7 +1341,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "EURL TINO",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1350,7 +1350,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "EURL AMIR FARES IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1359,7 +1359,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL LE PAON DU SUD IMPORT RXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1368,7 +1368,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS BANANS",
+    "category": "Fruits",
     "company": "EURL CHAIMA FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1377,7 +1377,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "SARL REDS FRUITS TRADING",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1386,7 +1386,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "EURL Star Food Trading",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1395,7 +1395,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "EURL ELTILAL FROID",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1404,7 +1404,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "SARL ECOSIUM FRUITS IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1413,7 +1413,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "EURL DJETTOU FROIS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1422,7 +1422,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "CAVENDISH -BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL K DILANE ALIMENTATION",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1431,7 +1431,7 @@
     "variety": "bananes fraiches"
   },
   {
-    "category": "catégorie fruits",
+    "category": "Autre",
     "company": "EURL CIROCAFRIC IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1440,7 +1440,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS BANAS",
+    "category": "Fruits",
     "company": "FIRST FRUITS BANANA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1449,7 +1449,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL TAMAOUCHT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1458,7 +1458,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL ALPATCHINO Import Export",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1467,7 +1467,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL MIDEGUE IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1476,7 +1476,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL PROMA FRUIT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1485,7 +1485,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL TAMAOUCHT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1494,7 +1494,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL TRADERS FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1503,7 +1503,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL FIRE MAN IMPORT-EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1512,7 +1512,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL FIRE MAN IMPORT-EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1521,7 +1521,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARLL3",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1530,7 +1530,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL WRK TRADING IMPORTATION",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1539,7 +1539,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL TRN FRUIT IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1548,7 +1548,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL ELINE FRUIT IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1557,7 +1557,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL ELINE FRUIT IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1566,7 +1566,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL REZIG FRUIT IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1575,7 +1575,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL MILAS FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1584,7 +1584,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL MILAS FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1593,7 +1593,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "SARL MG FRUITS IMP EXP",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1602,7 +1602,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL INES APPLES IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1611,7 +1611,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EUL KHETTAB FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1620,7 +1620,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL OULED ALI FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1629,7 +1629,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL KAS IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1638,7 +1638,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL JINGO FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1647,7 +1647,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "Fruit",
+    "category": "Fruits",
     "company": "EURL MEDITERRANEE VIANDE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1656,7 +1656,7 @@
     "variety": "BANANAS FRESH GREEN CAVENDISH"
   },
   {
-    "category": "bananas",
+    "category": "Fruits",
     "company": "Eurl Biramh import export",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1665,7 +1665,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "bananas",
+    "category": "Fruits",
     "company": "eurl biramh import export",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1674,7 +1674,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL MHD AGRO",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1683,7 +1683,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL FRUIT MESS IMPORT /EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1692,7 +1692,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL ISLAM FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1701,7 +1701,7 @@
     "variety": "GREEN BANANAS"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL CT TECHNOLOGY IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1710,7 +1710,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL KUMQUT IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1719,7 +1719,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL SIDAA IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1728,7 +1728,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL DZ DIAF",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1737,7 +1737,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL WALID IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1746,7 +1746,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "bananes fraiches vertes",
+    "category": "Fruits",
     "company": "EURL CMEX PLUS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1755,7 +1755,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "SARL AMIRETE EL FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1764,7 +1764,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRODUIT VEGETAL",
+    "category": "Autre",
     "company": "EURL AGRO DJOURI",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1773,7 +1773,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "bananes fraiches vertes",
+    "category": "Fruits",
     "company": "sarl cfa company",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1782,7 +1782,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT (BANANES)",
+    "category": "Fruits",
     "company": "S.A.R.L ATLA AGRO FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -1791,7 +1791,7 @@
     "variety": "BANANES FRAICHE CAVENDISH CLASS 1"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL MÉDITERRANÉE TRADING IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1800,7 +1800,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL YAHIA FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1809,7 +1809,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL ALLIANCE AGROS FRUITS IMPORTATION",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1818,7 +1818,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL HIMOU FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1827,7 +1827,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL MENSOUR FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1836,7 +1836,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL NAHLA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1845,7 +1845,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL BASSET FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1854,7 +1854,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL BOUTROS IMPORTATION",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1863,7 +1863,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL FAHED FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1872,7 +1872,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "Fruits frais – bananes destinées à la consommation",
+    "category": "Fruits",
     "company": "eurl agricreation algerie",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1881,7 +1881,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "SARL Comagro international trading",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1890,7 +1890,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL FONDOUK STORE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1899,7 +1899,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL GLOBAL HEALTHY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1908,7 +1908,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL B R FRUIT COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1917,7 +1917,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "Eurl la renaissance fruits et legumes",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1926,7 +1926,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL CASAFRUIT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1935,7 +1935,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL CASAFRUIT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1944,7 +1944,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS BANANES",
+    "category": "Fruits",
     "company": "EURL AGROAL SYSTEME",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1953,7 +1953,7 @@
     "variety": "BANANES CAVENDISH"
   },
   {
-    "category": "FRUITS BANANES",
+    "category": "Fruits",
     "company": "SARL AGRO DANIA BAN",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1962,7 +1962,7 @@
     "variety": "BANANES CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "EURL LINOXE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -1971,7 +1971,7 @@
     "variety": "BANANES"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1980,7 +1980,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1989,7 +1989,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -1998,7 +1998,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "MAIS EN VRAC POUR ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL SIPA OUEST",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2007,7 +2007,7 @@
     "variety": "MAIS EN VRAC"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2016,7 +2016,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2025,7 +2025,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2034,7 +2034,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2043,7 +2043,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2052,7 +2052,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL OUBI FRUITS LEGUMES",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2061,7 +2061,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "MAIS EN VRAC POUR ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL SIPA OUEST",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -2070,7 +2070,7 @@
     "variety": "MAIS EN VRAC"
   },
   {
-    "category": "MAIS EN VRAC POUR ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL SIPA OUEST",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -2079,7 +2079,7 @@
     "variety": "MAIS EN VRAC"
   },
   {
-    "category": "MAIS EN VRAC POUR ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL SIPA OUEST",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -2088,7 +2088,7 @@
     "variety": "MAIS EN VRAC"
   },
   {
-    "category": "MAIS EN VRAC POUR ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL SIPA OUEST",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -2097,7 +2097,7 @@
     "variety": "MAIS EN VRAC"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2106,7 +2106,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2115,7 +2115,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL ULTRACOM",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -2124,7 +2124,7 @@
     "variety": "MAIS"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "SARL EL MANARA LIL FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2133,7 +2133,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "SARL NORANAZ",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2142,7 +2142,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL GALASTAR",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2151,7 +2151,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PLANTS ORNEMENTAUX",
+    "category": "Plants",
     "company": "THE GREEN WORLD ALGERIA",
     "company_name_ar": "",
     "country_of_origin": "MY",
@@ -2160,7 +2160,7 @@
     "variety": "LUCKY BAMBOU"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2169,7 +2169,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "Eurl raouf star",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2178,7 +2178,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2187,7 +2187,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL AGRO SHANINE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2196,7 +2196,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL CMSIE IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2205,7 +2205,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL ULTRACOM",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -2214,7 +2214,7 @@
     "variety": "MAIS"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL ULTRACOM",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -2223,7 +2223,7 @@
     "variety": "MAIS"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL ULTRACOM",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -2232,7 +2232,7 @@
     "variety": "MAIS"
   },
   {
-    "category": "CEREALES",
+    "category": "Céréales",
     "company": "sarl nakhla",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2241,7 +2241,7 @@
     "variety": "mais forrager"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL RAMOSCOS FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2250,7 +2250,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL VIDA AG",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2259,7 +2259,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Maïs",
+    "category": "Céréales",
     "company": "EPE ONAB Nutrition Spa",
     "company_name_ar": "",
     "country_of_origin": "US",
@@ -2268,7 +2268,7 @@
     "variety": "Maïs"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "ش ذ م م رائد متيجة أمبور إكسبور",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2277,7 +2277,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Fruits frais  bananes destinées à la consommation",
+    "category": "Fruits",
     "company": "eurl agricréation algerie",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2286,7 +2286,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL FATAH FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2295,7 +2295,7 @@
     "variety": "CAVENDISH BANANA"
   },
   {
-    "category": "CAVENDISH BANANES FRAICHE",
+    "category": "Fruits",
     "company": "fruit joy",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2304,7 +2304,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes). BANANES DESTINEES A LA CONSOMMATION HUMAINE.",
+    "category": "Fruits",
     "company": "EURL TRISTANE IMP/EXP",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2313,7 +2313,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "Banane destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "E.U.R.L DIEGO FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2322,7 +2322,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL NAIL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2331,7 +2331,7 @@
     "variety": "CAVENDISH BANANA"
   },
   {
-    "category": "Banane destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "E.U.R.L PABLO FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2340,7 +2340,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Banane destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "E.U.R.L NINA FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2349,7 +2349,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "SARL SABLINE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2358,7 +2358,7 @@
     "variety": "CAVENDISH Type 22xU"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "SARL SABLINE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2367,7 +2367,7 @@
     "variety": "CAVENDISH Type 22xU"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "SARL SEDAMIR BTPH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2376,7 +2376,7 @@
     "variety": "CAVENDISH Type 22xu"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL SOUNDOUS FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2385,7 +2385,7 @@
     "variety": "CAVENDISH TYPE 22XU"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL WALID FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2394,7 +2394,7 @@
     "variety": "CAVENDISH BANANA"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL NAIL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2403,7 +2403,7 @@
     "variety": "CAVENDISH BANANA"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "SARL GIGI LINA",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2412,7 +2412,7 @@
     "variety": "CAVENDISH BANANA"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "SARL SEDAMIR BTPH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2421,7 +2421,7 @@
     "variety": "CAVENDISH Type 22xu"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL SOUNDOUS FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2430,7 +2430,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL WALID FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2439,7 +2439,7 @@
     "variety": "CAVENDISH BANANA"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL NAIL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2448,7 +2448,7 @@
     "variety": "CAVENDISH BANANA"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "EURL MARIA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2457,7 +2457,7 @@
     "variety": "CAVENDISH TYPE 22XU"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م فواكه زيزو",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2466,7 +2466,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "CEREALE “Tourteaux de soja en vrac”",
+    "category": "Céréales",
     "company": "SARL SCCO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -2475,7 +2475,7 @@
     "variety": "Tourteaux de soja en vrac"
   },
   {
-    "category": "CEREALE “MAÏS EN VRAC”",
+    "category": "Céréales",
     "company": "SARL SCCO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -2484,7 +2484,7 @@
     "variety": "MAÏS EN VRAC"
   },
   {
-    "category": "CAVENDISH -BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL SPIRO WIN",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2493,7 +2493,7 @@
     "variety": "bananes fraiches"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "EURL BOUCEDRAIA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2502,7 +2502,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "fruit frais bananes",
+    "category": "Fruits",
     "company": "EURL ALLINACE FOODS COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2511,7 +2511,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "Fruit",
+    "category": "Fruits",
     "company": "SARL AGRO SLAMANIA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2520,7 +2520,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "sarl dani wasil",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2529,7 +2529,7 @@
     "variety": "CAVENDISH Type 22xU"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "EURL MAFLO FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2538,7 +2538,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "non",
+    "category": "Autre",
     "company": "EURL CARLO FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2547,7 +2547,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL AISSAOUI DATTES",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2556,7 +2556,7 @@
     "variety": "BANANE"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "eurl nehar fruits lux",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2565,7 +2565,7 @@
     "variety": "CAVENDISH Type 22*U"
   },
   {
-    "category": "Fruit",
+    "category": "Fruits",
     "company": "SARL MIRO 2 IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2574,7 +2574,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Fruit",
+    "category": "Fruits",
     "company": "SARL BENI MESSRA IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2583,7 +2583,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "SARL REDS FRUITS TRADING",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2592,7 +2592,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "EURL SALABIL FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2601,7 +2601,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "sarl vitalac algerie",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2610,7 +2610,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "EURL SCOURT FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2619,7 +2619,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "eurl aissaoui star fruit",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2628,7 +2628,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "EURL AYMEN STAR FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2637,7 +2637,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "amine elhayat",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2646,7 +2646,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 01",
+    "category": "Autre",
     "company": "SARL AGROGREEN",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2655,7 +2655,7 @@
     "variety": "Cavendishe"
   },
   {
-    "category": "I-PREMIUM",
+    "category": "Autre",
     "company": "eurl trans tmj",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2664,7 +2664,7 @@
     "variety": "CAVENDISH Type 22*U"
   },
   {
-    "category": "Banane destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "E.U.R.L FRUCTOR",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2673,7 +2673,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "no",
+    "category": "Autre",
     "company": "EURL GOLDEN AYOUB",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2682,7 +2682,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL FRUITS EXPRESS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2691,7 +2691,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRAICHES – BANANES",
+    "category": "Fruits",
     "company": "SARL ADROMEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2700,7 +2700,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "SARL AGRO KHOUNI FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2709,7 +2709,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL ADEM FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2718,7 +2718,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL LE ROI FRUITE",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2727,7 +2727,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL FRUITS EXPRESS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2736,7 +2736,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL FRUITS EXPRESS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2745,7 +2745,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL SOLE FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2754,7 +2754,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "SARL NEDJMA FRUITS ET LEGUMES",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2763,7 +2763,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL EXQUISE FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2772,7 +2772,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane destines a la consommation humaine",
+    "category": "Fruits",
     "company": "EURL ADEM SMAIL FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2781,7 +2781,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "Bananes destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "EURL TACNIM FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2790,7 +2790,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Bananes destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "EURL AHMED FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2808,7 +2808,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "EURL Star Food Trading",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2817,7 +2817,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "SARL REDS FRUITS TRADING",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2826,7 +2826,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit pour la consommation humains",
+    "category": "Fruits",
     "company": "EURL ELTILAL FROID",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2835,7 +2835,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL FRUIT SUPPLY SERVICES",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2844,7 +2844,7 @@
     "variety": "FRUIT BANANE"
   },
   {
-    "category": "banane pour consommation humain",
+    "category": "Fruits",
     "company": "eurl khodja import export el feth",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2853,7 +2853,7 @@
     "variety": "banane"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL MILAS FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2862,7 +2862,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUITS (BANANE)",
+    "category": "Fruits",
     "company": "AB ALIMENTATION",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -2871,7 +2871,7 @@
     "variety": "CAVENDICH"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL FRUITS EXPRESS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2880,7 +2880,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL FRUITS EXPRESS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2889,7 +2889,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "SARL FRUITS EXPRESS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2898,7 +2898,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL AMRIYA GLOBAL",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2907,7 +2907,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "SARL MG FRUITS IMP EXP",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2916,7 +2916,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL INES APPLES IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2925,7 +2925,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Bananes destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "EURL EL AKSA LISTIRADE KHODAR WA FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2934,7 +2934,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Bananes destinés à la consommation humaine",
+    "category": "Fruits",
     "company": "SARL MILIANIA FROID",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2943,7 +2943,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EPE/CETRADE/SPA",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -2952,7 +2952,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATÉGORIE 1",
+    "category": "Autre",
     "company": "EURL NIALL IMPORT-EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2961,7 +2961,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATÉGORIE 1",
+    "category": "Autre",
     "company": "EURL FROMAGERIE AMIRA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2970,7 +2970,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CAVENDISH BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL TADJEDDINE FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2979,7 +2979,7 @@
     "variety": "BANANES FRAICHES"
   },
   {
-    "category": "CAVENDISH BANANES FRAICHES",
+    "category": "Fruits",
     "company": "EURL GHAFOUR FRUIT COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2988,7 +2988,7 @@
     "variety": "BANANES FRAICHES"
   },
   {
-    "category": "1er catégorie",
+    "category": "Autre",
     "company": "EPE CETRADE SPA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -2997,7 +2997,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "MAIS JAUNE",
+    "category": "Céréales",
     "company": "SARL NUTRIMAG",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -3006,7 +3006,7 @@
     "variety": "MAIS JAUNE"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL MARIA KHEIREDDINE IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3015,7 +3015,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL KRTC",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3024,7 +3024,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL NOMAD ALLIANCE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3033,7 +3033,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "Fruit",
+    "category": "Fruits",
     "company": "EURL MEDITERRANEE VIANDE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3042,7 +3042,7 @@
     "variety": "BANANAS FRESH GREEN CAVENDISH"
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "eurl djawed fruits",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3051,7 +3051,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL EL MARSEM MAGHREB",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3060,7 +3060,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "BANANAS",
+    "category": "Fruits",
     "company": "BEST EURO FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3069,7 +3069,7 @@
     "variety": "FRESH PREMIUM ECUADORIAN GREEN BANANAS"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL COTE D OR ALLIANCE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3078,7 +3078,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL BHMA MEDITERRANEE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3087,7 +3087,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL ADM FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3096,7 +3096,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "eurl riyad agro",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3105,7 +3105,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL MOUMTAZ FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3114,7 +3114,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL BENI MAHBOUB ZBF ISTIRAD WA TASDIR EL FAOUAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3123,7 +3123,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL MEGA DU SUD",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3132,7 +3132,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL GMT ROYAL",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3141,7 +3141,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL DR AGRO COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3150,7 +3150,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL DI COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3159,7 +3159,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL SAVEUR FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3168,7 +3168,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL GUECHTOULI IMPORTATION",
     "company_name_ar": "",
     "country_of_origin": "DZ",
@@ -3177,7 +3177,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL HAMB FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3186,7 +3186,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL NEW FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3195,7 +3195,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL SALDAE FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3204,7 +3204,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL RA MITIDJA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3213,7 +3213,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "SARL KDO TRADE BUSINESS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3222,7 +3222,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL BN FRUIT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3231,7 +3231,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL BH BUSINESS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3240,7 +3240,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL XBF NORD COM",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3249,7 +3249,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL OBI TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3258,7 +3258,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "SARL AMT NEGOCE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3267,7 +3267,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL HBA TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3276,7 +3276,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL TRARIST NEGOCE",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3285,7 +3285,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL BMK AGRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3294,7 +3294,7 @@
     "variety": "CAVENDISH PRENIUM."
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL HAMIDOUCHE TRADE BUSINESS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3303,7 +3303,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL BILLEL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3312,7 +3312,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL POWER GALAXY",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3321,7 +3321,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL KM FRUIS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3330,7 +3330,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL NATURE FRUITS IMPORT EXORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3339,7 +3339,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL KAIBRA",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3348,7 +3348,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL AYA FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3357,7 +3357,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL SARAH FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3366,7 +3366,7 @@
     "variety": "CVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "SARL PRODI FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3375,7 +3375,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL LES JARDINS DE METIDJA",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3384,7 +3384,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL R FRUITS RABAH",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3393,7 +3393,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL AMEL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3402,7 +3402,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL NAHLA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3411,7 +3411,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL HIMOU FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3420,7 +3420,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL MENSOUR FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3429,7 +3429,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL BASSET FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3438,7 +3438,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "EURL HALOUIYA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3447,7 +3447,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "SARL KERDJA FRUITS ET LEGUMES",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3456,7 +3456,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": ".",
+    "category": "Autre",
     "company": "SARL ALL GLOBAL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3465,7 +3465,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "SARL DAKIM",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3474,7 +3474,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م فواكه الغزلان",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3483,7 +3483,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "م ذ ش و م م شركة فواكه الخليل",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3492,7 +3492,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "SARL AGRO KHOUNI FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3501,7 +3501,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "eurl affal fruit",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3510,7 +3510,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL MICHAAL METIDJA LIL ISTIRAD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3519,7 +3519,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "fresh green banans of cavendish variety",
+    "category": "Fruits",
     "company": "EURL SAIKAN FRUIT AYADI",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3528,7 +3528,7 @@
     "variety": "premimum cavendish"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL NACIM FOOD",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3537,7 +3537,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "SARL AGRI TEDJ",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3546,7 +3546,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "SARL AGRI TEDJ",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3555,7 +3555,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL RACHA FRUITS IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3564,7 +3564,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "1",
+    "category": "Autre",
     "company": "EURLKARAMFRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3573,7 +3573,7 @@
     "variety": ". CAVENDISH"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL FOUREM FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3582,7 +3582,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL DEVELOPPEMENT URBAIN GENERAL",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3591,7 +3591,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL RIM BAT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3600,7 +3600,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "SARL Fruimpex Star",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3609,7 +3609,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS FRAIS, BANANE",
+    "category": "Fruits",
     "company": "EURL OUSAID IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3618,7 +3618,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "OUI",
+    "category": "Autre",
     "company": "SARL ALGERIAN FRUIT COMPANY",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3627,7 +3627,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS FRAIS , BANANES",
+    "category": "Fruits",
     "company": "SARL MIXIE FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -3636,7 +3636,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS FRAICHE",
+    "category": "Fruits",
     "company": "EURL IMANE H",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3645,7 +3645,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "FRUIT BANANE  CAVENDISH",
+    "category": "Fruits",
     "company": "EURL ANADOUL IMP EXP",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -3654,7 +3654,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane pour consommation humain",
+    "category": "Fruits",
     "company": "eurl khodja import export el feth",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3663,7 +3663,7 @@
     "variety": "banane"
   },
   {
-    "category": "fruit Banane",
+    "category": "Fruits",
     "company": "Eurl Slr import",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3672,7 +3672,7 @@
     "variety": "Banane fresh green cavendish"
   },
   {
-    "category": "fruit Banane",
+    "category": "Fruits",
     "company": "Eurl Slr import",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3681,7 +3681,7 @@
     "variety": "Banane fresh green cavendish"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL AMIRI TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3690,7 +3690,7 @@
     "variety": "CAVANDISH BANANAS"
   },
   {
-    "category": "OUI",
+    "category": "Autre",
     "company": "SARL GOLD STAR FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3699,7 +3699,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Maïs",
+    "category": "Céréales",
     "company": "SIM SANDERS ALGERIE SPA",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -3708,7 +3708,7 @@
     "variety": "divers"
   },
   {
-    "category": "Maïs",
+    "category": "Céréales",
     "company": "SIM SANDERS ALGERIE SPA",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -3717,7 +3717,7 @@
     "variety": "divers"
   },
   {
-    "category": "CATEGORIR 1",
+    "category": "Autre",
     "company": "SARL SULTANA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3726,7 +3726,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL NACIM PLUS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3735,7 +3735,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "OUI",
+    "category": "Autre",
     "company": "SARL TAMAOUCHT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3744,7 +3744,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "OUI",
+    "category": "Autre",
     "company": "EURL PROMA FRUITS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3753,7 +3753,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "OUI",
+    "category": "Autre",
     "company": "EURL MIDEGUE IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3762,7 +3762,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL RADA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3771,7 +3771,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL JONY IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3780,7 +3780,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "MUSACEAE",
+    "category": "Fruits",
     "company": "EURL USID AGRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3789,7 +3789,7 @@
     "variety": "BANANE PLANTAIN"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL RASHA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3798,7 +3798,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION HUMAINE",
+    "category": "Fruits",
     "company": "SARL CAPITAL AGRO INVESTMENT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3807,7 +3807,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL BOUZEGHAIA FATIH IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3816,7 +3816,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL TAMAOUCHT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3825,7 +3825,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "SARL GUECHTOULA",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3834,7 +3834,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL BANANA D’OR",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3843,7 +3843,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "BANANES DESTINES A LA CONSOMMATION",
+    "category": "Fruits",
     "company": "SARL SALAH FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3852,7 +3852,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "SARL AMIRETE EL FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3861,7 +3861,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRODUITS PERISSABLE",
+    "category": "Autre",
     "company": "EURL STAR FRUITS COM",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3870,7 +3870,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRODUITS PERISSABLE",
+    "category": "Autre",
     "company": "SARL FRUITS COM IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3879,7 +3879,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRODUITS PERISSABLE",
+    "category": "Autre",
     "company": "EURL ZESTE TROPICAL",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3888,7 +3888,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRODUITS PERISSABLE",
+    "category": "Autre",
     "company": "SARL CONTINENTAL FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3897,7 +3897,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "ش ذ م م رائد متيجة أمبور إكسبور",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3906,7 +3906,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL RADA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3915,7 +3915,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS FRAICHE",
+    "category": "Fruits",
     "company": "EURL EL MIRAD FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3924,7 +3924,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "FRUITS FRAICHE",
+    "category": "Fruits",
     "company": "SARL DJANAT EL HAITHAM WA WASSIM",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3933,7 +3933,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "SARL EL NIAMA LITIDJARA EL AMMA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3942,7 +3942,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "PRODUITS PERISSABLE",
+    "category": "Autre",
     "company": "SARL DEMEX FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3951,7 +3951,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRODUITS PERISSABLE",
+    "category": "Autre",
     "company": "SARL BANNA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3960,7 +3960,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRODUITS PERISSABLE",
+    "category": "Autre",
     "company": "SARL DILIS FRUITS IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3969,7 +3969,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "ش ذ م م كوبرى مان",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -3978,7 +3978,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL GOUPE CMMC",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -3987,7 +3987,7 @@
     "variety": "MAIS"
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "EURL ADEM COMPANY",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -3996,7 +3996,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "SOJA",
+    "category": "Céréales",
     "company": "SARL GOUPE CMMC",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -4005,7 +4005,7 @@
     "variety": "SOJA"
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "eurl fm trading",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4014,7 +4014,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "اقروفارمار",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -4023,7 +4023,7 @@
     "variety": "BANANE cavendish"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "اقروفارمار",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -4032,7 +4032,7 @@
     "variety": "BANANE cavendish"
   },
   {
-    "category": "Maïs",
+    "category": "Céréales",
     "company": "SARL AMIDOR",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4041,7 +4041,7 @@
     "variety": "Maïs"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL OUBI FRUITS LEGUMES",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4050,7 +4050,7 @@
     "variety": "MUSA ACUMINATA"
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "EURL TALINE RIVI",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4059,7 +4059,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "EURL DREAM FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4068,7 +4068,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "EURL REVI STORE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4086,7 +4086,7 @@
     "variety": "MUSA SAPIENTUM"
   },
   {
-    "category": "bananes fraiches",
+    "category": "Fruits",
     "company": "EURL SOUAKRIA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4095,7 +4095,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane fraîche",
+    "category": "Fruits",
     "company": "eurl palistro fruit",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4104,7 +4104,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL CASAFRUIT IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4113,7 +4113,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL FAHED FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4122,7 +4122,7 @@
     "variety": "CAVENDICHE"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARLL3",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4131,7 +4131,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARLL3",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4140,7 +4140,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARLL3",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4149,7 +4149,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRUMIUM",
+    "category": "Autre",
     "company": "SARL DOHA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4158,7 +4158,7 @@
     "variety": "CAVENDISH BANANAS"
   },
   {
-    "category": "PRUMIUM",
+    "category": "Autre",
     "company": "SARL DOHA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4167,7 +4167,7 @@
     "variety": "CAVENDISH BANANAS"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARLL3",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4176,7 +4176,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PRUMIUM",
+    "category": "Autre",
     "company": "SARL SARFAR IMPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4185,7 +4185,7 @@
     "variety": "CAVENDISH BANANAS"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "SARL Comagro international trading",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4194,7 +4194,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "PREMIUM",
+    "category": "Autre",
     "company": "EURL BIKA LILISTIRAD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4203,7 +4203,7 @@
     "variety": "CAVENDISH BANANAS"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4212,7 +4212,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4221,7 +4221,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL ULTRACOM",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4230,7 +4230,7 @@
     "variety": "MAIS"
   },
   {
-    "category": "PLANTS DE POIRIER",
+    "category": "Plants",
     "company": "BOUSSOUALIM RIADH",
     "company_name_ar": "",
     "country_of_origin": "IT",
@@ -4239,7 +4239,7 @@
     "variety": "CONFERENCE        DOYENNE DU COMICE"
   },
   {
-    "category": "Grain",
+    "category": "Céréales",
     "company": "SARL KHIDER GLOBAL COMPANY",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4248,7 +4248,7 @@
     "variety": "Yellow Corn"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL FRUIT NBH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4257,7 +4257,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL FRUIT NBH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4266,7 +4266,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4275,7 +4275,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4284,7 +4284,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4293,7 +4293,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4302,7 +4302,7 @@
     "variety": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL"
   },
   {
-    "category": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4311,7 +4311,7 @@
     "variety": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL"
   },
   {
-    "category": "Produit de consommation ,Fruit frais",
+    "category": "Fruits",
     "company": "GLOBAL AGRI FOOD SPA",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4320,7 +4320,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUITS FRAÎCHE",
+    "category": "Fruits",
     "company": "SARL FRAIS ET DELICE",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4329,7 +4329,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "FRUITS FRAICHE",
+    "category": "Fruits",
     "company": "EURL EL MIRAD FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4338,7 +4338,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "FRUITS FRAÎCHE",
+    "category": "Fruits",
     "company": "EURL IMANE H",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4347,7 +4347,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "FRUITS FRAÎCHE",
+    "category": "Fruits",
     "company": "SARL DJANAT EL HAITHAM WA WASSIM",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4356,7 +4356,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "standard",
+    "category": "Autre",
     "company": "SARL REHEL TRADING",
     "company_name_ar": "",
     "country_of_origin": "NL",
@@ -4365,7 +4365,7 @@
     "variety": "BARTINA-CANBERRA-CHALLENGER-DESIREE-FABULA-MEMPHIS-RASHIDA-SABABA-SPUNTA"
   },
   {
-    "category": "/",
+    "category": "Autre",
     "company": "EURL FRUIT NBH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4374,7 +4374,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL MOUNIR PAPIER",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4383,7 +4383,7 @@
     "variety": "BANANE GREEN FRECHE"
   },
   {
-    "category": "BANANE GREEN FRECHE",
+    "category": "Fruits",
     "company": "SARL AGRO TAKANES",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4392,7 +4392,7 @@
     "variety": "BANANE GREEN FRECH"
   },
   {
-    "category": "BANANE GREEN FRECHE",
+    "category": "Fruits",
     "company": "EURL AISSAOUI DATTES",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4401,7 +4401,7 @@
     "variety": "BANANE GREEN FRECH"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "EURL FRESH FUTUR",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4410,7 +4410,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "amidon de riz",
+    "category": "Céréales",
     "company": "somedial spa",
     "company_name_ar": "",
     "country_of_origin": "BE",
@@ -4419,7 +4419,7 @@
     "variety": "amidon de riz"
   },
   {
-    "category": "amidon de riz",
+    "category": "Céréales",
     "company": "somedial spa",
     "company_name_ar": "",
     "country_of_origin": "BE",
@@ -4428,7 +4428,7 @@
     "variety": "amidon de riz"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "EURL FRESH FUTUR",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4437,7 +4437,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Produit de consommation ,Fruit frais",
+    "category": "Fruits",
     "company": "GLOBAL AGRI FOOD SPA",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4446,7 +4446,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "freshfutur",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4455,7 +4455,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "freshfutur",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4464,7 +4464,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Plants in-vitro",
+    "category": "Plants",
     "company": "MAZOUZI Mostefa, Concessionnaire Agricole,EAC N°29 EX DAS AKKOUCHE LARBI",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4473,7 +4473,7 @@
     "variety": "Grande Naine"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "SARL KHODJA MILK",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4482,7 +4482,7 @@
     "variety": "GRANDE NAINE"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "freshfutur",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4491,7 +4491,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "freshfutur",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4500,7 +4500,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "SARL GROMERCE INTERNATIONAL",
     "company_name_ar": "",
     "country_of_origin": "GT",
@@ -4509,7 +4509,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "EURL NIALL IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4518,7 +4518,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1",
+    "category": "Autre",
     "company": "SARL MNS AGRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4527,7 +4527,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "EURL FROMAGERIE AMIRA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4536,7 +4536,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "EURL FROMAGERIE AMIRA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4545,7 +4545,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "SARL MNS AGRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4554,7 +4554,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "SARL MNS AGRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4563,7 +4563,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "freshfutur",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4572,7 +4572,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL NUTRIMAG",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4581,7 +4581,7 @@
     "variety": "MAIS JAUNE"
   },
   {
-    "category": "MUSACEAE",
+    "category": "Fruits",
     "company": "EURL ALEGOON INTERNATIONAL IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4590,7 +4590,7 @@
     "variety": "BANANE PLANTAIN"
   },
   {
-    "category": "FRUITS FRAÎCHE",
+    "category": "Fruits",
     "company": "EURL IMANE H",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4599,7 +4599,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS FRAICHE",
+    "category": "Fruits",
     "company": "SARL DJANAT EL HAITHAM WA WASSIM",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4608,7 +4608,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Bananes",
+    "category": "Fruits",
     "company": "Eurl zapex fruit",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4617,7 +4617,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL AGRO SLAMANIA",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -4626,7 +4626,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "eurl la renaissance fruits et legumes",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4635,7 +4635,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL MIRO 2 IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -4644,7 +4644,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL BENI MESSRA IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -4653,7 +4653,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANIMALS TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4662,7 +4662,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE PANIER DE FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4671,7 +4671,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL LOUNES IMPORT FB",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4680,7 +4680,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "EURL FATEH ELKHALIL",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4689,7 +4689,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL FOUDY FRUIT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4698,7 +4698,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4707,7 +4707,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4716,7 +4716,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL LOUNES IMPORT FB",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4725,7 +4725,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE FRUITS DE VIE IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4734,7 +4734,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "EURL FRUITS SIDI BENYEKHLEF",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4743,7 +4743,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL CHATAEL EL FAWAKIH IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4752,7 +4752,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL SELECTION FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4761,7 +4761,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANIMALS TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4770,7 +4770,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE PANIER DE FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4779,7 +4779,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "BANANAS",
+    "category": "Fruits",
     "company": "EURL HANINE FRUITS",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -4788,7 +4788,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "BANANAS",
+    "category": "Fruits",
     "company": "EURL MALEK ANES IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -4797,7 +4797,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "EURL AMIGO TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4806,7 +4806,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUITS",
+    "category": "Fruits",
     "company": "SARL CROX TRADING",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4815,7 +4815,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL ADEL F ILMPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4824,7 +4824,7 @@
     "variety": "LA BANANE"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL KANDOUS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4833,7 +4833,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "fruits",
+    "category": "Fruits",
     "company": "SARL KANDOUS IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4842,7 +4842,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "Fleurs coupées fraîches.",
+    "category": "Fleurs",
     "company": "Eurl mono fleurs import",
     "company_name_ar": "",
     "country_of_origin": "KE",
@@ -4851,7 +4851,7 @@
     "variety": "Alstroemeria, Gypsophile, Glaïeul,  Chrysanthème, Lys oriental et asiatique, Millepertuis, Rose bicolor."
   },
   {
-    "category": "Fleurs coupées fraîches.",
+    "category": "Fleurs",
     "company": "Eurl mono fleurs import",
     "company_name_ar": "",
     "country_of_origin": "KE",
@@ -4860,7 +4860,7 @@
     "variety": "Alstroemeria, Gypsophile, Glaïeul,  Chrysanthème, Lys oriental et asiatique, Millepertuis, Rose bicolor."
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL EL NIAMA LITIDJARA EL AMMA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4869,7 +4869,7 @@
     "variety": "BANANE"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL EL NIAMA LITIDJARA EL AMMA",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4878,7 +4878,7 @@
     "variety": "BANANE"
   },
   {
-    "category": "CAVENDISH",
+    "category": "Fruits",
     "company": "SARL DILIS FRUITS IMPORT/EXPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4887,7 +4887,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane destines a la consommation humaine",
+    "category": "Fruits",
     "company": "EURL ADEM SMAIL FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4896,7 +4896,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "banane destines a la consommation humaine",
+    "category": "Fruits",
     "company": "EURL AHMED FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4905,7 +4905,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "Fruit",
+    "category": "Fruits",
     "company": "Eurl Boussedjra NOUREDDINE import",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4914,7 +4914,7 @@
     "variety": "Banane Cavendish premium"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "SARL MNS AGRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4923,7 +4923,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "SARL MNS AGRO",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -4932,7 +4932,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4941,7 +4941,7 @@
     "variety": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL"
   },
   {
-    "category": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4950,7 +4950,7 @@
     "variety": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL"
   },
   {
-    "category": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4959,7 +4959,7 @@
     "variety": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL"
   },
   {
-    "category": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -4968,7 +4968,7 @@
     "variety": "TOURTEAUX DE SOJA Destiné à l’ALIMENT DE BETAIL"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4977,7 +4977,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4986,7 +4986,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -4995,7 +4995,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "Maïs destiné a l’aliment de bétail",
+    "category": "Céréales",
     "company": "SARL AGRO PLUS ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -5004,7 +5004,7 @@
     "variety": "Maïs destiné a l’aliment de bétail"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -5013,7 +5013,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL SELECTION FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "CO",
@@ -5022,7 +5022,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "Grain",
+    "category": "Céréales",
     "company": "SARL KHIDER GLOBAL COMPANY",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5031,7 +5031,7 @@
     "variety": "Yellow Corn"
   },
   {
-    "category": "ARBORICOLE",
+    "category": "Plants",
     "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
     "company_name_ar": "",
     "country_of_origin": "RS",
@@ -5040,7 +5040,7 @@
     "variety": "GOLDEN DELICIOUS – IDARED – GALA – GRANNY SMITH – SANTA MARIA"
   },
   {
-    "category": "VITICOLE",
+    "category": "Plants",
     "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
     "company_name_ar": "",
     "country_of_origin": "IT",
@@ -5049,7 +5049,7 @@
     "variety": "VITIS CARDINAL- VITIS VICTORIA- VITIS MOSCA ITALIA"
   },
   {
-    "category": "Musacées",
+    "category": "Fruits",
     "company": "EURL KHANFER LILISTIRAD WA TASDIR",
     "company_name_ar": "",
     "country_of_origin": "CR",
@@ -5058,7 +5058,7 @@
     "variety": "COSTA RICA"
   },
   {
-    "category": "Plant de pommier",
+    "category": "Plants",
     "company": "Yahiaoui Smail",
     "company_name_ar": "",
     "country_of_origin": "IT",
@@ -5067,7 +5067,7 @@
     "variety": "1000 gala Schnico red, 9000 golden reinders, 7000 starking delicious, 4000 granny smith"
   },
   {
-    "category": "FRUITS FRAICHE",
+    "category": "Fruits",
     "company": "SARL DJANAT EL HAITHAM WA WASSIM",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5076,7 +5076,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "FRUITS FRAICHE",
+    "category": "Fruits",
     "company": "SARL DJANAT EL HAITHAM WA WASSIM",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5085,7 +5085,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "GRAINS",
+    "category": "Céréales",
     "company": "SARL EL ALF",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -5094,7 +5094,7 @@
     "variety": "MAIS JAUNE"
   },
   {
-    "category": "GRAINS",
+    "category": "Céréales",
     "company": "SARL EL ALF",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -5103,7 +5103,7 @@
     "variety": "MAIS JAUNE"
   },
   {
-    "category": "PLANTS POMMIER",
+    "category": "Plants",
     "company": "BOUSSOUALIM KARIM",
     "company_name_ar": "",
     "country_of_origin": "IT",
@@ -5112,7 +5112,7 @@
     "variety": "Gala SchnicoRED M9.Golden Reinders M9.Starking DeliciousM9"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL B S FRUITS",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5121,7 +5121,7 @@
     "variety": "BANANE VERTE"
   },
   {
-    "category": "POMMIER",
+    "category": "Plants",
     "company": "BOUSSOUALIM KARIM",
     "company_name_ar": "",
     "country_of_origin": "IT",
@@ -5130,7 +5130,7 @@
     "variety": "Gala Schnico RED M9 Golden Reinders M9 Starking Delicious   M9"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "EURL FRESH FUTUR",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5139,7 +5139,7 @@
     "variety": "Cavendish variety class 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL ADEL F IMPORT",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5148,7 +5148,7 @@
     "variety": "BANANE"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "SARL AWRAS LTD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -5157,7 +5157,7 @@
     "variety": "FRESHE BANANA cavendish"
   },
   {
-    "category": "BANANE FRAICHE",
+    "category": "Fruits",
     "company": "SARL DJANAT EL HAITHAM WA WASSIM",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5166,7 +5166,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Musacées",
+    "category": "Fruits",
     "company": "EURL KHANFER LILISTIRAD WA TASDIR",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5175,7 +5175,7 @@
     "variety": "TRANVAL-SIRIANA"
   },
   {
-    "category": "MAIS",
+    "category": "Céréales",
     "company": "SARL NUTRIMAG",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5184,7 +5184,7 @@
     "variety": "MAIS JAUNE"
   },
   {
-    "category": "BANANE FRAICHE",
+    "category": "Fruits",
     "company": "EURL IMANE H",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5193,7 +5193,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "Sarl Frais Et Délice",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5202,7 +5202,7 @@
     "variety": "Banane"
   },
   {
-    "category": "Banane",
+    "category": "Fruits",
     "company": "Sarl Frais Et Délice",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5211,7 +5211,7 @@
     "variety": "Banane"
   },
   {
-    "category": "MUSA SAPIENTUM",
+    "category": "Fruits",
     "company": "EURL MALEK ANES IMPORT EXPORT",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5220,7 +5220,7 @@
     "variety": "BANANAS"
   },
   {
-    "category": "Premium banane",
+    "category": "Fruits",
     "company": "EURL FRESH FUTUR",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5229,7 +5229,7 @@
     "variety": "Cavendish"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "SARL AWRAS LTD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -5238,7 +5238,7 @@
     "variety": "FRESHE BANANA cavendish"
   },
   {
-    "category": "Grains et Epis",
+    "category": "Céréales",
     "company": "SARL SIM CEREALES",
     "company_name_ar": "",
     "country_of_origin": "IT",
@@ -5247,7 +5247,7 @@
     "variety": "ZURBAGAN  ET BAGADUR"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "SARL AWRAS LTD",
     "company_name_ar": "",
     "country_of_origin": "MT",
@@ -5256,7 +5256,7 @@
     "variety": "FRESHE BANANA cavendish"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "EURL NIALL",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5265,7 +5265,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "SARL MNS AGRO",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5274,7 +5274,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "EURL FROMAGERIE AMIRA",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5283,7 +5283,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL CHATAEL EL FAWAKIH IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5292,7 +5292,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANIMALS TRADING",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5301,7 +5301,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE PANIER DE FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5310,7 +5310,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5319,7 +5319,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL LOUNES IMPORT FB",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5328,7 +5328,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL HAMMAM GOLD",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5337,7 +5337,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "Fresh Green Cavendish Bananas (Bananes)",
+    "category": "Fruits",
     "company": "EURL JORDANA",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5346,7 +5346,7 @@
     "variety": "Cavendish Banana"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "SARL MATAE EL HAYAT",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5355,7 +5355,7 @@
     "variety": "BANANE VERTE"
   },
   {
-    "category": "Fruits frais",
+    "category": "Fruits",
     "company": "EURL RAFMINE GLOBAL",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5364,7 +5364,7 @@
     "variety": "Cavendich"
   },
   {
-    "category": "Fruits frais",
+    "category": "Fruits",
     "company": "SARL KHIDER GLOBAL COMPANY",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5373,7 +5373,7 @@
     "variety": "Cavendich"
   },
   {
-    "category": "banane destines a la consommation humaine",
+    "category": "Fruits",
     "company": "EURL EL AKSA IMP LEGUMES ET FRUITS",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5382,7 +5382,7 @@
     "variety": "cavendish"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE FRUITS DE VIE IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5391,7 +5391,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL BEST TOLE DESIGNE",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5400,7 +5400,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL SELECTION FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5409,7 +5409,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE PANIER DE FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5418,7 +5418,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANIMALS TRADING",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5427,7 +5427,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "Musacées",
+    "category": "Fruits",
     "company": "EURL KHANFER LILISTIRAD WA TASDIR",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5436,7 +5436,7 @@
     "variety": "TRANVAL-SIRIANA"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5445,7 +5445,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL LOUNES IMPORT FB",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5454,7 +5454,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "Musacées",
+    "category": "Fruits",
     "company": "EURL KHANFER LILISTIRAD WA TASDIR",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5463,7 +5463,7 @@
     "variety": "TRANVAL-SIRIANA"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5472,7 +5472,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL LOUNES IMPORT FB",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5481,7 +5481,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "Non",
+    "category": "Autre",
     "company": "Eurl zapex fruit",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5490,7 +5490,7 @@
     "variety": "BANANE CAVENDISH FRESH GREEN"
   },
   {
-    "category": "Micro-Boutures sur AGAR Olivier CV. ARBEQUINA Certifié",
+    "category": "Plants",
     "company": "SARL VITROPLANT ALGERIE",
     "company_name_ar": "",
     "country_of_origin": "IT",
@@ -5499,7 +5499,7 @@
     "variety": "OLEA EUROPEA (VOIR PIECES JOINTES)"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5508,7 +5508,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANIMALS TRADING",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5517,7 +5517,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5526,7 +5526,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5535,7 +5535,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5544,7 +5544,7 @@
     "variety": "SOJA"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5553,7 +5553,7 @@
     "variety": "SOJA"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5562,7 +5562,7 @@
     "variety": "SOJA"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5571,7 +5571,7 @@
     "variety": "SOJA"
   },
   {
-    "category": "Fruits frais",
+    "category": "Fruits",
     "company": "SARL KHIDER GLOBAL COMPANY",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5580,7 +5580,7 @@
     "variety": "Cavendich"
   },
   {
-    "category": "Fruits frais",
+    "category": "Fruits",
     "company": "EURL RAFMINE GLOBAL",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5589,7 +5589,7 @@
     "variety": "Cavendich"
   },
   {
-    "category": "Fruits frais",
+    "category": "Fruits",
     "company": "EURL RAFMINE GLOBAL",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5598,7 +5598,7 @@
     "variety": "Cavendich"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL MB SOURCE",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5607,7 +5607,7 @@
     "variety": "cavensish prenium"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL MB SOURCE",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5616,7 +5616,7 @@
     "variety": "cavensish prenium"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL MB SOURCE",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5625,7 +5625,7 @@
     "variety": "cavensish prenium"
   },
   {
-    "category": "BANANES",
+    "category": "Fruits",
     "company": "EURL MB SOURCE",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5634,7 +5634,7 @@
     "variety": "cavensish prenium"
   },
   {
-    "category": "Musacées",
+    "category": "Fruits",
     "company": "EURL KHANFER LILISTIRAD WA TASDIR",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5643,7 +5643,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5652,7 +5652,7 @@
     "variety": "VARIÉTÉ CAVENDISH CLASSE 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE FRUITS DE VIE IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5661,7 +5661,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL BEST TOLE DESIGNE",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5670,7 +5670,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANILAMES TRADING",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5679,7 +5679,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "SARL",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5688,7 +5688,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE1",
+    "category": "Autre",
     "company": "EURL FROMAGERIE AMIRA",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5697,7 +5697,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL SELECTION FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5706,7 +5706,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL LOUNES IMPORT FB",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5715,7 +5715,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE PANIER DE FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5724,7 +5724,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "MUSACEAE",
+    "category": "Fruits",
     "company": "EURL ALEGOON INTERNATIONAL",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5733,7 +5733,7 @@
     "variety": "BANANE PLANTAIN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5742,7 +5742,7 @@
     "variety": "SOJA"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE FRUITS DE VIE IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5751,7 +5751,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANIMALS TRADING",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5760,7 +5760,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "SARL LOUNES IMPORT FB",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5769,7 +5769,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL THE BEST ANIMALS TRADING",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5778,7 +5778,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE COUFFIN DES FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5787,7 +5787,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL SELECTION FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5796,7 +5796,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL BEST TOLE DESIGNE",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5805,7 +5805,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "FRUIT",
+    "category": "Fruits",
     "company": "EURL LE PANIER DE FRUITS IMPEX",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5814,7 +5814,7 @@
     "variety": "CAVENDISH VARIETY CLASS 1"
   },
   {
-    "category": "CATEGORIE 1 TYPE 22XU",
+    "category": "Autre",
     "company": "SARL SAF FRUITS",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5823,7 +5823,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1 TYPE 22XU",
+    "category": "Autre",
     "company": "SARL GALA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5832,7 +5832,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "CATEGORIE 1 TYPE 22XU",
+    "category": "Autre",
     "company": "SARL GALA FRUITS",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5841,7 +5841,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "SARL AWRAS LTD",
     "company_name_ar": "",
     "country_of_origin": "EG",
@@ -5850,7 +5850,7 @@
     "variety": "FRESHE BANANA cavendish"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL AMMOUR FRUITS",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5859,7 +5859,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "RALSTONIA SOLANACEARUM RACE2",
+    "category": "Autre",
     "company": "EURL EL-AKSA LISTIRADE EL KHODAR WA FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5868,7 +5868,7 @@
     "variety": "CAVENDISH"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5877,7 +5877,7 @@
     "variety": "SOJA"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5886,7 +5886,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5895,7 +5895,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5904,7 +5904,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5913,7 +5913,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5922,7 +5922,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5931,7 +5931,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5940,7 +5940,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5949,7 +5949,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "FRUITS FRAÎCHE",
+    "category": "Fruits",
     "company": "SARL DJANAT EL HAITHAM WA WASSIM",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5958,7 +5958,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "FRUITS FRAÎCHE",
+    "category": "Fruits",
     "company": "EURL IMANE H",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -5967,7 +5967,7 @@
     "variety": "FRUITS FRAICHE"
   },
   {
-    "category": "banane",
+    "category": "Fruits",
     "company": "SARL AWRAS LTD",
     "company_name_ar": "",
     "country_of_origin": "EG",
@@ -5976,7 +5976,7 @@
     "variety": "FRESHE BANANA"
   },
   {
-    "category": "mais en vrac",
+    "category": "Céréales",
     "company": "sarl ultracom",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -5985,7 +5985,7 @@
     "variety": "mais en vrac"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -5994,7 +5994,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "BANANES  DISTINES A  LA CONSOMATION HUMAINE",
+    "category": "Fruits",
     "company": "EURL  EL-AKSA LISTIRADE EL KHODAR WA FAWAKIH",
     "company_name_ar": "",
     "country_of_origin": "EC",
@@ -6003,7 +6003,7 @@
     "variety": "BANANES"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -6012,7 +6012,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "AR",
@@ -6021,7 +6021,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -6030,7 +6030,7 @@
     "variety": "AL GHURAIR RESOURCES INTERNATIONAL LLC"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -6039,7 +6039,7 @@
     "variety": "AL GHURAIR RESOURCES INTERNATIONAL LLC"
   },
   {
-    "category": "ALIMENTATION DE BETAIL ET VOLAILLE",
+    "category": "Aliments bétail",
     "company": "SARL DYNAMIC AGRO",
     "company_name_ar": "",
     "country_of_origin": "BR",
@@ -6048,7 +6048,7 @@
     "variety": "MAÏS/CORN"
   },
   {
-    "category": "BANANE",
+    "category": "Fruits",
     "company": "EURL EL HASSAN IMPORT",
     "company_name_ar": "",
     "country_of_origin": "CR",

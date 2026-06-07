@@ -10,7 +10,7 @@ import { t, getTranslations } from '../../lib/i18n';
 import ChapterNav from '../../components/shared/ChapterNav.astro';
 import InsightCallout from '../../components/shared/InsightCallout.astro';
 import { loadVetAuthorizations, loadVetDistributors, loadVetMedicineImporters } from '../../lib/data';
-import { WILAYA_BY_CODE } from '../../data/wilaya-names';
+import { WILAYA_BY_CODE, wilayaCodeFromName } from '../../data/wilaya-names';
 import type { Lang } from '../../lib/types';
 
 const lang: Lang = 'fr';
@@ -38,7 +38,11 @@ for (const r of distributors) {
   }
 }
 const wilayaChartData = Object.entries(wilayaCounts)
-  .map(([label, count]) => ({ label, count }))
+  .map(([frName, count]) => {
+    const code = wilayaCodeFromName(frName);
+    const label = code ? (WILAYA_BY_CODE[code]?.[lang] ?? frName) : frName;
+    return { label, count };
+  })
   .sort((a, b) => b.count - a.count)
   .slice(0, 20);
 
