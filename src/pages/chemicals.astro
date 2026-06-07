@@ -94,11 +94,19 @@ const explorerI18n = {
       client:visible
     />
 
-    <div class="mb-10 p-5 bg-surface border border-line rounded-lg max-w-2xl">
-      <p class="text-sm text-muted font-body">
-        <span class="font-mono text-forest font-bold text-2xl">{records.length.toLocaleString('ar-DZ')}</span>
-        {' '}{t(lang, 'stats.agrochemicals')}
-      </p>
+    <div class="grid sm:grid-cols-3 gap-4 mb-10">
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">1,047</div>
+        <div class="text-xs text-muted font-body mt-1">منتج إسباني — المرتبة الأولى</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">909</div>
+        <div class="text-xs text-muted font-body mt-1">منتج إيطالي — المرتبة الثانية</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">611</div>
+        <div class="text-xs text-muted font-body mt-1">منتج صيني — المرتبة الثالثة ومتزايد</div>
+      </div>
     </div>
 
     <section class="mb-10">
@@ -138,6 +146,16 @@ const explorerI18n = {
       i18n={explorerI18n}
       client:visible
     />
+
+    {/* Data quality note */}
+    <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(45,106,79,0.04); border: 1px solid rgba(45,106,79,0.2);">
+      <p class="text-xs font-mono font-bold mb-2 text-forest">⚠ جودة البيانات الخام</p>
+      <p class="text-sm font-body leading-relaxed text-muted">
+        عمود "الفئة" الأصلي يحتوي على <strong class="text-ink">261 قيمة فريدة</strong> لـ14 نوع أساسي فقط.
+        "BIOSTIMULANT" و"Biostimulant" و"bio stimulant" و"Bio Stimulant" و"BIOSTUMILANT" (خطأ إملائي)
+        — كلها نفس الفئة. قمنا بالتوحيد إلى 14 مجموعة قابلة للمقارنة.
+      </p>
+    </div>
 
     <ChapterNav
       lang={lang}

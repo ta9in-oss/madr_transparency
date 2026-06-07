@@ -2,7 +2,7 @@
   {
     "company": "SARL VITE PLANTE AGRO",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pistachier",
     "material_type": "porte-greffes",
     "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
@@ -12,7 +12,7 @@
   {
     "company": "EURL FRUT ALGERIE",
     "company_name_ar": "",
-    "country_of_origin": "BOSNIE HERZEGOVINE",
+    "country_of_origin": "XX",
     "known_name": "POMMIER",
     "material_type": "PLANTS POMMIER",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W.DJELFA",
@@ -22,7 +22,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "PAYS BAS",
+    "country_of_origin": "NL",
     "known_name": "POMMIER",
     "material_type": "PLANTES POMMIER",
     "planting_zone": "BLIDA",
@@ -32,7 +32,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne",
     "material_type": "Plants de vigne greffés soudés",
     "planting_zone": "Territoire national",
@@ -42,7 +42,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne",
     "material_type": "Plants de vigne greffés soudés",
     "planting_zone": "Territoire national",
@@ -52,7 +52,7 @@
   {
     "company": "SARL green House",
     "company_name_ar": "",
-    "country_of_origin": "Espagne",
+    "country_of_origin": "ES",
     "known_name": "fortuna",
     "material_type": "plantes congelés",
     "planting_zone": "Tipaza Hamre El ain",
@@ -62,7 +62,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "Bosnia and Herzegovina",
+    "country_of_origin": "XX",
     "known_name": "pommier poirier",
     "material_type": "plantes",
     "planting_zone": "constantine sidi bel abbes saida chlef",
@@ -72,7 +72,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "vitis vinifera",
     "material_type": "plantes",
     "planting_zone": "tipaza oran",
@@ -82,7 +82,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "vitis vinifera",
     "material_type": "plantes",
     "planting_zone": "tipaza oran",
@@ -92,7 +92,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "MANGUE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA,  MNIAA ,",
@@ -102,7 +102,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PORTE GREFFE GF677",
     "material_type": "PLANTS PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W-DJELFA",
@@ -112,7 +112,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "MANGUE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA,  MNIAA ,",
@@ -122,7 +122,7 @@
   {
     "company": "Eurl elavisa",
     "company_name_ar": "",
-    "country_of_origin": "Turquie",
+    "country_of_origin": "TR",
     "known_name": "Poirer prunier",
     "material_type": "Plants",
     "planting_zone": "Sersou bznhar djelfa",
@@ -132,7 +132,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "MANGUE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA , ALGER, BATNA, BBA, MASCARA, SBA, AIN TIMOUCHENT, SETIF",
@@ -142,7 +142,7 @@
   {
     "company": "SARL MAGIC SEEDS",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "plantes",
     "material_type": "plantes",
     "planting_zone": "territoire national",
@@ -152,7 +152,7 @@
   {
     "company": "SARL ACI SEEDS",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "MANGUIER",
     "material_type": "plantes arboricoles",
     "planting_zone": "NATIONAL",
@@ -162,7 +162,7 @@
   {
     "company": "SARL VITE PLANTE AGRO",
     "company_name_ar": "",
-    "country_of_origin": "Turquie",
+    "country_of_origin": "TR",
     "known_name": "Amandier",
     "material_type": "porte-greffes GF 677",
     "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
@@ -172,7 +172,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PORTE GREFFE GF677",
     "material_type": "PLANTS PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W DJELFA",
@@ -182,7 +182,7 @@
   {
     "company": "SARL VITE PLANTE AGRO",
     "company_name_ar": "",
-    "country_of_origin": "Turquie",
+    "country_of_origin": "TR",
     "known_name": "Amandier",
     "material_type": "porte-greffes GF 677",
     "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
@@ -192,7 +192,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "GF677",
     "material_type": "PLANTS PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
@@ -202,7 +202,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "GF677",
     "material_type": "PLANTS PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
@@ -212,7 +212,7 @@
   {
     "company": "SARL VITE PLANTE AGRO",
     "company_name_ar": "",
-    "country_of_origin": "Turquie",
+    "country_of_origin": "TR",
     "known_name": "Pommier",
     "material_type": "Plantes",
     "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
@@ -222,7 +222,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -232,7 +232,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "97996",
@@ -242,7 +242,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTS POMMIER",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
@@ -252,7 +252,7 @@
   {
     "company": "eurl planete plante fruit",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier",
     "material_type": "porte greffes M9",
     "planting_zone": "tiaret",
@@ -262,7 +262,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BELAABAS",
@@ -272,7 +272,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "PORTE GREFFE POMMIER",
     "material_type": "PLANTS PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
@@ -282,7 +282,7 @@
   {
     "company": "SARL MAGIC SEEDS",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "plantes pommier",
     "material_type": "plantes",
     "planting_zone": "TERRITOIRE NATIONEL",
@@ -292,7 +292,7 @@
   {
     "company": "EURL ZAKZOUKA FERUIT",
     "company_name_ar": "",
-    "country_of_origin": "COSTA RICA",
+    "country_of_origin": "CR",
     "known_name": "BANANE",
     "material_type": "AUTRE",
     "planting_zone": "BLIDA",
@@ -302,7 +302,7 @@
   {
     "company": "SARL MAGIC SEEDS",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "plantes pommier",
     "material_type": "plantes",
     "planting_zone": "TERRITOIRE NATIONEL",
@@ -312,7 +312,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POIRIER+PRUNIER",
     "material_type": "PLANTE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
@@ -322,7 +322,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POIRIER+PRUNIER",
     "material_type": "PLANTE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
@@ -332,7 +332,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "GRECE",
+    "country_of_origin": "GR",
     "known_name": "GF677",
     "material_type": "PLANTS PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-DJELFA",
@@ -342,7 +342,7 @@
   {
     "company": "EL NABTA EL KHADRA",
     "company_name_ar": "",
-    "country_of_origin": "PAYS-BAS",
+    "country_of_origin": "NL",
     "known_name": "PORTE GREFFE POMMIER",
     "material_type": "PLANT FRUITIER PORTE GREFFE",
     "planting_zone": "BLIDA",
@@ -352,7 +352,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "peche prune",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -362,7 +362,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Cerisier/Abricotier/porte-greffe",
     "material_type": "Plantes/Porte greffes",
     "planting_zone": "KHENCHELA",
@@ -372,7 +372,7 @@
   {
     "company": "COOPERATIVE  AGRICOLE REGIONALE D’ACTIVITE  POLYVALENTE  *EZZIBANE*  BISKRA   —   (CARAP -EZZIBANE)",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PLANTS  DE VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "Algeria",
@@ -382,7 +382,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTE+PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA",
@@ -392,7 +392,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-ABRICOTIER- PECHE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA, SETIF , MNIAA ,",
@@ -402,7 +402,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-ABRICOTIER- PECHE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA, SETIF , MNIAA ,",
@@ -412,7 +412,7 @@
   {
     "company": "ELFLICI ABDERRAHMANE",
     "company_name_ar": "",
-    "country_of_origin": "turkiye",
+    "country_of_origin": "TR",
     "known_name": "bango – alata azmane",
     "material_type": "plants",
     "planting_zone": "CORSO BOUMERDES",
@@ -422,7 +422,7 @@
   {
     "company": "SARL AGRO ATHRER",
     "company_name_ar": "",
-    "country_of_origin": "إيطاليا",
+    "country_of_origin": "XX",
     "known_name": "POMMIER",
     "material_type": "Plant greffé",
     "planting_zone": "خنشلة – باتنة",
@@ -432,7 +432,7 @@
   {
     "company": "EURL AURES DRILL",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES (POMMIER)",
     "planting_zone": "Khenchela, El Hamma,",
@@ -442,7 +442,7 @@
   {
     "company": "EURL JIRINE PLANTE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "Blida – AIN OUASSARA",
@@ -452,7 +452,7 @@
   {
     "company": "BENBELLAT AHMED",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "Plants",
     "planting_zone": "Batna-TAZOULT-",
@@ -462,7 +462,7 @@
   {
     "company": "BENBELLAT AHMED",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "Plants",
     "planting_zone": "Batna-TAZOULT-",
@@ -472,7 +472,7 @@
   {
     "company": "SARL VITE PLANTE AGRO",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "Plantes",
     "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
@@ -482,7 +482,7 @@
   {
     "company": "EURL JIRINE PLANTE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "Blida",
@@ -492,7 +492,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Cerisier/Abricotier/porte-greffe",
     "material_type": "Plantes/Porte greffe",
     "planting_zone": "KHENCHELA",
@@ -502,7 +502,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA",
@@ -512,7 +512,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "peche cerise",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -522,7 +522,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POMMIER -ABRICOTIER- PECHE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA, ALGER , setif, mostaganem,BBA, SBA, BATNA, BISKRA",
@@ -532,7 +532,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-POIRIER-ABRICOTIER-",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA, ALGER , setif, mostaganem,BBA, SBA, BATNA, BISKRA",
@@ -542,7 +542,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-ABRICOTIER- PECHE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA, ALGER, BATNA , SBA, BBA , DJELFA, SETIF , MNIAA ,",
@@ -552,7 +552,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -562,7 +562,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -572,7 +572,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -582,7 +582,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -592,7 +592,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -602,7 +602,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -612,7 +612,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -622,7 +622,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -632,7 +632,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -642,7 +642,7 @@
   {
     "company": "SARL AMF GROUPE",
     "company_name_ar": "",
-    "country_of_origin": "ETATS UNIS D’AMERIQUE USA",
+    "country_of_origin": "XX",
     "known_name": "PISTACHE",
     "material_type": "semence",
     "planting_zone": "ALGER ROUIBA",
@@ -652,7 +652,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTES+PORTES GREFFES",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA-W-DJELFA",
@@ -662,7 +662,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne – Racinés de porte greffe",
     "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
     "planting_zone": "DIVERS",
@@ -672,7 +672,7 @@
   {
     "company": "COOPERATIVE AGRICOLE EMIR ABDELKADER",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "PLANTES DE POIRRIERS",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -682,7 +682,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PISTACHIER",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -692,7 +692,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PECHER – ABRICOTIER – POMMIER",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -702,7 +702,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PECHER – ABRICOTIER – POMMIER",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -712,7 +712,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PISTACHIER",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -722,7 +722,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PECHER",
     "material_type": "PORTE GREFFES",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -732,7 +732,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PRUNIE R/PECHER / POIRIER /KIWI / AMANDIER / CERISIER",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -742,7 +742,7 @@
   {
     "company": "SERSAR BELARBI",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "poirier",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -752,7 +752,7 @@
   {
     "company": "EURL NATURE GREEN",
     "company_name_ar": "",
-    "country_of_origin": "BOSNIA AND HERZEGOVINA",
+    "country_of_origin": "XX",
     "known_name": "FRUITS PLANTS",
     "material_type": "PLANTS",
     "planting_zone": "baghlia boumerdes",
@@ -762,7 +762,7 @@
   {
     "company": "EL NABTA EL KHADRA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "pecher – pommier – cerisier",
     "material_type": "PLANTS FRUITIERS GREFFE",
     "planting_zone": "BLIDA",
@@ -772,7 +772,7 @@
   {
     "company": "ELFLICI ABDERRAHMANE",
     "company_name_ar": "",
-    "country_of_origin": "turkiye",
+    "country_of_origin": "TR",
     "known_name": "bango – alata azmane",
     "material_type": "plants",
     "planting_zone": "CORSO BOUMERDES",
@@ -782,7 +782,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PECHER",
     "material_type": "PORTE GREFFES",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -792,7 +792,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PRUNIE R/PECHER / POIRIER /KIWI / AMANDIER / CERISIER",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -802,7 +802,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "Bosnia and Herzegovina",
+    "country_of_origin": "XX",
     "known_name": "malus domesticca",
     "material_type": "plantes",
     "planting_zone": "constantine sidi bel abbes",
@@ -812,7 +812,7 @@
   {
     "company": "ELFLICI ABDERRAHMANE",
     "company_name_ar": "",
-    "country_of_origin": "turkiye",
+    "country_of_origin": "TR",
     "known_name": "bango – alata azmane",
     "material_type": "plants",
     "planting_zone": "CORSO",
@@ -822,7 +822,7 @@
   {
     "company": "EURL BOUHMAMA APPLE PRODUCT",
     "company_name_ar": "",
-    "country_of_origin": "Pologne",
+    "country_of_origin": "PL",
     "known_name": "Pommier et poirier",
     "material_type": "M9",
     "planting_zone": "Khenchela et batna",
@@ -832,7 +832,7 @@
   {
     "company": "BOUSSOUALIM KARIM",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PLANTES DE PECHIER",
     "material_type": "PLANTES",
     "planting_zone": "commune de tixter wilaya de bordj bou arreridj",
@@ -842,7 +842,7 @@
   {
     "company": "BOUSSOUALIM RIADH",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POIRIER",
     "material_type": "PLANTES",
     "planting_zone": "COMMUNE DE TIXTER WILAYA DE BORDJ BOU ARRERIDJ",
@@ -852,7 +852,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "Bosnia and Herzegovina",
+    "country_of_origin": "XX",
     "known_name": "malus domesticca",
     "material_type": "plantes",
     "planting_zone": "constantine sidi bel abbes",
@@ -862,7 +862,7 @@
   {
     "company": "Agricole",
     "company_name_ar": "",
-    "country_of_origin": "Afrique du Sud",
+    "country_of_origin": "ZA",
     "known_name": "Banane",
     "material_type": "Plantes",
     "planting_zone": "Chekfa, Jijel",
@@ -872,7 +872,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "vitis vinifera",
     "material_type": "vitis vinifera",
     "planting_zone": "tipaza",
@@ -882,7 +882,7 @@
   {
     "company": "EURL PLANETE PLANTE FRUITS",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER CERISIER PÊCHER",
     "material_type": "PLANTES",
     "planting_zone": "SAIDA TIARET",
@@ -892,7 +892,7 @@
   {
     "company": "EURL PLANETE PLANTE FRUITS",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER ABRICOTIER",
     "material_type": "PLANTES",
     "planting_zone": "TAREF KHENCHELA",
@@ -902,7 +902,7 @@
   {
     "company": "EURL PLANETE PLANTE FRUITS",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER PRUNIER  ABRICOTIER POIRIER",
     "material_type": "PLANTES",
     "planting_zone": "CONSTANTINE ORAN",
@@ -912,7 +912,7 @@
   {
     "company": "EURL PLANETE PLANTE FRUITS",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER – POIRIER",
     "material_type": "PLANTES",
     "planting_zone": "BATNA SIDI BELABAS DJELFA",
@@ -922,7 +922,7 @@
   {
     "company": "SARL BASAGRI COMPANY",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIER , VIGNE DE TABLE",
     "material_type": "PLANTES",
     "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
@@ -932,7 +932,7 @@
   {
     "company": "SARL BASAGRI COMPANY",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
@@ -942,7 +942,7 @@
   {
     "company": "BOUSSOUALIM RIADH",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POIRIER",
     "material_type": "PLANTES",
     "planting_zone": "COMMUNE TIXTER WILAYA BORDJ BOU ARRERIDJ",
@@ -952,7 +952,7 @@
   {
     "company": "SARL VITE PLANTE AGRO",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pistachier",
     "material_type": "Plantes",
     "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
@@ -962,7 +962,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "vitis vinifera",
     "material_type": "vitis vinifera",
     "planting_zone": "tipaza boumerdes constantine sidi belabbes",
@@ -972,7 +972,7 @@
   {
     "company": "SARL VITE PLANTE AGRO",
     "company_name_ar": "",
-    "country_of_origin": "Turquie",
+    "country_of_origin": "TR",
     "known_name": "amandier",
     "material_type": "porte-greffes GF 677",
     "planting_zone": "Commune Cherfa Wilaya Djelfa / Commune Djaafra Wilaya Bordj Bou Arreridj / Commune Hadjira Wilaya Ouargla",
@@ -982,7 +982,7 @@
   {
     "company": "SARL BASAGRI COMPANY",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "VIGNE DE TABLE ET POIRIER",
     "material_type": "PLANTES",
     "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
@@ -992,7 +992,7 @@
   {
     "company": "SARL BASAGRI COMPANY",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
@@ -1002,7 +1002,7 @@
   {
     "company": "SARL BASAGRI COMPANY",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POIRIER ET POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "AIN DEFLA, MEDEA, DJELFA ET CHLEF",
@@ -1012,7 +1012,7 @@
   {
     "company": "EURL STAR PLANT",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PECHE  ABRICOT POIRE PORTE GREFFE",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA",
@@ -1022,7 +1022,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PECHE MALUS ABRICOT poir",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -1032,7 +1032,7 @@
   {
     "company": "SARL VITROPLANT ALGERIE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PISTACHIER",
     "material_type": "PLANTES",
     "planting_zone": "Ain Oussara/Tebessa",
@@ -1042,7 +1042,7 @@
   {
     "company": "AGRICULTEUR",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PRUNE ET PECHE",
     "material_type": "GREFFES",
     "planting_zone": "TIZI- MASCARA",
@@ -1052,7 +1052,7 @@
   {
     "company": "ELFLICI ABDERRAHMANE",
     "company_name_ar": "",
-    "country_of_origin": "turkiye",
+    "country_of_origin": "TR",
     "known_name": "bango – alata azmane",
     "material_type": "plants",
     "planting_zone": "CORSO BOUMERDES",
@@ -1062,7 +1062,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PECHER",
     "material_type": "PORTE GREFFES",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -1072,7 +1072,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PRUNIE R/PECHER / POIRIER /KIWI / AMANDIER / CERISIER",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES – AIN DEFLA",
@@ -1082,7 +1082,7 @@
   {
     "company": "EURL FRUT ALGERIE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "VIGNE + PORTE GREFFE VIGNE",
     "material_type": "PLANTES+PORTE GREFFE",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA",
@@ -1092,7 +1092,7 @@
   {
     "company": "EL NABTA EL KHADRA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "porte greffe pecher – porte greffe myrobolan – porte greffe poirier – porte greffe pommier – porte greffe cerisier",
     "material_type": "PLANT FRUITIER PORTE GREFFE",
     "planting_zone": "BLIDA",
@@ -1102,7 +1102,7 @@
   {
     "company": "SERSAR BELARBI",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "PLANTES DE POIRRIERS",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1112,7 +1112,7 @@
   {
     "company": "SERSAR BELARBI",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "PLANTES DE POIRRIERS",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1122,7 +1122,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "pêche , nectarine",
     "material_type": "Porte-greffes",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -1132,7 +1132,7 @@
   {
     "company": "Agro Consulting International",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PALMIER DATTIER IN VITRO",
     "material_type": "PLANTS IN VITRO",
     "planting_zone": "commune",
@@ -1142,7 +1142,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "Grece",
+    "country_of_origin": "GR",
     "known_name": "PECHE MALUS ABRICOT CERISE PRUNE",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -1152,7 +1152,7 @@
   {
     "company": "Sarl PGP",
     "company_name_ar": "",
-    "country_of_origin": "Serbie",
+    "country_of_origin": "RS",
     "known_name": "Malus domestica",
     "material_type": "plants certifiés",
     "planting_zone": "Sidi Bel Abbes",
@@ -1162,7 +1162,7 @@
   {
     "company": "ELFLICI ABDERRAHMANE",
     "company_name_ar": "",
-    "country_of_origin": "turkiye",
+    "country_of_origin": "TR",
     "known_name": "bango – alata azmane",
     "material_type": "plants",
     "planting_zone": "المستثمرة الفلاحية رقم 08 قدواري قورصو بومرداس",
@@ -1172,7 +1172,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "MALUS porte greffe",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -1182,7 +1182,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA ALGER BATNA SIDI BELABBAS",
@@ -1192,7 +1192,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "BLIDA ALGER BATNA SIDI BELABBAS",
@@ -1202,7 +1202,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "Grece",
+    "country_of_origin": "GR",
     "known_name": "porte greffe",
     "material_type": "porte greffes",
     "planting_zone": "TIARET",
@@ -1212,7 +1212,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "AFRIQUE DU SUD",
+    "country_of_origin": "ZA",
     "known_name": "VIGNE",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BEL ABBES",
@@ -1222,7 +1222,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -1232,7 +1232,7 @@
   {
     "company": "COOPERATIVE  AGRICOLE  REGIONALE   D’ACTIVITES  POLYVALENTE *EZZIBANE*  BISKRA (CARAP EZZIBANE )",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PLANTS  DE VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "BISKRA",
@@ -1242,7 +1242,7 @@
   {
     "company": "EL NABTA EL KHADRA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PECHE – POMMIER- PRUNIER – CERISIER -POIRIER – KIWI",
     "material_type": "PLANTS FRUITIERS GREFFE",
     "planting_zone": "الجزائر و ضواحيها",
@@ -1252,7 +1252,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "pêche , nectarine",
     "material_type": "Porte-greffes",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -1262,7 +1262,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Poirier-Prunier-Cerisier",
     "material_type": "Plants de fruitières greffés soudés",
     "planting_zone": "Territoire national",
@@ -1272,7 +1272,7 @@
   {
     "company": "NEHAR LINA FRUITS",
     "company_name_ar": "",
-    "country_of_origin": "COSTA RICA",
+    "country_of_origin": "CR",
     "known_name": "BANANE",
     "material_type": "AUTRE",
     "planting_zone": "BLIDA",
@@ -1282,7 +1282,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -1292,7 +1292,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PECHE NECTARINE POIR MALUS ABRICOT CERISE PRUNE",
     "material_type": "PLANTES",
     "planting_zone": "TIARET",
@@ -1302,7 +1302,7 @@
   {
     "company": "MAKA FAWAKIH",
     "company_name_ar": "",
-    "country_of_origin": "COSTA RICA",
+    "country_of_origin": "CR",
     "known_name": "BANANE",
     "material_type": "AUTRE",
     "planting_zone": "BLIDA",
@@ -1312,7 +1312,7 @@
   {
     "company": "eurl sidou fruit",
     "company_name_ar": "",
-    "country_of_origin": "COSTA RICA",
+    "country_of_origin": "CR",
     "known_name": "BANANE",
     "material_type": "AUTRE",
     "planting_zone": "BLIDA",
@@ -1322,7 +1322,7 @@
   {
     "company": "HAYAT KHOUDAR WA FAWAKIH",
     "company_name_ar": "",
-    "country_of_origin": "COSTA RICA",
+    "country_of_origin": "CR",
     "known_name": "BANANE",
     "material_type": "AUTRE",
     "planting_zone": "BLIDA",
@@ -1332,7 +1332,7 @@
   {
     "company": "انيا فروماجري",
     "company_name_ar": "",
-    "country_of_origin": "COSTA RICA",
+    "country_of_origin": "CR",
     "known_name": "BANANE",
     "material_type": "AUTRE",
     "planting_zone": "BLIDA",
@@ -1342,7 +1342,7 @@
   {
     "company": "SARL green House",
     "company_name_ar": "",
-    "country_of_origin": "Espagne",
+    "country_of_origin": "ES",
     "known_name": "fraise",
     "material_type": "plantes en motte",
     "planting_zone": "Tipaza BOURKIKA",
@@ -1352,7 +1352,7 @@
   {
     "company": "SARL GREEN HOUSE",
     "company_name_ar": "",
-    "country_of_origin": "egypte",
+    "country_of_origin": "EG",
     "known_name": "fraise",
     "material_type": "plantes congelées",
     "planting_zone": "tipaza hamr el ain",
@@ -1362,7 +1362,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -1372,7 +1372,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "ESPAGNE-Union européenne",
+    "country_of_origin": "ES",
     "known_name": "FRAISIER",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL, BLIDA ET TIPAZA",
@@ -1382,7 +1382,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "ESPAGNE-Union européenne",
+    "country_of_origin": "ES",
     "known_name": "FRAISIER",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL, BLIDA ET TIPAZA",
@@ -1392,7 +1392,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "ESPAGNE-Union européenne",
+    "country_of_origin": "ES",
     "known_name": "FRAISIER",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL, BLIDA ET TIPAZA",
@@ -1402,7 +1402,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "ESPAGNE-Union européenne",
+    "country_of_origin": "ES",
     "known_name": "FRAISIER",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL, BLIDA ET TIPAZA",
@@ -1412,7 +1412,7 @@
   {
     "company": "SARL Right Green",
     "company_name_ar": "",
-    "country_of_origin": "Egypt",
+    "country_of_origin": "EG",
     "known_name": "Fraise",
     "material_type": "plantes",
     "planting_zone": "wilaya: Jijel, Commune: Jijel et Tahir",
@@ -1422,7 +1422,7 @@
   {
     "company": "SARL AGRI HOUSE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PLANT FRAISIER FRIGO",
     "material_type": "PLANTES",
     "planting_zone": "TERRITOIRE NATIONAL",
@@ -1432,7 +1432,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -1442,7 +1442,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -1452,7 +1452,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -1462,7 +1462,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -1472,7 +1472,7 @@
   {
     "company": "SARL green House",
     "company_name_ar": "",
-    "country_of_origin": "Espagne",
+    "country_of_origin": "ES",
     "known_name": "fraise",
     "material_type": "plantes en motte",
     "planting_zone": "Tipaza BOURKIKA",
@@ -1482,7 +1482,7 @@
   {
     "company": "SARL green House",
     "company_name_ar": "",
-    "country_of_origin": "Espagne",
+    "country_of_origin": "ES",
     "known_name": "fraise",
     "material_type": "plantes en motte",
     "planting_zone": "Tipaza BOURKIKA",
@@ -1492,7 +1492,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "fraisier",
     "material_type": "plantes",
     "planting_zone": "alger",
@@ -1502,7 +1502,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "Poland",
+    "country_of_origin": "PL",
     "known_name": "FRAISIER CULTIVE",
     "material_type": "PLANTS DE FRAISES FRIGO PLARED 00955",
     "planting_zone": "JIJEL, BLIDA ET TIPAZA",
@@ -1512,7 +1512,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "Poland",
+    "country_of_origin": "PL",
     "known_name": "FRAISIER CULTIVE",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL, BLIDA ET TIPAZA",
@@ -1522,7 +1522,7 @@
   {
     "company": "SARL AGRI HOUSE",
     "company_name_ar": "",
-    "country_of_origin": "egypte",
+    "country_of_origin": "EG",
     "known_name": "PLANT DE  FRAISIER FRIGO",
     "material_type": "PLANTES",
     "planting_zone": "TERRITOIRE NATIONAL",
@@ -1532,7 +1532,7 @@
   {
     "company": "MAZOUZI Mostefa, Concessionnaire Agricole, EAC N°29 EX DAS AKKOUCHE LARBI",
     "company_name_ar": "",
-    "country_of_origin": "COTE D’IVOIRE",
+    "country_of_origin": "XX",
     "known_name": "BANANIER",
     "material_type": "Plant in-vitro",
     "planting_zone": "Sidi Fredj",
@@ -1542,7 +1542,7 @@
   {
     "company": "Nadhir hadid",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "Plantes",
     "planting_zone": "El mahmel khenchela",
@@ -1552,7 +1552,7 @@
   {
     "company": "SARL AGRI HOUSE",
     "company_name_ar": "",
-    "country_of_origin": "ESPAGNE",
+    "country_of_origin": "ES",
     "known_name": "PLANT DE  FRAISIER FRIGO",
     "material_type": "PLANTES",
     "planting_zone": "TERRITOIRE NATIONAL",
@@ -1562,7 +1562,7 @@
   {
     "company": "SARL AGRI HOUSE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PLANT DE  FRAISIER FRIGO",
     "material_type": "PLANTES",
     "planting_zone": "TERRITOIRE NATIONAL",
@@ -1572,7 +1572,7 @@
   {
     "company": "SARL CDAB",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "fraisier",
     "material_type": "plantes",
     "planting_zone": "alger",
@@ -1582,7 +1582,7 @@
   {
     "company": "SARL green House",
     "company_name_ar": "",
-    "country_of_origin": "Espagne",
+    "country_of_origin": "ES",
     "known_name": "fraise",
     "material_type": "plantes congelés",
     "planting_zone": "Tipaza BOURKIKA",
@@ -1592,7 +1592,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "FRAISE",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL, BLIDA ET TIPAZA",
@@ -1602,7 +1602,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "PAYS BAS",
+    "country_of_origin": "NL",
     "known_name": "POMMIER",
     "material_type": "PORTE-GREFFES",
     "planting_zone": "SIDI BEL ABBES",
@@ -1612,7 +1612,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "PAYS BAS",
+    "country_of_origin": "NL",
     "known_name": "POMMIER",
     "material_type": "PORTE-GREFFES",
     "planting_zone": "SIDI BEL ABBES",
@@ -1622,7 +1622,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "VIGNE- KIWI",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BEL ABBES",
@@ -1632,7 +1632,7 @@
   {
     "company": "Hadid nadhir",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "Plantes",
     "planting_zone": "El mahmel khenchela",
@@ -1642,7 +1642,7 @@
   {
     "company": "Eurl Agrivil",
     "company_name_ar": "",
-    "country_of_origin": "THAILANDE",
+    "country_of_origin": "TH",
     "known_name": "PIMENT FORT",
     "material_type": "Semences hybrides",
     "planting_zone": "Alger",
@@ -1652,7 +1652,7 @@
   {
     "company": "Eurl Agrivil",
     "company_name_ar": "",
-    "country_of_origin": "THAILANDE",
+    "country_of_origin": "TH",
     "known_name": "PIMENT FORT",
     "material_type": "Semences hybrides",
     "planting_zone": "Alger Alger",
@@ -1662,7 +1662,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne – Racinés de porte greffe",
     "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
     "planting_zone": "Territoire national",
@@ -1672,7 +1672,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER-POIRIER",
     "material_type": "PLANTES;PORTE-GREFFES",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -1682,7 +1682,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -1692,7 +1692,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "PECHER – ABRICOTIER",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BEL ABBES",
@@ -1702,7 +1702,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "pommier",
     "material_type": "PLANTES",
     "planting_zone": "djelfa ain ouassara",
@@ -1712,7 +1712,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POIRIER",
     "material_type": "PLANTES",
     "planting_zone": "DJELFA",
@@ -1722,7 +1722,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "apple plants malus domestica",
     "material_type": "plantes",
     "planting_zone": "khemis meliana ain defla",
@@ -1732,7 +1732,7 @@
   {
     "company": "Agro Consulting International",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PALMIER DATTIER IN VITRO",
     "material_type": "PLANTS IN VITRO",
     "planting_zone": "Alger/cheraga",
@@ -1742,7 +1742,7 @@
   {
     "company": "El nabta el khadra",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "Plant fruitier greffe",
     "planting_zone": "الجزائر وضواحيها",
@@ -1752,7 +1752,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "vitis vinifera",
     "material_type": "vitis vinifera",
     "planting_zone": "tipaza boumerdes",
@@ -1762,7 +1762,7 @@
   {
     "company": "SARL CATM",
     "company_name_ar": "",
-    "country_of_origin": "PAYS-BAS",
+    "country_of_origin": "NL",
     "known_name": "POMMIER",
     "material_type": "PORTE-GREFFES",
     "planting_zone": "SIDI BEL ABBES",
@@ -1772,7 +1772,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "apple plants malus domestica",
     "material_type": "plantes",
     "planting_zone": "khemis meliana ain defla",
@@ -1782,7 +1782,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -1792,7 +1792,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -1802,7 +1802,7 @@
   {
     "company": "eurl nature green",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "vitis vinifera",
     "material_type": "plantes",
     "planting_zone": "tipaza boumerdes ain defla",
@@ -1812,7 +1812,7 @@
   {
     "company": "benamina djamel",
     "company_name_ar": "",
-    "country_of_origin": "ITALY",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1822,7 +1822,7 @@
   {
     "company": "BOUTINE BELLAHOUEL",
     "company_name_ar": "",
-    "country_of_origin": "ITALY",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1832,7 +1832,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "M09",
     "material_type": "PORTE GREFFE",
     "planting_zone": "DJELFA",
@@ -1842,7 +1842,7 @@
   {
     "company": "SERSAR BELARBI",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "plantes de péchiers/plantes nectarine/plantes de poirriers/plantes de pommiers",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1852,7 +1852,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER M9+POMMIER GOLDEN REINDERS+COGNASSIER",
     "material_type": "PORTE GREFFE+PLANTS",
     "planting_zone": "SERSSOU BENHAR-AIN OUSSERA",
@@ -1862,7 +1862,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -1872,7 +1872,7 @@
   {
     "company": "SARL CATM",
     "company_name_ar": "",
-    "country_of_origin": "PAYS-BAS",
+    "country_of_origin": "NL",
     "known_name": "POMMIER",
     "material_type": "PORTE-GREFFES",
     "planting_zone": "SIDI BEL ABBES TABIA",
@@ -1882,7 +1882,7 @@
   {
     "company": "benamina djamel",
     "company_name_ar": "",
-    "country_of_origin": "ITALY",
+    "country_of_origin": "IT",
     "known_name": "serisier",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1892,7 +1892,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POIRIER. POMMIER. ABRICOTIER",
     "material_type": "PLANTES;PORTE-GREFFES",
     "planting_zone": "ALGER BLIDA BATNA",
@@ -1902,7 +1902,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "nectarine / cerisier / pommier / abricotier",
     "material_type": "PLANTES;PORTE-GREFFES",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -1912,7 +1912,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POIRIER. POMMIER. ABRICOTIER",
     "material_type": "PLANTES;PORTE-GREFFES",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -1922,7 +1922,7 @@
   {
     "company": "BOUAMRA OUAHID",
     "company_name_ar": "",
-    "country_of_origin": "ITALY",
+    "country_of_origin": "IT",
     "known_name": "MALUS",
     "material_type": "PLANTES",
     "planting_zone": "WILAYA D’EL BAYADH",
@@ -1932,7 +1932,7 @@
   {
     "company": "BOUAMRA OUAHID",
     "company_name_ar": "",
-    "country_of_origin": "ITALY",
+    "country_of_origin": "IT",
     "known_name": "MALUS",
     "material_type": "PLANTES",
     "planting_zone": "WILAYA D’EL BAYADH",
@@ -1942,7 +1942,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTE",
     "planting_zone": "DJELFA",
@@ -1952,7 +1952,7 @@
   {
     "company": "BOUTINE BELLAHOUEL",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "poirier",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1962,7 +1962,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA",
@@ -1972,7 +1972,7 @@
   {
     "company": "EURL",
     "company_name_ar": "",
-    "country_of_origin": "USA",
+    "country_of_origin": "US",
     "known_name": "MELON",
     "material_type": "SEMENCES POTAGERES",
     "planting_zone": "TOUTES REGIONS",
@@ -1982,7 +1982,7 @@
   {
     "company": "SARL LES MOULINS ACHOUAK ET FRERES",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "plantes de péchiers/plantes nectarine/plantes de poirriers/plantes de pommiers",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -1992,7 +1992,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "Pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -2002,7 +2002,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "Pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -2012,7 +2012,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "porte greffe",
     "material_type": "PORTE GREFFE",
     "planting_zone": "tiaret",
@@ -2022,7 +2022,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "GF677+ ABRICOT",
     "material_type": "PLANTE",
     "planting_zone": "DJELFA",
@@ -2032,7 +2032,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pechier abricotier poirier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2042,7 +2042,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "POMMIER – PECHER",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BEL ABBES",
@@ -2052,7 +2052,7 @@
   {
     "company": "EURL",
     "company_name_ar": "",
-    "country_of_origin": "USA",
+    "country_of_origin": "US",
     "known_name": "MELON",
     "material_type": "SEMENCES",
     "planting_zone": "SEMENCES POTAGERES",
@@ -2062,7 +2062,7 @@
   {
     "company": "SARL CDAB",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "porte greffe",
     "material_type": "PORTE GREFFE",
     "planting_zone": "tiaret",
@@ -2072,7 +2072,7 @@
   {
     "company": "SARL AS FİLAHA",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier",
     "material_type": "plants",
     "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
@@ -2082,7 +2082,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIERS",
     "material_type": "PLANTES",
     "planting_zone": "BATNA- AIN DEFLA -SIDI BEL ABBES",
@@ -2092,7 +2092,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIERS",
     "material_type": "PLANTES",
     "planting_zone": "BATNA- AIN DEFLA -SIDI BEL ABBES",
@@ -2102,7 +2102,7 @@
   {
     "company": "BOUTINE BELLAHOUEL",
     "company_name_ar": "",
-    "country_of_origin": "plants fruitiers certifiés greffés",
+    "country_of_origin": "XX",
     "known_name": "poirier",
     "material_type": "plantes",
     "planting_zone": "mascara",
@@ -2112,7 +2112,7 @@
   {
     "company": "SARL AS FİLAHA",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier",
     "material_type": "plants",
     "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
@@ -2122,7 +2122,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "POMMIER – PECHER",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BEL ABBES",
@@ -2132,7 +2132,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIERS",
     "material_type": "PLANTES",
     "planting_zone": "BANTA- AIN DEFLA -SIDI BEL ABBES",
@@ -2142,7 +2142,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIERS",
     "material_type": "PLANTES",
     "planting_zone": "BATNA- AIN DEFLA -SIDI BEL ABBES",
@@ -2152,7 +2152,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pechier abricotier poirier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2162,7 +2162,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -2172,7 +2172,7 @@
   {
     "company": "Sarl El Masa import/ export",
     "company_name_ar": "",
-    "country_of_origin": "turkey",
+    "country_of_origin": "TR",
     "known_name": "gala",
     "material_type": "plantes",
     "planting_zone": "Blida ( al afroun )",
@@ -2182,7 +2182,7 @@
   {
     "company": "BOUAMRA OUAHID",
     "company_name_ar": "",
-    "country_of_origin": "ILALIE",
+    "country_of_origin": "XX",
     "known_name": "MALUS",
     "material_type": "PLANTES",
     "planting_zone": "WILAYA D’EL BAYADH",
@@ -2192,7 +2192,7 @@
   {
     "company": "BOUAMRA OUAHID",
     "company_name_ar": "",
-    "country_of_origin": "ILALIE",
+    "country_of_origin": "XX",
     "known_name": "MALUS",
     "material_type": "PLANTES",
     "planting_zone": "WILAYA D’EL BAYADH",
@@ -2202,7 +2202,7 @@
   {
     "company": "BOUAMRA OUAHID",
     "company_name_ar": "",
-    "country_of_origin": "ILALIE",
+    "country_of_origin": "XX",
     "known_name": "MALUS",
     "material_type": "PLANTES",
     "planting_zone": "WILAYA D’EL BAYADH",
@@ -2212,7 +2212,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA",
@@ -2222,7 +2222,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "belgique",
+    "country_of_origin": "BE",
     "known_name": "pommier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2232,7 +2232,7 @@
   {
     "company": "SARL AS FİLAHA",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier",
     "material_type": "plants",
     "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
@@ -2242,7 +2242,7 @@
   {
     "company": "copirative agrucol multie service elhidab",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "arboricole",
     "material_type": "arboricol",
     "planting_zone": "oum el bouaghi",
@@ -2252,7 +2252,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "belgique",
+    "country_of_origin": "BE",
     "known_name": "pommier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2262,7 +2262,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pechier abricotier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2272,7 +2272,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "porte greffe gf677+porte greffe abricotier+porte greffe prunier",
     "material_type": "PLANTS PORTE GREFFE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -2282,7 +2282,7 @@
   {
     "company": "Sarl PGP",
     "company_name_ar": "",
-    "country_of_origin": "Serbie",
+    "country_of_origin": "RS",
     "known_name": "Pommier poirier",
     "material_type": "Plante",
     "planting_zone": "Mascara- khenchla",
@@ -2292,7 +2292,7 @@
   {
     "company": "KARIM BOUSSOUALIM",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plantes",
     "planting_zone": "wilaya Bordj Bou Arreridj commune de tixter",
@@ -2302,7 +2302,7 @@
   {
     "company": "SARL COMPTOIR VERT",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-POIRIER-ABRICOTIER-",
     "material_type": "PLANTES;PORTE-GREFFES",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -2312,7 +2312,7 @@
   {
     "company": "SARL COMPTOIR VERT",
     "company_name_ar": "",
-    "country_of_origin": "TURKY",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-POIRIER-ABRICOTIER-",
     "material_type": "PLANTES;PORTE-GREFFES",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -2322,7 +2322,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIERS",
     "material_type": "PLANTES",
     "planting_zone": "BANTA- AIN DEFLA -SIDI BEL ABBES",
@@ -2332,7 +2332,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIERS",
     "material_type": "PLANTES",
     "planting_zone": "BANTA- AIN DEFLA -SIDI BEL ABBES",
@@ -2342,7 +2342,7 @@
   {
     "company": "Yahiaoui Smail",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "M09",
     "planting_zone": "Zana el beida, Batna",
@@ -2352,7 +2352,7 @@
   {
     "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "ARBORICOLE",
     "material_type": "ARBORICOLE",
     "planting_zone": "OUM EL BOUAGHI",
@@ -2362,7 +2362,7 @@
   {
     "company": "copirative agrucol multie service elhidab",
     "company_name_ar": "",
-    "country_of_origin": "SERBIA",
+    "country_of_origin": "XX",
     "known_name": "arboricole",
     "material_type": "arboricol",
     "planting_zone": "oum el bouaghi",
@@ -2372,7 +2372,7 @@
   {
     "company": "copirative agrucol multie service elhidab",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "arboricole",
     "material_type": "arboricol",
     "planting_zone": "oum el bouaghi",
@@ -2382,7 +2382,7 @@
   {
     "company": "SARL AGRO CONSULTING INTERNATIONAL",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "VOIR LISTE",
     "material_type": "PLANTES ARBORICOLES",
     "planting_zone": "NATIONAL",
@@ -2392,7 +2392,7 @@
   {
     "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "ARBORICOLE",
     "planting_zone": "OUM EL BOUAGHI",
@@ -2402,7 +2402,7 @@
   {
     "company": "SARL AS FİLAHA",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier",
     "material_type": "plants",
     "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
@@ -2412,7 +2412,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2422,7 +2422,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne – Racinés de porte greffe",
     "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
     "planting_zone": "Territoire national",
@@ -2432,7 +2432,7 @@
   {
     "company": "EAC 97 Ex DAS Nezali Cherif ALLAM MOHAMED",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR LISTE",
     "material_type": "plantes arboricoles",
     "planting_zone": "Alger/cheraga",
@@ -2442,7 +2442,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -2452,7 +2452,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -2462,7 +2462,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -2472,7 +2472,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -2482,7 +2482,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -2492,7 +2492,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -2502,7 +2502,7 @@
   {
     "company": "BOUAMRA OUAHID",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "MALUS",
     "material_type": "PLANTES",
     "planting_zone": "WILAYA D’EL BAYADH",
@@ -2512,7 +2512,7 @@
   {
     "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "ARBORICOLE",
     "material_type": "ARBORICOLE",
     "planting_zone": "OUM EL BOUAGHI",
@@ -2522,7 +2522,7 @@
   {
     "company": "SADOUNI HAMZA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA COMMUNE M’SARA",
@@ -2532,7 +2532,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTE+PORTE GREFFE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -2542,7 +2542,7 @@
   {
     "company": "TALEB MOHAMED",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "ASTONI SUS CV STANLEY MIR  29C SCIONS AMANDIER PRUNIER STANLEY +ASTONI PES CV ORION GF677 CER SCIONS PECHER ORION",
     "material_type": "PLANTES",
     "planting_zone": "DJELFA AIN OUASSARA",
@@ -2552,7 +2552,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA-BOUHMAMA",
@@ -2562,7 +2562,7 @@
   {
     "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "Végétale",
     "planting_zone": "OUM EL BOUAGHI",
@@ -2572,7 +2572,7 @@
   {
     "company": "COOPERATIVE AGRICOLE MULTISERVICES EL-HIDHAB",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "Pommier – Poirier",
     "material_type": "Végétale",
     "planting_zone": "OUM EL BOUAGHI",
@@ -2582,7 +2582,7 @@
   {
     "company": "Nadhir hadid",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "Plantes",
     "planting_zone": "El mahmel khenchela",
@@ -2592,7 +2592,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMME",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA-BOUHMAMA",
@@ -2602,7 +2602,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -2612,7 +2612,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "grece",
+    "country_of_origin": "GR",
     "known_name": "porte greffe",
     "material_type": "PORTE GREFFE",
     "planting_zone": "tiaret",
@@ -2622,7 +2622,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "grece",
+    "country_of_origin": "GR",
     "known_name": "abricotier pommier peche",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2632,7 +2632,7 @@
   {
     "company": "SARL MAMMOUTH AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMME",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA-BOUHMAMA",
@@ -2642,7 +2642,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "CERISIER-PRUNIER-VIGNE-KIWI-PECHER-FIGUIER",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BEL ABBES",
@@ -2652,7 +2652,7 @@
   {
     "company": "LAOUABDIA SELLAMI MOHAMED EL AZIZ",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plante",
     "planting_zone": "besbes al tarf",
@@ -2662,7 +2662,7 @@
   {
     "company": "Yahiaoui Smail",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "M09",
     "planting_zone": "Boumia, Boulhilet et Zana el beida",
@@ -2672,7 +2672,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "Amandier Ferragnes",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -2682,7 +2682,7 @@
   {
     "company": "MENNAD ALI",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER, PECHIERS , POIRIERS",
     "material_type": "PLANTS",
     "planting_zone": "SIDI BEL ABBES",
@@ -2692,7 +2692,7 @@
   {
     "company": "EL NABTA EL KHADRA",
     "company_name_ar": "",
-    "country_of_origin": "PAYS-BAS",
+    "country_of_origin": "NL",
     "known_name": "PORTE GREFFE POMMIER",
     "material_type": "PLANT FRUITIER PORTE GREFFE",
     "planting_zone": "الجزائر و ضواحيها",
@@ -2702,7 +2702,7 @@
   {
     "company": "SARL BANE BALI AGRO",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "nectarine",
     "material_type": "plantes",
     "planting_zone": "oamri w.medea",
@@ -2712,7 +2712,7 @@
   {
     "company": "SARL CATM AGRO",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "CERISIER-PRUNIER-VIGNE-KIWI-PECHER-FIGUIER",
     "material_type": "PLANTES",
     "planting_zone": "SIDI BEL ABBES",
@@ -2722,7 +2722,7 @@
   {
     "company": "Comptoir vert",
     "company_name_ar": "",
-    "country_of_origin": "Turquie",
+    "country_of_origin": "TR",
     "known_name": "Pommier poirier",
     "material_type": "Plantes",
     "planting_zone": "Alger Batna Skikda Djelfa",
@@ -2732,7 +2732,7 @@
   {
     "company": "Comptoir vert",
     "company_name_ar": "",
-    "country_of_origin": "Turquie",
+    "country_of_origin": "TR",
     "known_name": "Poirier abricot amandier nectarine",
     "material_type": "Plants",
     "planting_zone": "Blida Alger Batna Skikda Djelfa",
@@ -2742,7 +2742,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "nectarine abricot prune",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2752,7 +2752,7 @@
   {
     "company": "Agro Consulting International",
     "company_name_ar": "",
-    "country_of_origin": "ESPAGNE",
+    "country_of_origin": "ES",
     "known_name": "PALMIER DATTIER IN VITRO",
     "material_type": "PLANTS IN VITRO",
     "planting_zone": "commune",
@@ -2762,7 +2762,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "PORTE GREFFE GF677",
     "material_type": "Porte grefe",
     "planting_zone": "ZERALDA- ALGER",
@@ -2772,7 +2772,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "nectarine peche malus poire abricot prune",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2782,7 +2782,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne – Racinés de porte greffe",
     "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
     "planting_zone": "DIVERS",
@@ -2792,7 +2792,7 @@
   {
     "company": "PRODUCTION ARBRE POMMIER",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "REINDERS/M9 NAKB T337",
     "material_type": "M9 NAKB T337",
     "planting_zone": "SIDI DOUMA YOUB WILAYA DE SAIDA",
@@ -2802,7 +2802,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pommier pecher poirier abricotier prunier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2812,7 +2812,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pommier pecher poirier abricotier prunier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2822,7 +2822,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2832,7 +2832,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2842,7 +2842,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "belgique",
+    "country_of_origin": "BE",
     "known_name": "pommier",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2852,7 +2852,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "abricot",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2862,7 +2862,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "malus peche poirier abricot prune",
     "material_type": "plante",
     "planting_zone": "tiaret",
@@ -2872,7 +2872,7 @@
   {
     "company": "EL NABTA EL KHADRA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PORTE GREFFE",
     "material_type": "PLANT FRUITIER PORTE GREFFE",
     "planting_zone": "BLIDA",
@@ -2882,7 +2882,7 @@
   {
     "company": "EL NABTA EL KHADRA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PECHER – POMMIER – PRUNIER – CERISIER – KIWI –  AMANDIER",
     "material_type": "PLANT FRUITIER",
     "planting_zone": "BLIDA",
@@ -2892,7 +2892,7 @@
   {
     "company": "EURL STAR VEGETAL",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "POMMIER",
     "material_type": "plantes",
     "planting_zone": "ALGER BLIDA BATNA SIDI BELAABAS",
@@ -2902,7 +2902,7 @@
   {
     "company": "EXPLOITATION AGRICOLE BOUDJELLAL KAMEL",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "EXPLOITATION AGRICOLE BOUDJELLAL KAMEL – BAGGAGA -EL HAMMA -KHENCHELA",
@@ -2912,7 +2912,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -2922,7 +2922,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "Belgique",
+    "country_of_origin": "BE",
     "known_name": "Pommier",
     "material_type": "plantes",
     "planting_zone": "tiaret",
@@ -2932,7 +2932,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "Belgique",
+    "country_of_origin": "BE",
     "known_name": "Pommier",
     "material_type": "plantes",
     "planting_zone": "tiaret",
@@ -2942,7 +2942,7 @@
   {
     "company": "El Yourh TADMIT DJELFA",
     "company_name_ar": "",
-    "country_of_origin": "ITALY",
+    "country_of_origin": "IT",
     "known_name": "POMME",
     "material_type": "M9",
     "planting_zone": "TADMIT DJELFA",
@@ -2952,7 +2952,7 @@
   {
     "company": "Ladj Ahmed.Arboriculteur",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Prunier ,pechers",
     "material_type": "Plants greffes",
     "planting_zone": "Djelida. Ain Defla",
@@ -2962,7 +2962,7 @@
   {
     "company": "AMF GROUP",
     "company_name_ar": "",
-    "country_of_origin": "TUNISIE",
+    "country_of_origin": "TN",
     "known_name": "PISTACHE VERA/PISTACHE ATLANTICA",
     "material_type": "PLANTE BOTANIQUE VEGETAL",
     "planting_zone": "wilaya de mesila commune mcif",
@@ -2972,7 +2972,7 @@
   {
     "company": "التعاونية الفلاحية حسب الفرع للتفاح تاموقادي",
     "company_name_ar": "",
-    "country_of_origin": "ايطاليا",
+    "country_of_origin": "XX",
     "known_name": "التفاح",
     "material_type": "شجيرة",
     "planting_zone": "باتنة بلدية فم الطوب",
@@ -2982,7 +2982,7 @@
   {
     "company": "التعاونية الفلاحية حسب الفرع للتفاح تاموقادي",
     "company_name_ar": "",
-    "country_of_origin": "ايطاليا",
+    "country_of_origin": "XX",
     "known_name": "التفاح",
     "material_type": "شجيرة",
     "planting_zone": "باتنة بلدية فم الطوب",
@@ -2992,7 +2992,7 @@
   {
     "company": "ghouini mohamed bilal",
     "company_name_ar": "",
-    "country_of_origin": "italy",
+    "country_of_origin": "IT",
     "known_name": "pommier",
     "material_type": "plantes",
     "planting_zone": "wilaya de djelfa commune de benhar",
@@ -3002,7 +3002,7 @@
   {
     "company": "AS filaha",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier",
     "material_type": "plantes",
     "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
@@ -3012,7 +3012,7 @@
   {
     "company": "AS filaha",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier",
     "material_type": "plantes",
     "planting_zone": "communes de merine,wilaya de sidi bel abbes groupe de propreite N31,division num 10 parcelle num 02",
@@ -3022,7 +3022,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne",
     "material_type": "Plants de vigne greffés soudés",
     "planting_zone": "Territoire national",
@@ -3032,7 +3032,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3042,7 +3042,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3052,7 +3052,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3062,7 +3062,7 @@
   {
     "company": "SARL AGRO AVENIR",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "FORTUNA",
     "material_type": "PLANTS",
     "planting_zone": "TIPAZA",
@@ -3072,7 +3072,7 @@
   {
     "company": "Eurl golden agri",
     "company_name_ar": "",
-    "country_of_origin": "New zelande",
+    "country_of_origin": "XX",
     "known_name": "Petite poid",
     "material_type": "Semence",
     "planting_zone": "Relizane yellel",
@@ -3082,7 +3082,7 @@
   {
     "company": "SARL AGRO SIECLE",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Fraisier Cultivé",
     "material_type": "Plants",
     "planting_zone": "TIPAZA (CHAIBA ET BOURKIKA) JIJEL (SIDI ABD EL AZZIZ)",
@@ -3092,7 +3092,7 @@
   {
     "company": "SARL green House",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "fraise",
     "material_type": "plantes congelés",
     "planting_zone": "tipaza BOURKIKA",
@@ -3102,7 +3102,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3112,7 +3112,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3122,7 +3122,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3132,7 +3132,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3142,7 +3142,7 @@
   {
     "company": "SARL AGRO SIECLE",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Fraisier Cultivé",
     "material_type": "Plants",
     "planting_zone": "TIPAZA (CHAIBA ET BOURKIKA) JIJEL (SIDI ABD EL AZZIZ)",
@@ -3152,7 +3152,7 @@
   {
     "company": "SARL AGROSEMILLAS",
     "company_name_ar": "",
-    "country_of_origin": "POLOGNE",
+    "country_of_origin": "PL",
     "known_name": "FRAISE",
     "material_type": "PLANTS",
     "planting_zone": "MOSTAGANEM, ALGER, BOUMERDES, BISKRA",
@@ -3162,7 +3162,7 @@
   {
     "company": "SARL AGROSEMILLAS",
     "company_name_ar": "",
-    "country_of_origin": "POLOGNE",
+    "country_of_origin": "PL",
     "known_name": "FRAISE",
     "material_type": "PLANTS",
     "planting_zone": "MOSTAGANEM, ALGER, BOUMERDES, BISKRA",
@@ -3172,7 +3172,7 @@
   {
     "company": "SARL AGROSEMILLAS",
     "company_name_ar": "",
-    "country_of_origin": "POLOGNE",
+    "country_of_origin": "PL",
     "known_name": "FRAISE",
     "material_type": "PLANTS",
     "planting_zone": "MOSTAGANEM, ALGER, BOUMERDES, BISKRA",
@@ -3182,7 +3182,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Fraise",
     "material_type": "Acetamipride+Deltamethrine+Difeconazole+Ciflufenamide",
     "planting_zone": "Jijel, Blida et Tipaza",
@@ -3192,7 +3192,7 @@
   {
     "company": "SARL AGRI HOUSE",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "PLANT FRAISIER FRIGO",
     "material_type": "PLANTES",
     "planting_zone": "TERRITOIRE NATIONAL",
@@ -3202,7 +3202,7 @@
   {
     "company": "Sarl agri house",
     "company_name_ar": "",
-    "country_of_origin": "Egypte",
+    "country_of_origin": "EG",
     "known_name": "Plant frasier frigo",
     "material_type": "Plantes",
     "planting_zone": "Territoire national",
@@ -3212,7 +3212,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3222,7 +3222,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3232,7 +3232,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3242,7 +3242,7 @@
   {
     "company": "EURL AGRISMART",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "PLANT FRAISIER",
     "material_type": "PLANT",
     "planting_zone": "TERRITOIR NATIONAL",
@@ -3252,7 +3252,7 @@
   {
     "company": "SARL AGRO AVENIR",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "FORTUNA",
     "material_type": "PLANTS",
     "planting_zone": "TIPAZA",
@@ -3262,7 +3262,7 @@
   {
     "company": "SARL GREEN OASIS",
     "company_name_ar": "",
-    "country_of_origin": "POLOGNE",
+    "country_of_origin": "PL",
     "known_name": "FRAISE",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL BLIDA TIPAZA",
@@ -3272,7 +3272,7 @@
   {
     "company": "SARL GREEN OASIS",
     "company_name_ar": "",
-    "country_of_origin": "POLOGNE",
+    "country_of_origin": "PL",
     "known_name": "FRAISE",
     "material_type": "PLANTS",
     "planting_zone": "JIJEL BLIDA TIPAZA",
@@ -3282,7 +3282,7 @@
   {
     "company": "SARL GREEN OASIS",
     "company_name_ar": "",
-    "country_of_origin": "POLOGNE",
+    "country_of_origin": "PL",
     "known_name": "FRAISE",
     "material_type": "PLANTS",
     "planting_zone": "BLIDA JIJEL TIPAZA SKIKDA",
@@ -3292,7 +3292,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "Pologne",
+    "country_of_origin": "PL",
     "known_name": "Fraise",
     "material_type": "Abamectin 1.88%+Deltamethrin 4.48%",
     "planting_zone": "Jijel, Blida et Tipaza",
@@ -3302,7 +3302,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "Pologne",
+    "country_of_origin": "PL",
     "known_name": "Fraise",
     "material_type": "Abamectin 1.88%+Deltamethrin 4.48%",
     "planting_zone": "Jijel, Blida et Tipaza",
@@ -3312,7 +3312,7 @@
   {
     "company": "SARL TECNO GREEN SERVICE",
     "company_name_ar": "",
-    "country_of_origin": "Pologne",
+    "country_of_origin": "PL",
     "known_name": "Fraise",
     "material_type": "Abamectin 1.88%+Deltamethrin 4.48%",
     "planting_zone": "Jijel, Blida et Tipaza",
@@ -3322,7 +3322,7 @@
   {
     "company": "SARL GFK AGROIND",
     "company_name_ar": "",
-    "country_of_origin": "Tunisie",
+    "country_of_origin": "TN",
     "known_name": "Koroneiki",
     "material_type": "plant d’olivier",
     "planting_zone": "Mostaganem – El Hessiane",
@@ -3332,7 +3332,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "EGYPTE",
+    "country_of_origin": "EG",
     "known_name": "FRAISE",
     "material_type": "PLANTES",
     "planting_zone": "TIPAZA COMMUNE BOURKIKA",
@@ -3342,7 +3342,7 @@
   {
     "company": "SARL RIGHT GREEN",
     "company_name_ar": "",
-    "country_of_origin": "EGYPT",
+    "country_of_origin": "EG",
     "known_name": "FRAISE",
     "material_type": "PLANTES",
     "planting_zone": "WILAYA DE TIPAZA COMMUNE BOURKIKA",
@@ -3352,7 +3352,7 @@
   {
     "company": "SARL BANE BALI AGRO",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "nectarine",
     "material_type": "plante",
     "planting_zone": "Blida, commune de bougara",
@@ -3362,7 +3362,7 @@
   {
     "company": "SARL BANE BALI AGRO",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "nectarine",
     "material_type": "plante",
     "planting_zone": "Bougara wilaya de blida",
@@ -3372,7 +3372,7 @@
   {
     "company": "BENMOUNA MOHAMMED",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTES",
     "planting_zone": "Zone MHAGUEN.Commune de Maghnia. TLEMCEN",
@@ -3382,7 +3382,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER+M9 CLONE",
     "material_type": "PLANTS",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3392,7 +3392,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMMIER+M9 CLONE",
     "material_type": "PLANTS",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3402,7 +3402,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "TUNISIE",
+    "country_of_origin": "TN",
     "known_name": "GF677+MYROBOLAN",
     "material_type": "PORTE GREFFE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3412,7 +3412,7 @@
   {
     "company": "SARL COMPTOIRE VERT",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-POIRIER",
     "material_type": "plantes",
     "planting_zone": "BLIDA – ALGER – BOUMERDES – SKIKDA-BATNA-SIDI BELABAS1502",
@@ -3422,7 +3422,7 @@
   {
     "company": "SARL COMPTOIR VERT",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-POIRIER",
     "material_type": "plantes",
     "planting_zone": "BLIDA – ALGER – BOUMERDES – SKIKDA-BATNA-SIDI BELABAS1502",
@@ -3432,7 +3432,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "grenadier / pistachier",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3442,7 +3442,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "almond rootstock GF 677",
     "material_type": "Porte grefe",
     "planting_zone": "ZERALDA- ALGER",
@@ -3452,7 +3452,7 @@
   {
     "company": "SARL COMPTOIR VERT",
     "company_name_ar": "",
-    "country_of_origin": "BELGIQUE",
+    "country_of_origin": "BE",
     "known_name": "POMMIER",
     "material_type": "PLANTES",
     "planting_zone": "DJELFA",
@@ -3462,7 +3462,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3472,7 +3472,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3482,7 +3482,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3492,7 +3492,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3502,7 +3502,7 @@
   {
     "company": "SARL agricole consulting nord africain”ACNA”",
     "company_name_ar": "",
-    "country_of_origin": "Egypt",
+    "country_of_origin": "EG",
     "known_name": "persil-coriandre",
     "material_type": "petit semences",
     "planting_zone": "Est-Ouest-Centre-Sud",
@@ -3512,7 +3512,7 @@
   {
     "company": "sarl nsda",
     "company_name_ar": "",
-    "country_of_origin": "Belgique",
+    "country_of_origin": "BE",
     "known_name": "Pommier",
     "material_type": "plantes",
     "planting_zone": "tiaret",
@@ -3522,7 +3522,7 @@
   {
     "company": "SARL COMTOIR VERT",
     "company_name_ar": "",
-    "country_of_origin": "turquie",
+    "country_of_origin": "TR",
     "known_name": "pommier , POIRIER",
     "material_type": "plantes",
     "planting_zone": "djela , Tebessa",
@@ -3532,7 +3532,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3542,7 +3542,7 @@
   {
     "company": "SARL agricole consulting nord africain”ACNA”",
     "company_name_ar": "",
-    "country_of_origin": "Egypt",
+    "country_of_origin": "EG",
     "known_name": "persil-coriandre",
     "material_type": "petit semences",
     "planting_zone": "Est-Ouest-Centre-Sud",
@@ -3552,7 +3552,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIA",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3562,7 +3562,7 @@
   {
     "company": "Fellah",
     "company_name_ar": "",
-    "country_of_origin": "Italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "M9",
     "planting_zone": "Boumia et Boulhilet",
@@ -3572,7 +3572,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "itali",
+    "country_of_origin": "IT",
     "known_name": "VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3582,7 +3582,7 @@
   {
     "company": "SARL agricole consulting nord africain”ACNA”",
     "company_name_ar": "",
-    "country_of_origin": "Egypt",
+    "country_of_origin": "EG",
     "known_name": "persil-coriandre",
     "material_type": "semence",
     "planting_zone": "Est-Ouest-Centre-Sud",
@@ -3592,7 +3592,7 @@
   {
     "company": "SARL agricole consulting nord africain”ACNA”",
     "company_name_ar": "",
-    "country_of_origin": "Egypt",
+    "country_of_origin": "EG",
     "known_name": "maïs",
     "material_type": "semence",
     "planting_zone": "Est-Ouest-Centre-Sud",
@@ -3602,7 +3602,7 @@
   {
     "company": "SARL agricole consulting nord africain”ACNA”",
     "company_name_ar": "",
-    "country_of_origin": "Egypt",
+    "country_of_origin": "EG",
     "known_name": "maïs-persil-coriandre",
     "material_type": "semence",
     "planting_zone": "Est-Ouest-Centre-Sud",
@@ -3612,7 +3612,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "avocatier/pistachier",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3622,7 +3622,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "pommier/poirier",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3632,7 +3632,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "GRECE",
+    "country_of_origin": "GR",
     "known_name": "VIGNE",
     "material_type": "PLANTE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3642,7 +3642,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne – Racinés de porte greffe",
     "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
     "planting_zone": "Territoire national",
@@ -3652,7 +3652,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "SERBIE",
+    "country_of_origin": "RS",
     "known_name": "VIGNE",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3662,7 +3662,7 @@
   {
     "company": "SARL SRID GENETICS",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "Vigne – Racinés de porte greffe",
     "material_type": "Plants de vigne greffés soudés – Racinés de Porte greffe",
     "planting_zone": "DIVERS",
@@ -3672,7 +3672,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "GRECE",
+    "country_of_origin": "GR",
     "known_name": "VIGNE",
     "material_type": "PLANTE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3682,7 +3682,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "GRECE",
+    "country_of_origin": "GR",
     "known_name": "VIGNE",
     "material_type": "PLANTE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3692,7 +3692,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "GRECE",
+    "country_of_origin": "GR",
     "known_name": "VIGNE",
     "material_type": "PLANTE",
     "planting_zone": "BENHAR W.DJLFA",
@@ -3702,7 +3702,7 @@
   {
     "company": "SARL NSDA",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "Pommier",
     "material_type": "plantes",
     "planting_zone": "tiaret",
@@ -3712,7 +3712,7 @@
   {
     "company": "SARL COMPTOIR VERT",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "Pommier ; Abricotier",
     "material_type": "plantes",
     "planting_zone": "BLIDA ; SIDIBELABBES ; CONSTANTINE ; BATNA ; TEBESSA ; SETIF ;",
@@ -3722,7 +3722,7 @@
   {
     "company": "SARL COMPTOIR VERT",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "Pommier ; Pecher",
     "material_type": "plantes",
     "planting_zone": "BLIDA ; SIDIBELABBES ; CONSTANTINE ; BATNA ; TEBESSA ; SETIF ;",
@@ -3732,7 +3732,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3742,7 +3742,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "ABRICOTIER",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3752,7 +3752,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "POMMIER",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3762,7 +3762,7 @@
   {
     "company": "SARL agricole consulting nord africain",
     "company_name_ar": "",
-    "country_of_origin": "Egypt",
+    "country_of_origin": "EG",
     "known_name": "maïs-persil-coriandre",
     "material_type": "semence",
     "planting_zone": "Est-Ouest-Centre-Sud",
@@ -3772,7 +3772,7 @@
   {
     "company": "SADOUNI HAMZA",
     "company_name_ar": "",
-    "country_of_origin": "ITALIE",
+    "country_of_origin": "IT",
     "known_name": "POMME",
     "material_type": "PLANTES",
     "planting_zone": "KHENCHELA COMMUNE M’SARA",
@@ -3782,7 +3782,7 @@
   {
     "company": "EURL LAHCENE FERAH TRADING",
     "company_name_ar": "",
-    "country_of_origin": "EQUATEUR",
+    "country_of_origin": "EC",
     "known_name": "BANANE",
     "material_type": "FRUIT",
     "planting_zone": "Oued Athmenia, Mila",
@@ -3792,7 +3792,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "Amandier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3802,7 +3802,7 @@
   {
     "company": "SARL PEPINIERE SAULA",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "Amandier",
     "material_type": "PLANTS",
     "planting_zone": "ZERALDA- ALGER",
@@ -3812,7 +3812,7 @@
   {
     "company": "Mennad ali",
     "company_name_ar": "",
-    "country_of_origin": "TURQUIE",
+    "country_of_origin": "TR",
     "known_name": "POMMIER-PÊCHERS-POIRIERS",
     "material_type": "Plants",
     "planting_zone": "SIDI BEL ABBES",
@@ -3822,7 +3822,7 @@
   {
     "company": "SARL BPI ENH DOUDAH",
     "company_name_ar": "",
-    "country_of_origin": "italie",
+    "country_of_origin": "IT",
     "known_name": "VOIR ANNEXE",
     "material_type": "PLANTS",
     "planting_zone": "BOUMERDES",
@@ -3832,7 +3832,7 @@
   {
     "company": "EURL ELAVISA",
     "company_name_ar": "",
-    "country_of_origin": "GRECE",
+    "country_of_origin": "GR",
     "known_name": "PECHE, ABRICOT",
     "material_type": "PLANTE",
     "planting_zone": "BENHAR W.DJLFA",

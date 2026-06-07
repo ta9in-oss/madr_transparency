@@ -26,6 +26,10 @@ const top1pct = companies.slice(0, Math.ceil(companies.length * 0.01));
 const top1pctLicenses = top1pct.reduce((s, c) => s + c.totalLicenses, 0);
 const top1pctPct = Math.round((top1pctLicenses / totalLicenses) * 100);
 
+const top10 = companies.slice(0, 10);
+const top10Licenses = top10.reduce((s, c) => s + c.totalLicenses, 0);
+const top10Pct = Math.round((top10Licenses / totalLicenses) * 100);
+
 const explorerRows = companies.map((c) => ({
   company:    c.name,
   company_ar: c.nameAr || '—',
@@ -86,6 +90,21 @@ const explorerI18n = {
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
         <div class="font-mono text-forest font-bold text-2xl">{top1pctPct}٪</div>
         <div class="text-xs text-muted font-body mt-1">من الرخص لدى {top1pct.length} شركة فقط (1٪)</div>
+      </div>
+    </div>
+
+    {/* Market concentration insight */}
+    <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(34,166,179,0.06); border: 1px solid rgba(34,166,179,0.2);">
+      <div class="flex gap-6 flex-wrap items-center">
+        <div>
+          <div class="font-mono font-bold leading-none mb-1" style="font-size: 3rem; color: #22a6b3;">{top10Pct}٪</div>
+          <div class="text-xs text-muted font-body">من إجمالي الرخص<br/>في يد 10 شركات فقط</div>
+        </div>
+        <p class="text-sm text-muted font-body leading-relaxed flex-1 min-w-[200px]">
+          من {uniqueCompanies.toLocaleString('ar-DZ')} شركة، أكبر 10 شركات تحمل
+          <strong class="text-ink"> {top10Licenses.toLocaleString('ar-DZ')} رخصة</strong> من أصل {totalLicenses.toLocaleString('ar-DZ')}.
+          وشركة PROFERT وحدها تملك {Math.round((companies[0]?.totalLicenses ?? 0) / totalLicenses * 100 * 10) / 10}٪ من كل الرخص.
+        </p>
       </div>
     </div>
 

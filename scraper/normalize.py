@@ -197,7 +197,8 @@ def normalize_country(raw: str) -> str:
 _CHEM_MAP: dict[str, str] = {
     # Fongicide
     "fongicide": "Fongicide", "fongicides": "Fongicide", "fungicide": "Fongicide",
-    "fngicide": "Fongicide", "fongicide a usage agricole": "Fongicide",
+    "fngicide": "Fongicide", "fengicide": "Fongicide",
+    "fongicide a usage agricole": "Fongicide",
     "fongicide biologique a usage agricole": "Fongicide",
     "bio fongicide": "Fongicide", "fongicide anti mildiou": "Fongicide",
     "mildiou": "Fongicide", "oidium": "Fongicide",
@@ -224,17 +225,32 @@ _CHEM_MAP: dict[str, str] = {
     # Acaricide
     "acaricide": "Acaricide", "acaricides": "Acaricide",
     "acaricde": "Acaricide", "acarien": "Acaricide", "acariens": "Acaricide",
-    "bio acaricide": "Acaricide",
-    "mabid aanakbi": "Acaricide",  # مبيد عناكبي
+    "bio acaricide": "Acaricide", "bio acariens": "Acaricide",
+    "mabid aanakbi": "Acaricide",  # transliteration fallback
     # Herbicide
     "herbicide": "Herbicide", "herbicides": "Herbicide",
     "herebicide": "Herbicide", "hebicide": "Herbicide", "herbecide": "Herbicide",
     "herbicide systemique": "Herbicide", "herbicide selectif": "Herbicide",
+    "mauvaise herbes dicotyledone": "Herbicide", "mauvaise herbe": "Herbicide",
     # Correcteur de carence
     "correcteur de carence": "Correcteur de carence",
     "correcteur de carences": "Correcteur de carence",
     "correcteur de carrence": "Correcteur de carence",
     "corecteur de carrence": "Correcteur de carence",
+    "coreccteur de carrence": "Correcteur de carence",
+    "chelate de fer eddha": "Correcteur de carence",
+    "microelements chelates eddha": "Correcteur de carence",
+    "liquide microelements chelates d eddha": "Correcteur de carence",
+    "force ca+b et force fe eco": "Correcteur de carence",
+    "solide sel cristallin": "Correcteur de carence",
+    "azote+calcium": "Engrais", "azote calcium": "Engrais",
+    "sulphate d amonium": "Engrais", "sulphate d ammonium": "Engrais",
+    "condtionneurs des sols": "Engrais",
+    "sulphate d'ammonium": "Engrais", "sulphate d'amonium": "Engrais",
+    "sulfate d ammonium": "Engrais",
+    "solide sel cristallin": "Correcteur de carence",
+    "liquide microelements chelates d eddha": "Correcteur de carence",
+    "nemakey solari": "Nématicide",  # known nematicide product name
     "correcteur de caranc": "Correcteur de carence",
     "correcteur de carance": "Correcteur de carence",
     "correcteur": "Correcteur de carence",
@@ -267,25 +283,48 @@ _CHEM_MAP: dict[str, str] = {
     "engrais microgranules": "Engrais", "fertilisant": "Engrais",
     "npk": "Engrais", "organique": "Engrais",
     "conditionneur du sol": "Engrais", "conditionneurs des sols": "Engrais",
-    # Nématicide
-    "nematicide": "Nématicide",
     # Molluscicide
     "molluscicide": "Molluscicide", "mollusicide": "Molluscicide",
-    "mollucicide": "Molluscicide",
+    "mollucicide": "Molluscicide", "molluscide": "Molluscicide",
+    # Nématicide
+    "nematicide": "Nématicide", "nematicde": "Nématicide",
+    # Nématicide
+    "nematicide": "Nématicide", "nematicde": "Nématicide",
     # Stimulateur SDN
     "stimulateur de defense naturelle": "Stimulateur SDN",
     "stimulateur de defenses naturelles": "Stimulateur SDN",
+    "stimulateur de defense naturel": "Stimulateur SDN",
+    "stimulateur de defenses naturelle": "Stimulateur SDN",
+    "stimulateur de defense": "Stimulateur SDN",
+    "simulateur de defense naturelle oidium": "Stimulateur SDN",
     # Adjuvant
     "adjuvant": "Adjuvant", "co-adjuvant": "Adjuvant", "acidifiant": "Adjuvant",
-    "repulsif": "Adjuvant",
+    "repulsif": "Adjuvant", "bio adjuvant": "Adjuvant", "booster-adjuvant": "Adjuvant",
+    "booster adjuvant": "Adjuvant",
+    # Arabic category names (actual Arabic text, not transliterations)
+    "مبيد فطري": "Fongicide",
+    "مبيد عناكبي": "Acaricide",
+    "مبيد حشري": "Insecticide",
+    "مبيد أعشاب": "Herbicide",
+    "مبيد نيماتودا": "Nématicide",
+    "مصحح نقص معادن": "Correcteur de carence",
+    "منشط نمو بيولوجي": "Biostimulant",
+    "منظم نمو": "Régulateur de croissance",
+    "سماد": "Engrais",
 }
 
-# Physical form codes erroneously entered as categories
+# Physical form codes / non-category strings erroneously entered as categories
 _PHYSICAL_FORM = {
     "liquide", "solide", "poudre", "granule", "granules", "microgranule",
-    "micro granule", "hydrosoluble", "nc", "n c", "oms", "ec", "wp", "sl", "sp",
-    "gel", "sg", "suspension concentree", "pesticide", "pesticides",
-    "produit phytosanitaire",
+    "micro granule", "micro granulaire", "hydrosoluble", "nc", "n c", "nc liquide",
+    "nc pate", "liquide nc", "liquide/gel", "capsule poudre",
+    "oms", "oms ns", "oms sg", "oms u", "oms u - wg", "oms u – wg", "sg oms",
+    "ec", "wp", "sl", "sp", "gel", "sg", "wg",
+    "suspension concentree", "suspensio concetree", "suspension concentre",
+    "suspension concentré",
+    "granules nc", "liquide nc",
+    "pesticide", "pesticides", "produit phytosanitaire",
+    "banane", "vitamine",  # product names, not categories
 }
 
 
@@ -293,17 +332,30 @@ def normalize_chem_category(raw: str) -> str:
     """Normalize a raw category string to a canonical group name."""
     if not raw:
         return "Non classifié"
-    key = _strip_accents(raw.strip()).lower()
+    # Normalize curly/smart apostrophes (U+2018 U+2019 etc.) to straight apostrophe
+    cleaned = re.sub(r"[‘’ʼʻ′`]", "’", raw)
+    key = _strip_accents(cleaned.strip()).lower()
+    key = re.sub(r"[()[\]{}]", " ", key)   # strip brackets/parens before collapsing
+    key = re.sub(r"\s+", " ", key).strip()
+    key = re.sub(r"[‘’ʼʻ′`’]", " ", key)  # replace all apostrophe variants with space
     key = re.sub(r"\s+", " ", key).strip()
 
     if key in _PHYSICAL_FORM:
         return "Non classifié"
+
+    # Formula / chemical-specification strings (contain % or g/kg, g/l, etc.)
+    if re.search(r"\d+\s*(%|g/kg|g/l|mg/|mol)", key):
+        # Iron/mineral chelates → Correcteur de carence
+        if any(x in key for x in ("fe", "fer", "eddha", "chelat", "microelem")):
+            return "Correcteur de carence"
+        return "Non classifié"
+
     if key in _CHEM_MAP:
         return _CHEM_MAP[key]
 
     # Partial prefix matches for long combo strings
     for k, v in _CHEM_MAP.items():
-        if key.startswith(k):
+        if len(k) >= 5 and key.startswith(k):
             return v
 
     return raw.strip() or "Non classifié"
