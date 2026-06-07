@@ -91,11 +91,19 @@ const explorerI18n = {
       client:visible
     />
 
-    <div class="mb-10 p-5 bg-surface border border-line rounded-lg max-w-2xl">
-      <p class="text-sm text-muted font-body">
-        <span class="font-mono text-forest font-bold text-2xl">{records.length.toLocaleString('fr-FR')}</span>
-        {' '}{t(lang, 'stats.agrochemicals')}
-      </p>
+    <div class="grid sm:grid-cols-3 gap-4 mb-10">
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">1 047</div>
+        <div class="text-xs text-muted font-body mt-1">produits espagnols — 1er fournisseur</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">909</div>
+        <div class="text-xs text-muted font-body mt-1">produits italiens — 2e</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">611</div>
+        <div class="text-xs text-muted font-body mt-1">produits chinois — 3e et en hausse</div>
+      </div>
     </div>
 
     <section class="mb-10">
@@ -135,6 +143,14 @@ const explorerI18n = {
       i18n={explorerI18n}
       client:visible
     />
+
+    {/* Data quality note */}
+    <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(45,106,79,0.04); border: 1px solid rgba(45,106,79,0.2);">
+      <p class="text-xs font-mono font-bold mb-2 text-forest">⚠ Qualité des données brutes</p>
+      <p class="text-sm font-body leading-relaxed text-muted">
+        La colonne "Catégorie" d'origine contient <strong class="text-ink">261 valeurs uniques</strong> pour seulement 14 types. "BIOSTIMULANT", "Biostimulant", "bio stimulant" et "BIOSTUMILANT" (faute) — tous la même catégorie. Normalisés en 14 groupes comparables.
+      </p>
+    </div>
 
     <ChapterNav
       lang={lang}

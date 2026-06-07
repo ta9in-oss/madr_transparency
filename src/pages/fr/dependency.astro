@@ -85,6 +85,17 @@ const explorerI18n = {
       accent={true}
     />
 
+    {/* Banana dominance insight */}
+    <div class="mb-8 max-w-2xl p-5 rounded-lg border border-line bg-surface flex gap-4 items-start">
+      <span class="text-2xl flex-shrink-0">🌿</span>
+      <div>
+        <p class="text-xs font-mono font-bold text-forest mb-1">Le pari le plus risqué — la banane</p>
+        <p class="text-sm text-muted font-body leading-relaxed">
+          La banane domine cette liste — des centaines d'autorisations pour un seul fruit importé du Costa Rica, de Colombie et du Guatemala. La dépendance semencière inclut aussi les produits de consommation finis.
+        </p>
+      </div>
+    </div>
+
     <SectionHeader
       chapterNum={t(lang, 'chapters.ch1_num')}
       title={t(lang, 'chapters.ch1_title')}
@@ -121,6 +132,14 @@ const explorerI18n = {
       i18n={explorerI18n}
       client:visible
     />
+
+    {/* Data quality note */}
+    <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(252,92,101,0.04); border: 1px solid rgba(252,92,101,0.18);">
+      <p class="text-xs font-mono font-bold mb-2" style="color: #e03131;">⚠ Qualité des données brutes</p>
+      <p class="text-sm font-body leading-relaxed text-muted">
+        Les données originales contiennent <strong class="text-ink">plus de 90 noms différents</strong> pour la même variété : "BANANE", "banane", "BANANES FRAICHES", "Bananes destinées à la consommation humaine" — même chose. 492 variantes de pays normalisées en 36 codes ISO.
+      </p>
+    </div>
 
     <ChapterNav
       lang={lang}

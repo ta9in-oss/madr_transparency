@@ -46,12 +46,14 @@ function countToFill(count: number, max: number): string {
 
 export function WorldMap({ data, title }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
-  const [width, setWidth] = useState(640);
+  const [width, setWidth] = useState(0);
   const [tooltip, setTooltip] = useState<{ x: number; y: number; text: string } | null>(null);
 
   useEffect(() => {
     const el = containerRef.current;
     if (!el) return;
+    const initial = el.getBoundingClientRect().width;
+    if (initial > 100) setWidth(initial);
     const ro = new ResizeObserver((entries) => {
       const w = entries[0]?.contentRect.width;
       if (w && w > 100) setWidth(w);
@@ -82,6 +84,10 @@ export function WorldMap({ data, title }: Props) {
   }, [data]);
 
   const maxCount = Math.max(1, ...data.map((d) => d.count));
+
+  if (width === 0) {
+    return <div ref={containerRef} className="w-full" style={{ minHeight: 40 }} />;
+  }
 
   return (
     <div className="w-full" style={{ direction: 'ltr' }}>

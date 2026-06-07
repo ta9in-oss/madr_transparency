@@ -10,6 +10,7 @@ import { t, getTranslations } from '../../lib/i18n';
 import ChapterNav from '../../components/shared/ChapterNav.astro';
 import InsightCallout from '../../components/shared/InsightCallout.astro';
 import { loadVetAuthorizations, loadVetDistributors, loadVetMedicineImporters } from '../../lib/data';
+import { WILAYA_BY_CODE } from '../../data/wilaya-names';
 import type { Lang } from '../../lib/types';
 
 const lang: Lang = 'fr';
@@ -40,6 +41,13 @@ const wilayaChartData = Object.entries(wilayaCounts)
   .map(([label, count]) => ({ label, count }))
   .sort((a, b) => b.count - a.count)
   .slice(0, 20);
+
+// Wilayas with zero vet distributors
+const coveredWilayas = new Set(Object.keys(wilayaCounts).map(w => w.toLowerCase()));
+const absentWilayas = Object.values(WILAYA_BY_CODE)
+  .filter(w => !Array.from(coveredWilayas).some(c => c.includes(w.fr.toLowerCase()) || c.includes(w.en.toLowerCase())))
+  .map(w => w.fr)
+  .sort();
 
 const typeCounts: Record<string, number> = {};
 for (const r of auths) {
@@ -98,7 +106,7 @@ const explorerI18n = {
       client:visible
     />
 
-    <div class="grid grid-cols-3 gap-4 mb-10">
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-10">
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
         <div class="font-mono text-forest font-bold text-2xl">{auths.length.toLocaleString('fr-FR')}</div>
         <div class="text-xs text-muted font-body mt-1">autorisations</div>
@@ -138,6 +146,19 @@ const explorerI18n = {
         isRtl={false}
         client:visible
       />
+    </div>
+
+    {/* Absent wilayas */}
+    <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(252,92,101,0.04); border: 1px solid rgba(252,92,101,0.18);">
+      <p class="text-xs font-mono font-bold mb-2" style="color: #e03131;">Wilayas sans distributeur ({absentWilayas.length} wilayas)</p>
+      <p class="text-sm font-body leading-relaxed text-muted mb-3">
+        Ces wilayas ne disposent d'aucun distributeur vétérinaire agréé — la plupart dans le sud, pourtant zone principale d'élevage de chameaux et de moutons.
+      </p>
+      <div class="flex flex-wrap gap-2">
+        {absentWilayas.map((w: string) => (
+          <span class="text-xs font-mono px-2 py-0.5 rounded" style="background: rgba(252,92,101,0.1); color: #c92a2a;">{w}</span>
+        ))}
+      </div>
     </div>
 
     <h2 class="font-display font-bold text-display-sm text-ink mb-6">

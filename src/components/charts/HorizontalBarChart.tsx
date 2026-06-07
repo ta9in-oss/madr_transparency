@@ -33,11 +33,15 @@ export function HorizontalBarChart({
 }: Props) {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
-  const [containerWidth, setContainerWidth] = useState(widthProp ?? 600);
+  // Start at 0 to avoid pre-hydration overflow on mobile; ResizeObserver sets real width
+  const [containerWidth, setContainerWidth] = useState(0);
 
   useEffect(() => {
     const el = containerRef.current;
     if (!el) return;
+    // Measure immediately on mount before first paint
+    const initial = el.getBoundingClientRect().width;
+    if (initial > 100) setContainerWidth(initial);
     const ro = new ResizeObserver((entries) => {
       const w = entries[0]?.contentRect.width;
       if (w && w > 100) setContainerWidth(w);
@@ -79,6 +83,10 @@ export function HorizontalBarChart({
       }),
     [sorted, innerWidth]
   );
+
+  if (containerWidth === 0) {
+    return <div ref={containerRef} className="w-full" style={{ minHeight: 40 }} />;
+  }
 
   return (
     <div ref={containerRef} className="w-full" style={{ direction: 'ltr' }}>

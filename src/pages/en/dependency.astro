@@ -85,6 +85,17 @@ const explorerI18n = {
       accent={true}
     />
 
+    {/* Banana dominance insight */}
+    <div class="mb-8 max-w-2xl p-5 rounded-lg border border-line bg-surface flex gap-4 items-start">
+      <span class="text-2xl flex-shrink-0">🌿</span>
+      <div>
+        <p class="text-xs font-mono font-bold text-forest mb-1">The biggest dependency — banana</p>
+        <p class="text-sm text-muted font-body leading-relaxed">
+          Banana alone dominates this list — hundreds of licences for a single fruit imported from Costa Rica, Colombia, and Guatemala. Seed dependency includes finished consumer products, not just agricultural seeds.
+        </p>
+      </div>
+    </div>
+
     <SectionHeader
       chapterNum={t(lang, 'chapters.ch1_num')}
       title={t(lang, 'chapters.ch1_title')}
@@ -121,6 +132,14 @@ const explorerI18n = {
       i18n={explorerI18n}
       client:visible
     />
+
+    {/* Data quality note */}
+    <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(252,92,101,0.04); border: 1px solid rgba(252,92,101,0.18);">
+      <p class="text-xs font-mono font-bold mb-2" style="color: #e03131;">⚠ Raw data quality</p>
+      <p class="text-sm font-body leading-relaxed text-muted">
+        Raw data contains <strong class="text-ink">over 90 different names</strong> for the same item: "BANANE", "banane", "BANANES FRAICHES", "Fresh Green Cavendish Bananas" — all the same thing. 492 country name variants normalised to 36 ISO codes.
+      </p>
+    </div>
 
     <ChapterNav
       lang={lang}
