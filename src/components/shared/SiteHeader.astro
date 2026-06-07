@@ -15,18 +15,19 @@ const langLabels = {
   en: t(lang, 'lang.en'),
 } as const;
 
+const prefix = lang === 'ar' ? '' : `/${lang}`;
 const navLinks = [
-  { href: '/dependency', label: t(lang, 'nav.dependency') },
-  { href: '/chemicals',  label: t(lang, 'nav.chemicals')  },
-  { href: '/players',    label: t(lang, 'nav.players')    },
-  { href: '/veterinary', label: t(lang, 'nav.veterinary') },
+  { href: `${prefix}/dependency`, label: t(lang, 'nav.dependency') },
+  { href: `${prefix}/chemicals`,  label: t(lang, 'nav.chemicals')  },
+  { href: `${prefix}/players`,    label: t(lang, 'nav.players')    },
+  { href: `${prefix}/veterinary`, label: t(lang, 'nav.veterinary') },
 ];
 ---
 
 <header class="border-b border-line bg-paper sticky top-0 z-20">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between gap-6">
 
-    <a href="/" class="font-display font-bold text-ink text-lg tracking-tight shrink-0">
+    <a href={prefix || '/'} class="font-display font-bold text-ink text-lg tracking-tight shrink-0">
       MADR <span class="text-forest">Transparence</span>
     </a>
 

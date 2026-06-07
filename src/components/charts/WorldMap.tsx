@@ -31,9 +31,9 @@ const ISO2_TO_NUMERIC: Record<string, string> = {
 };
 
 const FILL_EMPTY = '#e5e7eb';
-const FILL_ALGERIA = '#4ade80';
+// Algeria is the destination — distinct from the import-origin green scale
+const FILL_ALGERIA = '#e8590c';
 const FILL_COLORS = ['#bbf7d0', '#4ade80', '#16a34a', '#14532d'];
-const FILL_HIGHLIGHT = '#e8590c';
 
 function countToFill(count: number, max: number): string {
   if (count === 0) return FILL_EMPTY;
@@ -122,7 +122,7 @@ export function WorldMap({ data, title }: Props) {
                       if (!info && !isAlgeria) return;
                       const rect = e.currentTarget.ownerSVGElement!.getBoundingClientRect();
                       const text = isAlgeria
-                        ? 'الجزائر 🇩🇿'
+                        ? 'الجزائر — وجهة الاستيراد'
                         : `${info!.label} — ${info!.count}`;
                       setTooltip({
                         x: e.clientX - rect.left + 10,
@@ -150,6 +150,10 @@ export function WorldMap({ data, title }: Props) {
 
       {/* Top countries legend */}
       <div className="mt-4 flex flex-wrap gap-2 justify-center">
+        <span className="flex items-center gap-1 text-xs font-mono text-muted">
+          <span style={{ background: FILL_ALGERIA, display: 'inline-block', width: 10, height: 10, borderRadius: 2 }} />
+          الجزائر (وجهة)
+        </span>
         {data.slice(0, 8).map((d) => (
           <span
             key={d.iso}

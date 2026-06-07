@@ -1,15 +1,171 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/shared/SiteHeader.astro';
+import SiteFooter from '../../components/shared/SiteFooter.astro';
+import { t } from '../../lib/i18n';
+import {
+  loadAgrochemicals,
+  loadPlantProducts,
+  loadSeedlings,
+  loadSeeds,
+  loadPotatoSeeds,
+  loadVetAuthorizations,
+  loadVetDistributors,
+  loadVetMedicineImporters,
+} from '../../lib/data';
 import type { Lang } from '../../lib/types';
+
 const lang: Lang = 'en';
+
+const agrochemicals   = loadAgrochemicals();
+const plantProducts   = loadPlantProducts();
+const seedlings       = loadSeedlings();
+const seeds           = loadSeeds();
+const potatoSeeds     = loadPotatoSeeds();
+const vetAuths        = loadVetAuthorizations();
+const vetDistributors = loadVetDistributors();
+const vetImporters    = loadVetMedicineImporters();
+
+const totalRecords =
+  agrochemicals.length + plantProducts.length + seedlings.length +
+  seeds.length + potatoSeeds.length + vetAuths.length +
+  vetDistributors.length + vetImporters.length;
+
+const chapters = [
+  {
+    num:   t(lang, 'chapters.ch1_num'),
+    title: t(lang, 'chapters.ch1_title'),
+    lead:  t(lang, 'chapters.ch1_lead'),
+    href:  '/en/dependency',
+    count: plantProducts.length + seedlings.length + seeds.length + potatoSeeds.length,
+    hook:  'China first. America second. Algeria does not grow its own seeds.',
+  },
+  {
+    num:   t(lang, 'chapters.ch2_num'),
+    title: t(lang, 'chapters.ch2_title'),
+    lead:  t(lang, 'chapters.ch2_lead'),
+    href:  '/en/chemicals',
+    count: agrochemicals.length,
+    hook:  '900 products from Spain alone. What is being sprayed on your tomatoes?',
+  },
+  {
+    num:   t(lang, 'chapters.ch3_num'),
+    title: t(lang, 'chapters.ch3_title'),
+    lead:  t(lang, 'chapters.ch3_lead'),
+    href:  '/en/players',
+    count: totalRecords,
+    hook:  'One company = 448 licenses. Who controls our food supply chain?',
+  },
+  {
+    num:   t(lang, 'chapters.ch4_num'),
+    title: t(lang, 'chapters.ch4_title'),
+    lead:  t(lang, 'chapters.ch4_lead'),
+    href:  '/en/veterinary',
+    count: vetAuths.length + vetDistributors.length + vetImporters.length,
+    hook:  '19 wilayas with no veterinary medicine. Livestock on the margins.',
+  },
+];
 ---
-<BaseLayout title="MADR Transparency — English version" lang={lang}>
-  <main class="max-w-2xl mx-auto px-6 py-24 text-center flex-1">
-    <p class="font-mono text-sm text-muted mb-4 tracking-widest uppercase">02</p>
-    <h1 class="font-display font-bold text-3xl text-ink mb-6">English version coming soon</h1>
-    <p class="text-muted font-body mb-10">This site is currently available in Arabic only. An English translation is underway.</p>
-    <a href="/" class="inline-flex items-center px-5 py-2.5 bg-forest text-paper font-body text-sm rounded hover:bg-forest-dark transition-colors">
-      → الموقع بالعربية
-    </a>
+
+<BaseLayout title={t(lang, 'home.title')} lang={lang}>
+  <SiteHeader lang={lang} />
+
+  <main class="flex-1">
+
+    <!-- Hero -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 pt-16 pb-12">
+      <div class="max-w-3xl">
+        <p class="font-mono text-sm text-forest tracking-widest uppercase mb-4">Data investigation · Algerian Ministry of Agriculture</p>
+        <h1 class="font-display font-bold text-display-lg text-ink leading-tight mb-6">
+          {t(lang, 'home.title')}
+        </h1>
+        <p class="text-lg text-muted leading-relaxed mb-8 font-body max-w-2xl">
+          {t(lang, 'home.subtitle')}
+        </p>
+        <div class="flex flex-wrap gap-3">
+          <a
+            href="/en/chemicals"
+            class="inline-flex items-center px-5 py-2.5 bg-forest text-paper font-body text-sm rounded hover:bg-forest-dark transition-colors"
+          >
+            {t(lang, 'home.cta_explore')} →
+          </a>
+          <a
+            href="/en/dependency"
+            class="inline-flex items-center px-5 py-2.5 border border-line text-ink font-body text-sm rounded hover:bg-surface transition-colors"
+          >
+            {t(lang, 'home.cta_story')}
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Shock stats bar -->
+    <section class="border-y border-line bg-surface">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 grid grid-cols-2 sm:grid-cols-4 gap-0 divide-x divide-line">
+        <div class="px-6 first:ps-0 last:pe-0">
+          <div class="font-mono font-bold text-forest text-3xl sm:text-4xl tabular-nums">{totalRecords.toLocaleString('en-US')}</div>
+          <div class="text-xs text-muted font-body mt-1">{t(lang, 'home.total_records')}</div>
+        </div>
+        <div class="px-6">
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">{agrochemicals.length.toLocaleString('en-US')}</div>
+          <div class="text-xs text-muted font-body mt-1">{t(lang, 'stats.agrochemicals')}</div>
+        </div>
+        <div class="px-6">
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">39</div>
+          <div class="text-xs text-muted font-body mt-1">of 58 wilayas have vet distribution</div>
+        </div>
+        <div class="px-6">
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">448</div>
+          <div class="text-xs text-muted font-body mt-1">licenses for one company (PROFERT)</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Chapter cards -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-14">
+      <div class="grid sm:grid-cols-2 gap-5">
+        {chapters.map(({ num, title, lead, href, count, hook }) => (
+          <a
+            href={href}
+            class="group flex flex-col gap-4 p-6 bg-surface border border-line rounded-lg hover:border-forest hover:bg-white transition-all"
+          >
+            <div class="flex items-baseline justify-between">
+              <span class="font-mono text-xs text-forest tracking-widest uppercase">{num}</span>
+              <span class="font-mono text-xs text-muted tabular-nums">{count.toLocaleString('en-US')} records</span>
+            </div>
+            <div>
+              <h2 class="font-display font-bold text-xl text-ink group-hover:text-forest transition-colors mb-2">
+                {title}
+              </h2>
+              <p class="text-sm text-forest font-mono font-medium mb-3">{hook}</p>
+              <p class="text-sm text-muted leading-relaxed font-body">{lead}</p>
+            </div>
+            <span class="text-sm text-forest font-body mt-auto flex items-center gap-1">
+              {t(lang, 'chapters.explore')} <span class="group-hover:translate-x-1 transition-transform inline-block">→</span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Methodology note -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-14">
+      <div class="border border-line rounded-lg p-6 bg-surface max-w-2xl">
+        <p class="font-mono text-xs text-forest tracking-widest uppercase mb-3">Methodology</p>
+        <p class="text-sm text-muted font-body leading-relaxed mb-3">
+          <strong class="text-ink">Important note:</strong> this site shows only the import permits published by the Ministry of Agriculture.
+          It does not represent Algeria's total agricultural output — Algeria produces locally in many areas.
+          What you see here is the side that remained invisible: what comes from abroad.
+        </p>
+        <p class="text-sm text-muted font-body leading-relaxed">
+          Data extracted from the Transparency page of Algeria's Ministry of Agriculture and Rural Development website.
+          Processed and structured programmatically. Last updated July 2025.
+          <a href="https://github.com/ta9in-oss/madr_transparency" target="_blank" rel="noopener noreferrer" class="text-forest hover:text-forest-dark ms-1">→ Open source code</a>
+        </p>
+      </div>
+    </section>
+
   </main>
+
+  <SiteFooter lang={lang} />
 </BaseLayout>

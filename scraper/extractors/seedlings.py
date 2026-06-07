@@ -1,5 +1,6 @@
 from scraper.extractors.base import BaseExtractor
 from scraper.models.seedling import Seedling
+from scraper.normalize import normalize_country
 
 
 class SeedlingsExtractor(BaseExtractor[Seedling]):
@@ -17,6 +18,6 @@ class SeedlingsExtractor(BaseExtractor[Seedling]):
             known_name=cells[2] if len(cells) > 2 else "",
             variety=cells[3] if len(cells) > 3 else "",
             material_type=cells[4] if len(cells) > 4 else "",
-            country_of_origin=cells[5] if len(cells) > 5 else "",
+            country_of_origin=normalize_country(cells[5] if len(cells) > 5 else ""),
             production_zone=cells[6] if len(cells) > 6 else "",
         )

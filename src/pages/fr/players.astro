@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/shared/SiteHeader.astro';
+import SiteFooter from '../../components/shared/SiteFooter.astro';
+import { SectionHeader } from '../../components/shared/SectionHeader';
+import { HorizontalBarChart } from '../../components/charts/HorizontalBarChart';
+import { DataExplorer } from '../../components/explorer/DataExplorer';
+import { t, getTranslations } from '../../lib/i18n';
+import ChapterNav from '../../components/shared/ChapterNav.astro';
+import InsightCallout from '../../components/shared/InsightCallout.astro';
+import { loadCompanyStats } from '../../lib/data';
+import type { Lang } from '../../lib/types';
+
+const lang: Lang = 'fr';
+
+const companies = loadCompanyStats();
+const uniqueCompanies = companies.length;
+const totalLicenses = companies.reduce((s, c) => s + c.totalLicenses, 0);
+
+const companyChartData = companies
+  .slice(0, 20)
+  .map((c) => ({ label: c.name, count: c.totalLicenses }));
+
+const top1pct = companies.slice(0, Math.ceil(companies.length * 0.01));
+const top1pctLicenses = top1pct.reduce((s, c) => s + c.totalLicenses, 0);
+const top1pctPct = Math.round((top1pctLicenses / totalLicenses) * 100);
+
+const explorerRows = companies.map((c) => ({
+  company:    c.name,
+  company_ar: c.nameAr || '—',
+  sectors:    c.sectors.join(' · '),
+  licenses:   String(c.totalLicenses),
+}));
+
+const explorerColumns = [
+  { key: 'company',    label: 'Entreprise (français)', mono: true },
+  { key: 'company_ar', label: 'Nom arabe' },
+  { key: 'sectors',    label: 'Secteurs',              mono: true },
+  { key: 'licenses',   label: 'Licences',              mono: true },
+];
+
+const tr = getTranslations(lang);
+const explorerI18n = {
+  search_placeholder: tr.explorer.search_placeholder,
+  filter_country:     tr.explorer.filter_country,
+  filter_category:    tr.explorer.filter_category,
+  filter_all:         tr.explorer.filter_all,
+  no_results:         tr.explorer.no_results,
+  showing:            tr.explorer.showing,
+  of:                 tr.explorer.of,
+  records:            tr.explorer.records,
+  prev:               tr.explorer.prev,
+  next:               tr.explorer.next,
+};
+---
+
+<BaseLayout title={t(lang, 'chapters.ch3_title')} lang={lang}>
+  <SiteHeader lang={lang} />
+
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
+
+    <InsightCallout
+      stat="448"
+      label="autorisations pour une seule entreprise"
+      context="PROFERT SPA détient 448 autorisations — soit ~5% du total. Le marché est concentré entre peu d'acteurs."
+      accent={true}
+    />
+
+    <SectionHeader
+      chapterNum={t(lang, 'chapters.ch3_num')}
+      title={t(lang, 'chapters.ch3_title')}
+      lead={t(lang, 'chapters.ch3_lead')}
+      client:visible
+    />
+
+    <div class="grid sm:grid-cols-3 gap-4 mb-10">
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">{uniqueCompanies.toLocaleString('fr-FR')}</div>
+        <div class="text-xs text-muted font-body mt-1">entreprises uniques</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">{totalLicenses.toLocaleString('fr-FR')}</div>
+        <div class="text-xs text-muted font-body mt-1">autorisations d'importation</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">{top1pctPct}%</div>
+        <div class="text-xs text-muted font-body mt-1">des licences pour {top1pct.length} entreprise(s) seulement (1%)</div>
+      </div>
+    </div>
+
+    <section class="mb-14">
+      <HorizontalBarChart
+        data={companyChartData}
+        maxBars={20}
+        width={720}
+        title="Top 20 entreprises par nombre de licences"
+        isRtl={false}
+        client:visible
+      />
+    </section>
+
+    <h2 class="font-display font-bold text-display-sm text-ink mb-6">
+      {t(lang, 'chapters.explore')}
+    </h2>
+
+    <DataExplorer
+      rows={explorerRows}
+      columns={explorerColumns}
+      searchKeys={['company', 'company_ar', 'sectors']}
+      filterKey="sectors"
+      i18n={explorerI18n}
+      client:visible
+    />
+
+    <ChapterNav
+      lang={lang}
+      prev={{ href: '/fr/chemicals', num: '02', title: t(lang, 'chapters.ch2_title') }}
+      next={{ href: '/fr/veterinary', num: '04', title: t(lang, 'chapters.ch4_title') }}
+    />
+
+  </main>
+
+  <SiteFooter lang={lang} />
+</BaseLayout>

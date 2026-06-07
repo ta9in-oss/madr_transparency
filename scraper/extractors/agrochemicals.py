@@ -1,5 +1,6 @@
 from scraper.extractors.base import BaseExtractor
 from scraper.models.agrochemical import Agrochemical
+from scraper.normalize import normalize_chem_category, normalize_country
 
 
 class AgrochemicalsExtractor(BaseExtractor[Agrochemical]):
@@ -15,6 +16,6 @@ class AgrochemicalsExtractor(BaseExtractor[Agrochemical]):
             company_name_ar="",
             product_name=cells[1] if len(cells) > 1 else "",
             active_substance=cells[2] if len(cells) > 2 else "",
-            category=cells[3] if len(cells) > 3 else "",
-            country_of_origin=cells[4] if len(cells) > 4 else "",
+            category=normalize_chem_category(cells[3] if len(cells) > 3 else ""),
+            country_of_origin=normalize_country(cells[4] if len(cells) > 4 else ""),
         )

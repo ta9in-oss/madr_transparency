@@ -1,0 +1,148 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/shared/SiteHeader.astro';
+import SiteFooter from '../../components/shared/SiteFooter.astro';
+import { SectionHeader } from '../../components/shared/SectionHeader.tsx';
+import { HorizontalBarChart } from '../../components/charts/HorizontalBarChart';
+import { WorldMap } from '../../components/charts/WorldMap';
+import { DataExplorer } from '../../components/explorer/DataExplorer';
+import { t, getTranslations } from '../../lib/i18n';
+import ChapterNav from '../../components/shared/ChapterNav.astro';
+import InsightCallout from '../../components/shared/InsightCallout.astro';
+import { loadAgrochemicals } from '../../lib/data';
+import { countryToIso, countryName, COUNTRY_INFO } from '../../lib/countries';
+import type { Lang } from '../../lib/types';
+
+const lang: Lang = 'en';
+
+const records = loadAgrochemicals();
+
+const catCounts: Record<string, number> = {};
+for (const r of records) {
+  catCounts[r.category] = (catCounts[r.category] ?? 0) + 1;
+}
+const categoryChartData = Object.entries(catCounts)
+  .map(([label, count]) => ({ label, count }))
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 20);
+
+const isoCounts: Record<string, number> = {};
+for (const r of records) {
+  const iso = countryToIso(r.countryOfOrigin || 'INCONNU');
+  isoCounts[iso] = (isoCounts[iso] ?? 0) + 1;
+}
+const countryChartData = Object.entries(isoCounts)
+  .map(([iso, count]) => ({ label: countryName(iso, lang), count }))
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 12);
+
+const worldMapData = Object.entries(isoCounts)
+  .filter(([iso]) => COUNTRY_INFO[iso])
+  .map(([iso, count]) => ({ iso, count, label: countryName(iso, lang) }))
+  .sort((a, b) => b.count - a.count);
+
+const explorerRows = records.map(r => ({
+  company:   r.companyNameAr || r.company,
+  product:   r.productName,
+  substance: r.activeSubstance,
+  category:  r.category,
+  origin:    r.countryOfOrigin,
+}));
+
+const explorerColumns = [
+  { key: 'company',   label: 'Company' },
+  { key: 'product',   label: 'Product',          mono: true },
+  { key: 'substance', label: 'Active substance',  mono: true },
+  { key: 'category',  label: 'Category',          mono: true },
+  { key: 'origin',    label: 'Origin',            mono: true },
+];
+
+const tr = getTranslations(lang);
+const explorerI18n = {
+  search_placeholder: tr.explorer.search_placeholder,
+  filter_country:     tr.explorer.filter_country,
+  filter_category:    tr.explorer.filter_category,
+  filter_all:         tr.explorer.filter_all,
+  no_results:         tr.explorer.no_results,
+  showing:            tr.explorer.showing,
+  of:                 tr.explorer.of,
+  records:            tr.explorer.records,
+  prev:               tr.explorer.prev,
+  next:               tr.explorer.next,
+};
+---
+
+<BaseLayout title={t(lang, 'chapters.ch2_title')} lang={lang}>
+  <SiteHeader lang={lang} />
+
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
+
+    <InsightCallout
+      stat="5,058"
+      label="chemical products licensed for import"
+      context="Spain alone accounts for 900+ products. China is 3rd. All of this is sprayed on Algerian farmland."
+      accent={true}
+    />
+
+    <SectionHeader
+      chapterNum={t(lang, 'chapters.ch2_num')}
+      title={t(lang, 'chapters.ch2_title')}
+      lead={t(lang, 'chapters.ch2_lead')}
+      client:visible
+    />
+
+    <div class="mb-10 p-5 bg-surface border border-line rounded-lg max-w-2xl">
+      <p class="text-sm text-muted font-body">
+        <span class="font-mono text-forest font-bold text-2xl">{records.length.toLocaleString('en-US')}</span>
+        {' '}{t(lang, 'stats.agrochemicals')}
+      </p>
+    </div>
+
+    <section class="mb-10">
+      <WorldMap
+        data={worldMapData}
+        title="Import source map — where do agrochemicals come from?"
+        client:visible
+      />
+    </section>
+
+    <div class="grid md:grid-cols-2 gap-8 mb-14">
+      <HorizontalBarChart
+        data={categoryChartData}
+        colorByLabel={true}
+        title={tr.explorer.filter_category}
+        isRtl={false}
+        client:visible
+      />
+      <HorizontalBarChart
+        data={countryChartData}
+        colorByLabel={false}
+        maxBars={12}
+        title={tr.explorer.filter_country}
+        isRtl={false}
+        client:visible
+      />
+    </div>
+
+    <h2 class="font-display font-bold text-display-sm text-ink mb-6">
+      {t(lang, 'chapters.ch2_title')}
+    </h2>
+    <DataExplorer
+      rows={explorerRows}
+      columns={explorerColumns}
+      searchKeys={['company', 'product', 'substance']}
+      filterKey="category"
+      i18n={explorerI18n}
+      client:visible
+    />
+
+    <ChapterNav
+      lang={lang}
+      prev={{ href: '/en/dependency', num: '01', title: t(lang, 'chapters.ch1_title') }}
+      next={{ href: '/en/players', num: '03', title: t(lang, 'chapters.ch3_title') }}
+    />
+
+  </main>
+
+  <SiteFooter lang={lang} />
+</BaseLayout>
