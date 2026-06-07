@@ -8,55 +8,36 @@ import { DataExplorer } from '../components/explorer/DataExplorer';
 import { t, getTranslations } from '../lib/i18n';
 import ChapterNav from '../components/shared/ChapterNav.astro';
 import InsightCallout from '../components/shared/InsightCallout.astro';
-import {
-  loadAgrochemicals,
-  loadPlantProducts,
-  loadSeedlings,
-  loadSeeds,
-  loadPotatoSeeds,
-  loadVetAuthorizations,
-  loadVetDistributors,
-  loadVetMedicineImporters,
-} from '../lib/data';
+import { loadCompanyStats } from '../lib/data';
 import type { Lang } from '../lib/types';
 
 const lang: Lang = 'ar';
 
-const allByCompany: { nameAr: string; nameFr: string; dataset: string }[] = [
-  ...loadAgrochemicals().map(r        => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'مبيدات' })),
-  ...loadPlantProducts().map(r        => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'نباتات' })),
-  ...loadSeedlings().map(r            => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'شتلات' })),
-  ...loadSeeds().map(r                => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'بذور' })),
-  ...loadPotatoSeeds().map(r          => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'بطاطا' })),
-  ...loadVetAuthorizations().map(r    => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'تراخيص بيطرية' })),
-  ...loadVetDistributors().map(r      => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'موزعون بيطريون' })),
-  ...loadVetMedicineImporters().map(r => ({ nameAr: r.companyNameAr || r.company, nameFr: r.company, dataset: 'مستوردو أدوية' })),
-];
+const companies = loadCompanyStats();
+const uniqueCompanies = companies.length;
+const totalLicenses = companies.reduce((s, c) => s + c.totalLicenses, 0);
 
-const companyCounts: Record<string, number> = {};
-for (const r of allByCompany) {
-  if (r.nameAr) companyCounts[r.nameAr] = (companyCounts[r.nameAr] ?? 0) + 1;
-}
+const companyChartData = companies
+  .slice(0, 20)
+  .map((c) => ({ label: c.name, count: c.totalLicenses }));
 
-const companyChartData = Object.entries(companyCounts)
-  .map(([label, count]) => ({ label, count }))
-  .sort((a, b) => b.count - a.count)
-  .slice(0, 20);
+// Top 1% threshold for concentration callout
+const top1pct = companies.slice(0, Math.ceil(companies.length * 0.01));
+const top1pctLicenses = top1pct.reduce((s, c) => s + c.totalLicenses, 0);
+const top1pctPct = Math.round((top1pctLicenses / totalLicenses) * 100);
 
-const uniqueCompanies = Object.keys(companyCounts).length;
-
-const explorerRows = allByCompany.map(r => ({
-  company:    r.nameAr,
-  company_fr: r.nameFr,
-  dataset:    r.dataset,
-  licenses:   String(companyCounts[r.nameAr] ?? 1),
+const explorerRows = companies.map((c) => ({
+  company:    c.name,
+  company_ar: c.nameAr || '—',
+  sectors:    c.sectors.join(' · '),
+  licenses:   String(c.totalLicenses),
 }));
 
 const explorerColumns = [
-  { key: 'company',    label: 'الشركة' },
-  { key: 'company_fr', label: 'الاسم الفرنسي', mono: true },
-  { key: 'dataset',    label: 'القطاع',        mono: true },
-  { key: 'licenses',   label: 'الرخص',         mono: true },
+  { key: 'company',    label: 'الشركة (فرنسي)', mono: true },
+  { key: 'company_ar', label: 'الاسم العربي' },
+  { key: 'sectors',    label: 'القطاعات',       mono: true },
+  { key: 'licenses',   label: 'الرخص',          mono: true },
 ];
 
 const tr = getTranslations(lang);
@@ -93,11 +74,19 @@ const explorerI18n = {
       client:visible
     />
 
-    <div class="mb-10 p-5 bg-surface border border-line rounded-lg max-w-2xl">
-      <p class="text-sm text-muted font-body leading-relaxed">
-        <span class="font-mono text-forest font-bold text-2xl">{uniqueCompanies.toLocaleString('ar-DZ')}</span>
-        {' '}شركة حاملة لرخص الاستيراد
-      </p>
+    <div class="grid sm:grid-cols-3 gap-4 mb-10">
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">{uniqueCompanies.toLocaleString('ar-DZ')}</div>
+        <div class="text-xs text-muted font-body mt-1">شركة فريدة</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">{totalLicenses.toLocaleString('ar-DZ')}</div>
+        <div class="text-xs text-muted font-body mt-1">رخصة استيراد</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">{top1pctPct}٪</div>
+        <div class="text-xs text-muted font-body mt-1">من الرخص لدى {top1pct.length} شركة فقط (1٪)</div>
+      </div>
     </div>
 
     <section class="mb-14">
@@ -118,8 +107,8 @@ const explorerI18n = {
     <DataExplorer
       rows={explorerRows}
       columns={explorerColumns}
-      searchKeys={['company', 'company_fr', 'dataset']}
-      filterKey="dataset"
+      searchKeys={['company', 'company_ar', 'sectors']}
+      filterKey="sectors"
       i18n={explorerI18n}
       client:visible
     />

@@ -8,6 +8,8 @@ import type {
   VetDistributor,
   VetMedicineImporter,
 } from './types';
+import { normalizeChemicalCategory, aggregateByCompany } from './normalize';
+export type { CompanyStat } from './normalize';
 
 interface RawAgrochemical {
   company: string;
@@ -98,7 +100,7 @@ export function loadAgrochemicals(): Agrochemical[] {
     companyNameAr: r.company_name_ar,
     productName: r.product_name,
     activeSubstance: r.active_substance,
-    category: r.category,
+    category: normalizeChemicalCategory(r.category),
     countryOfOrigin: r.country_of_origin,
   }));
 }
@@ -180,4 +182,18 @@ export function loadVetMedicineImporters(): VetMedicineImporter[] {
     number: r.number,
     location: r.location,
   }));
+}
+
+export function loadCompanyStats() {
+  const rows = [
+    ...loadAgrochemicals().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'مبيدات' })),
+    ...loadPlantProducts().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'نباتات' })),
+    ...loadSeedlings().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'شتلات' })),
+    ...loadSeeds().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'بذور' })),
+    ...loadPotatoSeeds().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'بطاطا' })),
+    ...loadVetAuthorizations().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'تراخيص بيطرية' })),
+    ...loadVetDistributors().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'موزعون بيطريون' })),
+    ...loadVetMedicineImporters().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'مستوردو أدوية' })),
+  ];
+  return aggregateByCompany(rows);
 }
