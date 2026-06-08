@@ -3,33 +3,13 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SiteHeader from '../../components/shared/SiteHeader.astro';
 import SiteFooter from '../../components/shared/SiteFooter.astro';
 import { t } from '../../lib/i18n';
-import {
-  loadAgrochemicals,
-  loadPlantProducts,
-  loadSeedlings,
-  loadSeeds,
-  loadPotatoSeeds,
-  loadVetAuthorizations,
-  loadVetDistributors,
-  loadVetMedicineImporters,
-} from '../../lib/data';
 import type { Lang } from '../../lib/types';
+import insightsJson from '../../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'en';
 
-const agrochemicals   = loadAgrochemicals();
-const plantProducts   = loadPlantProducts();
-const seedlings       = loadSeedlings();
-const seeds           = loadSeeds();
-const potatoSeeds     = loadPotatoSeeds();
-const vetAuths        = loadVetAuthorizations();
-const vetDistributors = loadVetDistributors();
-const vetImporters    = loadVetMedicineImporters();
-
-const totalRecords =
-  agrochemicals.length + plantProducts.length + seedlings.length +
-  seeds.length + potatoSeeds.length + vetAuths.length +
-  vetDistributors.length + vetImporters.length;
+const totalRecords = insights.players.total_permits;
 
 const chapters = [
   {
@@ -37,7 +17,7 @@ const chapters = [
     title: t(lang, 'chapters.ch1_title'),
     lead:  t(lang, 'chapters.ch1_lead'),
     href:  '/en/dependency',
-    count: plantProducts.length + seedlings.length + seeds.length + potatoSeeds.length,
+    count: insights.dependency.total_records,
     hook:  'China first. America second. Algeria does not grow its own seeds.',
   },
   {
@@ -45,7 +25,7 @@ const chapters = [
     title: t(lang, 'chapters.ch2_title'),
     lead:  t(lang, 'chapters.ch2_lead'),
     href:  '/en/chemicals',
-    count: agrochemicals.length,
+    count: insights.chemicals.total,
     hook:  '900 products from Spain alone. What is being sprayed on your tomatoes?',
   },
   {
@@ -53,7 +33,7 @@ const chapters = [
     title: t(lang, 'chapters.ch3_title'),
     lead:  t(lang, 'chapters.ch3_lead'),
     href:  '/en/players',
-    count: totalRecords,
+    count: insights.players.total_permits,
     hook:  'One company = 448 licenses. Who controls our food supply chain?',
   },
   {
@@ -61,7 +41,7 @@ const chapters = [
     title: t(lang, 'chapters.ch4_title'),
     lead:  t(lang, 'chapters.ch4_lead'),
     href:  '/en/veterinary',
-    count: vetAuths.length + vetDistributors.length + vetImporters.length,
+    count: insights.veterinary.auth_count + insights.veterinary.distributor_count + insights.veterinary.importer_count,
     hook:  '19 wilayas with no veterinary medicine. Livestock on the margins.',
   },
 ];
@@ -107,7 +87,7 @@ const chapters = [
           <div class="text-xs text-muted font-body mt-1">{t(lang, 'home.total_records')}</div>
         </div>
         <div class="px-6">
-          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">{agrochemicals.length.toLocaleString('en-US')}</div>
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">{insights.chemicals.total.toLocaleString('en-US')}</div>
           <div class="text-xs text-muted font-body mt-1">{t(lang, 'stats.agrochemicals')}</div>
         </div>
         <div class="px-6">

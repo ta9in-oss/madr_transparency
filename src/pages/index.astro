@@ -3,33 +3,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/shared/SiteHeader.astro';
 import SiteFooter from '../components/shared/SiteFooter.astro';
 import { t } from '../lib/i18n';
-import {
-  loadAgrochemicals,
-  loadPlantProducts,
-  loadSeedlings,
-  loadSeeds,
-  loadPotatoSeeds,
-  loadVetAuthorizations,
-  loadVetDistributors,
-  loadVetMedicineImporters,
-} from '../lib/data';
 import type { Lang } from '../lib/types';
+import insightsJson from '../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'ar';
 
-const agrochemicals   = loadAgrochemicals();
-const plantProducts   = loadPlantProducts();
-const seedlings       = loadSeedlings();
-const seeds           = loadSeeds();
-const potatoSeeds     = loadPotatoSeeds();
-const vetAuths        = loadVetAuthorizations();
-const vetDistributors = loadVetDistributors();
-const vetImporters    = loadVetMedicineImporters();
-
-const totalRecords =
-  agrochemicals.length + plantProducts.length + seedlings.length +
-  seeds.length + potatoSeeds.length + vetAuths.length +
-  vetDistributors.length + vetImporters.length;
+const totalRecords = insights.players.total_permits;
 
 const chapters = [
   {
@@ -37,7 +17,7 @@ const chapters = [
     title: t(lang, 'chapters.ch1_title'),
     lead:  t(lang, 'chapters.ch1_lead'),
     href:  '/dependency',
-    count: plantProducts.length + seedlings.length + seeds.length + potatoSeeds.length,
+    count: insights.dependency.total_records,
     hook:  'الصين أولاً. أمريكا ثانياً. الجزائر لا تزرع بذورها.',
   },
   {
@@ -45,7 +25,7 @@ const chapters = [
     title: t(lang, 'chapters.ch2_title'),
     lead:  t(lang, 'chapters.ch2_lead'),
     href:  '/chemicals',
-    count: agrochemicals.length,
+    count: insights.chemicals.total,
     hook:  '900 منتج من إسبانيا وحدها. ما الذي يُرش على طماطمك؟',
   },
   {
@@ -53,7 +33,7 @@ const chapters = [
     title: t(lang, 'chapters.ch3_title'),
     lead:  t(lang, 'chapters.ch3_lead'),
     href:  '/players',
-    count: totalRecords,
+    count: insights.players.total_permits,
     hook:  'شركة واحدة = 448 رخصة. من يتحكم في سلسلة غذائنا؟',
   },
   {
@@ -61,7 +41,7 @@ const chapters = [
     title: t(lang, 'chapters.ch4_title'),
     lead:  t(lang, 'chapters.ch4_lead'),
     href:  '/veterinary',
-    count: vetAuths.length + vetDistributors.length + vetImporters.length,
+    count: insights.veterinary.auth_count + insights.veterinary.distributor_count + insights.veterinary.importer_count,
     hook:  '19 ولاية بلا دواء بيطري. المواشي في الهامش.',
   },
 ];
@@ -107,7 +87,7 @@ const chapters = [
           <div class="text-xs text-muted font-body mt-1">{t(lang, 'home.total_records')}</div>
         </div>
         <div class="px-6">
-          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">{agrochemicals.length.toLocaleString('ar-DZ')}</div>
+          <div class="font-mono font-bold text-ink text-3xl sm:text-4xl tabular-nums">{insights.chemicals.total.toLocaleString('ar-DZ')}</div>
           <div class="text-xs text-muted font-body mt-1">{t(lang, 'stats.agrochemicals')}</div>
         </div>
         <div class="px-6">

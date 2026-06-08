@@ -44,6 +44,13 @@ const countryData: { label: string; count: number }[] = Object.entries(isoCounts
   .sort((a, b) => b.count - a.count)
   .slice(0, 15);
 
+const seedMatData = Object.entries(
+  (insights.dependency.seed_material_breakdown as Record<string, number>) ?? {}
+)
+  .filter(([, count]) => count > 0)
+  .map(([label, count]) => ({ label, count }))
+  .sort((a, b) => b.count - a.count);
+
 const explorerRows = plantProducts.map((r) => ({
   company:  r.companyNameAr || r.company,
   product:  r.knownName,
@@ -121,6 +128,18 @@ const explorerI18n = {
         client:visible
       />
     </section>
+
+    {seedMatData.length > 0 && (
+      <section class="mb-14">
+        <HorizontalBarChart
+          data={seedMatData}
+          colorByLabel={false}
+          title="Imported seed material types"
+          isRtl={false}
+          client:visible
+        />
+      </section>
+    )}
 
     <h2 class="font-display font-bold text-display-sm text-ink mb-6">
       {t(lang, 'chapters.explore')}
