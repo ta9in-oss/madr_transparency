@@ -22,6 +22,8 @@ const insights = insightsJson as any;
 
 const lang: Lang = 'en';
 
+const narrative = (insights.dependency?.narrative as {fr: string; ar: string; en: string} | undefined)?.[lang];
+
 const plantProducts = loadPlantProducts();
 const seedlings     = loadSeedlings();
 const seeds         = loadSeeds();
@@ -197,6 +199,15 @@ const explorerI18n = {
         Raw data contains <strong class="text-ink">over 90 different names</strong> for the same item: "BANANE", "banane", "BANANES FRAICHES", "Fresh Green Cavendish Bananas", all the same thing. 492 country name variants normalised to 36 ISO codes.
       </p>
     </div>
+
+    {narrative && (
+      <div class="mb-10 max-w-2xl p-5 rounded-lg bg-surface border border-line" style="border-left: 3px solid #2d6a4f;">
+        <p class="text-xs font-mono font-bold text-forest mb-2">
+          {lang === 'ar' ? '✦ تحليل ذكاء اصطناعي' : lang === 'fr' ? '✦ Analyse par IA' : '✦ AI Analysis'}
+        </p>
+        <p class="text-sm font-body leading-relaxed text-ink">{narrative}</p>
+      </div>
+    )}
 
     <ChapterNav
       lang={lang}

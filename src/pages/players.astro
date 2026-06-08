@@ -15,6 +15,8 @@ const insights = insightsJson as any;
 
 const lang: Lang = 'ar';
 
+const narrative = (insights.players?.narrative as {fr: string; ar: string; en: string} | undefined)?.[lang];
+
 const companies = loadCompanyStats();
 const uniqueCompanies = companies.length;
 const totalLicenses = companies.reduce((s, c) => s + c.totalLicenses, 0);
@@ -137,6 +139,15 @@ const explorerI18n = {
       i18n={explorerI18n}
       client:visible
     />
+
+    {narrative && (
+      <div class="mb-10 max-w-2xl p-5 rounded-lg bg-surface border border-line" style="border-left: 3px solid #2d6a4f;">
+        <p class="text-xs font-mono font-bold text-forest mb-2">
+          {lang === 'ar' ? '✦ تحليل ذكاء اصطناعي' : lang === 'fr' ? '✦ Analyse par IA' : '✦ AI Analysis'}
+        </p>
+        <p class="text-sm font-body leading-relaxed text-ink">{narrative}</p>
+      </div>
+    )}
 
     <ChapterNav
       lang={lang}

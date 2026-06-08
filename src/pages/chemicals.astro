@@ -17,6 +17,8 @@ const insights = insightsJson as any;
 
 const lang: Lang = 'ar';
 
+const narrative = (insights.chemicals?.narrative as {fr: string; ar: string; en: string} | undefined)?.[lang];
+
 const records = loadAgrochemicals();
 // category is already normalized by loadAgrochemicals() via normalizeChemicalCategory()
 
@@ -159,6 +161,15 @@ const explorerI18n = {
         كلها نفس الفئة. قمنا بالتوحيد إلى 14 مجموعة قابلة للمقارنة.
       </p>
     </div>
+
+    {narrative && (
+      <div class="mb-10 max-w-2xl p-5 rounded-lg bg-surface border border-line" style="border-left: 3px solid #2d6a4f;">
+        <p class="text-xs font-mono font-bold text-forest mb-2">
+          {lang === 'ar' ? '✦ تحليل ذكاء اصطناعي' : lang === 'fr' ? '✦ Analyse par IA' : '✦ AI Analysis'}
+        </p>
+        <p class="text-sm font-body leading-relaxed text-ink">{narrative}</p>
+      </div>
+    )}
 
     <ChapterNav
       lang={lang}
