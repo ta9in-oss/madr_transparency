@@ -23,6 +23,7 @@ from scraper.normalize import (
     normalize_chem_category,
     normalize_plant_category,
     normalize_country,
+    normalize_seed_material,
     flush_groq_queue,
     _GROQ_QUEUE,
     _CACHE,
@@ -37,6 +38,7 @@ def normalize_file(
     has_category: bool,
     use_chem_cat: bool = False,
     use_plant_cat: bool = False,
+    use_material: bool = False,
 ) -> tuple[set[str], set[str]]:
     """Normalize one file in-place. Returns (before_countries, after_countries)."""
     with open(path, encoding="utf-8") as f:
@@ -46,6 +48,8 @@ def normalize_file(
     after_countries: set[str] = set()
     before_cats: set[str] = set()
     after_cats: set[str] = set()
+    before_mats: set[str] = set()
+    after_mats: set[str] = set()
 
     for row in rows:
         if has_country and "country_of_origin" in row:
@@ -67,6 +71,12 @@ def normalize_file(
             row["category"] = normalize_plant_category(raw)
             after_cats.add(row["category"])
 
+        if use_material and "material_type" in row:
+            raw_mat = row.get("material_type") or ""
+            before_mats.add(raw_mat)
+            row["material_type"] = normalize_seed_material(raw_mat)
+            after_mats.add(row["material_type"])
+
     with open(path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
 
@@ -76,24 +86,26 @@ def normalize_file(
         print(f"  {name}: country {len(before_countries)} unique → {len(after_countries)} unique  ({xx} XX remaining)")
     if has_category and (use_chem_cat or use_plant_cat):
         print(f"  {name}: category {len(before_cats)} unique → {len(after_cats)} unique")
+    if use_material:
+        print(f"  {name}: material {len(before_mats)} unique → {len(after_mats)} unique")
 
     return before_countries, after_countries
 
 
-# (path, has_country, has_category, use_chem_cat, use_plant_cat)
+# (path, has_country, has_category, use_chem_cat, use_plant_cat, use_material)
 FILES = [
-    (DATA_DIR / "agrochemicals.json",  True,  True,  True,  False),
-    (DATA_DIR / "plant-products.json", True,  True,  False, True),
-    (DATA_DIR / "seeds.json",          True,  False, False, False),
-    (DATA_DIR / "seedlings.json",      True,  False, False, False),
-    (DATA_DIR / "potato-seeds.json",   True,  False, False, False),
+    (DATA_DIR / "agrochemicals.json",  True,  True,  True,  False, False),
+    (DATA_DIR / "plant-products.json", True,  True,  False, True,  False),
+    (DATA_DIR / "seeds.json",          True,  False, False, False, True),
+    (DATA_DIR / "seedlings.json",      True,  False, False, False, True),
+    (DATA_DIR / "potato-seeds.json",   True,  False, False, False, False),
 ]
 
 
 def run_pass(label: str) -> None:
     print(f"\n{label}")
-    for path, hc, hcat, chem, plant in FILES:
-        normalize_file(path, hc, hcat, chem, plant)
+    for path, hc, hcat, chem, plant, mat in FILES:
+        normalize_file(path, hc, hcat, chem, plant, mat)
 
 
 def main() -> None:

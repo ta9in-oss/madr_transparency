@@ -242,6 +242,29 @@ export function normalizePlantCategory(raw: string | undefined | null): string {
   return 'Autre';
 }
 
+// ─── Seed / seedling material_type normalization ─────────────────────────────
+// 95+ raw variants → 7 canonical groups
+
+export function normalizeSeedMaterial(raw: string | undefined | null): string {
+  if (!raw) return 'Autre';
+  const u = raw.trim().toUpperCase()
+    .replace(/[''ʼʻ′`'']/g, "'")
+    .replace(/\s+/g, ' ');
+  if (!u) return 'Autre';
+
+  if (/ABAMECTIN|DELTAMETHRIN|DIFECONAZOLE|ACETAMIPRIDE|METALAXYL|CIFLUFENAMIDE/.test(u)) return 'Autre';
+  if (['TEST', 'VOIR ANNEXE', 'BULBES A FLEURES', 'DIVERS', 'FRUIT', 'ECHANTILLONS'].includes(u)) return 'Autre';
+
+  if (/TUBERCUL/.test(u)) return 'Tubercule';
+  if (/^PLANT/.test(u) && !/SEMENCE/.test(u)) return 'Plant';
+  if (/PORTE.?GREFFE|PORTE GREFFE|GREFFES?$|VITIS VINIFERA/.test(u) || ['M9', 'M09', 'GF677'].includes(u)) return 'Porte-greffe';
+  if (/FOURAG|FOURRAG|LUZERNE|RHODES GRASS/.test(u)) return 'Semence fourragère';
+  if (/HYBRIDE|HYBRID|HYBR|\bF1\b/.test(u)) return 'Semence hybride';
+  if (/SEMENCE|SEMENCES|SEMANCE/.test(u)) return 'Semence standard';
+
+  return 'Autre';
+}
+
 // ─── Company aggregation ──────────────────────────────────────────────────────
 
 export interface CompanyStat {

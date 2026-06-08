@@ -453,3 +453,48 @@ def normalize_plant_category(raw: str) -> str:
         return "Aliments bétail"
 
     return "Autre"
+
+
+def normalize_seed_material(raw: str | None) -> str:
+    """Collapse 95+ material_type variants for seeds/seedlings into 7 canonical groups."""
+    if not raw:
+        return "Autre"
+    u = raw.strip().upper()
+    u = re.sub(r"[''ʼʻ′`'']", "'", u)
+    u = re.sub(r"\s+", " ", u)
+
+    if not u:
+        return "Autre"
+
+    # Garbage / chemical names entered by mistake
+    if re.search(r"ABAMECTIN|DELTAMETHRIN|DIFECONAZOLE|ACETAMIPRIDE|METALAXYL|CIFLUFENAMIDE", u):
+        return "Autre"
+    if u in ("TEST", "VOIR ANNEXE", "BULBES A FLEURES", "DIVERS", "FRUIT", "ECHANTILLONS",
+             "SELENCES", "SEMNCES", "SEMECESN", "SEMENSES", "SEMANCES", "SEMEENCE"):
+        return "Autre"
+
+    # Tuber (pomme de terre)
+    if re.search(r"TUBERCUL", u):
+        return "Tubercule"
+
+    # Plant / seedling material (starts with PLANT/PLANTE but is NOT a seed)
+    if re.match(r"^PLANT", u) and not re.search(r"SEMENCE", u):
+        return "Plant"
+
+    # Rootstock
+    if re.search(r"PORTE.?GREFFE|PORTE GREFFE|GREFFES?$|VITIS VINIFERA", u) or u in ("M9", "M09", "GF677"):
+        return "Porte-greffe"
+
+    # Forage seeds
+    if re.search(r"FOURAG|FOURRAG|LUZERNE|RHODES GRASS|SORGHUM SUDAN", u):
+        return "Semence fourragère"
+
+    # Hybrid seeds (check before standard — "Semences hybrides" must not match "Semence standard")
+    if re.search(r"HYBRIDE|HYBRID|HYBR|\bF1\b", u):
+        return "Semence hybride"
+
+    # Standard seeds
+    if re.search(r"SEMENCE|SEMENCES|SEMANCE|بذور", u):
+        return "Semence standard"
+
+    return "Autre"
