@@ -4,6 +4,7 @@ import SiteHeader from '../../components/shared/SiteHeader.astro';
 import SiteFooter from '../../components/shared/SiteFooter.astro';
 import { SectionHeader } from '../../components/shared/SectionHeader';
 import { HorizontalBarChart } from '../../components/charts/HorizontalBarChart';
+import { WorldMap } from '../../components/charts/WorldMap';
 import { DataExplorer } from '../../components/explorer/DataExplorer';
 import { t, getTranslations } from '../../lib/i18n';
 import { countryName } from '../../lib/countries';
@@ -46,6 +47,28 @@ const countryData: { label: string; count: number }[] = Object.entries(isoCounts
 
 const seedMatData = Object.entries(
   (insights.dependency.seed_material_breakdown as Record<string, number>) ?? {}
+)
+  .filter(([, count]) => count > 0)
+  .map(([label, count]) => ({ label, count }))
+  .sort((a, b) => b.count - a.count);
+
+// World map: combine plant + seed origins from insights
+const worldMapData = [
+  ...(insights.dependency.top_plant_countries as {key: string; count: number}[]),
+  ...(insights.dependency.top_seed_countries as {key: string; count: number}[]),
+].reduce((acc, { key: iso, count }) => {
+  acc[iso] = (acc[iso] ?? 0) + count;
+  return acc;
+}, {} as Record<string, number>);
+
+const worldMapChartData = Object.entries(worldMapData)
+  .filter(([iso]) => iso !== 'XX')
+  .map(([iso, count]) => ({ iso, count, label: countryName(iso, lang) }))
+  .sort((a, b) => b.count - a.count);
+
+// Plant category breakdown
+const plantCatData = Object.entries(
+  (insights.dependency.plant_category_breakdown as Record<string, number>) ?? {}
 )
   .filter(([, count]) => count > 0)
   .map(([label, count]) => ({ label, count }))
@@ -129,17 +152,30 @@ const explorerI18n = {
       />
     </section>
 
-    {seedMatData.length > 0 && (
-      <section class="mb-14">
-        <HorizontalBarChart
-          data={seedMatData}
-          colorByLabel={false}
-          title="Imported seed material types"
-          isRtl={false}
-          client:visible
-        />
-      </section>
-    )}
+    <section class="mb-10">
+      <WorldMap
+        data={worldMapChartData}
+        title="Import sources map: seeds and plants"
+        client:visible
+      />
+    </section>
+
+    <div class="grid md:grid-cols-2 gap-8 mb-14">
+      <HorizontalBarChart
+        data={plantCatData}
+        colorByLabel={true}
+        title="Plant product categories"
+        isRtl={false}
+        client:visible
+      />
+      <HorizontalBarChart
+        data={seedMatData}
+        colorByLabel={false}
+        title="Seed material types"
+        isRtl={false}
+        client:visible
+      />
+    </div>
 
     <h2 class="font-display font-bold text-display-sm text-ink mb-6">
       {t(lang, 'chapters.explore')}
