@@ -8,6 +8,7 @@ import { WorldMap } from '../components/charts/WorldMap';
 import { DataExplorer } from '../components/explorer/DataExplorer';
 import { t, getTranslations } from '../lib/i18n';
 import { countryName } from '../lib/countries';
+import { PLANT_CATEGORY_LABELS, SEED_MATERIAL_LABELS } from '../lib/categoryColors';
 import ChapterNav from '../components/shared/ChapterNav.astro';
 import InsightCallout from '../components/shared/InsightCallout.astro';
 import {
@@ -51,7 +52,10 @@ const seedMatData = Object.entries(
   (insights.dependency.seed_material_breakdown as Record<string, number>) ?? {}
 )
   .filter(([, count]) => count > 0)
-  .map(([label, count]) => ({ label, count }))
+  .map(([frKey, count]) => ({
+    label: SEED_MATERIAL_LABELS[frKey]?.[lang] ?? frKey,
+    count,
+  }))
   .sort((a, b) => b.count - a.count);
 
 // World map: combine plant + seed origins from insights
@@ -73,7 +77,10 @@ const plantCatData = Object.entries(
   (insights.dependency.plant_category_breakdown as Record<string, number>) ?? {}
 )
   .filter(([, count]) => count > 0)
-  .map(([label, count]) => ({ label, count }))
+  .map(([frKey, count]) => ({
+    label: PLANT_CATEGORY_LABELS[frKey]?.[lang] ?? frKey,
+    count,
+  }))
   .sort((a, b) => b.count - a.count);
 
 const explorerRows = plantProducts.map((r) => ({
