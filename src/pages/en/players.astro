@@ -9,6 +9,7 @@ import { t, getTranslations } from '../../lib/i18n';
 import ChapterNav from '../../components/shared/ChapterNav.astro';
 import InsightCallout from '../../components/shared/InsightCallout.astro';
 import { loadCompanyStats } from '../../lib/data';
+import { SECTOR_LABELS } from '../../lib/normalize';
 import type { Lang } from '../../lib/types';
 import insightsJson from '../../../data/insights.json';
 const insights = insightsJson as any;
@@ -36,7 +37,7 @@ const top10Pct = Math.round((top10Licenses / totalLicenses) * 100);
 const explorerRows = companies.map((c) => ({
   company:    c.name,
   company_ar: c.nameAr || '—',
-  sectors:    c.sectors.join(' · '),
+  sectors:    c.sectors.map(s => SECTOR_LABELS[s]?.[lang] ?? s).join(' · '),
   licenses:   String(c.totalLicenses),
 }));
 

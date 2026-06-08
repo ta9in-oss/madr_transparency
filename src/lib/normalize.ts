@@ -265,6 +265,19 @@ export function normalizeSeedMaterial(raw: string | undefined | null): string {
   return 'Autre';
 }
 
+// ─── Sector labels ───────────────────────────────────────────────────────────
+
+export const SECTOR_LABELS: Record<string, { ar: string; fr: string; en: string }> = {
+  'agrochemicals': { ar: 'مبيدات زراعية',          fr: 'Produits phytosanitaires',       en: 'Agrochemicals' },
+  'plants':        { ar: 'منتجات نباتية',           fr: 'Produits végétaux',              en: 'Plant products' },
+  'seedlings':     { ar: 'شتلات',                   fr: 'Plants',                         en: 'Seedlings' },
+  'seeds':         { ar: 'بذور',                    fr: 'Semences',                       en: 'Seeds' },
+  'potato-seeds':  { ar: 'بذور البطاطس',            fr: 'Semences de pomme de terre',     en: 'Potato seeds' },
+  'vet-auths':     { ar: 'تراخيص بيطرية',           fr: 'Autorisations vétérinaires',     en: 'Vet authorizations' },
+  'vet-dist':      { ar: 'موزعون بيطريون',           fr: 'Distributeurs vétérinaires',     en: 'Vet distributors' },
+  'vet-imp':       { ar: 'مستوردو أدوية بيطرية',    fr: 'Importateurs de médicaments',    en: 'Medicine importers' },
+};
+
 // ─── Company aggregation ──────────────────────────────────────────────────────
 
 export interface CompanyStat {

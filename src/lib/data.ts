@@ -188,14 +188,14 @@ export function loadVetMedicineImporters(): VetMedicineImporter[] {
 
 export function loadCompanyStats() {
   const rows = [
-    ...loadAgrochemicals().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'مبيدات' })),
-    ...loadPlantProducts().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'نباتات' })),
-    ...loadSeedlings().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'شتلات' })),
-    ...loadSeeds().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'بذور' })),
-    ...loadPotatoSeeds().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'بطاطا' })),
-    ...loadVetAuthorizations().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'تراخيص بيطرية' })),
-    ...loadVetDistributors().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'موزعون بيطريون' })),
-    ...loadVetMedicineImporters().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'مستوردو أدوية' })),
+    ...loadAgrochemicals().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'agrochemicals' })),
+    ...loadPlantProducts().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'plants' })),
+    ...loadSeedlings().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'seedlings' })),
+    ...loadSeeds().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'seeds' })),
+    ...loadPotatoSeeds().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'potato-seeds' })),
+    ...loadVetAuthorizations().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'vet-auths' })),
+    ...loadVetDistributors().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'vet-dist' })),
+    ...loadVetMedicineImporters().map((r) => ({ company: r.company, companyNameAr: r.companyNameAr, sector: 'vet-imp' })),
   ];
   return aggregateByCompany(rows);
 }

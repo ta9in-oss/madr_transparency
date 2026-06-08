@@ -83,6 +83,18 @@ const explorerRows = distributors.map(r => ({
   address: r.address,
 }));
 
+const authExplorerRows = auths.map(r => ({
+  company:  r.companyNameAr || r.company,
+  auth_num: r.authorizationNumber,
+  type:     r.productTypeLabel?.[lang] ?? r.productType,
+}));
+
+const authExplorerColumns = [
+  { key: 'company',  label: 'الشركة' },
+  { key: 'auth_num', label: 'رقم الترخيص', mono: true },
+  { key: 'type',     label: 'نوع المنتج',  mono: true },
+];
+
 const explorerColumns = [
   { key: 'company', label: 'الشركة' },
   { key: 'wilaya',  label: 'الولاية', mono: true },
@@ -187,6 +199,18 @@ const explorerI18n = {
       columns={explorerColumns}
       searchKeys={['company', 'wilaya', 'address']}
       filterKey="wilaya"
+      i18n={explorerI18n}
+      client:visible
+    />
+
+    <h2 class="font-display font-bold text-display-sm text-ink mt-14 mb-6">
+      مستكشف التراخيص البيطرية
+    </h2>
+    <DataExplorer
+      rows={authExplorerRows}
+      columns={authExplorerColumns}
+      searchKeys={['company', 'auth_num']}
+      filterKey="type"
       i18n={explorerI18n}
       client:visible
     />
