@@ -34,6 +34,7 @@ for (const r of records) {
   isoCounts[iso] = (isoCounts[iso] ?? 0) + 1;
 }
 const countryChartData = Object.entries(isoCounts)
+  .filter(([iso]) => iso !== 'XX')
   .map(([iso, count]) => ({ label: countryName(iso, lang), count }))
   .sort((a, b) => b.count - a.count)
   .slice(0, 12);

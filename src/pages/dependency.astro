@@ -6,7 +6,7 @@ import { SectionHeader } from '../components/shared/SectionHeader';
 import { HorizontalBarChart } from '../components/charts/HorizontalBarChart';
 import { DataExplorer } from '../components/explorer/DataExplorer';
 import { t, getTranslations } from '../lib/i18n';
-import { countryToIso, countryName } from '../lib/countries';
+import { countryName } from '../lib/countries';
 import ChapterNav from '../components/shared/ChapterNav.astro';
 import InsightCallout from '../components/shared/InsightCallout.astro';
 import {
@@ -32,14 +32,14 @@ const allRecords = [...plantProducts, ...seedlings, ...seeds, ...potatoSeeds];
 
 const isoCounts: Record<string, number> = {};
 for (const r of allRecords) {
-  const parts = r.countryOfOrigin.split(/[,\-\/]/).map((s) => s.trim()).filter(Boolean);
-  for (const p of parts) {
-    const iso = countryToIso(p);
+  const iso = r.countryOfOrigin || 'XX';
+  if (iso !== 'XX') {
     isoCounts[iso] = (isoCounts[iso] ?? 0) + 1;
   }
 }
 
 const countryData: { label: string; count: number }[] = Object.entries(isoCounts)
+  .filter(([iso]) => iso !== 'XX')
   .map(([iso, count]) => ({ label: countryName(iso, lang), count }))
   .sort((a, b) => b.count - a.count)
   .slice(0, 15);
