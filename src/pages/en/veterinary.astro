@@ -73,7 +73,12 @@ const typeChartData = Object.entries(typeCounts)
 
 const explorerRows = distributors.map(r => ({
   company: r.companyNameAr || r.company,
-  wilaya:  r.wilaya,
+  wilaya:  (() => {
+    if (!r.wilaya) return r.wilaya;
+    const w = normalizeWilaya(r.wilaya);
+    const code = wilayaCodeFromName(w);
+    return code ? (WILAYA_BY_CODE[code]?.[lang] ?? r.wilaya) : r.wilaya;
+  })(),
   number:  r.number,
   address: r.address,
 }));

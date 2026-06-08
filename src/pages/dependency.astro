@@ -87,9 +87,23 @@ const explorerRows = plantProducts.map((r) => ({
   company:  r.companyNameAr || r.company,
   product:  r.knownName,
   variety:  r.variety,
-  category: r.category,
+  category: PLANT_CATEGORY_LABELS[r.category]?.[lang] ?? r.category,
   origin:   countryName(r.countryOfOrigin, lang),
 }));
+
+const seedExplorerRows = [...seeds, ...seedlings, ...potatoSeeds].map((r) => ({
+  company:  (r as any).companyNameAr || r.company,
+  variety:  r.variety,
+  material: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? ((r as any).materialType ?? ''),
+  origin:   countryName(r.countryOfOrigin, lang),
+}));
+
+const seedExplorerColumns = [
+  { key: 'company',  label: 'الشركة' },
+  { key: 'variety',  label: 'الصنف',       mono: true },
+  { key: 'material', label: 'نوع المادة',  mono: true },
+  { key: 'origin',   label: 'المنشأ',      mono: true },
+];
 
 const explorerColumns = [
   { key: 'company',  label: 'الشركة'  },
@@ -195,6 +209,18 @@ const explorerI18n = {
       columns={explorerColumns}
       searchKeys={['company', 'product', 'variety', 'origin']}
       filterKey="category"
+      i18n={explorerI18n}
+      client:visible
+    />
+
+    <h2 class="font-display font-bold text-display-sm text-ink mt-14 mb-6">
+      مستكشف البذور والشتلات
+    </h2>
+    <DataExplorer
+      rows={seedExplorerRows}
+      columns={seedExplorerColumns}
+      searchKeys={['company', 'variety']}
+      filterKey="material"
       i18n={explorerI18n}
       client:visible
     />
