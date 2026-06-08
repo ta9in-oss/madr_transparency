@@ -89,7 +89,7 @@ const explorerI18n = {
     <InsightCallout
       stat={insights.chemicals.total.toLocaleString()}
       label="produits chimiques autorisés à l'importation"
-      context="L'Espagne seule représente plus de 900 produits. La Chine est 3e. Tout cela est épandu sur les terres agricoles algériennes."
+      context={`L'Espagne seule représente ${insights.chemicals.spain_count.toLocaleString('fr-FR')} produits. La Chine est 3e (${insights.chemicals.china_count.toLocaleString('fr-FR')}). Tout cela est épandu sur les terres agricoles algériennes.`}
       accent={true}
     />
 

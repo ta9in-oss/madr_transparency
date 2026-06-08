@@ -92,7 +92,7 @@ const explorerI18n = {
     <InsightCallout
       stat={insights.chemicals.total.toLocaleString()}
       label="مادة كيميائية مرخصة للدخول"
-      context="إسبانيا وحدها مصدر أكثر من 900 منتج. والصين في المرتبة الثالثة. كل هذا يُرش على الأراضي الزراعية الجزائرية."
+      context={`إسبانيا وحدها مصدر ${insights.chemicals.spain_count.toLocaleString()} منتج. والصين في المرتبة الثالثة (${insights.chemicals.china_count.toLocaleString()}). كل هذا يُرش على الأراضي الزراعية الجزائرية.`}
       accent={true}
     />
 

@@ -89,7 +89,7 @@ const explorerI18n = {
     <InsightCallout
       stat={insights.chemicals.total.toLocaleString()}
       label="chemical products licensed for import"
-      context="Spain alone accounts for 900+ products. China is 3rd. All of this is sprayed on Algerian farmland."
+      context={`Spain alone accounts for ${insights.chemicals.spain_count.toLocaleString('en-GB')} products. China is 3rd (${insights.chemicals.china_count.toLocaleString('en-GB')}). All of this is sprayed on Algerian farmland.`}
       accent={true}
     />
 
