@@ -74,15 +74,26 @@ export function HorizontalBarChart({
     [sorted, innerHeight]
   );
 
+  const xMax = useMemo(() => Math.max(...sorted.map((d) => d.count), 1), [sorted]);
+
   const xScale = useMemo(
     () =>
       scaleLinear<number>({
-        domain: [0, Math.max(...sorted.map((d) => d.count))],
+        domain: [0, xMax],
         range: [0, innerWidth],
         nice: true,
       }),
-    [sorted, innerWidth]
+    [xMax, innerWidth]
   );
+
+  // Force integer-only ticks — avoids 0.5, 1.5 on small counts
+  const xTickValues = useMemo(() => {
+    const nicedMax = xScale.domain()[1];
+    const step = Math.max(1, Math.ceil(nicedMax / 5));
+    const ticks: number[] = [];
+    for (let v = 0; v <= nicedMax; v += step) ticks.push(v);
+    return ticks;
+  }, [xScale]);
 
   if (containerWidth === 0) {
     return <div ref={containerRef} className="w-full" style={{ minHeight: 40 }} />;
@@ -158,7 +169,7 @@ export function HorizontalBarChart({
           <AxisBottom
             top={innerHeight}
             scale={xScale}
-            numTicks={5}
+            tickValues={xTickValues}
             stroke="#e5e4e0"
             tickStroke="#e5e4e0"
             tickLabelProps={{

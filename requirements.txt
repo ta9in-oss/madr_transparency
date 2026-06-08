@@ -3,3 +3,5 @@ beautifulsoup4==4.12.3
 lxml==5.1.0
 pytest==8.1.0
 responses==0.25.0
+pycountry==26.2.16
+groq==1.4.0
