@@ -169,7 +169,12 @@
         "key": "SARL AGROSEMILLAS",
         "count": 57
       }
-    ]
+    ],
+    "narrative": {
+      "fr": "Les statistiques d'importation agricole révèlent une dominance écrasante des bananes, avec une part de 99,8% du total des fruits importés. Cette dépendance à l'égard de quelques pays pour les semences, tels que la Chine, les États-Unis et l'Inde, ainsi que les risques liés aux approvisionnements multi-sources, soulignent la nécessité d'une diversification de nos importations agricoles.",
+      "ar": "تظهر الإحصائيات التجارية الزراعية هيمنة قوية للموز، حيث تشكل نسبة 99.8% من إجمالي الفواكه المستوردة. وتبرز هذه الإحصائيات أيضًا اعتمادنا على بعض البلدان لاستيراد البذور، مثل الصين والولايات المتحدة والهند، بالإضافة إلى المخاطر المرتبطة بالتوريدات متعددة المصادر، مما يؤكد ضرورة تنويع وارداتنا الزراعية.",
+      "en": "Agricultural import statistics reveal a staggering dominance of bananas, accounting for 99.8% of total fruit imports. This dependency on a few countries for seeds, such as China, the US, and India, as well as the risks associated with multi-origin supplies, highlights the need for diversification of our agricultural imports."
+    }
   },
   "chemicals": {
     "total": 5058,
@@ -338,7 +343,12 @@
     "hhi_companies": 0.0217,
     "spain_count": 1047,
     "italy_count": 909,
-    "china_count": 609
+    "china_count": 609,
+    "narrative": {
+      "fr": "L'Algérie importe désormais plus de 5058 produits agrochimiques, avec l'Espagne en tête des fournisseurs, suivie de près par la Chine qui monte en puissance. Cette concentration du marché entre les mains de quelques pays et entreprises, dont PROFERT SPA et SARL CASAP, soulève des questions sur la diversification et la sécurité de l'approvisionnement algérien.",
+      "ar": "تستورد الجزائر الآن أكثر من 5058 منتجا كيميائيا زراعيا، مع إسبانيا في صدارة الموردين، يليها الصين التي تكتسب قوة. تركز هذا السوق بين أيدي بعض البلدان والشركات، بما في ذلك PROFERT SPA وSARL CASAP، يثير أسئلة حول التنويع وأمن الإمدادات الجزائرية.",
+      "en": "Algeria now imports over 5058 agrochemical products, with Spain leading the suppliers, closely followed by China which is gaining strength. This market concentration in the hands of a few countries and companies, including PROFERT SPA and SARL CASAP, raises questions about diversification and security of Algeria's supply."
+    }
   },
   "players": {
     "total_permits": 9532,
@@ -426,7 +436,12 @@
         "count": 119
       }
     ],
-    "hhi_index": 0.0112
+    "hhi_index": 0.0112,
+    "narrative": {
+      "fr": "Les dix premières entreprises détiennent 23,7% des permis, ce qui indique un niveau de concentration élevé du marché. L'indice de Herfindahl-Hirschman (HHI) de 0,0112 confirme ce constat, suggérant que le marché est caractérisé par une concentration modérée.",
+      "ar": "تملك الشركات العشر الأولى 23.7% من التصاريح، مما يشير إلى مستوى عال من تركيز السوق. يؤكد دليل هيرفندال-هيرشمان (HHI) البالغ 0.0112 على هذا الاستنتاج، مما يشير إلى أن السوق يتميز بتركيز معتدل.",
+      "en": "The top ten companies hold 23.7% of the permits, indicating a high level of market concentration. The Herfindahl-Hirschman Index (HHI) of 0.0112 confirms this finding, suggesting that the market is characterized by moderate concentration."
+    }
   },
   "veterinary": {
     "auth_count": 161,
@@ -550,7 +565,12 @@
         "ar": "منتج للاستخدام البيطري التشخيصي",
         "en": "Veterinary diagnostic product"
       }
+    },
+    "narrative": {
+      "fr": "Les statistiques du secteur vétérinaire révèlent un manque criant de distributeurs dans 19 wilayas, notamment dans le sud de l'Algérie, où les besoins en produits vétérinaires sont importants. Il est essentiel de combler ce fossé pour assurer une couverture sanitaire équitable sur l'ensemble du territoire national.",
+      "ar": "تظهر الإحصائيات الخاصة بقطاع البيطرة وجود فراغ في تغطية الموزعين في 19 ولاية، لا سيما في جنوب الجزائر، حيث توجد احتياجات كبيرة للمنتجات البيطرية. من الضروري سد هذا الفج لتأمين تغطية صحية عادلة في جميع أنحاء التراب الوطني.",
+      "en": "The veterinary sector statistics reveal a glaring lack of distributors in 19 wilayas, particularly in southern Algeria, where the need for veterinary products is significant. It is crucial to bridge this gap to ensure equitable health coverage across the country."
     }
   },
-  "generated_at": "2026-06-08T11:42:11.111302+00:00"
+  "generated_at": "2026-06-08T16:23:35.141322+00:00"
 }
