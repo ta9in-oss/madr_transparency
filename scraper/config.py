@@ -2,6 +2,7 @@ from pathlib import Path
 
 BASE_URL = "https://madr.gov.dz/transparency"
 DATA_DIR = Path(__file__).parent.parent / "data"
+RAW_DATA_DIR = DATA_DIR / "raw"
 REQUEST_DELAY_SECONDS = 1.5
 REQUEST_TIMEOUT_SECONDS = 30
 MAX_RETRIES = 3

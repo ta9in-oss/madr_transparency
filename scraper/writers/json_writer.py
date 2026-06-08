@@ -1,11 +1,11 @@
 import json
 import dataclasses
 from pathlib import Path
-from scraper.config import DATA_DIR
+from scraper.config import RAW_DATA_DIR
 
 
 class JsonWriter:
-    def __init__(self, output_dir: Path = DATA_DIR):
+    def __init__(self, output_dir: Path = RAW_DATA_DIR):
         self._output_dir = output_dir
         self._output_dir.mkdir(parents=True, exist_ok=True)
 
