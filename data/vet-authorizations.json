@@ -4,1126 +4,1931 @@
     "authorization_number": 1,
     "company": "SARL GROUPE SALAM AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "4415517",
     "authorization_number": 2,
     "company": "EURL MASS AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501161",
     "authorization_number": 2,
     "company": "EURL MASS AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150168",
     "authorization_number": 3,
     "company": "SARL MESSANI AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150323",
     "authorization_number": 4,
     "company": "SARL OUED EL BAGRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "19151542",
     "authorization_number": 5,
     "company": "SARL EL MOUSTAFA LIDAWADJIN",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "35152048",
     "authorization_number": 5,
     "company": "SARL EL MOUSTAFA LIDAWADJIN",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151200",
     "authorization_number": 6,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152156",
     "authorization_number": 6,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "5153746",
     "authorization_number": 7,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151191",
     "authorization_number": 8,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151192",
     "authorization_number": 8,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2150030",
     "authorization_number": 9,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150321",
     "authorization_number": 10,
     "company": "EURL PROMAVIC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150454",
     "authorization_number": 11,
     "company": "SARL OVOTEL",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150294",
     "authorization_number": 12,
     "company": "SARL HUBBAR ALGERIE",
     "company_name_ar": "",
-    "product_type": "PRCGP"
+    "product_type": "PRCGP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation (grande production)",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي (إنتاج كبير)",
+      "en": "Veterinary consumption product (large-scale production)"
+    }
   },
   {
     "agreement_number": "291501167",
     "authorization_number": 13,
     "company": "SARL MASS AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501169",
     "authorization_number": 13,
     "company": "SARL MASS AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "19151665",
     "authorization_number": 14,
     "company": "SARL MUSTAPHA LIDAOUADJINE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "34150625",
     "authorization_number": 15,
     "company": "SARL SIDRA BOVINE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29150001",
     "authorization_number": 16,
     "company": "SARL ORAVIO MOSTAGANEM",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152162",
     "authorization_number": 17,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "101500723",
     "authorization_number": 17,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "101504489",
     "authorization_number": 18,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501166",
     "authorization_number": 18,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501165",
     "authorization_number": 18,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815926",
     "authorization_number": 18,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501164",
     "authorization_number": 18,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "101500520",
     "authorization_number": 19,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501210",
     "authorization_number": 19,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2915011887",
     "authorization_number": 19,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "48150375",
     "authorization_number": 20,
     "company": "SARL FIDAVIK",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "1315368",
     "authorization_number": 21,
     "company": "SARL ARBOR ACRES",
     "company_name_ar": "",
-    "product_type": "OACRCGP"
+    "product_type": "OACRCGP",
+    "product_type_label": {
+      "fr": "Organisme autorisé de contrôle et de production (grande production)",
+      "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+      "en": "Authorized control and production organization (large-scale)"
+    }
   },
   {
     "agreement_number": "29150001",
     "authorization_number": 22,
     "company": "ORAVIE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "0815147",
     "authorization_number": 23,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "0815145",
     "authorization_number": 23,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "09150557",
     "authorization_number": 24,
     "company": "SARL RURAL AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "09150570",
     "authorization_number": 24,
     "company": "SARL RURAL AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150255",
     "authorization_number": 25,
     "company": "SARL OUAR PLUS",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "09150516",
     "authorization_number": 26,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "1315380",
     "authorization_number": 27,
     "company": "SARL MUSTAPHA LIDAOUADJINE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501211",
     "authorization_number": 27,
     "company": "SARL MUSTAPHA LIDAOUADJINE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "14150414",
     "authorization_number": 28,
     "company": "SARL GHARBI MED",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815799",
     "authorization_number": 29,
     "company": "SARL COQ HODNA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150142",
     "authorization_number": 30,
     "company": "SARL BOUZIANI AVIC NUTRITION",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150276",
     "authorization_number": 31,
     "company": "AB AVICOLES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "16150520",
     "authorization_number": 31,
     "company": "AB AVICOLES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "1315369",
     "authorization_number": 32,
     "company": "SARL ARBORES ACRES",
     "company_name_ar": "",
-    "product_type": "PRCGP"
+    "product_type": "PRCGP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation (grande production)",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي (إنتاج كبير)",
+      "en": "Veterinary consumption product (large-scale production)"
+    }
   },
   {
     "agreement_number": "1315368",
     "authorization_number": 33,
     "company": "SARL ARBORES ACRES",
     "company_name_ar": "",
-    "product_type": "OACRCGP"
+    "product_type": "OACRCGP",
+    "product_type_label": {
+      "fr": "Organisme autorisé de contrôle et de production (grande production)",
+      "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+      "en": "Authorized control and production organization (large-scale)"
+    }
   },
   {
     "agreement_number": "29151120",
     "authorization_number": 34,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151117",
     "authorization_number": 35,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151110",
     "authorization_number": 35,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150243",
     "authorization_number": 36,
     "company": "SARL MAZRAATE LOUNIS",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2915010887",
     "authorization_number": 37,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "05150426",
     "authorization_number": 38,
     "company": "ORAVIE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "0715161",
     "authorization_number": 39,
     "company": "SARL GROUPE SALAM AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151117",
     "authorization_number": 40,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151096",
     "authorization_number": 40,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "1315368",
     "authorization_number": 41,
     "company": "SARL ARBOR ACRES",
     "company_name_ar": "",
-    "product_type": "OACRCGP"
+    "product_type": "OACRCGP",
+    "product_type_label": {
+      "fr": "Organisme autorisé de contrôle et de production (grande production)",
+      "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+      "en": "Authorized control and production organization (large-scale)"
+    }
   },
   {
     "agreement_number": "1315368",
     "authorization_number": 42,
     "company": "SARL ARBOR ACRES",
     "company_name_ar": "",
-    "product_type": "OACRCGP"
+    "product_type": "OACRCGP",
+    "product_type_label": {
+      "fr": "Organisme autorisé de contrôle et de production (grande production)",
+      "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+      "en": "Authorized control and production organization (large-scale)"
+    }
   },
   {
     "agreement_number": "291501216",
     "authorization_number": 43,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501214",
     "authorization_number": 43,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "05151077",
     "authorization_number": 43,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815740",
     "authorization_number": 43,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152098",
     "authorization_number": 44,
     "company": "SARL ROUICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "101500158",
     "authorization_number": 44,
     "company": "SARL ROUICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "101500159",
     "authorization_number": 44,
     "company": "SARL ROUICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152054",
     "authorization_number": 44,
     "company": "SARL ROUICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152198",
     "authorization_number": 45,
     "company": "SARL BOVISTAR",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43150600",
     "authorization_number": 45,
     "company": "SARL BOVISTAR",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43151031",
     "authorization_number": 45,
     "company": "SARL BOVISTAR",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152217",
     "authorization_number": 45,
     "company": "SARL BOVISTAR",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152186",
     "authorization_number": 45,
     "company": "SARL BOVISTAR",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150275",
     "authorization_number": 46,
     "company": "SARL AVINORD",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "35150366",
     "authorization_number": 47,
     "company": "ORAVIC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152313",
     "authorization_number": 48,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152312",
     "authorization_number": 48,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501220",
     "authorization_number": 48,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "101500666",
     "authorization_number": 48,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "06150841",
     "authorization_number": 48,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "05150208",
     "authorization_number": 49,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151108",
     "authorization_number": 50,
     "company": "SARL NOVA AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150429",
     "authorization_number": 51,
     "company": "CASSAP BLIDA COOPERATIVES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "09150516",
     "authorization_number": 52,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "4215172",
     "authorization_number": 52,
     "company": "SARL MOUDJAMAA EL MASSALIH EL FILAHIA EL MOUCHTARAKA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815927",
     "authorization_number": 53,
     "company": "SARL COQ EL KALAA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815422",
     "authorization_number": 53,
     "company": "SARL COQ EL KALAA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815941",
     "authorization_number": 53,
     "company": "SARL COQ EL KALAA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "14150416",
     "authorization_number": 54,
     "company": "SARL DJIDJI DJILALI",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150321",
     "authorization_number": 55,
     "company": "SARL PROMAVIC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150480",
     "authorization_number": 56,
     "company": "SARL AVIBEL",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "2815927",
     "authorization_number": 57,
     "company": "SARL COQ EL KALAA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815422",
     "authorization_number": 57,
     "company": "SARL COQ EL KALAA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815941",
     "authorization_number": 57,
     "company": "SARL COQ EL KALAA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152313",
     "authorization_number": 58,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152312",
     "authorization_number": 58,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "291501220",
     "authorization_number": 58,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "101500666",
     "authorization_number": 58,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "29151233",
     "authorization_number": 58,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150323",
     "authorization_number": 59,
     "company": "SARL OUED EL BAGRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43150632",
     "authorization_number": 60,
     "company": "SARL SERAVIC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150324",
     "authorization_number": 60,
     "company": "SARL SERAVIC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "06151065",
     "authorization_number": 60,
     "company": "SARL SERAVIC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "14150002",
     "authorization_number": 61,
     "company": "ORAVIO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "27150226",
     "authorization_number": 62,
     "company": "SARL MOULIN ACHOUAK ET FRERES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152174",
     "authorization_number": 63,
     "company": "SARL MILAVITA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152173",
     "authorization_number": 63,
     "company": "SARL MILAVITA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152172",
     "authorization_number": 63,
     "company": "SARL MILAVITA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "43152171",
     "authorization_number": 63,
     "company": "SARL MILAVITA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815920",
     "authorization_number": 64,
     "company": "SARL KOQ HODNA",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "29150265",
     "authorization_number": 65,
     "company": "SARL FAB BENSAID",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815920",
     "authorization_number": 66,
     "company": "SARL KOQ HODNA",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "2815920",
     "authorization_number": 67,
     "company": "SARL KOQ HODNA",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "29150371",
     "authorization_number": 68,
     "company": "SARL OUAR PLUS",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "25150363",
     "authorization_number": 69,
     "company": "SARL WASSIM AGROVET",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "25150364",
     "authorization_number": 69,
     "company": "SARL WASSIM AGROVET",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150276",
     "authorization_number": 70,
     "company": "SARL AB AVICOLES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150272",
     "authorization_number": 70,
     "company": "SARL AB AVICOLES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "16150520",
     "authorization_number": 70,
     "company": "SARL AB AVICOLES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815647",
     "authorization_number": 71,
     "company": "SARL COQ EL HAMADEINNE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "2815648",
     "authorization_number": 71,
     "company": "SARL COQ EL HAMADEINNE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "0715161",
     "authorization_number": 72,
     "company": "SARL GROUPE SALAM AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "17150168",
     "authorization_number": 73,
     "company": "SARL MESSANI AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "1315356",
     "authorization_number": 74,
     "company": "SARL ARBORE ACRES",
     "company_name_ar": "",
-    "product_type": "PRCGP"
+    "product_type": "PRCGP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation (grande production)",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي (إنتاج كبير)",
+      "en": "Veterinary consumption product (large-scale production)"
+    }
   },
   {
     "agreement_number": "1315368",
     "authorization_number": 75,
     "company": "SARL ARBORE ACRES",
     "company_name_ar": "",
-    "product_type": "OACRCGP"
+    "product_type": "OACRCGP",
+    "product_type_label": {
+      "fr": "Organisme autorisé de contrôle et de production (grande production)",
+      "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+      "en": "Authorized control and production organization (large-scale)"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 76,
     "company": "SARL POULTRY SELMANI",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 77,
     "company": "SARL INTRANT ET SERVICES AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 78,
     "company": "SARL EL MOUSTAFA LIDAWADJIN",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 79,
     "company": "Eurl moudjamaa masalih filahya moucharabieh hamdouche",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 80,
     "company": "SARL VETAGRAIN",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 81,
     "company": "SARL JRGO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 82,
     "company": "eurl khider abdelkader aliments de bétails",
     "company_name_ar": "",
-    "product_type": "PRD"
+    "product_type": "PRD",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire diagnostique",
+      "ar": "منتج للاستخدام البيطري التشخيصي",
+      "en": "Veterinary diagnostic product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 83,
     "company": "ORAVI",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 84,
     "company": "EURL HUBBARD ALGERIE",
     "company_name_ar": "",
-    "product_type": "PRCGP"
+    "product_type": "PRCGP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation (grande production)",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي (إنتاج كبير)",
+      "en": "Veterinary consumption product (large-scale production)"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 85,
     "company": "DERRADJI ABDELGHANI",
     "company_name_ar": "",
-    "product_type": "PRD"
+    "product_type": "PRD",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire diagnostique",
+      "ar": "منتج للاستخدام البيطري التشخيصي",
+      "en": "Veterinary diagnostic product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 86,
     "company": "SARL VITAGRO",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 87,
     "company": "SARL HBAG",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 88,
     "company": "SARL OUAR PLUS",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 89,
     "company": "ORAVIO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 90,
     "company": "SARL ARBOR ACRES ALGERIE",
     "company_name_ar": "",
-    "product_type": "OACRCGP"
+    "product_type": "OACRCGP",
+    "product_type_label": {
+      "fr": "Organisme autorisé de contrôle et de production (grande production)",
+      "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+      "en": "Authorized control and production organization (large-scale)"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 91,
     "company": "SARL ARBOR ACRES ALGERIE",
     "company_name_ar": "",
-    "product_type": "OACRCGP"
+    "product_type": "OACRCGP",
+    "product_type_label": {
+      "fr": "Organisme autorisé de contrôle et de production (grande production)",
+      "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+      "en": "Authorized control and production organization (large-scale)"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 92,
     "company": "Cooperative agricole erakha et el izdihar",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 93,
     "company": "SARL INTRANT ET SERVICES AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 94,
     "company": "SARL EL YAZAN AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 95,
     "company": "SARL OUAR PLUS",
     "company_name_ar": "",
-    "product_type": "PRD"
+    "product_type": "PRD",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire diagnostique",
+      "ar": "منتج للاستخدام البيطري التشخيصي",
+      "en": "Veterinary diagnostic product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 96,
     "company": "SARL DIQUE EL FADJR",
     "company_name_ar": "",
-    "product_type": "PRD"
+    "product_type": "PRD",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire diagnostique",
+      "ar": "منتج للاستخدام البيطري التشخيصي",
+      "en": "Veterinary diagnostic product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 97,
     "company": "SARL EL YAZAN AVICOLE",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 98,
     "company": "EURL COQ HODHNA",
     "company_name_ar": "",
-    "product_type": "PRD"
+    "product_type": "PRD",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire diagnostique",
+      "ar": "منتج للاستخدام البيطري التشخيصي",
+      "en": "Veterinary diagnostic product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 99,
     "company": "SNC PAVOBE TAOUARGA BAKHLEL  ET FRERES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 100,
     "company": "SARL LALA KHADRA",
     "company_name_ar": "",
-    "product_type": ""
+    "product_type": "",
+    "product_type_label": {
+      "fr": "Autre",
+      "ar": "أخرى",
+      "en": "Other"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 101,
     "company": "SARL EL MOUSTAFA LIDAWADJIN",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 102,
     "company": "EURL AVIBEL",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 103,
     "company": "EURL MESS AGRO",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 104,
     "company": "HAFID BEN MERNIA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 105,
     "company": "ORAC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 106,
     "company": "ORAC",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 107,
     "company": "SARL OVOCHER",
     "company_name_ar": "",
-    "product_type": "PRP"
+    "product_type": "PRP",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de promotion",
+      "ar": "منتج للاستخدام البيطري الترقوي",
+      "en": "Veterinary promotional product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 108,
     "company": "SARL AB AVICOLES",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 109,
     "company": "SARL OUED EL BAGRA",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 110,
     "company": "ORAVI",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   },
   {
     "agreement_number": "",
     "authorization_number": 111,
     "company": "Cooperative agricole OUCHEFOUNE",
     "company_name_ar": "",
-    "product_type": "PRC"
+    "product_type": "PRC",
+    "product_type_label": {
+      "fr": "Produit à usage vétérinaire de consommation",
+      "ar": "منتج للاستخدام البيطري الاستهلاكي",
+      "en": "Veterinary consumption product"
+    }
   }
 ]

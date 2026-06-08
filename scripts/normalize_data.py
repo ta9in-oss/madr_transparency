@@ -24,6 +24,7 @@ from scraper.normalize import (
     normalize_plant_category,
     normalize_country,
     normalize_seed_material,
+    decode_vet_product_type,
     flush_groq_queue,
     _GROQ_QUEUE,
     _CACHE,
@@ -39,6 +40,7 @@ def normalize_file(
     use_chem_cat: bool = False,
     use_plant_cat: bool = False,
     use_material: bool = False,
+    use_vet_type: bool = False,
 ) -> tuple[set[str], set[str]]:
     """Normalize one file in-place. Returns (before_countries, after_countries)."""
     with open(path, encoding="utf-8") as f:
@@ -77,6 +79,9 @@ def normalize_file(
             row["material_type"] = normalize_seed_material(raw_mat)
             after_mats.add(row["material_type"])
 
+        if use_vet_type and "product_type" in row:
+            row["product_type_label"] = decode_vet_product_type(row.get("product_type"))
+
     with open(path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
 
@@ -92,20 +97,21 @@ def normalize_file(
     return before_countries, after_countries
 
 
-# (path, has_country, has_category, use_chem_cat, use_plant_cat, use_material)
+# (path, has_country, has_category, use_chem_cat, use_plant_cat, use_material, use_vet_type)
 FILES = [
-    (DATA_DIR / "agrochemicals.json",  True,  True,  True,  False, False),
-    (DATA_DIR / "plant-products.json", True,  True,  False, True,  False),
-    (DATA_DIR / "seeds.json",          True,  False, False, False, True),
-    (DATA_DIR / "seedlings.json",      True,  False, False, False, True),
-    (DATA_DIR / "potato-seeds.json",   True,  False, False, False, False),
+    (DATA_DIR / "agrochemicals.json",       True,  True,  True,  False, False, False),
+    (DATA_DIR / "plant-products.json",      True,  True,  False, True,  False, False),
+    (DATA_DIR / "seeds.json",               True,  False, False, False, True,  False),
+    (DATA_DIR / "seedlings.json",           True,  False, False, False, True,  False),
+    (DATA_DIR / "potato-seeds.json",        True,  False, False, False, False, False),
+    (DATA_DIR / "vet-authorizations.json",  True,  False, False, False, False, True),
 ]
 
 
 def run_pass(label: str) -> None:
     print(f"\n{label}")
-    for path, hc, hcat, chem, plant, mat in FILES:
-        normalize_file(path, hc, hcat, chem, plant, mat)
+    for path, hc, hcat, chem, plant, mat, vet in FILES:
+        normalize_file(path, hc, hcat, chem, plant, mat, vet)
 
 
 def main() -> None:

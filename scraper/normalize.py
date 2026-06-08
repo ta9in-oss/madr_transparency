@@ -498,3 +498,43 @@ def normalize_seed_material(raw: str | None) -> str:
         return "Semence standard"
 
     return "Autre"
+
+
+# ── Vet authorization product type decoding ───────────────────────────────────
+
+_VET_TYPE_LABELS: dict[str, dict[str, str]] = {
+    "PRC": {
+        "fr": "Produit à usage vétérinaire de consommation",
+        "ar": "منتج للاستخدام البيطري الاستهلاكي",
+        "en": "Veterinary consumption product",
+    },
+    "PRP": {
+        "fr": "Produit à usage vétérinaire de promotion",
+        "ar": "منتج للاستخدام البيطري الترقوي",
+        "en": "Veterinary promotional product",
+    },
+    "PRD": {
+        "fr": "Produit à usage vétérinaire diagnostique",
+        "ar": "منتج للاستخدام البيطري التشخيصي",
+        "en": "Veterinary diagnostic product",
+    },
+    "PRCGP": {
+        "fr": "Produit à usage vétérinaire de consommation (grande production)",
+        "ar": "منتج للاستخدام البيطري الاستهلاكي (إنتاج كبير)",
+        "en": "Veterinary consumption product (large-scale production)",
+    },
+    "OACRCGP": {
+        "fr": "Organisme autorisé de contrôle et de production (grande production)",
+        "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+        "en": "Authorized control and production organization (large-scale)",
+    },
+}
+
+_VET_OTHER: dict[str, str] = {"fr": "Autre", "ar": "أخرى", "en": "Other"}
+
+
+def decode_vet_product_type(code: str | None) -> dict[str, str]:
+    """Map opaque MADR vet authorization product_type code to multilingual labels."""
+    if not code:
+        return _VET_OTHER.copy()
+    return _VET_TYPE_LABELS.get(code.strip().upper(), _VET_OTHER.copy())

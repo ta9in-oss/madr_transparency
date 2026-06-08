@@ -1,6 +1,6 @@
 from pathlib import Path
 from scraper.config import DATA_DIR, RAW_DATA_DIR
-from scraper.normalize import normalize_country, normalize_seed_material
+from scraper.normalize import normalize_country, normalize_seed_material, decode_vet_product_type
 
 
 def test_raw_data_dir_is_data_raw():
@@ -66,3 +66,24 @@ def test_seed_material_plant():
 def test_seed_material_garbage_returns_autre():
     for raw in ['METALAXYL', 'test', 'VOIR ANNEXE', 'Abamectin 1.88%+Deltamethrin 4.48%']:
         assert normalize_seed_material(raw) == 'Autre', f"Failed for {raw!r}"
+
+
+def test_vet_product_type_prc():
+    result = decode_vet_product_type("PRC")
+    assert result["fr"] == "Produit à usage vétérinaire de consommation"
+    assert result["ar"] is not None
+    assert result["en"] is not None
+
+
+def test_vet_product_type_case_insensitive():
+    assert decode_vet_product_type("prc") == decode_vet_product_type("PRC")
+
+
+def test_vet_product_type_unknown():
+    result = decode_vet_product_type("UNKN")
+    assert result["fr"] == "Autre"
+
+
+def test_vet_product_type_none():
+    result = decode_vet_product_type(None)
+    assert result["fr"] == "Autre"
