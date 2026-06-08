@@ -12,6 +12,8 @@ import InsightCallout from '../components/shared/InsightCallout.astro';
 import { loadVetAuthorizations, loadVetDistributors, loadVetMedicineImporters } from '../lib/data';
 import { WILAYA_BY_CODE, wilayaCodeFromName } from '../data/wilaya-names';
 import type { Lang } from '../lib/types';
+import insightsJson from '../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'ar';
 const auths        = loadVetAuthorizations();
@@ -97,7 +99,7 @@ const explorerI18n = {
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
     <InsightCallout
-      stat="19"
+      stat={insights.veterinary.wilayas_absent.toLocaleString()}
       label="ولاية بدون موزّع بيطري"
       context="من أصل 58 ولاية جزائرية، 19 ولاية لا يوجد فيها أي موزع مرخص للأدوية البيطرية. الغرب والجنوب الكبير الأكثر تضرراً."
       accent={true}

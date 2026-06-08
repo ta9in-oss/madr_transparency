@@ -10,6 +10,8 @@ import ChapterNav from '../../components/shared/ChapterNav.astro';
 import InsightCallout from '../../components/shared/InsightCallout.astro';
 import { loadCompanyStats } from '../../lib/data';
 import type { Lang } from '../../lib/types';
+import insightsJson from '../../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'en';
 
@@ -64,9 +66,9 @@ const explorerI18n = {
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
     <InsightCallout
-      stat="448"
+      stat={insights.players.top_companies[0].count.toLocaleString()}
       label="licenses held by one company"
-      context="PROFERT SPA holds 448 licenses, ~5% of all agricultural import permits. The market is concentrated."
+      context={`PROFERT SPA holds ${insights.players.top_companies[0].count} licenses. The top 10 companies account for ${insights.players.top_10_share_pct}% of all permits. The market is concentrated.`}
       accent={true}
     />
 

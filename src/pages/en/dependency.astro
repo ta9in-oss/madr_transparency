@@ -16,6 +16,8 @@ import {
   loadPotatoSeeds,
 } from '../../lib/data';
 import type { Lang } from '../../lib/types';
+import insightsJson from '../../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'en';
 
@@ -79,7 +81,7 @@ const explorerI18n = {
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
     <InsightCallout
-      stat="3,958"
+      stat={insights.dependency.total_records.toLocaleString()}
       label="plant & seed import permits"
       context="China, America, India: Algeria imports the vast majority of its seeds from abroad."
       accent={true}

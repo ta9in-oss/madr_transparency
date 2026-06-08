@@ -16,6 +16,8 @@ import {
   loadPotatoSeeds,
 } from '../lib/data';
 import type { Lang } from '../lib/types';
+import insightsJson from '../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'ar';
 
@@ -79,7 +81,7 @@ const explorerI18n = {
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
     <InsightCallout
-      stat="3,958"
+      stat={insights.dependency.total_records.toLocaleString()}
       label="ترخيص استيراد للبذور والنباتات"
       context="هذا ما أعلنته الوزارة للعموم: رخص البذور والشتلات والنباتات والبطاطس المستوردة. المصادر: الصين وأمريكا والهند، مع القليل من الجوار المغاربي."
       accent={true}

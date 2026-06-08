@@ -12,6 +12,8 @@ import InsightCallout from '../components/shared/InsightCallout.astro';
 import { loadAgrochemicals } from '../lib/data';
 import { countryToIso, countryName, COUNTRY_INFO } from '../lib/countries';
 import type { Lang } from '../lib/types';
+import insightsJson from '../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'ar';
 
@@ -81,7 +83,7 @@ const explorerI18n = {
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
     <InsightCallout
-      stat="5,058"
+      stat={insights.chemicals.total.toLocaleString()}
       label="مادة كيميائية مرخصة للدخول"
       context="إسبانيا وحدها مصدر أكثر من 900 منتج. والصين في المرتبة الثالثة. كل هذا يُرش على الأراضي الزراعية الجزائرية."
       accent={true}
@@ -96,15 +98,15 @@ const explorerI18n = {
 
     <div class="grid sm:grid-cols-3 gap-4 mb-10">
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
-        <div class="font-mono text-forest font-bold text-2xl">1,047</div>
+        <div class="font-mono text-forest font-bold text-2xl">{insights.chemicals.spain_count.toLocaleString()}</div>
         <div class="text-xs text-muted font-body mt-1">منتج إسباني، المرتبة الأولى</div>
       </div>
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
-        <div class="font-mono text-forest font-bold text-2xl">909</div>
+        <div class="font-mono text-forest font-bold text-2xl">{insights.chemicals.italy_count.toLocaleString()}</div>
         <div class="text-xs text-muted font-body mt-1">منتج إيطالي، المرتبة الثانية</div>
       </div>
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
-        <div class="font-mono text-forest font-bold text-2xl">611</div>
+        <div class="font-mono text-forest font-bold text-2xl">{insights.chemicals.china_count.toLocaleString()}</div>
         <div class="text-xs text-muted font-body mt-1">منتج صيني، المرتبة الثالثة ومتزايد</div>
       </div>
     </div>

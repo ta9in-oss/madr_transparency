@@ -12,6 +12,8 @@ import InsightCallout from '../../components/shared/InsightCallout.astro';
 import { loadAgrochemicals } from '../../lib/data';
 import { countryToIso, countryName, COUNTRY_INFO } from '../../lib/countries';
 import type { Lang } from '../../lib/types';
+import insightsJson from '../../../data/insights.json';
+const insights = insightsJson as any;
 
 const lang: Lang = 'fr';
 
@@ -78,7 +80,7 @@ const explorerI18n = {
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-14 flex-1">
 
     <InsightCallout
-      stat="5 058"
+      stat={insights.chemicals.total.toLocaleString()}
       label="produits chimiques autorisés à l'importation"
       context="L'Espagne seule représente plus de 900 produits. La Chine est 3e. Tout cela est épandu sur les terres agricoles algériennes."
       accent={true}
@@ -93,15 +95,15 @@ const explorerI18n = {
 
     <div class="grid sm:grid-cols-3 gap-4 mb-10">
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
-        <div class="font-mono text-forest font-bold text-2xl">1 047</div>
+        <div class="font-mono text-forest font-bold text-2xl">{insights.chemicals.spain_count.toLocaleString()}</div>
         <div class="text-xs text-muted font-body mt-1">produits espagnols, 1er fournisseur</div>
       </div>
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
-        <div class="font-mono text-forest font-bold text-2xl">909</div>
+        <div class="font-mono text-forest font-bold text-2xl">{insights.chemicals.italy_count.toLocaleString()}</div>
         <div class="text-xs text-muted font-body mt-1">produits italiens, 2e fournisseur</div>
       </div>
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
-        <div class="font-mono text-forest font-bold text-2xl">611</div>
+        <div class="font-mono text-forest font-bold text-2xl">{insights.chemicals.china_count.toLocaleString()}</div>
         <div class="text-xs text-muted font-body mt-1">produits chinois, 3e et en hausse</div>
       </div>
     </div>
