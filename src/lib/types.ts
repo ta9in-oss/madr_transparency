@@ -55,6 +55,7 @@ export interface VetAuthorization {
   authorizationNumber: string;
   agreementNumber: string;
   productType: string;
+  productTypeLabel: { fr: string; ar: string; en: string };
 }
 
 export interface VetDistributor {

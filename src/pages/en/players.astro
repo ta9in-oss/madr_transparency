@@ -79,7 +79,7 @@ const explorerI18n = {
       client:visible
     />
 
-    <div class="grid sm:grid-cols-3 gap-4 mb-10">
+    <div class="grid sm:grid-cols-4 gap-4 mb-10">
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
         <div class="font-mono text-forest font-bold text-2xl">{uniqueCompanies.toLocaleString('en-US')}</div>
         <div class="text-xs text-muted font-body mt-1">unique companies</div>
@@ -91,6 +91,10 @@ const explorerI18n = {
       <div class="p-4 bg-surface border border-line rounded-lg text-center">
         <div class="font-mono text-forest font-bold text-2xl">{top1pctPct}%</div>
         <div class="text-xs text-muted font-body mt-1">of licenses for only {top1pct.length} company (1%)</div>
+      </div>
+      <div class="p-4 bg-surface border border-line rounded-lg text-center">
+        <div class="font-mono text-forest font-bold text-2xl">{insights.players.hhi_index.toFixed(4)}</div>
+        <div class="text-xs text-muted font-body mt-1">HHI index (market concentration)</div>
       </div>
     </div>
 

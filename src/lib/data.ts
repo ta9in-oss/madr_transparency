@@ -68,6 +68,7 @@ interface RawVetAuthorization {
   authorization_number: string;
   agreement_number: string;
   product_type: string;
+  product_type_label: { fr: string; ar: string; en: string };
 }
 
 interface RawVetDistributor {
@@ -162,6 +163,7 @@ export function loadVetAuthorizations(): VetAuthorization[] {
     authorizationNumber: r.authorization_number,
     agreementNumber: r.agreement_number,
     productType: r.product_type,
+    productTypeLabel: r.product_type_label ?? { fr: r.product_type, ar: r.product_type, en: r.product_type },
   }));
 }
 

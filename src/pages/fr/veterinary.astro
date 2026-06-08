@@ -56,12 +56,16 @@ const absentWilayas = Object.values(WILAYA_BY_CODE)
   .sort();
 
 const typeCounts: Record<string, number> = {};
+const typeLabelMap: Record<string, string> = {};
 for (const r of auths) {
-  const pt = r.productType || 'Autre';
-  typeCounts[pt] = (typeCounts[pt] ?? 0) + 1;
+  const code = r.productType || 'Autre';
+  typeCounts[code] = (typeCounts[code] ?? 0) + 1;
+  if (!typeLabelMap[code]) {
+    typeLabelMap[code] = r.productTypeLabel?.[lang] ?? code;
+  }
 }
 const typeChartData = Object.entries(typeCounts)
-  .map(([label, count]) => ({ label, count }))
+  .map(([code, count]) => ({ label: typeLabelMap[code] ?? code, count }))
   .sort((a, b) => b.count - a.count);
 
 const explorerRows = distributors.map(r => ({
