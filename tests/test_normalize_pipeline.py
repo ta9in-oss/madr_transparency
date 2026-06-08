@@ -87,3 +87,22 @@ def test_vet_product_type_unknown():
 def test_vet_product_type_none():
     result = decode_vet_product_type(None)
     assert result["fr"] == "Autre"
+
+
+import subprocess
+from pathlib import Path
+
+def test_compute_insights_produces_valid_json():
+    """compute_insights.py must run without error and produce valid insights.json"""
+    result = subprocess.run(
+        ["python", "scripts/compute_insights.py"],
+        capture_output=True, text=True, cwd="."
+    )
+    assert result.returncode == 0, f"Script failed:\n{result.stderr}"
+    insights_path = Path("data/insights.json")
+    assert insights_path.exists(), "data/insights.json was not created"
+    import json as _json
+    insights = _json.loads(insights_path.read_text())
+    for chapter in ("dependency", "chemicals", "players", "veterinary"):
+        assert chapter in insights, f"Missing chapter: {chapter}"
+    assert "generated_at" in insights

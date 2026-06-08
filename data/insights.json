@@ -1,0 +1,556 @@
+{
+  "dependency": {
+    "total_records": 3958,
+    "top_seed_countries": [
+      {
+        "key": "CN",
+        "count": 419
+      },
+      {
+        "key": "IT",
+        "count": 364
+      },
+      {
+        "key": "US",
+        "count": 297
+      },
+      {
+        "key": "IN",
+        "count": 277
+      },
+      {
+        "key": "TH",
+        "count": 258
+      },
+      {
+        "key": "TR",
+        "count": 197
+      },
+      {
+        "key": "FR",
+        "count": 170
+      },
+      {
+        "key": "PE",
+        "count": 133
+      },
+      {
+        "key": "JO",
+        "count": 116
+      },
+      {
+        "key": "NZ",
+        "count": 114
+      }
+    ],
+    "top_plant_countries": [
+      {
+        "key": "CR",
+        "count": 315
+      },
+      {
+        "key": "EC",
+        "count": 75
+      },
+      {
+        "key": "CO",
+        "count": 53
+      },
+      {
+        "key": "AR",
+        "count": 33
+      },
+      {
+        "key": "BR",
+        "count": 24
+      },
+      {
+        "key": "IT",
+        "count": 7
+      },
+      {
+        "key": "BE",
+        "count": 3
+      },
+      {
+        "key": "TR",
+        "count": 2
+      },
+      {
+        "key": "KE",
+        "count": 2
+      },
+      {
+        "key": "EG",
+        "count": 2
+      }
+    ],
+    "plant_category_breakdown": {
+      "Fruits": 446,
+      "Semences": 3,
+      "Autre": 137,
+      "Céréales": 53,
+      "Plants": 9,
+      "Fleurs": 2,
+      "Aliments bétail": 23
+    },
+    "seed_material_breakdown": {
+      "Semence standard": 2524,
+      "Semence hybride": 269,
+      "Autre": 38,
+      "Semence fourragère": 42,
+      "Porte-greffe": 56,
+      "Plant": 320,
+      "Tubercule": 1
+    },
+    "fruit_count": 446,
+    "banana_count": 445,
+    "banana_share_pct": 99.8,
+    "xx_count": 389,
+    "multi_origin_count": 151,
+    "top_companies": [
+      {
+        "key": "GOLDEN FIELD",
+        "count": 148
+      },
+      {
+        "key": "Eurl Agrivil",
+        "count": 148
+      },
+      {
+        "key": "SARL AGROMOSTA",
+        "count": 118
+      },
+      {
+        "key": "SARL IDEAL SOURCE IMPORT-EXPORT",
+        "count": 108
+      },
+      {
+        "key": "SARL CASAP",
+        "count": 97
+      },
+      {
+        "key": "PROFERT SPA",
+        "count": 96
+      },
+      {
+        "key": "SARL GREEN OASIS",
+        "count": 94
+      },
+      {
+        "key": "EURL CLAUSE MAGHREB",
+        "count": 87
+      },
+      {
+        "key": "SARL ACI SEEDS",
+        "count": 83
+      },
+      {
+        "key": "SARL AGRIMATCO",
+        "count": 82
+      },
+      {
+        "key": "SARL SRID GENETICS",
+        "count": 78
+      },
+      {
+        "key": "SARL LEADER SEED",
+        "count": 75
+      },
+      {
+        "key": "EURL AGRO FERTI MAG",
+        "count": 72
+      },
+      {
+        "key": "SARL AGRICHEM",
+        "count": 70
+      },
+      {
+        "key": "SARL AGROSEMILLAS",
+        "count": 57
+      }
+    ]
+  },
+  "chemicals": {
+    "total": 5058,
+    "top_countries": [
+      {
+        "key": "ES",
+        "count": 1047
+      },
+      {
+        "key": "IT",
+        "count": 909
+      },
+      {
+        "key": "CN",
+        "count": 609
+      },
+      {
+        "key": "JO",
+        "count": 498
+      },
+      {
+        "key": "TR",
+        "count": 393
+      },
+      {
+        "key": "DE",
+        "count": 332
+      },
+      {
+        "key": "PT",
+        "count": 259
+      },
+      {
+        "key": "SA",
+        "count": 185
+      },
+      {
+        "key": "GB",
+        "count": 124
+      },
+      {
+        "key": "IN",
+        "count": 116
+      }
+    ],
+    "category_breakdown": {
+      "Régulateur de croissance": 554,
+      "Correcteur de carence": 980,
+      "Fongicide": 860,
+      "Acaricide": 122,
+      "Insecticide": 631,
+      "Biostimulant": 757,
+      "Non classifié": 504,
+      "Engrais": 233,
+      "Nématicide": 49,
+      "Adjuvant": 41,
+      "Herbicide": 245,
+      "Molluscicide": 14,
+      "Insecticide / Acaricide": 53,
+      "Stimulateur SDN": 15
+    },
+    "top_companies": [
+      {
+        "key": "PROFERT SPA",
+        "count": 352
+      },
+      {
+        "key": "SARL CASAP",
+        "count": 200
+      },
+      {
+        "key": "Sarl Agro Consulting   International ACI",
+        "count": 193
+      },
+      {
+        "key": "SARL AGROVIPAL",
+        "count": 187
+      },
+      {
+        "key": "EURL ASTRACHEM SAOUDIA",
+        "count": 185
+      },
+      {
+        "key": "SARL SRID",
+        "count": 163
+      },
+      {
+        "key": "SARL DEVAGRI",
+        "count": 158
+      },
+      {
+        "key": "SARL SOMEDIA",
+        "count": 137
+      },
+      {
+        "key": "SPA EL FILLAHIA",
+        "count": 135
+      },
+      {
+        "key": "SARL BPI ENH DOUDAH",
+        "count": 134
+      },
+      {
+        "key": "SARL TIMAC AGRO ALGERIE",
+        "count": 119
+      },
+      {
+        "key": "SARL ISSERS EMBALLAGE",
+        "count": 108
+      },
+      {
+        "key": "GOLDEN FIELD",
+        "count": 103
+      },
+      {
+        "key": "SARL SOFT AGRICULTURE",
+        "count": 100
+      },
+      {
+        "key": "SARL AGRO RAYANE",
+        "count": 97
+      }
+    ],
+    "top_active_substances": [
+      {
+        "key": "N Total (6,77%) + N Organique (6,44%) + C Organique (27,6%) + Acides aminés totaux (36,1%) + Acides aminés libres (7,6%) + Matière organique (47,50%)",
+        "count": 29
+      },
+      {
+        "key": "CHELATE DE FER 6%",
+        "count": 28
+      },
+      {
+        "key": "Hymexazol",
+        "count": 17
+      },
+      {
+        "key": "CALCIUM (CaO) soluble dans l’eau (20%) + Matière organique total (12%)",
+        "count": 16
+      },
+      {
+        "key": "DIFENOCONAZOLE (250 G/L)",
+        "count": 15
+      },
+      {
+        "key": "Fer (Fe) total soluble dans l’eau (agent chélatant EDDHSA) (6%)",
+        "count": 15
+      },
+      {
+        "key": "ABAMECTINE  18 G/L EC",
+        "count": 14
+      },
+      {
+        "key": "PROPAMOCARB 530 G/L + FOSETYL ALUMINIUM 310 G/L",
+        "count": 14
+      },
+      {
+        "key": "Acides amines et peptides 69.8%",
+        "count": 14
+      },
+      {
+        "key": "Matière organique: 58,08%+ Acides humiques et fulviques totaux: 33,94%+ Acides fulviques: 21,63%+ Acides humiques: 12,31%+ N total: 5,65%+ K2O total: 4,04%+ Mg soluble dans l’eau: 0.81%+ Fe soluble dans l’eau: 0,37%+ Zn soluble dans l’eau: 0,28%.",
+        "count": 13
+      }
+    ],
+    "hhi_companies": 0.0217,
+    "spain_count": 1047,
+    "italy_count": 909,
+    "china_count": 609
+  },
+  "players": {
+    "total_permits": 9532,
+    "unique_companies": 1198,
+    "top_10_share_pct": 23.7,
+    "top_companies": [
+      {
+        "key": "PROFERT SPA",
+        "count": 448
+      },
+      {
+        "key": "SARL CASAP",
+        "count": 297
+      },
+      {
+        "key": "GOLDEN FIELD",
+        "count": 251
+      },
+      {
+        "key": "SARL AGROVIPAL",
+        "count": 199
+      },
+      {
+        "key": "EURL ASTRACHEM SAOUDIA",
+        "count": 194
+      },
+      {
+        "key": "Sarl Agro Consulting   International ACI",
+        "count": 193
+      },
+      {
+        "key": "SARL BPI ENH DOUDAH",
+        "count": 180
+      },
+      {
+        "key": "SARL ACI SEEDS",
+        "count": 169
+      },
+      {
+        "key": "SARL AGRICHEM",
+        "count": 165
+      },
+      {
+        "key": "SARL SRID",
+        "count": 163
+      },
+      {
+        "key": "SARL DEVAGRI",
+        "count": 163
+      },
+      {
+        "key": "SARL ISSERS EMBALLAGE",
+        "count": 159
+      },
+      {
+        "key": "SARL AGROMOSTA",
+        "count": 156
+      },
+      {
+        "key": "SARL AGROSEMILLAS",
+        "count": 149
+      },
+      {
+        "key": "Eurl Agrivil",
+        "count": 148
+      },
+      {
+        "key": "SARL SOMEDIA",
+        "count": 145
+      },
+      {
+        "key": "SARL LEADER SEED",
+        "count": 137
+      },
+      {
+        "key": "SPA EL FILLAHIA",
+        "count": 135
+      },
+      {
+        "key": "SARL IDEAL SOURCE IMPORT-EXPORT",
+        "count": 128
+      },
+      {
+        "key": "SARL TIMAC AGRO ALGERIE",
+        "count": 119
+      }
+    ],
+    "hhi_index": 0.0112
+  },
+  "veterinary": {
+    "auth_count": 161,
+    "distributor_count": 249,
+    "importer_count": 106,
+    "wilayas_covered": 39,
+    "wilayas_absent": 19,
+    "top_wilayas": [
+      {
+        "key": "Alger",
+        "count": 20
+      },
+      {
+        "key": "M’SILA",
+        "count": 20
+      },
+      {
+        "key": "Sétif",
+        "count": 20
+      },
+      {
+        "key": "BATNA",
+        "count": 18
+      },
+      {
+        "key": "Constantine",
+        "count": 17
+      },
+      {
+        "key": "BBA",
+        "count": 13
+      },
+      {
+        "key": "Tiaret",
+        "count": 10
+      },
+      {
+        "key": "Mascara",
+        "count": 9
+      },
+      {
+        "key": "Djelfa",
+        "count": 9
+      },
+      {
+        "key": "Boumerdes",
+        "count": 8
+      },
+      {
+        "key": "Tizi Ouzou",
+        "count": 8
+      },
+      {
+        "key": "Bouira",
+        "count": 7
+      },
+      {
+        "key": "Blida",
+        "count": 7
+      },
+      {
+        "key": "Médéa",
+        "count": 6
+      },
+      {
+        "key": "Oum El Bouaghi",
+        "count": 6
+      },
+      {
+        "key": "Naâma",
+        "count": 5
+      },
+      {
+        "key": "Ain Defla",
+        "count": 5
+      },
+      {
+        "key": "Tlemcen",
+        "count": 5
+      },
+      {
+        "key": "Jijel",
+        "count": 5
+      },
+      {
+        "key": "Guelma",
+        "count": 5
+      }
+    ],
+    "product_type_breakdown": {
+      "PRC": 133,
+      "PRCGP": 4,
+      "OACRCGP": 7,
+      "PRP": 11,
+      "PRD": 5,
+      "": 1
+    },
+    "product_type_labels": {
+      "PRC": {
+        "fr": "Produit à usage vétérinaire de consommation",
+        "ar": "منتج للاستخدام البيطري الاستهلاكي",
+        "en": "Veterinary consumption product"
+      },
+      "PRCGP": {
+        "fr": "Produit à usage vétérinaire de consommation (grande production)",
+        "ar": "منتج للاستخدام البيطري الاستهلاكي (إنتاج كبير)",
+        "en": "Veterinary consumption product (large-scale production)"
+      },
+      "OACRCGP": {
+        "fr": "Organisme autorisé de contrôle et de production (grande production)",
+        "ar": "هيئة مرخصة للرقابة والإنتاج (إنتاج كبير)",
+        "en": "Authorized control and production organization (large-scale)"
+      },
+      "PRP": {
+        "fr": "Produit à usage vétérinaire de promotion",
+        "ar": "منتج للاستخدام البيطري الترقوي",
+        "en": "Veterinary promotional product"
+      },
+      "PRD": {
+        "fr": "Produit à usage vétérinaire diagnostique",
+        "ar": "منتج للاستخدام البيطري التشخيصي",
+        "en": "Veterinary diagnostic product"
+      }
+    }
+  },
+  "generated_at": "2026-06-08T11:38:35.217942+00:00"
+}
