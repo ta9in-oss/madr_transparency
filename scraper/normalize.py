@@ -54,6 +54,11 @@ _SPLIT_RE = re.compile(
     r"[\/,;]|\s+[-–]\s+|\s+(?:et|ou|or|and)\s+", re.IGNORECASE
 )
 
+_MULTI_COUNTRY_RE = re.compile(
+    r"[\/,;]|\s+[-–]\s+|\s+(?:et|ou|or|and)\s+",
+    re.IGNORECASE,
+)
+
 _ISO2_RE = re.compile(r"^[A-Z]{2}$")
 _ISO3_RE = re.compile(r"^[A-Z]{3}$")
 
@@ -190,6 +195,12 @@ def normalize_country(raw: str) -> str:
     trimmed = raw.strip()
     if not trimmed:
         return "XX"
+
+    # Multi-country strings: detect before pycountry to avoid Malta false-positives
+    if len(trimmed) > 4 and _MULTI_COUNTRY_RE.search(trimmed):
+        parts = [p.strip() for p in re.split(r"[\/,;]|\s+[-–]\s+|\s+(?:et|ou|or|and)\s+", trimmed, flags=re.IGNORECASE) if p.strip()]
+        if len(parts) > 1:
+            return "XX"
 
     # 1. Already an ISO alpha-2 code
     if _ISO2_RE.match(trimmed.upper()) and pycountry.countries.get(alpha_2=trimmed.upper()):
