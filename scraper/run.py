@@ -1,3 +1,4 @@
+import sys
 import time
 import logging
 import requests
@@ -36,8 +37,12 @@ def run() -> None:
     session.headers.update({"User-Agent": USER_AGENT})
 
     log.info("Fetching %s", BASE_URL)
-    response = session.get(BASE_URL, timeout=REQUEST_TIMEOUT_SECONDS)
-    response.raise_for_status()
+    try:
+        response = session.get(BASE_URL, timeout=REQUEST_TIMEOUT_SECONDS)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as exc:
+        log.warning("Cannot reach %s: %s — skipping scrape, existing data unchanged.", BASE_URL, exc)
+        sys.exit(0)
 
     soup = BeautifulSoup(response.text, "lxml")
     writer = JsonWriter()
