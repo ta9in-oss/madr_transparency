@@ -128,7 +128,7 @@ const explorerI18n = {
     <section class="mb-10">
       <WilayaMap
         counts={wilayaCounts}
-        title="Veterinary distributor coverage by wilaya — 58 Algerian wilayas"
+        title="Veterinary distributor coverage by wilaya (58 Algerian wilayas)"
         lang="en"
         client:visible
       />
@@ -156,7 +156,7 @@ const explorerI18n = {
     <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(252,92,101,0.04); border: 1px solid rgba(252,92,101,0.18);">
       <p class="text-xs font-mono font-bold mb-2" style="color: #e03131;">Wilayas with no vet distributor ({absentWilayas.length} wilayas)</p>
       <p class="text-sm font-body leading-relaxed text-muted mb-3">
-        These wilayas have no licensed veterinary distributor — most in the south, despite being Algeria's main camel and sheep farming regions.
+        These wilayas have no licensed veterinary distributor. Most are in the south, despite being Algeria's main camel and sheep farming regions.
       </p>
       <div class="flex flex-wrap gap-2">
         {absentWilayas.map((w: string) => (
