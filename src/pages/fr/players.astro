@@ -68,7 +68,7 @@ const explorerI18n = {
     <InsightCallout
       stat={insights.players.top_companies[0].count.toLocaleString()}
       label="autorisations pour une seule entreprise"
-      context={`PROFERT SPA détient ${insights.players.top_companies[0].count} autorisations. Les 10 premières entreprises détiennent ${insights.players.top_10_share_pct}% des permis. Le marché est concentré entre peu d'acteurs.`}
+      context={`PROFERT SPA détient ${insights.players.top_companies[0].count} autorisations, soit ${(insights.players.top_companies[0].count / insights.players.total_permits * 100).toFixed(1)}% des ${insights.players.total_permits.toLocaleString()} autorisations totales. Les 10 premières entreprises concentrent ${insights.players.top_10_share_pct}% du marché.`}
       accent={true}
     />
 

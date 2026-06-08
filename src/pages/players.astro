@@ -69,7 +69,7 @@ const explorerI18n = {
     <InsightCallout
       stat={insights.players.top_companies[0].count.toLocaleString()}
       label="رخصة استيراد لشركة واحدة"
-      context={`شركة PROFERT SPA تحمل ${insights.players.top_companies[0].count} رخصة، أي ما يقارب ${insights.players.top_10_share_pct}٪ من مجموع رخص استيراد أكبر 10 شركات. السوق مُركَّز في يد قلة.`}
+      context={`شركة PROFERT SPA تحمل ${insights.players.top_companies[0].count} رخصة، أي ${(insights.players.top_companies[0].count / insights.players.total_permits * 100).toFixed(1)}٪ من مجموع ${insights.players.total_permits.toLocaleString()} رخصة. أكبر 10 شركات تستحوذ على ${insights.players.top_10_share_pct}٪ من السوق.`}
       accent={true}
     />
 
