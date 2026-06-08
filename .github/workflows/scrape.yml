@@ -37,6 +37,11 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python scripts/normalize_data.py --groq
 
+      - name: Compute insights (data/ → data/insights.json)
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/compute_insights.py --groq
+
       - name: Commit updated data
         run: |
           git config user.name "madr-bot"

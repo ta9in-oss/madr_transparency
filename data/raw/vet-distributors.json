@@ -1,0 +1,1745 @@
+[
+  {
+    "address": "Lotissement nezzar rachid merouana batna",
+    "company": "SARL eagle veto pharm",
+    "company_name_ar": "",
+    "number": 1,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Lotissement 96 side elmarbouh MECHERIA",
+    "company": "EURL CHIKHOVET PRO",
+    "company_name_ar": "",
+    "number": 2,
+    "wilaya": "Naâma"
+  },
+  {
+    "address": "بجانب الثانوية قطعة رقم 01  زرالدة ولاية الجزائر",
+    "company": "SARL VETOMEDIC شركة فيتوميديك",
+    "company_name_ar": "",
+    "number": 3,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "الطـــــــريق الوطـــني رقم 04 سيــــدي بوعبــــيدة شمال بلدية العـطاف والية عين الدفلى",
+    "company": "HANA VET",
+    "company_name_ar": "",
+    "number": 4,
+    "wilaya": "Ain Defla"
+  },
+  {
+    "address": "CITE CHARIKAT N22 HAMA BOUZIYAN",
+    "company": "EURL SER EL HOUDA VET",
+    "company_name_ar": "",
+    "number": 5,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "CITE LAHBAL, LOCAL N° 1 ET 2, COMMUNE DE HAMMAM DALAA.",
+    "company": "SARL LIGA VET",
+    "company_name_ar": "",
+    "number": 6,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "سيدي معنصر رقم142بالقرب من متوسطة سيدي معنصر عيون العصافير مع",
+    "company": "EURL LAVERAN VET",
+    "company_name_ar": "",
+    "number": 7,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "lotissement 285 lots bordj bou arrerridj",
+    "company": "SARL DIPRO VET PHARM",
+    "company_name_ar": "",
+    "number": 8,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "حي المنظر الجميل طريق عين قاسمة قسم 17 المجموعة الملكية رقم 4145 تيارت",
+    "company": "eurl sony vet",
+    "company_name_ar": "",
+    "number": 9,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "lotissement 285 lots bordj bou arrerridj",
+    "company": "SARL DIPRO VET PHARM",
+    "company_name_ar": "",
+    "number": 10,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Compartiment Erriadh 02 n° 01 classe B BATNA",
+    "company": "SARL SMARTVETO",
+    "company_name_ar": "",
+    "number": 11,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "عين الحجر  محل رقم 03 قسم 078 مجموعة ملكية 019 بلدية تيسمسيلت",
+    "company": "EURL KAMAR VET",
+    "company_name_ar": "",
+    "number": 12,
+    "wilaya": "Tissemssilt"
+  },
+  {
+    "address": "شارع الشهيد شمروك الجيلالي رقم 10 ام الدروع الشلف",
+    "company": "EURL YASSER PHARM",
+    "company_name_ar": "",
+    "number": 13,
+    "wilaya": "Chlef"
+  },
+  {
+    "address": "lotissement DIF cite boumerzoug 5eme km N° 16A. 16B ET 16C",
+    "company": "sarl el hikma vet",
+    "company_name_ar": "",
+    "number": 14,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "519 cité safa abdelkader sougueur tiaret",
+    "company": "EURL GROW VET PHARM",
+    "company_name_ar": "",
+    "number": 15,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "RUE MOHAMED BOUDIAF MOHAMMADIA",
+    "company": "EURL MOKHTAR VET PHARM",
+    "company_name_ar": "",
+    "number": 16,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "Cité ali hamich n18 Fesdis batna",
+    "company": "SARL silver pharm",
+    "company_name_ar": "",
+    "number": 17,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Cité 700 msila",
+    "company": "Eurl wihda vêt commerce",
+    "company_name_ar": "",
+    "number": 18,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "حي المسجد الجديد 04/337 الجلفة",
+    "company": "السنوار",
+    "company_name_ar": "",
+    "number": 19,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "Lotissement 711 lots îlot 196 section 79 Aïn Oulmene",
+    "company": "SARL globe Vet pharm",
+    "company_name_ar": "",
+    "number": 20,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "CITE ENNACER -NAKHLA- ELOUED",
+    "company": "EURL DAILYVET",
+    "company_name_ar": "",
+    "number": 21,
+    "wilaya": "El Oued"
+  },
+  {
+    "address": "Zone d’activité Ouled Mohamed N° 62 Rue Medjadji Menaouar – Chlef",
+    "company": "SARL SINAVET",
+    "company_name_ar": "",
+    "number": 22,
+    "wilaya": "Chlef"
+  },
+  {
+    "address": "LOTISSEMENT 784 N 454 KHENCHELA/LOT N°599",
+    "company": "EURL KVET",
+    "company_name_ar": "",
+    "number": 23,
+    "wilaya": "KHENCHELA"
+  },
+  {
+    "address": "Rue HAMIDA QUSHI Cheikh Commune El Amria Wilaya d’Ain Temouchent",
+    "company": "EURL CAPRIVET PHARM",
+    "company_name_ar": "",
+    "number": 24,
+    "wilaya": "Ain Temouchent"
+  },
+  {
+    "address": "محل رقم 03 حي 270 مسكن مجموعة ملكية 273 قسم 77 بلدية المسيلة",
+    "company": "EURL NAAMI PHARM",
+    "company_name_ar": "",
+    "number": 25,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "Cité d’Al-Zuhur, groupe de propriété 150, classe 505, batna",
+    "company": "SARL chergui vet",
+    "company_name_ar": "",
+    "number": 26,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "شارع الشهيد شمروك الجيلالي رقم 10 بلدية ام الدروع ولاية الشلف",
+    "company": "EURL YASSER PHARM",
+    "company_name_ar": "",
+    "number": 27,
+    "wilaya": "Chlef"
+  },
+  {
+    "address": "Cité mouflon Tamanrasset",
+    "company": "MERYA VET PHARMA",
+    "company_name_ar": "",
+    "number": 28,
+    "wilaya": ""
+  },
+  {
+    "address": "Rue fehis abdelkader KEB",
+    "company": "Sarl samapharm",
+    "company_name_ar": "",
+    "number": 29,
+    "wilaya": "Médéa"
+  },
+  {
+    "address": "Lot numéro 55 Local numéro 1 au lotissement el houria ain fakroun",
+    "company": "EURL BOSS VET PHARM",
+    "company_name_ar": "",
+    "number": 30,
+    "wilaya": "Oum El Bouaghi"
+  },
+  {
+    "address": "LOT BELBAABOUCHE SECT 113 ILOT N° 34 LOCALE N° 01 BBA",
+    "company": "SARL AKRAM VET PHARM",
+    "company_name_ar": "",
+    "number": 31,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Ain chih 2353 n 02 djalfa",
+    "company": "Berrabeh vet",
+    "company_name_ar": "",
+    "number": 32,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "Lotissement héritiers ghazi lot n° 66",
+    "company": "EURL El ghazali pharm",
+    "company_name_ar": "",
+    "number": 33,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "LOCAL N° 37 CITE CHAHID ALI HAIMED BEN HAMEL, SAFSAF COMMUNE DE BOUSSAADA/ANCIENNE RUE D’ALGER C.O.D.E.S BOU-SAADA",
+    "company": "SARL SOUHOUB VET",
+    "company_name_ar": "",
+    "number": 34,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "HAY SOUFFAY N53, KHEMIS MILIANA",
+    "company": "EURL FARSOVET",
+    "company_name_ar": "",
+    "number": 35,
+    "wilaya": "Ain Defla"
+  },
+  {
+    "address": "HAY SOUFFAY KHEMIS MILIANA",
+    "company": "EURL FARSOVET",
+    "company_name_ar": "",
+    "number": 36,
+    "wilaya": "Ain Defla"
+  },
+  {
+    "address": "Cité Abdelaziz Redouane Lot n 418 Draria",
+    "company": "Eurl OBIVET",
+    "company_name_ar": "",
+    "number": 37,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "محاذاة الطريق الوطني رقم 16 الصندوق الوطني للمتقاعدين تعاونية الأهراس حصة رقم 01 بلدية و ولاية سوق أهراس",
+    "company": "SARL ANIMAL FRIENDS VET",
+    "company_name_ar": "",
+    "number": 38,
+    "wilaya": "Souk Ahras"
+  },
+  {
+    "address": "COOP COLONEL LOTFI ILOT E 04 OTHMANIA MARAVAL LOCAL 01",
+    "company": "EURL VETOWEST",
+    "company_name_ar": "",
+    "number": 39,
+    "wilaya": "Oran"
+  },
+  {
+    "address": "CITE AMAR KHODJA LOT A, LOCAL 1+2+3 COMMUNE BOUIRA W BOUIRA",
+    "company": "SARL ASSIREM PHARMA",
+    "company_name_ar": "",
+    "number": 40,
+    "wilaya": "Bouira"
+  },
+  {
+    "address": "Cité el fahame 2. Salah bouchaour. Skikda",
+    "company": "EURL XB pharm",
+    "company_name_ar": "",
+    "number": 41,
+    "wilaya": "Skikda"
+  },
+  {
+    "address": "LOTISSEMENT BENZIANE MOATAH EL ALLAH N 106 REZ DE CHAUSSE CLASSE 33 GROUPE DE PROPREITE N 172 SIG WILAYA DE MASCARA",
+    "company": "SARL DIMAVET SANTE PHARMA",
+    "company_name_ar": "",
+    "number": 42,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "LOTISSEMENT BRAHMI SECTION 109 ILOT N° 172 COMMUNE EL BAYADH",
+    "company": "EURL FAROVET",
+    "company_name_ar": "",
+    "number": 43,
+    "wilaya": "El bayadh"
+  },
+  {
+    "address": "Cité Abdelaziz Redouane n 418 Draria w Alger",
+    "company": "EURL OBIVET",
+    "company_name_ar": "",
+    "number": 44,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "LOCAL N¨01, CITE 19 JUIN, COMMUNE DE SIDI AISSA.",
+    "company": "SARL AOUASS PHARM",
+    "company_name_ar": "",
+    "number": 45,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "LOCAL SYMBOLE (ج) LA ZONE D’ACTIVITE RTE DE BISKRA – BOUSSADA N°72/774",
+    "company": "SARL CELIA VET",
+    "company_name_ar": "",
+    "number": 46,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "Lotissement cité de l’avenir lot n°45 sedrata wilaya souk ahras",
+    "company": "HITCHNER VET",
+    "company_name_ar": "",
+    "number": 47,
+    "wilaya": "Souk Ahras"
+  },
+  {
+    "address": "إقامة الترقية رقم 1اسطاوالي الجزائر",
+    "company": "SARL MAXI VET",
+    "company_name_ar": "",
+    "number": 48,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "cité boukhalfa lot ouanouki benalia.section :155 gpe :976 bloc n :2519 djelfa",
+    "company": "EURL SAADI VET",
+    "company_name_ar": "",
+    "number": 49,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "CITE THABET BOUZID BTM N02 EL_EULMA",
+    "company": "EURL PRINCESSE PHARM",
+    "company_name_ar": "",
+    "number": 50,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "CITE 246 LGTS N1 LOTS 242 TADJNANET",
+    "company": "EURL FOUZIA MET",
+    "company_name_ar": "",
+    "number": 51,
+    "wilaya": "Mila"
+  },
+  {
+    "address": "SECTION 04 PROPRIETE N 354 ROUTE NATIONALE N 29 LARBATACHE DAIRA KHEMIS EL KHECHNA WILAYA DE BOUMERDES",
+    "company": "SARL SANTE VET PHARMA",
+    "company_name_ar": "",
+    "number": 52,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "99 lotissements benhaddadi cheraga",
+    "company": "SARL Freelab",
+    "company_name_ar": "",
+    "number": 53,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "RUE M’HAMED BENSALEM LAGHOUAT",
+    "company": "EURL MEDRAZ",
+    "company_name_ar": "",
+    "number": 54,
+    "wilaya": "Laghouat"
+  },
+  {
+    "address": "Ilot Brahimi Bloc 109 El-bayadh",
+    "company": "mounivet",
+    "company_name_ar": "",
+    "number": 55,
+    "wilaya": "El bayadh"
+  },
+  {
+    "address": "بلدية شفة حي 300 مسكن قسم 28 مجموعة ملكية رقم 155 البليدة",
+    "company": "Eurl ECHOVET PHARMA",
+    "company_name_ar": "",
+    "number": 56,
+    "wilaya": "Blida"
+  },
+  {
+    "address": "FREHA CENTRE TIZI OUZOU",
+    "company": "EURL ENA VET",
+    "company_name_ar": "",
+    "number": 57,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "zone el guemass route el mridj constantine",
+    "company": "EURL MASSINISSA VET",
+    "company_name_ar": "",
+    "number": 58,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "شارع كحول محمد بئر حدادة ولاية سطيف",
+    "company": "EURL CLASSIC PHARM",
+    "company_name_ar": "",
+    "number": 59,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "Cité Hachmi red marfoud rabah n78 SÉTIF",
+    "company": "EURL TMB PHARMACO VÉTÉRINAIRE",
+    "company_name_ar": "",
+    "number": 60,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "PROMOTION IMMOBILIERE BOUMAAZA N°4 EL EULMA",
+    "company": "SNC DEMBRI ET ASSOCIE VETO PHARM",
+    "company_name_ar": "",
+    "number": 61,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "rue baatiche zone 09/ilot 44 mascara",
+    "company": "Eurl VetExpress",
+    "company_name_ar": "",
+    "number": 62,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "CITE HOUARI BOUMEDIENNE CHELGHOUM LAID MILA",
+    "company": "VETILAF PHARM",
+    "company_name_ar": "",
+    "number": 63,
+    "wilaya": "Mila"
+  },
+  {
+    "address": "rue mohammed boudiaf",
+    "company": "EURL FORCEVETER ALGERIA",
+    "company_name_ar": "",
+    "number": 64,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "LOCAL N° 01, RUE SAHNOUNI ABDELKADER, SECTION 38 LOTS 177, COMMUNE DE M’SILA",
+    "company": "EURL ASVET DISTRIBUTION",
+    "company_name_ar": "",
+    "number": 65,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "Lotissement madour (ex afrane el djir) kechida batna",
+    "company": "EURL AZOUI VETOPHARM",
+    "company_name_ar": "",
+    "number": 66,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "09 CITE BAHRIYA COMMUNE ZENATA WILAYA  TLEMCEN",
+    "company": "SARL VET COM PHARM",
+    "company_name_ar": "",
+    "number": 67,
+    "wilaya": "Tlemcen"
+  },
+  {
+    "address": "LOCAL N° 01, CITE 123 LOTS, COMMUNE DE SIDI AISSA.",
+    "company": "SARL SALAMA VET",
+    "company_name_ar": "",
+    "number": 68,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "الحصحاصية عين شرشار -عزابة ولاية سكيكدة",
+    "company": "ش.ذ.م.م. ريشة فاث",
+    "company_name_ar": "",
+    "number": 69,
+    "wilaya": "Skikda"
+  },
+  {
+    "address": "Rue 1 novembre Zaouia -BENI TAMOU -BLIDA",
+    "company": "SARL NOUR PHARMA",
+    "company_name_ar": "",
+    "number": 70,
+    "wilaya": "Blida"
+  },
+  {
+    "address": "Houch Sbaat Section 08 ILO Num 21 Rouiba Alger",
+    "company": "SARL EDENFEED",
+    "company_name_ar": "",
+    "number": 71,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "Tidjadia oued taga teniet el abed/Batna",
+    "company": "SARL AURES VET",
+    "company_name_ar": "",
+    "number": 72,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "RUE BACHIR MIMOUNI GRAREM GOUGA WILAYA MILA",
+    "company": "SPOK VET",
+    "company_name_ar": "",
+    "number": 73,
+    "wilaya": "Mila"
+  },
+  {
+    "address": "LOCAL N° 04, LOTISSEMENT 63, SECTION 52, CITE KHAYRI KHEYER 93 LOGTS, COMMUNE DE MEGRA.",
+    "company": "SARL EL MAKKARI VET",
+    "company_name_ar": "",
+    "number": 74,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "LOCAL N° 01, CITE HOUARI BOUMEDIENNE, COMMUNE DE BERHOUM.",
+    "company": "SARL UNIMED PHARMA",
+    "company_name_ar": "",
+    "number": 75,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "cité kouadria classe03 groupe royal n361 n02,commune ouled moussa,daira khemis el khachna wilaya de boumerdes",
+    "company": "EURL MEDPROVAL",
+    "company_name_ar": "",
+    "number": 76,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "CITE EL WAFA LOT N° 360",
+    "company": "EURL PHARMACO VET LIBIAA ADWIAT EL HAYAWANAT",
+    "company_name_ar": "",
+    "number": 77,
+    "wilaya": "Oum El Bouaghi"
+  },
+  {
+    "address": "rue KALOUAZ centre ville BOURACHED",
+    "company": "LAROVET",
+    "company_name_ar": "",
+    "number": 78,
+    "wilaya": "Ain Defla"
+  },
+  {
+    "address": "lot n 125 cite les amanes souk ahras",
+    "company": "EURL KAWTHERVET",
+    "company_name_ar": "",
+    "number": 79,
+    "wilaya": "Souk Ahras"
+  },
+  {
+    "address": "CITE EL MOUROUDJ BITAM/BARIKA",
+    "company": "EURL OURAK VET PHARM",
+    "company_name_ar": "",
+    "number": 80,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "N° 120 CITE MAHMOUDI LOCALE N° 01 BERRAKI WILAYA D’ALGER / رقم 120 حي محمودي محل رقم 01 بلدية براقي ولاية الجزائر",
+    "company": "SARL ALDJAZAIRIA COMMERCE ET SERVICES / ش.ذ.م.م الجزائرية للتجارة و الخدمات",
+    "company_name_ar": "",
+    "number": 81,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "Cité 20 Août N° 170 Ouled Ben Abdelkader – Chlef",
+    "company": "EURL VETRIMAX SANTE ANIMALE VSA",
+    "company_name_ar": "",
+    "number": 82,
+    "wilaya": "Chlef"
+  },
+  {
+    "address": "LOCAL N° 01 CITE ECHOUHADA, COMMUNE DE BERHOUM.",
+    "company": "SARL KING PROVET",
+    "company_name_ar": "",
+    "number": 83,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "Lot sidi amor section 73 G.propriété N:267 ibn badis Constantine",
+    "company": "Sarl Sertivet",
+    "company_name_ar": "",
+    "number": 84,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "RUE AEK GUEMAR EL OUED",
+    "company": "SARL EL OUED PHARMA",
+    "company_name_ar": "",
+    "number": 85,
+    "wilaya": "El Oued"
+  },
+  {
+    "address": "رقم4 طريق الاربعاء سيدي موسى",
+    "company": "EURL ABVET",
+    "company_name_ar": "",
+    "number": 86,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "14 rue hakim saadane zmala biskra",
+    "company": "EURL GHIZLENE PHARMA",
+    "company_name_ar": "",
+    "number": 87,
+    "wilaya": "Biskra"
+  },
+  {
+    "address": "مشتة ولاد سي الطيب طريق بغاي خنشلة",
+    "company": "دارنا ستور",
+    "company_name_ar": "",
+    "number": 88,
+    "wilaya": "KHENCHELA"
+  },
+  {
+    "address": "Lot N°04 S.02 G.P 487 Sidi Rached Tipaza",
+    "company": "MARSAF PHARM",
+    "company_name_ar": "",
+    "number": 89,
+    "wilaya": "Tipaza"
+  },
+  {
+    "address": "Cooperatife Mouhamed Boudiafe .Setif",
+    "company": "SARL HALIMVET",
+    "company_name_ar": "",
+    "number": 90,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "local n 1 sis au lieu dit el faidh section cadastrale n 20 commune de msila/LOCAL N°02 GROUPE DE PROPRETE N° 176 EL FAIDH, CITE SIDI AMARA, COMMUNE DE M’SILA.",
+    "company": "EURL KHALFA VET",
+    "company_name_ar": "",
+    "number": 91,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "N 04 Lotissement aérodrome 02  TEBESSA",
+    "company": "sarl SBvet",
+    "company_name_ar": "",
+    "number": 92,
+    "wilaya": "Tébéssa"
+  },
+  {
+    "address": "Skikda",
+    "company": "Tinda pharm",
+    "company_name_ar": "",
+    "number": 93,
+    "wilaya": "Skikda"
+  },
+  {
+    "address": "GROUPE DE PRORIETE N° 964, SECTION 04 HAI BENHAMZA HAMMADI, BOUMERDES.",
+    "company": "EURL FUTUR VETA",
+    "company_name_ar": "",
+    "number": 94,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "Ain Boubziz – Cité Abdelhamid ben Baddis N° 71 commune de Khemisti/Tissemssilt",
+    "company": "EURL Ihssane farm",
+    "company_name_ar": "",
+    "number": 95,
+    "wilaya": "Tissemssilt"
+  },
+  {
+    "address": "CITE 76 LOGEMENTS AIN HAMRA KHEMISTI N 03/tessemssilt",
+    "company": "EURL kAP VET",
+    "company_name_ar": "",
+    "number": 96,
+    "wilaya": "Tissemssilt"
+  },
+  {
+    "address": "Boulevard des marthyrs Ain Defla centre",
+    "company": "SNC PRODPHARM VET HAMIDI ET CIE",
+    "company_name_ar": "",
+    "number": 97,
+    "wilaya": "Ain Defla"
+  },
+  {
+    "address": "Lotissement ben Mokadem Mohamed n°207/blida",
+    "company": "EURL PROMOVET BIO",
+    "company_name_ar": "",
+    "number": 98,
+    "wilaya": "Blida"
+  },
+  {
+    "address": "Centre Bouagueb Boufarik",
+    "company": "EURL CERCLE VET",
+    "company_name_ar": "",
+    "number": 99,
+    "wilaya": "Blida"
+  },
+  {
+    "address": "Cité Kourane Messaoud n°50, Boufarik",
+    "company": "EURL ALGERIAN VETERINARY SERVICE",
+    "company_name_ar": "",
+    "number": 100,
+    "wilaya": "Blida"
+  },
+  {
+    "address": "cite OASIS NORD N 514 lotissements/160m2",
+    "company": "EURL VETO YASMINE",
+    "company_name_ar": "",
+    "number": 101,
+    "wilaya": "Laghouat"
+  },
+  {
+    "address": "cite El gouatine route de djelfa",
+    "company": "EURL VETADIS",
+    "company_name_ar": "",
+    "number": 102,
+    "wilaya": "Laghouat"
+  },
+  {
+    "address": "54,cite des CASTORS AFLOU/110m4",
+    "company": "EURL BIOVITAL PHARM",
+    "company_name_ar": "",
+    "number": 103,
+    "wilaya": "Laghouat"
+  },
+  {
+    "address": "39 cité 55 villa EPLF BOUZOURANE /BATNA",
+    "company": "EURL KHELFA PHARM",
+    "company_name_ar": "",
+    "number": 104,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "rue maamir, route de barika n’gaous Batna",
+    "company": "SARL CHEM VET",
+    "company_name_ar": "",
+    "number": 105,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Nouvelle zone urbaine n° 2 cité Kechida Batan",
+    "company": "EURL BIOTEC VET",
+    "company_name_ar": "",
+    "number": 106,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "N° 35 B cité Sadek Chebchoub Kechida/Batna",
+    "company": "EURL PHARMA VETS",
+    "company_name_ar": "",
+    "number": 107,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Cité 50 logements Mokhatat SAKANI 3 AIN-TOUTA/BATNA",
+    "company": "EURL MG VET",
+    "company_name_ar": "",
+    "number": 108,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Lotissement Eriadh 1 n° 85/ Batna",
+    "company": "SARL TRADEN PHARM",
+    "company_name_ar": "",
+    "number": 109,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Hey erabita res el ayoune/batna",
+    "company": "EURL BEN MANSOUR VET",
+    "company_name_ar": "",
+    "number": 110,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Cité ZMALA LOTISSEMENT EL FADJR N°63/BATNA",
+    "company": "EURL PHONEX PHARMA REACT",
+    "company_name_ar": "",
+    "number": 111,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "RUE NB N° 408 CITE BOUZOURANE/BATNA",
+    "company": "SARL VETO ABDELOUAB PHARM",
+    "company_name_ar": "",
+    "number": 112,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "A COTE DU PARC/COMMUNE AIN YAGOUT/EL MADHER/BATNA",
+    "company": "EURL ROUFA VET",
+    "company_name_ar": "",
+    "number": 113,
+    "wilaya": "BATNA"
+  },
+  {
+    "address": "Division municipale lot “E” commune d’El kseur",
+    "company": "EURL ABDOU PHARM1",
+    "company_name_ar": "",
+    "number": 114,
+    "wilaya": "Béjaia"
+  },
+  {
+    "address": "Rue Baba Khoya Med LAKHDARIA",
+    "company": "SARL ACTI VET",
+    "company_name_ar": "",
+    "number": 115,
+    "wilaya": "Bouira"
+  },
+  {
+    "address": "Tarfacht Ahnif centre AHNIF",
+    "company": "SARL AFRICA VET PHARMA",
+    "company_name_ar": "",
+    "number": 116,
+    "wilaya": "Bouira"
+  },
+  {
+    "address": "28 RUE AIT YOUCEF ABDELKADER COMMUNE DE AIN BESSAM WIALAYA DE BOUIRA /  شارع آيت يوسف عبد القادر رقم 28، بلدية عين بسام، ولاية البويرة",
+    "company": "SARL KHIR PRODUITS VETERINAIRES",
+    "company_name_ar": "",
+    "number": 117,
+    "wilaya": "Bouira"
+  },
+  {
+    "address": "Ouled Boutoula BOUIRA section 15 groupe1326",
+    "company": "EURL MAGI PHARM",
+    "company_name_ar": "",
+    "number": 118,
+    "wilaya": "Bouira"
+  },
+  {
+    "address": "Cité 300 logts LSP        SOUR EL GHOZLANE",
+    "company": "EURL MARIE ZAD PHARM",
+    "company_name_ar": "",
+    "number": 119,
+    "wilaya": "Bouira"
+  },
+  {
+    "address": "142 LOGTS BT *H*        SOUR EL GHOZLANE",
+    "company": "SARL OPTIMAPHARM",
+    "company_name_ar": "",
+    "number": 120,
+    "wilaya": "Bouira"
+  },
+  {
+    "address": "Cité féliache section 143 n°76, commune et Daira de Biskra",
+    "company": "SARL ST VET",
+    "company_name_ar": "",
+    "number": 121,
+    "wilaya": "Biskra"
+  },
+  {
+    "address": "Rue ouali mohamed n°50, Blida",
+    "company": "EURL BLIDAVET",
+    "company_name_ar": "",
+    "number": 122,
+    "wilaya": "Blida"
+  },
+  {
+    "address": "Centre Bouagueb, Boufarik",
+    "company": "EURL CERCLE VET",
+    "company_name_ar": "",
+    "number": 123,
+    "wilaya": "Blida"
+  },
+  {
+    "address": "Cite chouhada tiaret",
+    "company": "SARL TIARET VET",
+    "company_name_ar": "",
+    "number": 124,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "Rue amirouche sougueur/tiaret",
+    "company": "SARL PASTORAL VET",
+    "company_name_ar": "",
+    "number": 125,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "Rue Ait Amrane sougueur",
+    "company": "EURL ASTRA VET",
+    "company_name_ar": "",
+    "number": 126,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "Terrains Boumediene Tiaret",
+    "company": "EURL ANIMALIA PHARMA",
+    "company_name_ar": "",
+    "number": 127,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "Cité Sounatiba n° 331 TIARET",
+    "company": "EURL ROSTOVET",
+    "company_name_ar": "",
+    "number": 128,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "SOUGUEUR",
+    "company": "EURL NADHOR PHARM",
+    "company_name_ar": "",
+    "number": 129,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "Rue yahiaoui mokhtar ksar chellala",
+    "company": "EURL FILAVET",
+    "company_name_ar": "",
+    "number": 130,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "AIN DHEB",
+    "company": "EURL OUAFAZ PHARM",
+    "company_name_ar": "",
+    "number": 131,
+    "wilaya": "Tiaret"
+  },
+  {
+    "address": "Quartier Kouala, n° 36 Commune de Médéa",
+    "company": "Eurl Ani-Pharm Titteri",
+    "company_name_ar": "",
+    "number": 132,
+    "wilaya": "Médéa"
+  },
+  {
+    "address": "Quartier Kouala, n° 78 Commune de Médéa",
+    "company": "Eurl Titteri Vet",
+    "company_name_ar": "",
+    "number": 133,
+    "wilaya": "Médéa"
+  },
+  {
+    "address": "Zone d’Activité",
+    "company": "Eurl Aaco Vet",
+    "company_name_ar": "",
+    "number": 134,
+    "wilaya": "Médéa"
+  },
+  {
+    "address": "Lotissement Social n°317",
+    "company": "Eurl Chirazi Vet",
+    "company_name_ar": "",
+    "number": 135,
+    "wilaya": "Médéa"
+  },
+  {
+    "address": "Local n°02",
+    "company": "Sarl Unimed Pharma",
+    "company_name_ar": "",
+    "number": 136,
+    "wilaya": "Médéa"
+  },
+  {
+    "address": "cité rimal el oued",
+    "company": "EURL GAM VET",
+    "company_name_ar": "",
+    "number": 137,
+    "wilaya": "El Oued"
+  },
+  {
+    "address": "cité el amir el oued",
+    "company": "EURL SOUF VET",
+    "company_name_ar": "",
+    "number": 138,
+    "wilaya": "El Oued"
+  },
+  {
+    "address": "HAI ZITOUNE DIV 88 KIFFANE/TLEMCEN",
+    "company": "SNC BIBA PHARM HABCHI ET CIE SNC",
+    "company_name_ar": "",
+    "number": 139,
+    "wilaya": "Tlemcen"
+  },
+  {
+    "address": "Lot bouabdellah n 68/TLEMCEN",
+    "company": "EURL VETACO",
+    "company_name_ar": "",
+    "number": 140,
+    "wilaya": "Tlemcen"
+  },
+  {
+    "address": "N 49 DIV AIN DEFLA COMMUNE CHETOUANE/TLEMCEN",
+    "company": "EURL BADJIVET",
+    "company_name_ar": "",
+    "number": 141,
+    "wilaya": "Tlemcen"
+  },
+  {
+    "address": "N° 05 rue badaoui mostafa commune Remchi/Tlemcen",
+    "company": "EURL TAFNA MEDIVET",
+    "company_name_ar": "",
+    "number": 142,
+    "wilaya": "Tlemcen"
+  },
+  {
+    "address": "Lotissement ferme senni commune Dréan",
+    "company": "EURL VETO MEDICAL",
+    "company_name_ar": "",
+    "number": 143,
+    "wilaya": "El tarf"
+  },
+  {
+    "address": "Coopérative immobiliereelazhar lots 167 n° 11 citéintissarrelizane",
+    "company": "SARL AZHARVET",
+    "company_name_ar": "",
+    "number": 144,
+    "wilaya": "Rélizane"
+  },
+  {
+    "address": "Cité el wafi n 11 section 07 ,ilotproprieté n° 194",
+    "company": "EURL VETO SAM",
+    "company_name_ar": "",
+    "number": 145,
+    "wilaya": "Rélizane"
+  },
+  {
+    "address": "Lotissement 159 lot EPLF N°04 commune Bordj Bou Arreridj",
+    "company": "EURL EL MOUSTAKBAL PRO VET",
+    "company_name_ar": "",
+    "number": 146,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Boulevard Amir Abd El Kader N°64 commune Bordj Bou Arreridj",
+    "company": "EURL SO DI V EST",
+    "company_name_ar": "",
+    "number": 147,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Lotissement 54 lot secteur 73 ilot 159 local N°01 commune Medjana",
+    "company": "EURL BENDAHMANE PHARM",
+    "company_name_ar": "",
+    "number": 148,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Lotissement Gherouache  116 logts route de Medjana  N°78 commune Bordj Bou Arreridj",
+    "company": "SARL PACTE VET PHARM",
+    "company_name_ar": "",
+    "number": 149,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Lotissement 240 rue A J N°30 commune Bordj Bou Arreridj",
+    "company": "SARL EL MOUKRANI VET",
+    "company_name_ar": "",
+    "number": 150,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Boulevard IssatIdir  N°44 commune  Bordj Bou Arreridj",
+    "company": "EURL HASSAINI PHARM",
+    "company_name_ar": "",
+    "number": 151,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Rue CheradBelkacem commune Ras El Oued",
+    "company": "EURL LYNE VET LIL ADWIYA AL BAYTARIA",
+    "company_name_ar": "",
+    "number": 152,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Lotissement Guerouache rue 116 logts route de Medjana commune Bordj Bou Arreridj",
+    "company": "SARL MECHERI    PHARM",
+    "company_name_ar": "",
+    "number": 153,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Lotissement Bouda Fatima Zohra 35 lot N°45 commune  Bordj Bou Arreridj",
+    "company": "SARL BIBAN VET",
+    "company_name_ar": "",
+    "number": 154,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "Locaux 02 et 03 logts participatif BT 01 rez de chaussées commune Sidi Embarek",
+    "company": "EURL MAGMA PHARMA VET",
+    "company_name_ar": "",
+    "number": 155,
+    "wilaya": "BBA"
+  },
+  {
+    "address": "CITE ELWIAM MECHERIA",
+    "company": "NOUJIVET",
+    "company_name_ar": "",
+    "number": 156,
+    "wilaya": "Naâma"
+  },
+  {
+    "address": "HAI SID ELMARBOUH N°236 LOT 96 MECHERIA",
+    "company": "CHIKHOVET",
+    "company_name_ar": "",
+    "number": 157,
+    "wilaya": "Naâma"
+  },
+  {
+    "address": "LOT 69 N°57 NAAMA",
+    "company": "EURL WESTVET",
+    "company_name_ar": "",
+    "number": 158,
+    "wilaya": "Naâma"
+  },
+  {
+    "address": "LOT DHALAA2 AIN SEFRA",
+    "company": "EURL BOUALEMVET",
+    "company_name_ar": "",
+    "number": 159,
+    "wilaya": "Naâma"
+  },
+  {
+    "address": "CITE EL MERIDJA- EL MILIA",
+    "company": "EURL HAMIMED MEDICAMENTS VETERINAIRE",
+    "company_name_ar": "",
+    "number": 160,
+    "wilaya": "Jijel"
+  },
+  {
+    "address": "CITE BECHKIT BRAHIM   BOUCHERKA-TAHER-",
+    "company": "EURL JIJILIENNE DES MEDICAMENTS ET PRODUITS VETERINAIRES",
+    "company_name_ar": "",
+    "number": 161,
+    "wilaya": "Jijel"
+  },
+  {
+    "address": "LOTISSEMENT DES 6 LOTS N° 04 EKETE -JIJEL-",
+    "company": "EURL ABDOU PHARM 1",
+    "company_name_ar": "",
+    "number": 162,
+    "wilaya": "Jijel"
+  },
+  {
+    "address": "RUE BOUKABOUR ALI LOCAL N°02m28 -TAHER-",
+    "company": "EURL ERIADA INVESTISSEMENT",
+    "company_name_ar": "",
+    "number": 163,
+    "wilaya": "Jijel"
+  },
+  {
+    "address": "RUE SOUILAH RABEH LOCAL N° 79 -JIJEL-",
+    "company": "EURL CMM PHARM",
+    "company_name_ar": "",
+    "number": 164,
+    "wilaya": "Jijel"
+  },
+  {
+    "address": "COOPERATIVE EL WAFA B TIXERAINE RUE KADDOUS BIRKHADEM",
+    "company": "SARL DISPOVET",
+    "company_name_ar": "",
+    "number": 165,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "12 LOTS N° 03 MOHAMMADIA",
+    "company": "SAVETEM ENOUR",
+    "company_name_ar": "",
+    "number": 166,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "RUE BABA ALI COOPERATIVE EL AMEL N° 02",
+    "company": "SARL AVIRVET",
+    "company_name_ar": "",
+    "number": 167,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "N° RUE MARTENEZ MOHAMADIA MASCARA",
+    "company": "SARL SAVETER",
+    "company_name_ar": "",
+    "number": 168,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "RUE BEN ZAHRA ABDEL KADER MOHAMADIA",
+    "company": "SARL SOVIDAL PHARM",
+    "company_name_ar": "",
+    "number": 169,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "N° 10 RUE EL HADJ SIG",
+    "company": "SARL KAZIVET",
+    "company_name_ar": "",
+    "number": 170,
+    "wilaya": "Mascara"
+  },
+  {
+    "address": "LOTN°15SEBALA DRARIA",
+    "company": "SARL CENTROVET",
+    "company_name_ar": "",
+    "number": 171,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "Cité thabet bouzid El Eulma",
+    "company": "SARL VETO EST",
+    "company_name_ar": "",
+    "number": 172,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "Cité thabet bouzid El Eulma",
+    "company": "SARL AMINA PHARM",
+    "company_name_ar": "",
+    "number": 173,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "siege social : cité 800 logts bat D El Eulma, dépôt : coopérative El Feth, El eulma",
+    "company": "SARL ZOO VET PHARMA",
+    "company_name_ar": "",
+    "number": 174,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "PROMOTION IMMOBILIERE BOUMAAZA ABDEL HAMID BT 02 LOCAL 03, EL EULMA",
+    "company": "EURL BM AGRO PHARM VETO",
+    "company_name_ar": "",
+    "number": 175,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "Coop el manar rue be baouche a/rahmane section 226 n° 124 setif",
+    "company": "EURL ATLAS VET",
+    "company_name_ar": "",
+    "number": 176,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "Rue khelifi rabah cité des fusilles setif",
+    "company": "EURL PACO PHARM",
+    "company_name_ar": "",
+    "number": 177,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "CITE DES JARDINS AIN AZEL",
+    "company": "SARL MEDIA VET",
+    "company_name_ar": "",
+    "number": 178,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "CITE DES 44 LOTS N° 16 AIN OULMENE",
+    "company": "SARL COLBERT VET",
+    "company_name_ar": "",
+    "number": 179,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "CITE THABET BOUZID EL_EULMA",
+    "company": "SARL GAMMA VET",
+    "company_name_ar": "",
+    "number": 180,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "RUE BENAISSA MAHELMA",
+    "company": "SARL UNILAB",
+    "company_name_ar": "",
+    "number": 181,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "35 HAI SBAAT ROUIBA",
+    "company": "EURL NHVET",
+    "company_name_ar": "",
+    "number": 182,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "SEBALA ILOT 858SECTION N°01EL ACHOUR",
+    "company": "SARL REDVET",
+    "company_name_ar": "",
+    "number": 183,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "SEBBALA DRARIA",
+    "company": "EURL ZYNEVET",
+    "company_name_ar": "",
+    "number": 184,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "139FERME PONSE HARIVIL KOUBA",
+    "company": "EURL PHARMA VET",
+    "company_name_ar": "",
+    "number": 185,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "HAI EX CHABOUNI SALAH N°215 BIRKHADEM",
+    "company": "EURL SAWAS PHARM",
+    "company_name_ar": "",
+    "number": 186,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "OUELED MENDILN°65N°02 DOUERA",
+    "company": "SARL AVIMAC",
+    "company_name_ar": "",
+    "number": 187,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "ROUTE DE RAHMANIA VILLA N°06REZ DE CHAUSSE2DOUERA",
+    "company": "SARL SBVET DISTRIBUTION",
+    "company_name_ar": "",
+    "number": 188,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "OUED TARFA N°104EL ACHOUR",
+    "company": "EURL VETRIMED",
+    "company_name_ar": "",
+    "number": 189,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "HAI STAMBOULI A LOTN°320 BEK",
+    "company": "EURL UNIVERSVET",
+    "company_name_ar": "",
+    "number": 190,
+    "wilaya": "Alger"
+  },
+  {
+    "address": "Cité 18 février n° 41 commune de Guelma",
+    "company": "EURL SAGIPHARM",
+    "company_name_ar": "",
+    "number": 191,
+    "wilaya": "Guelma"
+  },
+  {
+    "address": "134 lotissement n2 commune Belkheir",
+    "company": "SNC GOLDEN UNION PHARM TADJINE ET ASSOCIES",
+    "company_name_ar": "",
+    "number": 192,
+    "wilaya": "Guelma"
+  },
+  {
+    "address": "Lotissement 02 N° 29, commune de Guelma",
+    "company": "SARL SERVI PHARM",
+    "company_name_ar": "",
+    "number": 193,
+    "wilaya": "Guelma"
+  },
+  {
+    "address": "Cité Ain defla 2 n° 221, commune de Guelma",
+    "company": "EURL TAIBA PHARM",
+    "company_name_ar": "",
+    "number": 194,
+    "wilaya": "Guelma"
+  },
+  {
+    "address": "Kherifi Amar commune Ain Larbi",
+    "company": "EURL HAMZA PHARM",
+    "company_name_ar": "",
+    "number": 195,
+    "wilaya": "Guelma"
+  },
+  {
+    "address": "CITE HACHEMI BOULEVARD BENDRISS AISSA SETIF",
+    "company": "EURL HAMMOUDI PRODUITS VETERINAIRES",
+    "company_name_ar": "",
+    "number": 196,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "CITE HAOUARI BOUMEDIENNE LOTS 392 N° 356 BEIDHA BORDJ",
+    "company": "SARL PHARMA FRERES",
+    "company_name_ar": "",
+    "number": 197,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "CITE HACHEMI RUE KHELIFI MOKHTAR 153 LOT SETIF",
+    "company": "EURL LYON PHARMA",
+    "company_name_ar": "",
+    "number": 198,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "INSTITUT ALGERIEN DU PETROLE SECTION 1 LOTISSEMENT 269 N° 22 SETIF",
+    "company": "EURL DECHRA VETERINARY",
+    "company_name_ar": "",
+    "number": 199,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "COOPERATIVE EL SABAH RUE BEN DEMEGH LAKHDAR N° 25 LAARARSSA SETIF",
+    "company": "EURL HAMZA VET",
+    "company_name_ar": "",
+    "number": 200,
+    "wilaya": "Sétif"
+  },
+  {
+    "address": "N° 947/20 BIS CITE ANCIENNE ROUTE DE DJELFA, COMMUNE DE BOUSSAADA",
+    "company": "SARL LDZ PHARMA",
+    "company_name_ar": "",
+    "number": 201,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "N° 01 CITE UNITE DEUX, COMMUNE DE M’SILA",
+    "company": "SARL HODNA VITAL",
+    "company_name_ar": "",
+    "number": 202,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "N° 01 COOPERATIVE FINANCIERE MED SEDDIK BENYAHIA, LOT N° 283, COMMUNE DE M’SILA",
+    "company": "SARL EL HIDHABE VET",
+    "company_name_ar": "",
+    "number": 203,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "LOCAL N° 1 CITE 1200, LOTS N° 50/595, COMMUNE DE M’SILA",
+    "company": "EURL SAHA VET",
+    "company_name_ar": "",
+    "number": 204,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "LOCAL N° 01 ET 02, SECTION CADASTRAL N° 90, LOTISSEMENT 579, COMMUNE DE M’SILA",
+    "company": "EURL DAWADJIN VET",
+    "company_name_ar": "",
+    "number": 205,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "N° 02 CITE GHALIA LAID 98 LOTS, 01/73, COMMUNE DE M’SILA",
+    "company": "SARL M’SILA VET",
+    "company_name_ar": "",
+    "number": 206,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "LOCAL N°02 LOTISSEMENT 700/383, LOT 127, COMMUNE DE M’SILA",
+    "company": "EURL KALAA VET",
+    "company_name_ar": "",
+    "number": 207,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "LOCAL N° 04, CITE 123 LOTS, COMMUNE DE SIDI AISSA.",
+    "company": "EURL FANAK VET PHARM",
+    "company_name_ar": "",
+    "number": 208,
+    "wilaya": "M’SILA"
+  },
+  {
+    "address": "VILLA 47, COMMUNE DE SIMUSTAPHA, BOUMERDES",
+    "company": "SARL MEDIVET",
+    "company_name_ar": "",
+    "number": 209,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "HAI AOUDIA SAID, SECTION 04 GROUPE DE PROPRIETE N° 252, CORSO BOUMERDES.",
+    "company": "EURL RBV",
+    "company_name_ar": "",
+    "number": 210,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "CITE SIDI SALEM, BOUDOUAOU, BOUMEDES.",
+    "company": "EURL MERIVET",
+    "company_name_ar": "",
+    "number": 211,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "OULED OMAR, COMMUNE DE OULED MOUSSA, BOUMERDES.",
+    "company": "EURL FRONVET",
+    "company_name_ar": "",
+    "number": 212,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "HAI BENRAHMOUNE, PROJET 412 LGTS LSP, BT 05, CORSO, BOUMERDES.",
+    "company": "SARL MN MEDICA VET",
+    "company_name_ar": "",
+    "number": 213,
+    "wilaya": "Boumerdes"
+  },
+  {
+    "address": "Cite benjerma 331/142 Commune :Djelfa",
+    "company": "EURL SNAIL VET",
+    "company_name_ar": "",
+    "number": 214,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "Cite la nouvelle mosquee 162/40 Commune :Djelfa",
+    "company": "SARL RAOUFVET",
+    "company_name_ar": "",
+    "number": 215,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "Cite Ahmed Zabana 780/08\nCommune :Ainoussera",
+    "company": "SARL EL HASSAN PHARM",
+    "company_name_ar": "",
+    "number": 216,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "Cite essouk 57/06 Commune :Hassi bahbah",
+    "company": "EURL WORD VET",
+    "company_name_ar": "",
+    "number": 217,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "Cite guenani153/353 Commune : Djelfa",
+    "company": "SARL PHOENIX PHARM VET",
+    "company_name_ar": "",
+    "number": 218,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "Rue sidi nail 221/B25 Commune :Dar\nchioukh",
+    "company": "EURL OMAR VETO",
+    "company_name_ar": "",
+    "number": 219,
+    "wilaya": "Djelfa"
+  },
+  {
+    "address": "CITE OUCHTATI MRAHI KHROUB",
+    "company": "EURL RBCO",
+    "company_name_ar": "",
+    "number": 220,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "CITE 08 MAI 45, KHROUB",
+    "company": "EURL CIRTA AHP",
+    "company_name_ar": "",
+    "number": 221,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "N° 689 LOTISSEMENT EL MANAR, KHROUB",
+    "company": "SNC NEW ANIMALIA PHARM",
+    "company_name_ar": "",
+    "number": 222,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "N° 768 LOTISSEMENT EL MANAR, KHROUB",
+    "company": "EURL RAM VET",
+    "company_name_ar": "",
+    "number": 223,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "N° 04 CITE EL YASMINE, DIDOUCHE MOURAD",
+    "company": "EURL MILEV VET PHARM",
+    "company_name_ar": "",
+    "number": 224,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "78 CITE EL FEDJ, AIN EL BEY, CONSTANTINE.",
+    "company": "EURL LOUNA VET",
+    "company_name_ar": "",
+    "number": 225,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "CITE CHERAKET N° 03 ET 04 A, GANTRA KAHLA, H.BOUZIANE.",
+    "company": "EURL VPMV PHARM",
+    "company_name_ar": "",
+    "number": 226,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "CITE EL HAYET N° 226, KHROUB.",
+    "company": "SNC EL HIKMA VET",
+    "company_name_ar": "",
+    "number": 227,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "LOT 420 PLATEAU, AIN EL BEY, CONSTANTINE",
+    "company": "SARL MY VET PHARM",
+    "company_name_ar": "",
+    "number": 228,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "CITE ENNAKHIL DNC, MATLAA EL KAMAR N°04 BIS, CONSTANTINE.",
+    "company": "SARL SHOP VET",
+    "company_name_ar": "",
+    "number": 229,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "N°15 ANCIEN ABATTOIR, KHROUB",
+    "company": "EURL MIRO VET",
+    "company_name_ar": "",
+    "number": 230,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "CITE GERIC N° 188, ZOUAGHI, CONSTATINE.",
+    "company": "EURL QUICK VET",
+    "company_name_ar": "",
+    "number": 231,
+    "wilaya": "Constantine"
+  },
+  {
+    "address": "CITE SOMMAME N°87, SAIDA",
+    "company": "AZED VET",
+    "company_name_ar": "",
+    "number": 232,
+    "wilaya": "Saida"
+  },
+  {
+    "address": "Route de Ain El Hammam .Azazga",
+    "company": "SARL VETMA",
+    "company_name_ar": "",
+    "number": 233,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "Lotissement Bouaziz.T.Ouzou",
+    "company": "DJURDJURA VET",
+    "company_name_ar": "",
+    "number": 234,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "Azib Ahmed",
+    "company": "SARL SAFA VET",
+    "company_name_ar": "",
+    "number": 235,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "Thala alem local 1,2et 3  T ouzou",
+    "company": "SARL LIONCEAUX    VET",
+    "company_name_ar": "",
+    "number": 236,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "N°  8 /9/10COOP IMMOB LA CAPER AXE DU LYCEE DBK",
+    "company": "EURL CMMV",
+    "company_name_ar": "",
+    "number": 237,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "Lotissement Touares Draa Ben  Khedda",
+    "company": "EURL ORYX   PHARM",
+    "company_name_ar": "",
+    "number": 238,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "Tamda .Ouaguenoun",
+    "company": "EURL ASSIREM VET",
+    "company_name_ar": "",
+    "number": 239,
+    "wilaya": "Tizi Ouzou"
+  },
+  {
+    "address": "CITEE 20 AOUT 1956 N° 12, SEDRATA",
+    "company": "EURL TAK PHARM",
+    "company_name_ar": "",
+    "number": 240,
+    "wilaya": "Souk Ahras"
+  },
+  {
+    "address": "Oued El Hout N° 15     Commune El Eulma Wilaya Annaba",
+    "company": "EURL VBE  (Veto Bien Etre)",
+    "company_name_ar": "",
+    "number": 241,
+    "wilaya": "Annaba"
+  },
+  {
+    "address": "Cite Belaid Belkace 34 logts N°19               Commune El Eulma Wilaya Annaba",
+    "company": "Eurl BONE VET",
+    "company_name_ar": "",
+    "number": 242,
+    "wilaya": "Annaba"
+  },
+  {
+    "address": "Rue Larbi Ben Mhidi Lotissement Commune El Hadjar Wilaya Annaba",
+    "company": "EURL Medical Vet pharm",
+    "company_name_ar": "",
+    "number": 243,
+    "wilaya": "Annaba"
+  },
+  {
+    "address": "CITE EL AMEL N°02, COMMUNE D’EL BOUAGHI",
+    "company": "EURL VITIPHARM",
+    "company_name_ar": "",
+    "number": 244,
+    "wilaya": "Oum El Bouaghi"
+  },
+  {
+    "address": "MERDJET BAKHA, LOTISSEMENT N° 435 LOT N° 297, COMMUNE D’AIN M’LILA.",
+    "company": "EURL IMMEDGHACEN-VET",
+    "company_name_ar": "",
+    "number": 245,
+    "wilaya": "Oum El Bouaghi"
+  },
+  {
+    "address": "RUE ELMOSTAKBEL N°63, COMMUNE D’OUM EL BOUGHI",
+    "company": "SARL ABDI KLD PHAREM",
+    "company_name_ar": "",
+    "number": 246,
+    "wilaya": "Oum El Bouaghi"
+  },
+  {
+    "address": "LOTISSEMENT 280, LOT N° 251",
+    "company": "EURL NEXT SARANIM VET",
+    "company_name_ar": "",
+    "number": 247,
+    "wilaya": "Oum El Bouaghi"
+  },
+  {
+    "address": "CITE ESSAADA N°02 KHENCHELA",
+    "company": "SNC KAHINA FARM",
+    "company_name_ar": "",
+    "number": 248,
+    "wilaya": "KHENCHELA"
+  },
+  {
+    "address": "CITE 05 JUILLET KHENCHELA",
+    "company": "EURL NAZIM FARM",
+    "company_name_ar": "",
+    "number": 249,
+    "wilaya": "KHENCHELA"
+  }
+]

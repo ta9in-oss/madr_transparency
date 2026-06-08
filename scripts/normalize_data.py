@@ -1,5 +1,8 @@
 """
-Normalize existing scraped JSON files in-place.
+Normalize existing scraped JSON files.
+
+Reads from data/raw/ (immutable scraper output) and writes to data/ (normalized).
+Falls back to data/ if raw doesn't exist yet (first-run compatibility).
 
 Usage:
     python scripts/normalize_data.py           # deterministic only
@@ -29,12 +32,15 @@ from scraper.normalize import (
     _GROQ_QUEUE,
     _CACHE,
 )
+from scraper.config import DATA_DIR, RAW_DATA_DIR
 
-DATA_DIR = Path(__file__).parent.parent / "data"
+RAW_DIR = RAW_DATA_DIR  # data/raw/
+OUT_DIR = DATA_DIR       # data/
 
 
 def normalize_file(
-    path: Path,
+    in_path: Path,
+    out_path: Path,
     has_country: bool,
     has_category: bool,
     use_chem_cat: bool = False,
@@ -42,8 +48,13 @@ def normalize_file(
     use_material: bool = False,
     use_vet_type: bool = False,
 ) -> tuple[set[str], set[str]]:
-    """Normalize one file in-place. Returns (before_countries, after_countries)."""
-    with open(path, encoding="utf-8") as f:
+    """Normalize one file. Reads from in_path (raw), writes to out_path (normalized).
+    Falls back to out_path if in_path doesn't exist yet (first-run compat).
+    Returns (before_countries, after_countries).
+    """
+    # Fall back to out_path if raw doesn't exist yet (first-run compat)
+    read_path = in_path if in_path.exists() else out_path
+    with open(read_path, encoding="utf-8") as f:
         rows = json.load(f)
 
     before_countries: set[str] = set()
@@ -82,13 +93,17 @@ def normalize_file(
         if use_vet_type and "product_type" in row:
             row["product_type_label"] = decode_vet_product_type(row.get("product_type"))
 
-    with open(path, "w", encoding="utf-8") as f:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
 
-    name = path.name
+    name = out_path.name
+    src = "raw" if read_path == in_path else "data (fallback)"
     if has_country:
         xx = sum(1 for r in rows if r.get("country_of_origin") == "XX")
-        print(f"  {name}: country {len(before_countries)} unique → {len(after_countries)} unique  ({xx} XX remaining)")
+        print(f"  {name} [{src}]: country {len(before_countries)} unique → {len(after_countries)} unique  ({xx} XX remaining)")
+    elif not has_country and not has_category and not use_material and not use_vet_type:
+        print(f"  {name} [{src}]: passthrough (no normalization)")
     if has_category and (use_chem_cat or use_plant_cat):
         print(f"  {name}: category {len(before_cats)} unique → {len(after_cats)} unique")
     if use_material:
@@ -97,21 +112,23 @@ def normalize_file(
     return before_countries, after_countries
 
 
-# (path, has_country, has_category, use_chem_cat, use_plant_cat, use_material, use_vet_type)
+# (in_path, out_path, has_country, has_category, use_chem_cat, use_plant_cat, use_material, use_vet_type)
 FILES = [
-    (DATA_DIR / "agrochemicals.json",       True,  True,  True,  False, False, False),
-    (DATA_DIR / "plant-products.json",      True,  True,  False, True,  False, False),
-    (DATA_DIR / "seeds.json",               True,  False, False, False, True,  False),
-    (DATA_DIR / "seedlings.json",           True,  False, False, False, True,  False),
-    (DATA_DIR / "potato-seeds.json",        True,  False, False, False, False, False),
-    (DATA_DIR / "vet-authorizations.json",  True,  False, False, False, False, True),
+    (RAW_DIR / "agrochemicals.json",          OUT_DIR / "agrochemicals.json",          True,  True,  True,  False, False, False),
+    (RAW_DIR / "plant-products.json",         OUT_DIR / "plant-products.json",         True,  True,  False, True,  False, False),
+    (RAW_DIR / "seeds.json",                  OUT_DIR / "seeds.json",                  True,  False, False, False, True,  False),
+    (RAW_DIR / "seedlings.json",              OUT_DIR / "seedlings.json",              True,  False, False, False, True,  False),
+    (RAW_DIR / "potato-seeds.json",           OUT_DIR / "potato-seeds.json",           True,  False, False, False, False, False),
+    (RAW_DIR / "vet-authorizations.json",     OUT_DIR / "vet-authorizations.json",     True,  False, False, False, False, True),
+    (RAW_DIR / "vet-distributors.json",       OUT_DIR / "vet-distributors.json",       False, False, False, False, False, False),
+    (RAW_DIR / "vet-medicine-importers.json", OUT_DIR / "vet-medicine-importers.json", False, False, False, False, False, False),
 ]
 
 
 def run_pass(label: str) -> None:
     print(f"\n{label}")
-    for path, hc, hcat, chem, plant, mat, vet in FILES:
-        normalize_file(path, hc, hcat, chem, plant, mat, vet)
+    for in_path, out_path, hc, hcat, chem, plant, mat, vet in FILES:
+        normalize_file(in_path, out_path, hc, hcat, chem, plant, mat, vet)
 
 
 def main() -> None:

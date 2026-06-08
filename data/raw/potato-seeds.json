@@ -1,0 +1,352 @@
+[
+  {
+    "category": "CERTIFIE",
+    "company": "SARL NUTAGRA",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "POMME DE TERRE",
+    "material_type": "TUBERCULES",
+    "production_zone": "HOLLANDE",
+    "variety": "SPUNTA"
+  },
+  {
+    "category": "CERTIFIE",
+    "company": "SARL NUTAGRA",
+    "company_name_ar": "",
+    "country_of_origin": "MT",
+    "known_name": "POMME DE TERRE",
+    "material_type": "TUBERCULES",
+    "production_zone": "DANMARK",
+    "variety": "BARTINA / SPUNTA"
+  },
+  {
+    "category": "E, A",
+    "company": "SARL SUDA",
+    "company_name_ar": "",
+    "country_of_origin": "BE",
+    "known_name": "Pomme de terre",
+    "material_type": "semence",
+    "production_zone": "Europe",
+    "variety": "Spunta"
+  },
+  {
+    "category": "SEMENCE de pomme de terre",
+    "company": "SARL BOURACHED FILAHA",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terrre",
+    "material_type": "SEMENCE",
+    "production_zone": "PAYS BAS",
+    "variety": "barcelona A 90T/ corazon A 120T/dunastar A 190T/ evolution A 250T/ meryem A 90T /paradiso A 90T/ rudolph A 530T / arizona E 1500T / rudolph E 500T / maryem E30 / paradiso 10T"
+  },
+  {
+    "category": "",
+    "company": "SARL BOURACHED FILAHA",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terrre",
+    "material_type": "semences",
+    "production_zone": "bays bas",
+    "variety": "barcelona A 90T/ corazon A 120T/dunastar A 190T/ evolution A 250T/ lugano A 30T/ meryem A 90T /paradiso A 90T/ rudolph A 500T / arizona E 1500T / rudolph E 500T / maryem E30 / paradiso 10T"
+  },
+  {
+    "category": "E, A",
+    "company": "SARL SUDA",
+    "company_name_ar": "",
+    "country_of_origin": "BE",
+    "known_name": "pomme de terre",
+    "material_type": "semence",
+    "production_zone": "europe",
+    "variety": "SPUNTA"
+  },
+  {
+    "category": "Semence de pomme de terre",
+    "company": "SARL CASAP",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "Pomme de terre",
+    "material_type": "Semence",
+    "production_zone": "Hollande",
+    "variety": "Fabula, Rashida"
+  },
+  {
+    "category": "TUBERCULE DE POMME DE TERRE",
+    "company": "DANIMEX ALGERIA SARL",
+    "company_name_ar": "",
+    "country_of_origin": "DK",
+    "known_name": "POMME DE TERRE",
+    "material_type": "TUBERCULES",
+    "production_zone": "DANEMARK",
+    "variety": "TOKAI – EUNIKE"
+  },
+  {
+    "category": "NEANT",
+    "company": "EURL ABED ISMAINE NOUFEL  AGRICULTURE",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "SEMENCES DE POMME DE TERRE",
+    "material_type": "SEMENCES",
+    "production_zone": "PAYS BAS",
+    "variety": "BARTINA- FABULA-RASHIDA- SYLVANA-SPUNTA"
+  },
+  {
+    "category": "NEANT",
+    "company": "EURL CULTISEED ALGERIE",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "SEMENCES DE POMME DE TERRE",
+    "material_type": "SEMENCES",
+    "production_zone": "PAYS BAS",
+    "variety": "BARTINA- FABULA-RASHIDA- SYLVANA"
+  },
+  {
+    "category": "",
+    "company": "SARL SOPHOM",
+    "company_name_ar": "",
+    "country_of_origin": "DK",
+    "known_name": "SOLANACEES",
+    "material_type": "SEMENCES DE POMME DE TERRE",
+    "production_zone": "DANEMARK",
+    "variety": "SPUNTA , ROYAL, SARPOMIRA, DESIREE, RED BULLET, ELINOR"
+  },
+  {
+    "category": "",
+    "company": "SARL AGROMOSTA",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "POMME DE TERRE",
+    "material_type": "semence",
+    "production_zone": "HOLLANDE",
+    "variety": "BABO/ CONNECT/ EDISON/ GAYA/ LAPERLA/REZA/ TIDA/ TUBA/"
+  },
+  {
+    "category": "E , A",
+    "company": "sarl suda",
+    "company_name_ar": "",
+    "country_of_origin": "MT",
+    "known_name": "Semence pomme de terre",
+    "material_type": "Semence",
+    "production_zone": "Europe",
+    "variety": "ADIB"
+  },
+  {
+    "category": "Semences",
+    "company": "Sarl PGP",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "Pomme de terre",
+    "material_type": "Semences",
+    "production_zone": "Bays bas – Danemark",
+    "variety": "Meryem A – Rudolph A -Evolution A – Arizona A – Spunta A  – Arizona E – Evolution E – Barcelona E -Dunastar E -Paradisio E – Kuroda E – Rudolph E – Spunta E – Rudolph SE"
+  },
+  {
+    "category": "CERTIFIE",
+    "company": "SARL NUTAGRA",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "POMME DE TERRE",
+    "material_type": "TUBERCULES",
+    "production_zone": "HOLLANDE ET DANMARK",
+    "variety": "BARTINA / SPUNTA / CARTAGENA / MARCELLE"
+  },
+  {
+    "category": "Certifié",
+    "company": "SARL NUTAGRA",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "POMME DE TERRE",
+    "material_type": "TUBERCULES",
+    "production_zone": "HOLLANDE ET DANMARK",
+    "variety": "BARTINA / SPUNTA / CARTAGENA / MARCELLE"
+  },
+  {
+    "category": "Tubercules de pomme de terre",
+    "company": "SARL AGROSEMILLAS",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "Pomme de terre",
+    "material_type": "tubercules",
+    "production_zone": "Hollande",
+    "variety": "FABULA/RASHIDA"
+  },
+  {
+    "category": "",
+    "company": "SARL AGRO TOP LINA",
+    "company_name_ar": "",
+    "country_of_origin": "MT",
+    "known_name": "SEMENCE DE POMME DE TERRE",
+    "material_type": "SEMENCES",
+    "production_zone": "LA HOLLANDE",
+    "variety": "FABULA “A”-FABULA “E” – RASHIDA “A”-RASHIDA “E”-SPUNTA “A”- SPUNTA “E”"
+  },
+  {
+    "category": "/",
+    "company": "EURL AGRO FERTI MAG",
+    "company_name_ar": "",
+    "country_of_origin": "CN",
+    "known_name": "Courge",
+    "material_type": "Semences",
+    "production_zone": "Chine",
+    "variety": "TELMA"
+  },
+  {
+    "category": "semence",
+    "company": "Sarl SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "semence",
+    "production_zone": "emmeloord",
+    "variety": "ARIZONA E-SPUNTA E"
+  },
+  {
+    "category": "/",
+    "company": "EURL AGRO FERTI MAG",
+    "company_name_ar": "",
+    "country_of_origin": "DK",
+    "known_name": "Pomme de terre",
+    "material_type": "Semences",
+    "production_zone": "Danemark et Holland",
+    "variety": "SPUNTA/ DUNASTAR /BARCELONA /NUBILA"
+  },
+  {
+    "category": "semence",
+    "company": "Sarl SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "semence",
+    "production_zone": "emmeloord",
+    "variety": "spunta-Arizona-"
+  },
+  {
+    "category": "semence",
+    "company": "Sarl BMHAgri",
+    "company_name_ar": "",
+    "country_of_origin": "CN",
+    "known_name": "Melon // Watermelon",
+    "material_type": "semence",
+    "production_zone": "chine",
+    "variety": "Adams F1 // Aylane35 F1"
+  },
+  {
+    "category": "/",
+    "company": "SARL ECOFERTI",
+    "company_name_ar": "",
+    "country_of_origin": "CN",
+    "known_name": "COURGETTE / PASTEQUE",
+    "material_type": "SEMENCE",
+    "production_zone": "CHINE / HONG KONG",
+    "variety": "ANGEL / ALVATINO"
+  },
+  {
+    "category": "semence",
+    "company": "Sarl SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "semence",
+    "production_zone": "emmeloord",
+    "variety": "RUDOLPH  SE"
+  },
+  {
+    "category": "CERTIFIE",
+    "company": "Sarl Groupe Arabe production et Approvisionnement agricole",
+    "company_name_ar": "",
+    "country_of_origin": "JO",
+    "known_name": "TOMATE",
+    "material_type": "SEMENCE CERTIFIE",
+    "production_zone": "JORDANIE",
+    "variety": "SAVANA F1"
+  },
+  {
+    "category": "semence",
+    "company": "Sarl SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "semence",
+    "production_zone": "PAYS BAS",
+    "variety": "ALOUETTE-ARIZONA-EVOLUTION-KURODA-MANITOU-RUDOLPH-SPUNTA VOGUE"
+  },
+  {
+    "category": "semence",
+    "company": "Sarl SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "semence",
+    "production_zone": "PAYS BAS",
+    "variety": "ALOUETTE-ARIZONA-EVOLUTION-KURODA-MANITOU-RUDOLPH-SPUNTA VOGUE"
+  },
+  {
+    "category": "SEMENCE",
+    "company": "SARL SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "SEMENCE",
+    "production_zone": "Pays Bas",
+    "variety": "FABULA"
+  },
+  {
+    "category": "SEMENCE",
+    "company": "SARL SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "SEMENCE",
+    "production_zone": "Pays Bas",
+    "variety": "bartina"
+  },
+  {
+    "category": "SEMENCE",
+    "company": "SARL SODAGRI MATERIELS AGRICOLES",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "SEMENCE",
+    "production_zone": "Pays Bas",
+    "variety": "bartina"
+  },
+  {
+    "category": "pomme de terre semence certifie",
+    "company": "COOPERATIVE EL FEDJR N°19 A MOSTAGANEM",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "Pomme de terre Semence",
+    "material_type": "Tubercules",
+    "production_zone": "Hollande et Danemark",
+    "variety": "Blanche: Spunta Hollande-Spunta Danemark-Arizona-Vogue-Levante-Paradiso Rouge : Alouette-Amorosa-Corazon-Meryem-Rudolph-Kuroda-Evolution"
+  },
+  {
+    "category": "Semences",
+    "company": "SARL AGRO TOP LINA",
+    "company_name_ar": "",
+    "country_of_origin": "MT",
+    "known_name": "Semence de Pomme de Terre",
+    "material_type": "Semences",
+    "production_zone": "La Hollande",
+    "variety": "Bartina “A”-Bartina”E”-Canberra”A”-Desiree”A”-Memphis”A”-Panamera”A”-Sagitta”A”-Spunta”A”-Spunta”E”"
+  },
+  {
+    "category": "semence",
+    "company": "SARL SOLDIPRA",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "semence de pomme de terre",
+    "material_type": "semence",
+    "production_zone": "emmeloord",
+    "variety": "spunta"
+  },
+  {
+    "category": "Certifiés",
+    "company": "Sarl PGP",
+    "company_name_ar": "",
+    "country_of_origin": "NL",
+    "known_name": "Pomme de terre",
+    "material_type": "Semence  de pomme de terre",
+    "production_zone": "P.O. Box 70, 8300 AB Emmeloord, The Netherlands",
+    "variety": "ALOUETTE  E – ARIZONA E –  CORAZON A – EVOLUTION  A- KURODA A –  KURODA E –  MANITOU A – MERYEM A – PARADISO A – RUDOLPH A –  RUDOLPH E –  SPUNTA A – SPUNTA E –  VOGUE A"
+  }
+]
