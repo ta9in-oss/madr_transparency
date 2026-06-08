@@ -13,7 +13,10 @@ interface Props {
   next?: ChapterLink;
 }
 
-const { prev, next } = Astro.props;
+const { lang, prev, next } = Astro.props;
+const isRtl = lang === 'ar';
+const prevArrow = isRtl ? '→' : '←';
+const nextArrow = isRtl ? '←' : '→';
 ---
 
 <nav class="border-t border-line mt-16 pt-10 grid grid-cols-2 gap-4" aria-label="التنقل بين الفصول">
@@ -23,7 +26,7 @@ const { prev, next } = Astro.props;
         href={prev.href}
         class="group flex flex-col gap-1 p-5 border border-line rounded-lg hover:border-forest transition-colors"
       >
-        <span class="text-xs font-mono text-muted tracking-widest">السابق →</span>
+        <span class="text-xs font-mono text-muted tracking-widest">السابق {prevArrow}</span>
         <span class="text-xs font-mono text-forest">{prev.num}</span>
         <span class="font-display font-bold text-ink group-hover:text-forest transition-colors">{prev.title}</span>
       </a>
@@ -35,7 +38,7 @@ const { prev, next } = Astro.props;
         href={next.href}
         class="group flex flex-col gap-1 p-5 border border-line rounded-lg hover:border-forest transition-colors text-end w-full"
       >
-        <span class="text-xs font-mono text-muted tracking-widest">← التالي</span>
+        <span class="text-xs font-mono text-muted tracking-widest">{nextArrow} التالي</span>
         <span class="text-xs font-mono text-forest">{next.num}</span>
         <span class="font-display font-bold text-ink group-hover:text-forest transition-colors">{next.title}</span>
       </a>
