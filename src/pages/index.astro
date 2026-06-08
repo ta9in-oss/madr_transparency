@@ -26,7 +26,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch2_lead'),
     href:  '/chemicals',
     count: insights.chemicals.total,
-    hook:  '900 منتج من إسبانيا وحدها. ما الذي يُرش على طماطمك؟',
+    hook:  `${insights.chemicals.spain_count.toLocaleString()} منتج من إسبانيا وحدها. ما الذي يُرش على طماطمك؟`,
   },
   {
     num:   t(lang, 'chapters.ch3_num'),
@@ -34,7 +34,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch3_lead'),
     href:  '/players',
     count: insights.players.total_permits,
-    hook:  'شركة واحدة = 448 رخصة. من يتحكم في سلسلة غذائنا؟',
+    hook:  `شركة واحدة = ${insights.players.top_companies[0].count} رخصة. من يتحكم في سلسلة غذائنا؟`,
   },
   {
     num:   t(lang, 'chapters.ch4_num'),
@@ -42,7 +42,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch4_lead'),
     href:  '/veterinary',
     count: insights.veterinary.auth_count + insights.veterinary.distributor_count + insights.veterinary.importer_count,
-    hook:  '19 ولاية بلا دواء بيطري. المواشي في الهامش.',
+    hook:  `${insights.veterinary.wilayas_absent} ولاية بلا دواء بيطري. المواشي في الهامش.`,
   },
 ];
 ---

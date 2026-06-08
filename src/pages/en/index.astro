@@ -26,7 +26,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch2_lead'),
     href:  '/en/chemicals',
     count: insights.chemicals.total,
-    hook:  '900 products from Spain alone. What is being sprayed on your tomatoes?',
+    hook:  `${insights.chemicals.spain_count.toLocaleString()} products from Spain alone. What is being sprayed on your tomatoes?`,
   },
   {
     num:   t(lang, 'chapters.ch3_num'),
@@ -34,7 +34,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch3_lead'),
     href:  '/en/players',
     count: insights.players.total_permits,
-    hook:  'One company = 448 licenses. Who controls our food supply chain?',
+    hook:  `One company = ${insights.players.top_companies[0].count} licenses. Who controls our food supply chain?`,
   },
   {
     num:   t(lang, 'chapters.ch4_num'),
@@ -42,7 +42,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch4_lead'),
     href:  '/en/veterinary',
     count: insights.veterinary.auth_count + insights.veterinary.distributor_count + insights.veterinary.importer_count,
-    hook:  '19 wilayas with no veterinary medicine. Livestock on the margins.',
+    hook:  `${insights.veterinary.wilayas_absent} wilayas with no veterinary medicine. Livestock on the margins.`,
   },
 ];
 ---

@@ -26,7 +26,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch2_lead'),
     href:  '/fr/chemicals',
     count: insights.chemicals.total,
-    hook:  '900 produits d\'Espagne seulement. Que pulvérise-t-on sur vos tomates ?',
+    hook:  `${insights.chemicals.spain_count.toLocaleString()} produits d'Espagne seulement. Que pulvérise-t-on sur vos tomates ?`,
   },
   {
     num:   t(lang, 'chapters.ch3_num'),
@@ -34,7 +34,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch3_lead'),
     href:  '/fr/players',
     count: insights.players.total_permits,
-    hook:  'Une seule entreprise = 448 licences. Qui contrôle notre chaîne alimentaire ?',
+    hook:  `Une seule entreprise = ${insights.players.top_companies[0].count} licences. Qui contrôle notre chaîne alimentaire ?`,
   },
   {
     num:   t(lang, 'chapters.ch4_num'),
@@ -42,7 +42,7 @@ const chapters = [
     lead:  t(lang, 'chapters.ch4_lead'),
     href:  '/fr/veterinary',
     count: insights.veterinary.auth_count + insights.veterinary.distributor_count + insights.veterinary.importer_count,
-    hook:  '19 wilayas sans médicament vétérinaire. Le bétail en marge.',
+    hook:  `${insights.veterinary.wilayas_absent} wilayas sans médicament vétérinaire. Le bétail en marge.`,
   },
 ];
 ---
