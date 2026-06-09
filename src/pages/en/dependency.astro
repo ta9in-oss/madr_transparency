@@ -83,32 +83,41 @@ const plantCatData = Object.entries(
   }))
   .sort((a, b) => b.count - a.count);
 
-const explorerRows = plantProducts.map((r) => ({
-  company:  r.companyNameAr || r.company,
-  product:  r.knownName,
-  variety:  r.variety,
-  category: PLANT_CATEGORY_LABELS[r.category]?.[lang] ?? r.category,
-  origin:   countryName(r.countryOfOrigin, lang),
-}));
-
-const seedExplorerRows = [...seeds, ...seedlings, ...potatoSeeds].map((r) => ({
-  company:  (r as any).companyNameAr || r.company,
-  variety:  r.variety,
-  material: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? ((r as any).materialType ?? ''),
-  origin:   countryName(r.countryOfOrigin, lang),
-}));
-
-const seedExplorerColumns = [
-  { key: 'company',  label: 'Company' },
-  { key: 'variety',  label: 'Variety',       mono: true },
-  { key: 'material', label: 'Material type', mono: true },
-  { key: 'origin',   label: 'Origin',        mono: true },
+const combinedExplorerRows = [
+  ...plantProducts.map((r) => ({
+    company:  r.companyNameAr || r.company,
+    variety:  r.variety || r.knownName || '—',
+    sector:   'Plant products',
+    category: PLANT_CATEGORY_LABELS[r.category]?.[lang] ?? r.category,
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
+  ...seeds.map((r) => ({
+    company:  (r as any).companyNameAr || r.company,
+    variety:  r.variety || '—',
+    sector:   'Seeds',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
+  ...seedlings.map((r) => ({
+    company:  (r as any).companyNameAr || r.company,
+    variety:  r.variety || '—',
+    sector:   'Seedlings',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
+  ...potatoSeeds.map((r) => ({
+    company:  (r as any).companyNameAr || r.company,
+    variety:  r.variety || '—',
+    sector:   'Potato seeds',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
 ];
 
 const explorerColumns = [
-  { key: 'company',  label: 'Company'   },
-  { key: 'product',  label: 'Product',  mono: true },
+  { key: 'company',  label: 'Company'  },
   { key: 'variety',  label: 'Variety',  mono: true },
+  { key: 'sector',   label: 'Sector',   mono: true },
   { key: 'category', label: 'Category', mono: true },
   { key: 'origin',   label: 'Origin',   mono: true },
 ];
@@ -205,25 +214,24 @@ const explorerI18n = {
     </h2>
 
     <DataExplorer
-      rows={explorerRows}
+      rows={combinedExplorerRows}
       columns={explorerColumns}
-      searchKeys={['company', 'product', 'variety', 'origin']}
-      filterKey="category"
+      searchKeys={['company', 'variety', 'origin']}
+      filterKey="sector"
       i18n={explorerI18n}
       client:visible
     />
 
-    <h2 class="font-display font-bold text-display-sm text-ink mt-14 mb-6">
-      Seeds &amp; Seedlings Explorer
-    </h2>
-    <DataExplorer
-      rows={seedExplorerRows}
-      columns={seedExplorerColumns}
-      searchKeys={['company', 'variety']}
-      filterKey="material"
-      i18n={explorerI18n}
-      client:visible
-    />
+    {/* Download section */}
+    <div class="mt-10 mb-4 p-5 rounded-lg bg-surface border border-line max-w-2xl">
+      <p class="text-xs font-mono font-bold text-forest mb-3">Download source data (JSON)</p>
+      <div class="flex flex-wrap gap-2">
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/plant-products.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Plant products (164 KB)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/seeds.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Seeds (704 KB)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/seedlings.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Seedlings (120 KB)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/potato-seeds.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Potato seeds (12 KB)</a>
+      </div>
+    </div>
 
     {/* Data quality note */}
     <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(252,92,101,0.04); border: 1px solid rgba(252,92,101,0.18);">

@@ -83,34 +83,43 @@ const plantCatData = Object.entries(
   }))
   .sort((a, b) => b.count - a.count);
 
-const explorerRows = plantProducts.map((r) => ({
-  company:  r.companyNameAr || r.company,
-  product:  r.knownName,
-  variety:  r.variety,
-  category: PLANT_CATEGORY_LABELS[r.category]?.[lang] ?? r.category,
-  origin:   countryName(r.countryOfOrigin, lang),
-}));
-
-const seedExplorerRows = [...seeds, ...seedlings, ...potatoSeeds].map((r) => ({
-  company:  (r as any).companyNameAr || r.company,
-  variety:  r.variety,
-  material: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? ((r as any).materialType ?? ''),
-  origin:   countryName(r.countryOfOrigin, lang),
-}));
-
-const seedExplorerColumns = [
-  { key: 'company',  label: 'Entreprise' },
-  { key: 'variety',  label: 'Variété',          mono: true },
-  { key: 'material', label: 'Type de matière',   mono: true },
-  { key: 'origin',   label: 'Origine',           mono: true },
+const combinedExplorerRows = [
+  ...plantProducts.map((r) => ({
+    company:  r.companyNameAr || r.company,
+    variety:  r.variety || r.knownName || '—',
+    sector:   'Produits végétaux',
+    category: PLANT_CATEGORY_LABELS[r.category]?.[lang] ?? r.category,
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
+  ...seeds.map((r) => ({
+    company:  (r as any).companyNameAr || r.company,
+    variety:  r.variety || '—',
+    sector:   'Semences',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
+  ...seedlings.map((r) => ({
+    company:  (r as any).companyNameAr || r.company,
+    variety:  r.variety || '—',
+    sector:   'Plants',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
+  ...potatoSeeds.map((r) => ({
+    company:  (r as any).companyNameAr || r.company,
+    variety:  r.variety || '—',
+    sector:   'Pomme de terre',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    origin:   countryName(r.countryOfOrigin, lang),
+  })),
 ];
 
 const explorerColumns = [
-  { key: 'company',  label: 'Entreprise'  },
-  { key: 'product',  label: 'Produit',  mono: true },
-  { key: 'variety',  label: 'Variété',  mono: true },
+  { key: 'company',  label: 'Entreprise' },
+  { key: 'variety',  label: 'Variété',   mono: true },
+  { key: 'sector',   label: 'Secteur',   mono: true },
   { key: 'category', label: 'Catégorie', mono: true },
-  { key: 'origin',   label: 'Origine',  mono: true },
+  { key: 'origin',   label: 'Origine',   mono: true },
 ];
 
 const tr = getTranslations(lang);
@@ -205,25 +214,24 @@ const explorerI18n = {
     </h2>
 
     <DataExplorer
-      rows={explorerRows}
+      rows={combinedExplorerRows}
       columns={explorerColumns}
-      searchKeys={['company', 'product', 'variety', 'origin']}
-      filterKey="category"
+      searchKeys={['company', 'variety', 'origin']}
+      filterKey="sector"
       i18n={explorerI18n}
       client:visible
     />
 
-    <h2 class="font-display font-bold text-display-sm text-ink mt-14 mb-6">
-      Explorateur semences &amp; plants
-    </h2>
-    <DataExplorer
-      rows={seedExplorerRows}
-      columns={seedExplorerColumns}
-      searchKeys={['company', 'variety']}
-      filterKey="material"
-      i18n={explorerI18n}
-      client:visible
-    />
+    {/* Download section */}
+    <div class="mt-10 mb-4 p-5 rounded-lg bg-surface border border-line max-w-2xl">
+      <p class="text-xs font-mono font-bold text-forest mb-3">Télécharger les données sources (JSON)</p>
+      <div class="flex flex-wrap gap-2">
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/plant-products.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Produits végétaux (164 Ko)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/seeds.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Semences (704 Ko)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/seedlings.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Plants (120 Ko)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/potato-seeds.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Pomme de terre (12 Ko)</a>
+      </div>
+    </div>
 
     {/* Data quality note */}
     <div class="mb-10 max-w-2xl p-5 rounded-lg" style="background: rgba(252,92,101,0.04); border: 1px solid rgba(252,92,101,0.18);">

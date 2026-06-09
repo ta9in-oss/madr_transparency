@@ -192,7 +192,7 @@ const explorerI18n = {
     </div>
 
     <h2 class="font-display font-bold text-display-sm text-ink mb-6">
-      {t(lang, 'chapters.ch4_title')}
+      {t(lang, 'chapters.explore')}
     </h2>
     <DataExplorer
       rows={explorerRows}
@@ -203,17 +203,15 @@ const explorerI18n = {
       client:visible
     />
 
-    <h2 class="font-display font-bold text-display-sm text-ink mt-14 mb-6">
-      Vet Authorizations Explorer
-    </h2>
-    <DataExplorer
-      rows={authExplorerRows}
-      columns={authExplorerColumns}
-      searchKeys={['company', 'auth_num']}
-      filterKey="type"
-      i18n={explorerI18n}
-      client:visible
-    />
+    {/* Download section */}
+    <div class="mt-10 mb-4 p-5 rounded-lg bg-surface border border-line max-w-2xl">
+      <p class="text-xs font-mono font-bold text-forest mb-3">Download source data (JSON)</p>
+      <div class="flex flex-wrap gap-2">
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/vet-distributors.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Vet distributors (48 KB)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/vet-authorizations.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Vet authorizations (64 KB)</a>
+        <a href="https://raw.githubusercontent.com/ta9in-oss/madr_transparency/main/data/vet-medicine-importers.json" download class="text-xs font-mono px-3 py-1.5 rounded border border-line bg-white text-forest hover:bg-surface transition-colors">Medicine importers (16 KB)</a>
+      </div>
+    </div>
 
     {narrative && (
       <div class="mb-10 max-w-2xl p-5 rounded-lg bg-surface border border-line" style="border-left: 3px solid #2d6a4f;">
