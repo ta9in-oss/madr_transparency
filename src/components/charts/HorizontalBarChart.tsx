@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useMemo, useEffect } from 'react';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip,
   ResponsiveContainer, Cell, LabelList,
@@ -34,6 +34,14 @@ export function HorizontalBarChart({
 
   const barHeight = 28;
   const chartHeight = sorted.length * barHeight + 60;
+
+  // recharts 3 + Astro client:visible: ResizeObserver update gets batched and
+  // never flushes on initial hydration. Dispatching resize forces recharts to
+  // re-measure and render the SVG.
+  useEffect(() => {
+    const id = requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
+    return () => cancelAnimationFrame(id);
+  }, []);
 
   return (
     <div className="w-full" style={{ direction: 'ltr' }}>
