@@ -3,6 +3,24 @@ import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
 
 const GEO_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
 
+// world-atlas@2 uses ISO 3166-1 numeric codes as string IDs (e.g. '724' for Spain).
+// geo.properties.ISO_A2 does not exist in this dataset — map numeric → alpha-2 manually.
+const NUMERIC_TO_ISO2: Record<string, string> = {
+  '012': 'DZ', '724': 'ES', '380': 'IT', '156': 'CN', '400': 'JO', '792': 'TR',
+  '276': 'DE', '620': 'PT', '682': 'SA', '356': 'IN', '056': 'BE', '764': 'TH',
+  '528': 'NL', '348': 'HU', '826': 'GB', '840': 'US', '643': 'RU', '392': 'JP',
+  '300': 'GR', '036': 'AU', '616': 'PL', '788': 'TN', '784': 'AE', '705': 'SI',
+  '152': 'CL', '196': 'CY', '410': 'KR', '208': 'DK', '818': 'EG', '100': 'BG',
+  '352': 'IS', '458': 'MY', '578': 'NO', '604': 'PE', '040': 'AT', '752': 'SE',
+  '076': 'BR', '188': 'CR', '710': 'ZA', '504': 'MA', '250': 'FR', '320': 'GT',
+  '170': 'CO', '218': 'EC', '484': 'MX', '554': 'NZ', '404': 'KE', '834': 'TZ',
+  '704': 'VN', '688': 'RS', '422': 'LB', '191': 'HR', '384': 'CI', '120': 'CM',
+  '591': 'PA', '032': 'AR', '756': 'CH', '203': 'CZ', '642': 'RO', '703': 'SK',
+  '440': 'LT', '376': 'IL', '702': 'SG', '364': 'IR', '434': 'LY', '760': 'SY',
+  '368': 'IQ', '729': 'SD', '686': 'SN', '858': 'UY', '360': 'ID', '586': 'PK',
+  '158': 'TW', '804': 'UA', '324': 'GN', '246': 'FI',
+};
+
 interface CountryDatum {
   iso: string;
   count: number;
@@ -60,11 +78,8 @@ export function WorldMap({ data, title }: Props) {
           <Geographies geography={GEO_URL}>
             {({ geographies }: { geographies: any[] }) =>
               geographies.map((geo) => {
-                // react-simple-maps exposes ISO_A2 on naturalEarth features;
-                // world-atlas 110m uses numeric IDs but react-simple-maps
-                // also exposes the numeric id via geo.id
-                const iso2 = (geo.properties?.ISO_A2 ?? '') as string;
                 const numericId = String(geo.id ?? '');
+                const iso2 = NUMERIC_TO_ISO2[numericId] ?? '';
                 const isAlgeria = numericId === '012';
                 const count = countByIso[iso2] ?? 0;
                 const label = labelByIso[iso2] ?? iso2;
