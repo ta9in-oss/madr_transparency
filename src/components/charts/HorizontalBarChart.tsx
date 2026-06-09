@@ -103,9 +103,24 @@ export function HorizontalBarChart({
             ))}
             <LabelList
               dataKey="count"
-              position={isRtl ? 'left' : 'right'}
-              style={{ fontSize: 11, fontFamily: 'ui-monospace, monospace', fill: '#6b7280' }}
-              formatter={(v: number) => v.toLocaleString()}
+              content={(props: any) => {
+                const { x, y, width, height, value } = props;
+                // recharts renders RTL bars with negative width (x=zero_edge, width=-ve).
+                // position='left'/'right' doesn't account for this, so labels land on the
+                // Y axis labels. Manually compute the visual tip of the bar.
+                const tipX = isRtl ? x + width - 4 : x + width + 4;
+                return (
+                  <text
+                    x={tipX}
+                    y={y + height / 2}
+                    textAnchor={isRtl ? 'end' : 'start'}
+                    dominantBaseline="middle"
+                    style={{ fontSize: 11, fontFamily: 'ui-monospace, monospace', fill: '#6b7280' }}
+                  >
+                    {(value as number).toLocaleString()}
+                  </text>
+                );
+              }}
             />
           </Bar>
         </BarChart>
