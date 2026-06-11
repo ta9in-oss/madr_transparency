@@ -86,30 +86,30 @@ const plantCatData = Object.entries(
 const combinedExplorerRows = [
   ...plantProducts.map((r) => ({
     company:  r.companyNameAr || r.company,
-    variety:  r.variety || r.knownName || '—',
+    variety:  r.variety || r.knownName || '',
     sector:   'Plant products',
     category: PLANT_CATEGORY_LABELS[r.category]?.[lang] ?? r.category,
     origin:   countryName(r.countryOfOrigin, lang),
   })),
   ...seeds.map((r) => ({
     company:  (r as any).companyNameAr || r.company,
-    variety:  r.variety || '—',
+    variety:  r.variety || '',
     sector:   'Seeds',
-    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '',
     origin:   countryName(r.countryOfOrigin, lang),
   })),
   ...seedlings.map((r) => ({
     company:  (r as any).companyNameAr || r.company,
-    variety:  r.variety || '—',
+    variety:  r.variety || '',
     sector:   'Seedlings',
-    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '',
     origin:   countryName(r.countryOfOrigin, lang),
   })),
   ...potatoSeeds.map((r) => ({
     company:  (r as any).companyNameAr || r.company,
-    variety:  r.variety || '—',
+    variety:  r.variety || '',
     sector:   'Potato seeds',
-    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '—',
+    category: SEED_MATERIAL_LABELS[(r as any).materialType ?? '']?.[lang] ?? '',
     origin:   countryName(r.countryOfOrigin, lang),
   })),
 ];

@@ -166,7 +166,7 @@ export function WilayaGrid({ counts, title }: Props) {
                     gap: 1,
                   }}
                 >
-                  <span style={{ fontSize: 10, fontWeight: 700 }}>{count || '—'}</span>
+                  <span style={{ fontSize: 10, fontWeight: 700 }}>{count || ''}</span>
                   <span style={{ fontSize: 8, opacity: 0.85, textAlign: 'center', wordBreak: 'break-word' }}>
                     {cell.name.replace('Bordj Bou Arréridj', 'BBA')}
                   </span>

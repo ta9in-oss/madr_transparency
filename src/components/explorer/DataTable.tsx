@@ -13,7 +13,7 @@ interface Props {
   noResults?: string;
 }
 
-export function DataTable({ rows, columns, categoryKey, noResults = '—' }: Props) {
+export function DataTable({ rows, columns, categoryKey, noResults = '' }: Props) {
   if (rows.length === 0) {
     return (
       <div className="rounded border border-line px-4 py-6 text-center text-muted text-sm">
@@ -100,7 +100,7 @@ export function DataTable({ rows, columns, categoryKey, noResults = '—' }: Pro
                       col.mono ? 'font-mono text-data' : 'text-ink'
                     }`}
                   >
-                    {row[col.key] ?? '—'}
+                    {row[col.key] ?? ''}
                   </span>
                 </div>
               ))}

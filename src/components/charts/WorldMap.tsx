@@ -118,8 +118,8 @@ export function WorldMap({ data, title }: Props) {
             style={{ zIndex: 10 }}
           >
             {tooltip.isAlgeria
-              ? 'الجزائر — وجهة الاستيراد'
-              : `${tooltip.label} — ${tooltip.count.toLocaleString()}`}
+              ? 'الجزائر: وجهة الاستيراد'
+              : `${tooltip.label}: ${tooltip.count.toLocaleString()}`}
           </div>
         )}
       </div>

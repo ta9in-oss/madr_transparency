@@ -54,7 +54,7 @@ export function WilayaMap({ counts, title, lang = 'ar' }: Props) {
     setTooltip({
       x: e.clientX - svgRect.left + 10,
       y: e.clientY - svgRect.top - 28,
-      text: `${name} — ${cnt}`,
+      text: `${name}: ${cnt}`,
     });
   }
 
