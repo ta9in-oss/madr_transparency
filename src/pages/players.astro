@@ -36,17 +36,15 @@ const top10Licenses = top10.reduce((s, c) => s + c.totalLicenses, 0);
 const top10Pct = Math.round((top10Licenses / totalLicenses) * 100);
 
 const explorerRows = companies.map((c) => ({
-  company:    c.name,
-  company_ar: c.nameAr || '—',
-  sectors:    c.sectors.map(s => SECTOR_LABELS[s]?.[lang] ?? s).join(' · '),
-  licenses:   String(c.totalLicenses),
+  company:  c.name,
+  sectors:  c.sectors.map(s => SECTOR_LABELS[s]?.[lang] ?? s).join(' · '),
+  licenses: String(c.totalLicenses),
 }));
 
 const explorerColumns = [
-  { key: 'company',    label: 'الشركة (فرنسي)', mono: true },
-  { key: 'company_ar', label: 'الاسم العربي' },
-  { key: 'sectors',    label: 'القطاعات',       mono: true },
-  { key: 'licenses',   label: 'الرخص',          mono: true },
+  { key: 'company',  label: 'الشركة',   mono: true },
+  { key: 'sectors',  label: 'القطاعات', mono: true },
+  { key: 'licenses', label: 'الرخص',    mono: true },
 ];
 
 const tr = getTranslations(lang);
@@ -135,7 +133,7 @@ const explorerI18n = {
     <DataExplorer
       rows={explorerRows}
       columns={explorerColumns}
-      searchKeys={['company', 'company_ar', 'sectors']}
+      searchKeys={['company', 'sectors']}
       filterKey="sectors"
       i18n={explorerI18n}
       client:visible
