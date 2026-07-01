@@ -171,9 +171,9 @@
       }
     ],
     "narrative": {
-      "fr": "Les statistiques d'importation agricole révèlent une dominance écrasante des bananes, avec une part de 99,8% du total des fruits importés. Cette dépendance à l'égard de quelques pays pour les semences, tels que la Chine, les États-Unis et l'Inde, ainsi que les risques liés aux approvisionnements multi-sources, soulignent la nécessité d'une diversification de nos importations agricoles.",
-      "ar": "تظهر الإحصائيات التجارية الزراعية هيمنة قوية للموز، حيث تشكل نسبة 99.8% من إجمالي الفواكه المستوردة. وتبرز هذه الإحصائيات أيضًا اعتمادنا على بعض البلدان لاستيراد البذور، مثل الصين والولايات المتحدة والهند، بالإضافة إلى المخاطر المرتبطة بالتوريدات متعددة المصادر، مما يؤكد ضرورة تنويع وارداتنا الزراعية.",
-      "en": "Agricultural import statistics reveal a staggering dominance of bananas, accounting for 99.8% of total fruit imports. This dependency on a few countries for seeds, such as China, the US, and India, as well as the risks associated with multi-origin supplies, highlights the need for diversification of our agricultural imports."
+      "fr": "Les statistiques d'importation agricole révèlent une dominance écrasante des bananes, avec une part de 99,8% du total des fruits importés. Notre dépendance vis-à-vis de la Chine, des États-Unis et de l'Inde pour les semences, ainsi que les risques liés aux approvisionnements multi-sources, soulignent la nécessité d'une stratégie de diversification de nos importations.",
+      "ar": "تظهر الإحصائيات الخاصة بالاستيراد الزراعي هيمنة قوية للموز، بنسبة 99.8% من إجمالي الفواكه المستوردة. تعكس اعتمادنا على الصين والولايات المتحدة والهند لاستيراد البذور، بالإضافة إلى المخاطر المرتبطة بالتوريدات متعددة الأصول، الحاجة إلى استراتيجية لتنويع استيراداتنا.",
+      "en": "Agricultural import statistics reveal a staggering dominance of bananas, accounting for 99.8% of total fruit imports. Our reliance on China, the US, and India for seeds, coupled with the risks associated with multi-origin supplies, underscores the need for a diversification strategy for our imports."
     }
   },
   "chemicals": {
@@ -345,9 +345,9 @@
     "italy_count": 909,
     "china_count": 609,
     "narrative": {
-      "fr": "L'Algérie importe désormais plus de 5058 produits agrochimiques, avec l'Espagne en tête des fournisseurs, suivie de près par la Chine qui monte en puissance. Cette concentration du marché entre les mains de quelques pays et entreprises, dont PROFERT SPA et SARL CASAP, soulève des questions sur la diversification et la sécurité de l'approvisionnement algérien.",
-      "ar": "تستورد الجزائر الآن أكثر من 5058 منتجا كيميائيا زراعيا، مع إسبانيا في صدارة الموردين، يليها الصين التي تكتسب قوة. تركز هذا السوق بين أيدي بعض البلدان والشركات، بما في ذلك PROFERT SPA وSARL CASAP، يثير أسئلة حول التنويع وأمن الإمدادات الجزائرية.",
-      "en": "Algeria now imports over 5058 agrochemical products, with Spain leading the suppliers, closely followed by China which is gaining strength. This market concentration in the hands of a few countries and companies, including PROFERT SPA and SARL CASAP, raises questions about diversification and security of Algeria's supply."
+      "fr": "L'Algérie a importé 5058 agrochimiques, avec l'Espagne en tête des fournisseurs, suivie de près par la Chine qui monte en puissance. Cette concentration du marché entre les mains de quelques pays et entreprises soulève des questions sur la diversification et la sécurité de l'approvisionnement en intrants agricoles.",
+      "ar": "استوردت الجزائر 5058 مادة كيميائية زراعية، مع إسبانيا في صدارة الموردين، يليها الصين التي تكتسب قوة. تركز هذه السوق بين أيدي بعض البلدان والشركات يثير تساؤلات حول التنويع وأمن توريد المدخلات الزراعية.",
+      "en": "Algeria imported 5058 agrochemicals, with Spain leading the suppliers, closely followed by China which is rising in prominence. This market concentration in the hands of a few countries and companies raises questions about diversification and security of agricultural input supply."
     }
   },
   "players": {
@@ -438,9 +438,9 @@
     ],
     "hhi_index": 0.0112,
     "narrative": {
-      "fr": "Les dix premières entreprises détiennent 23,7% des permis, ce qui indique un niveau de concentration élevé du marché. L'indice de Herfindahl-Hirschman (HHI) de 0,0112 confirme ce constat, suggérant que le marché est caractérisé par une concentration modérée.",
-      "ar": "تملك الشركات العشر الأولى 23.7% من التصاريح، مما يشير إلى مستوى عال من تركيز السوق. يؤكد دليل هيرفندال-هيرشمان (HHI) البالغ 0.0112 على هذا الاستنتاج، مما يشير إلى أن السوق يتميز بتركيز معتدل.",
-      "en": "The top ten companies hold 23.7% of the permits, indicating a high level of market concentration. The Herfindahl-Hirschman Index (HHI) of 0.0112 confirms this finding, suggesting that the market is characterized by moderate concentration."
+      "fr": "Les dix premières entreprises détiennent 23,7% des permis, ce qui indique une concentration du marché. Avec un indice de Herfindahl-Hirschman (HHI) de 0,0112, le marché algérien présente un niveau de concentration faible à modéré, laissant place à une concurrence saine entre les acteurs.",
+      "ar": "تملك الشركات العشر الأولى 23.7% من التصاريح، مما يشير إلى تركيز السوق. مع مؤشر هيرفندال-هيرشمان (HHI) يبلغ 0.0112، يظهر السوق الجزائري مستوى تركيز منخفض إلى معتدل، مما يترك مجالاً لمنافسة صحية بين الجهات الفاعلة.",
+      "en": "The top ten companies hold 23.7% of the permits, indicating a concentrated market. With a Herfindahl-Hirschman Index (HHI) of 0.0112, the Algerian market exhibits a low to moderate level of concentration, allowing for healthy competition among players."
     }
   },
   "veterinary": {
@@ -567,10 +567,10 @@
       }
     },
     "narrative": {
-      "fr": "Les statistiques du secteur vétérinaire révèlent un manque criant de distributeurs dans 19 wilayas, notamment dans le sud de l'Algérie, où les besoins en produits vétérinaires sont importants. Il est essentiel de combler ce fossé pour assurer une couverture sanitaire équitable sur l'ensemble du territoire national.",
-      "ar": "تظهر الإحصائيات الخاصة بقطاع البيطرة وجود فراغ في تغطية الموزعين في 19 ولاية، لا سيما في جنوب الجزائر، حيث توجد احتياجات كبيرة للمنتجات البيطرية. من الضروري سد هذا الفج لتأمين تغطية صحية عادلة في جميع أنحاء التراب الوطني.",
-      "en": "The veterinary sector statistics reveal a glaring lack of distributors in 19 wilayas, particularly in southern Algeria, where the need for veterinary products is significant. It is crucial to bridge this gap to ensure equitable health coverage across the country."
+      "fr": "Les statistiques du secteur vétérinaire révèlent un manque de couverture de distributeurs dans 19 wilayas, dont la majorité se trouvent dans le sud de l'Algérie, ce qui souligne la nécessité de renforcer les infrastructures et les services vétérinaires dans ces régions. Il est essentiel de combler ce fossé pour assurer l'accès équitable aux produits et services vétérinaires à travers tout le pays.",
+      "ar": "تظهر الإحصائيات الخاصة بقطاع البيطرة وجود فجوة في تغطية الموزعين في 19 ولاية، معظمها في جنوب الجزائر، مما يبرز الحاجة إلى تعزيز البنية التحتية والخدمات البيطرية في هذه المناطق. من الضروري سد هذه الفجوة لضمان الوصول العادل إلى المنتجات والخدمات البيطرية في جميع أنحاء البلاد.",
+      "en": "The veterinary sector statistics reveal a lack of distributor coverage in 19 wilayas, mostly in southern Algeria, highlighting the need to strengthen infrastructure and veterinary services in these areas. It is crucial to bridge this gap to ensure equitable access to veterinary products and services across the country."
     }
   },
-  "generated_at": "2026-06-08T16:23:35.141322+00:00"
+  "generated_at": "2026-07-01T07:17:40.377210+00:00"
 }
