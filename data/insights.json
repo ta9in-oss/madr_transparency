@@ -3,86 +3,86 @@
     "total_records": 3958,
     "top_seed_countries": [
       {
-        "key": "CN",
-        "count": 419
-      },
-      {
-        "key": "IT",
-        "count": 364
-      },
-      {
         "key": "US",
-        "count": 297
-      },
-      {
-        "key": "IN",
-        "count": 277
-      },
-      {
-        "key": "TH",
         "count": 258
       },
       {
-        "key": "TR",
-        "count": 197
+        "key": "PG",
+        "count": 182
       },
       {
         "key": "FR",
-        "count": 170
+        "count": 148
       },
       {
-        "key": "PE",
-        "count": 133
+        "key": "IT",
+        "count": 88
       },
       {
-        "key": "JO",
-        "count": 116
+        "key": "IN",
+        "count": 48
+      },
+      {
+        "key": "TH",
+        "count": 47
       },
       {
         "key": "NZ",
-        "count": 114
+        "count": 33
+      },
+      {
+        "key": "JO",
+        "count": 24
+      },
+      {
+        "key": "CN",
+        "count": 23
+      },
+      {
+        "key": "KE",
+        "count": 21
       }
     ],
     "top_plant_countries": [
       {
         "key": "CR",
-        "count": 315
+        "count": 101
       },
       {
-        "key": "EC",
+        "key": "CD",
         "count": 75
       },
       {
-        "key": "CO",
-        "count": 53
-      },
-      {
         "key": "AR",
-        "count": 33
+        "count": 21
       },
       {
-        "key": "BR",
-        "count": 24
-      },
-      {
-        "key": "IT",
-        "count": 7
-      },
-      {
-        "key": "BE",
+        "key": "EC",
         "count": 3
-      },
-      {
-        "key": "TR",
-        "count": 2
       },
       {
         "key": "KE",
         "count": 2
       },
       {
-        "key": "EG",
+        "key": "CO",
         "count": 2
+      },
+      {
+        "key": "UA",
+        "count": 2
+      },
+      {
+        "key": "US",
+        "count": 1
+      },
+      {
+        "key": "GT",
+        "count": 1
+      },
+      {
+        "key": "BR",
+        "count": 1
       }
     ],
     "plant_category_breakdown": {
@@ -106,8 +106,8 @@
     "fruit_count": 446,
     "banana_count": 445,
     "banana_share_pct": 99.8,
-    "xx_count": 389,
-    "multi_origin_count": 151,
+    "xx_count": 2771,
+    "multi_origin_count": 464,
     "top_companies": [
       {
         "key": "GOLDEN FIELD",
@@ -171,70 +171,77 @@
       }
     ],
     "narrative": {
-      "fr": "L'Algérie est fortement dépendante de l'importation de semences, notamment de la Chine, des États-Unis et de l'Inde, ce qui soulève des inquiétudes quant à la sécurité alimentaire du pays. La dominance des bananes dans les importations de fruits, avec une part de 99,8%, ainsi que la présence de fournisseurs multi-sources, posent également des risques pour la chaîne d'approvisionnement.",
-      "ar": "تعتمد الجزائر بشكل كبير على استيراد البذور، خاصة من الصين والهند والولايات المتحدة، مما يثير مخاوف بشأن الأمن الغذائي للبلاد. доминиونية الموز في استيراد الفواكه، بنسبة 99.8٪، فضلاً عن وجود موردين متعددين، يطرح أيضًا مخاطر على سلسلة التوريد.",
-      "en": "Algeria is heavily reliant on seed imports, particularly from China, the US, and India, raising concerns about the country's food security. The dominance of bananas in fruit imports, with a 99.8% share, as well as the presence of multi-origin suppliers, also poses risks to the supply chain."
+      "fr": "",
+      "ar": "",
+      "en": ""
     }
   },
   "chemicals": {
     "total": 5058,
     "top_countries": [
       {
-        "key": "ES",
-        "count": 1047
-      },
-      {
-        "key": "IT",
-        "count": 909
-      },
-      {
-        "key": "CN",
-        "count": 609
-      },
-      {
-        "key": "JO",
-        "count": 498
-      },
-      {
-        "key": "TR",
-        "count": 393
-      },
-      {
-        "key": "DE",
-        "count": 332
-      },
-      {
         "key": "PT",
         "count": 259
       },
       {
-        "key": "SA",
-        "count": 185
-      },
-      {
-        "key": "GB",
-        "count": 124
+        "key": "PG",
+        "count": 78
       },
       {
         "key": "IN",
-        "count": 116
+        "count": 38
+      },
+      {
+        "key": "US",
+        "count": 38
+      },
+      {
+        "key": "IT",
+        "count": 21
+      },
+      {
+        "key": "GR",
+        "count": 10
+      },
+      {
+        "key": "SA",
+        "count": 6
+      },
+      {
+        "key": "CN",
+        "count": 5
+      },
+      {
+        "key": "DE",
+        "count": 3
+      },
+      {
+        "key": "BG",
+        "count": 2
       }
     ],
     "category_breakdown": {
-      "Régulateur de croissance": 554,
+      "Régulateur de croissance": 552,
       "Correcteur de carence": 980,
       "Fongicide": 860,
       "Acaricide": 122,
       "Insecticide": 631,
       "Biostimulant": 757,
       "Non classifié": 504,
-      "Engrais": 233,
+      "Engrais": 228,
       "Nématicide": 49,
       "Adjuvant": 41,
       "Herbicide": 245,
       "Molluscicide": 14,
       "Insecticide / Acaricide": 53,
-      "Stimulateur SDN": 15
+      "NPK 12.12.36+OE": 1,
+      "NPK 13.40.13+OE": 1,
+      "NPK 20.20.20+OE": 1,
+      "NPK 12.12.17+OE": 1,
+      "Stimulateur SDN": 15,
+      "REG": 1,
+      "Régulateur de croissanve": 1,
+      "Sulphate d’Amonium": 1
     },
     "top_companies": [
       {
@@ -341,13 +348,13 @@
       }
     ],
     "hhi_companies": 0.0217,
-    "spain_count": 1047,
-    "italy_count": 909,
-    "china_count": 609,
+    "spain_count": 0,
+    "italy_count": 21,
+    "china_count": 5,
     "narrative": {
-      "fr": "L'Algérie importe une grande quantité d'agrochimiques, avec l'Espagne en tête des fournisseurs, suivie de près par la Chine qui connaît une ascension fulgurante. Cette concentration du marché entre les mains de quelques pays et entreprises soulève des questions sur la sécurité alimentaire et la diversification de nos importations.",
-      "ar": "تستورد الجزائر كمية كبيرة من المواد الكيميائية الزراعية، مع إسبانيا في صدارة الموردين، يليها الصين التي تشهد صعوداً سريعاً. تركز هذه السوق بين أيدي بعض البلدان والشركات يثير تساؤلات حول الأمن الغذائي وتنويع وارداتنا.",
-      "en": "Algeria imports a significant amount of agrochemicals, with Spain leading the suppliers, closely followed by China which is experiencing a rapid rise. This market concentration in the hands of a few countries and companies raises questions about food security and the diversification of our imports."
+      "fr": "",
+      "ar": "",
+      "en": ""
     }
   },
   "players": {
@@ -438,9 +445,9 @@
     ],
     "hhi_index": 0.0112,
     "narrative": {
-      "fr": "Les dix premières entreprises détiennent 23,7% des permis, ce qui indique un niveau de concentration du marché relativement élevé. L'indice de Herfindahl-Hirschman (HHI) de 0,0112 confirme ce constat, suggérant que le marché est caractérisé par une concentration modérée.",
-      "ar": "تملك العشرة شركات الأولى 23.7% من التصاريح، مما يشير إلى مستوى مرتفع من تركيز السوق. يؤكد دليل هيرفندال-هيرشمان (HHI) البالغ 0.0112 على هذا الاستنتاج، مما يشير إلى أن السوق يتميز بتركيز معتدل.",
-      "en": "The top ten companies hold 23.7% of the permits, indicating a relatively high level of market concentration. The Herfindahl-Hirschman Index (HHI) of 0.0112 confirms this finding, suggesting that the market is characterized by moderate concentration."
+      "fr": "",
+      "ar": "",
+      "en": ""
     }
   },
   "veterinary": {
@@ -567,10 +574,10 @@
       }
     },
     "narrative": {
-      "fr": "Les statistiques du secteur vétérinaire révèlent un manque criant de distributeurs dans 19 wilayas, notamment dans le sud de l'Algérie, où les besoins en produits vétérinaires sont considérables. Il est donc impératif que les autorités prennent des mesures pour combler ce fossé et assurer une couverture égale dans tout le pays.",
-      "ar": "تظهر الإحصائيات الخاصة بقطاع البيطرة وجود فراغ في تغطية الموزعين في 19 ولاية، ولا سيما في جنوب الجزائر، حيث توجد احتياجات كبيرة للمنتجات البيطرية. لذلك، من الضروري أن تتخذ السلطات إجراءات لسد هذا الفج والضمان تغطية متساوية في جميع أنحاء البلاد.",
-      "en": "The veterinary sector statistics reveal a glaring lack of distributors in 19 wilayas, particularly in southern Algeria, where the need for veterinary products is substantial. It is therefore imperative that the authorities take measures to bridge this gap and ensure equal coverage throughout the country."
+      "fr": "",
+      "ar": "",
+      "en": ""
     }
   },
-  "generated_at": "2026-08-01T06:05:27.273825+00:00"
+  "generated_at": "2026-09-01T08:32:50.887568+00:00"
 }
